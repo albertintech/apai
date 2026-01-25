@@ -1,0 +1,45 @@
+site_name: American Policy Architecture Institute
+site_description: A portfolio of civic systems maintenance proposals
+site_author: Albert E. Ramos
+site_url: https://policyarchitecture.org
+
+theme:
+  name: material
+  palette:
+    primary: indigo
+    accent: amber
+  features:
+    - navigation.sections
+    - navigation.expand
+    - search.highlight
+    - toc.integrate
+
+nav:
+  - Home: index.md
+
+  - ASPC Framework:
+    - Executive Summary: aspc/ASPC-Executive-Summary.md
+    - One-Page Summary: aspc/ASPC-One-Page-Summary.md
+    - FAQ: aspc/ASPC-FAQ.md
+    - American Prosperity and Stability Act:
+      - Legislative Text: aspc/APSA-Legislative-Text.md
+      - One-Page Summary: aspc/APSA-One-Page-Summary.md
+      - Policy Rationale: aspc/APSA-Policy-Rationale.md
+    - American Payment Network Act:
+      - Legislative Text: aspc/APNA-Legislative-Text.md
+      - One-Page Summary: aspc/APNA-One-Page-Summary.md
+      - Policy Rationale: aspc/APNA-Policy-Rationale.md
+    - Secure Our Children Act:
+      - Legislative Text: aspc/SOCA-Legislative-Text.md
+      - One-Page Summary: aspc/SOCA-One-Page-Summary.md
+      - Policy Rationale: aspc/SOCA-Policy-Rationale.md
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - tables
+  - admonition
+  - def_list
+
+plugins:
+  - search
