@@ -29,14 +29,14 @@ nav:
   - Home: index.md
 
   - Congressional Modernization Act:
-    - One-Page Summary: cma/CMA-One-Page-Summary.md
-    - What Changes For Voters: cma/CMA-What-Changes-For-Voters.md
-    - Executive Summary: cma/CMA-Executive-Summary.md
-    - House Member Guide: cma/CMA-House-Member-Guide.md
-    - House Member Guide - Data Appendix: cma/CMA-House-Member-Guide-Data-Appendix.md
-    - Legislative Overview: cma/CMA-Legislative-Overview.md
-    - Policy Rationale: cma/CMA-Policy-Rationale.md
-    - Legislative Text: cma/CMA-The-Congressional-Modernization-Act.md
+    - One-Page Summary: congress/cma/CMA-One-Page-Summary.md
+    - What Changes For Voters: congress/cma/CMA-What-Changes-For-Voters.md
+    - Executive Summary: congress/cma/CMA-Executive-Summary.md
+    - House Member Guide: congress/cma/CMA-House-Member-Guide.md
+    - House Member Guide - Data Appendix: congress/cma/CMA-House-Member-Guide-Data-Appendix.md
+    - Legislative Overview: congress/cma/CMA-Legislative-Overview.md
+    - Policy Rationale: congress/cma/CMA-Policy-Rationale.md
+    - Legislative Text: congress/cma/CMA-The-Congressional-Modernization-Act.md
 
   - ASPC Framework:
     - One-Page Summary: aspc/ASPC-One-Page-Summary.md
