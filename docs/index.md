@@ -18,7 +18,7 @@ Comprehensive reform addressing congressional dysfunction through integrated ele
 
 CMA delivers reform on a human timescale: cube root compliance within approximately 14 years, ensuring that members who vote for the Act see results during their careers.
 
-[Read the One-Page Summary](cma/CMA-One-Page-Summary.md)
+[Read the One-Page Summary](congress/cma/CMA-One-Page-Summary.md)
 
 ---
 
