@@ -22,7 +22,7 @@ CMA delivers reform on a human timescale: cube root compliance within approximat
 
 ---
 
-### 🇺🇸 American Stability and Prosperity Compact (ASPC)
+### 🤝 American Stability and Prosperity Compact (ASPC)
 
 A coordinated package of three reforms addressing economic security, payment infrastructure, and child welfare. Together, they demonstrate how interconnected policy challenges benefit from integrated solutions.
 
