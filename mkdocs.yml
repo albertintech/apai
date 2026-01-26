@@ -1,7 +1,7 @@
 site_name: American Policy Architecture Institute
 site_description: A portfolio of civic systems maintenance proposals
 site_author: Albert E. Ramos
-copyright: © 2025 Albert E. Ramos | American Policy Architecture Institute
+copyright: © 2026 Albert E. Ramos | American Policy Architecture Institute
 site_url: https://policyarchitecture.org
 
 theme:
@@ -28,21 +28,31 @@ theme:
 nav:
   - Home: index.md
 
+  - Congressional Modernization Act:
+    - One-Page Summary: cma/CMA-One-Page-Summary.md
+    - What Changes For Voters: cma/CMA-What-Changes-For-Voters.md
+    - Executive Summary: cma/CMA-Executive-Summary.md
+    - House Member Guide: cma/CMA-House-Member-Guide.md
+    - House Member Guide - Data Appendix: cma/CMA-House-Member-Guide-Data-Appendix.md
+    - Legislative Overview: cma/CMA-Legislative-Overview.md
+    - Policy Rationale: cma/CMA-Policy-Rationale.md
+    - Legislative Text: cma/CMA-The-Congressional-Modernization-Act.md
+
   - ASPC Framework:
-    - Executive Summary: aspc/ASPC-Executive-Summary.md
     - One-Page Summary: aspc/ASPC-One-Page-Summary.md
+    - Executive Summary: aspc/ASPC-Executive-Summary.md
     - FAQ: aspc/ASPC-FAQ.md
     - American Prosperity and Stability Act:
-      - Legislative Text: aspc/APSA-Legislative-Text.md
       - One-Page Summary: aspc/APSA-One-Page-Summary.md
+      - Legislative Text: aspc/APSA-Legislative-Text.md
       - Policy Rationale: aspc/APSA-Policy-Rationale.md
     - American Payment Network Act:
-      - Legislative Text: aspc/APNA-Legislative-Text.md
       - One-Page Summary: aspc/APNA-One-Page-Summary.md
+      - Legislative Text: aspc/APNA-Legislative-Text.md
       - Policy Rationale: aspc/APNA-Policy-Rationale.md
     - Secure Our Children Act:
-      - Legislative Text: aspc/SOCA-Legislative-Text.md
       - One-Page Summary: aspc/SOCA-One-Page-Summary.md
+      - Legislative Text: aspc/SOCA-Legislative-Text.md
       - Policy Rationale: aspc/SOCA-Policy-Rationale.md
 
 markdown_extensions:
