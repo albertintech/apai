@@ -30,20 +30,19 @@ nav:
   - Home: index.md
 
   - Congress & Elections:
-      - Congress and Elections Modernization Act:
+      - Congressional Modernization Act:
           - One-Page Summary: congress/cma/CMA-One-Page-Summary.md
-          - What Changes For Voters: congress/cma/CMA-What-Changes-For-Voters.md
-          - Sample Ballot (Multi-Member District): congress/cma/CMA-Sample-Ballot-Multi-Member-District.md
-          - Sample Ballot (Single-Member District): congress/cma/CMA-Sample-Ballot-Single-Member-District.md
-          - Executive Summary: congress/cma/CMA-Executive-Summary.md
-          - House Member Guide: congress/cma/CMA-House-Member-Guide.md
-          - House Member Guide - Data Appendix: congress/cma/CMA-House-Member-Guide-Data-Appendix.md
-          - Legislative Overview: congress/cma/CMA-Legislative-Overview.md
-          - Policy Rationale: congress/cma/CMA-Policy-Rationale.md
           - Legislative Text: congress/cma/CMA-The-Congressional-Modernization-Act.md
+          - Policy Rationale: congress/cma/CMA-Policy-Rationale.md
+          - Reference Materials:
+              - What Changes For Voters: congress/cma/CMA-What-Changes-For-Voters.md
+              - Sample Ballot (Multi-Member District): congress/cma/CMA-Sample-Ballot-Multi-Member-District.md
+              - Sample Ballot (Single-Member District): congress/cma/CMA-Sample-Ballot-Single-Member-District.md
+              - House Member Guide: congress/cma/CMA-House-Member-Guide.md
+              - Data Appendix: congress/cma/CMA-House-Member-Guide-Data-Appendix.md
 
   - Economic Stability & Security:
-      - The American Shared Prosperity Compact:
+      - American Shared Prosperity Compact:
           - One-Page Summary: aspc/ASPC-One-Page-Summary.md
           - Executive Summary: aspc/ASPC-Executive-Summary.md
           - FAQ: aspc/ASPC-FAQ.md
