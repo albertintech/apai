@@ -1,7 +1,7 @@
 site_name: American Policy Architecture Institute
 site_description: A portfolio of civic systems maintenance proposals
-site_author: Albert E. Ramos
-copyright: © 2026 Albert E. Ramos | American Policy Architecture Institute
+site_author: Albert Ramos
+copyright: © 2026 Albert Ramos | American Policy Architecture Institute
 site_url: https://policyarchitecture.org
 
 theme:
@@ -65,6 +65,7 @@ nav:
 markdown_extensions:
   - toc:
       permalink: true
+      toc_depth: 4
   - tables
   - admonition
   - def_list
