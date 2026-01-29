@@ -92,8 +92,6 @@ Congress finds that:
 
 **END OF FINDINGS**
 
-# CMA Rev 1.9 - TITLE I
-
 ## TITLE I: FEDERAL BALLOT ACCESS STANDARDS
 
 ### Section 101. Federal Ballot Access Standards
