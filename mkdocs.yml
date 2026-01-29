@@ -78,3 +78,8 @@ markdown_extensions:
 
 plugins:
   - search
+
+extra:
+  analytics:
+    provider: google
+    property: G-TQH8Q7DDKZ
