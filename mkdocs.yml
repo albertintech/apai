@@ -24,7 +24,7 @@ theme:
   features:
     - navigation.sections
     - search.highlight
-    - toc.integrate
+    # - toc.integrate
 
 extra_css:
   - stylesheets/extra.css

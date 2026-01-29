@@ -1,6 +1,6 @@
 # The Congressional Modernization Act (CMA)
 
-## One-Page Summary
+**One-Page Summary**
 
 **Published January 2026**
 
