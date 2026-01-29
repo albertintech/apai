@@ -2,7 +2,7 @@
 
 ## Legislative Overview
 
-### Published January 2026
+**Published January 2026**
 
 ---
 
@@ -510,12 +510,11 @@ Most significantly, the Act resolves the central political economy challenge fac
 
 The result is legislation that addresses root causes of electoral dysfunction through structural reform rather than treating symptoms through piecemeal adjustments, restores American historical practices rather than importing foreign models, exercises clear constitutional authority, implements on a human timescale to deliver results within a political generation, and creates political viability through intelligent incentive alignment.
 
-
 ---
 
 **Prepared by:**
 Albert E. Ramos, Director
 The American Policy Architecture Institute
 
-**Contact:** info@policyarchitecture.org
-**Website:** www.policyarchitecture.org
+**Contact:** <info@policyarchitecture.org>
+**Website:** <www.policyarchitecture.org>

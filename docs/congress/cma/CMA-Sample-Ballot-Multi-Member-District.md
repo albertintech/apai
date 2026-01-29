@@ -4,7 +4,7 @@
 
 ### General Election - November 5, 2030
 
-### Published January 2026
+**Published January 2026**
 
 ---
 
@@ -52,6 +52,7 @@ Your scores help determine which candidates are elected proportionally. The high
 ## CANDIDATE INFORMATION
 
 ### Sarah Martinez
+
 **Party Registration:** Democratic | **Party Endorsements:** Democratic, Working Families | **FCAO Exam:** 88%
 
 Small business owner and former city council member. Focuses on affordable housing, workforce development, and small business support. Advocates for community-driven economic development and accessible childcare programs. Coalition support from Working Families Party signals strong labor ties.
@@ -59,6 +60,7 @@ Small business owner and former city council member. Focuses on affordable housi
 ---
 
 ### James Chen
+
 **Party Registration:** Republican | **Party Endorsements:** Republican | **FCAO Exam:** 92%
 
 Attorney and community leader with 15 years in private practice. Priorities include tax reform, public safety, and regulatory streamlining. Supports evidence-based criminal justice reform while maintaining law-and-order credentials. Highest FCAO score among Republicans.
@@ -66,6 +68,7 @@ Attorney and community leader with 15 years in private practice. Priorities incl
 ---
 
 ### Maria Rodriguez
+
 **Party Registration:** Democratic | **Party Endorsements:** Democratic, Green | **FCAO Exam:** 85%
 
 Environmental scientist and education advocate with Ph.D. in climate science. Emphasizes climate action, renewable energy transition, and public education funding. Green Party endorsement reflects strong environmental credentials while maintaining Democratic Party support.
@@ -73,6 +76,7 @@ Environmental scientist and education advocate with Ph.D. in climate science. Em
 ---
 
 ### Thomas Anderson
+
 **Party Registration:** Republican | **Party Endorsements:** Republican, Forward | **FCAO Exam:** 79%
 
 Military veteran (Major, U.S. Marine Corps, retired) and technology entrepreneur. Focuses on infrastructure modernization, veteran services, and bipartisan problem-solving. Forward Party endorsement signals reform-minded approach and willingness to work across party lines.
@@ -80,6 +84,7 @@ Military veteran (Major, U.S. Marine Corps, retired) and technology entrepreneur
 ---
 
 ### Jennifer Kim
+
 **Party Registration:** none | **Party Endorsements:** Independent | **FCAO Exam:** 95%
 
 Healthcare administrator with 20 years experience in hospital management. Advocates for healthcare access, mental health services, senior care, and rural healthcare infrastructure. Highest FCAO score among all candidates. True independent with no party registration or major party endorsement.
@@ -87,6 +92,7 @@ Healthcare administrator with 20 years experience in hospital management. Advoca
 ---
 
 ### Robert Wilson
+
 **Party Registration:** Libertarian | **Party Endorsements:** Libertarian | **FCAO Exam:** 91%
 
 Economics professor at state university and civil liberties advocate. Priorities include fiscal responsibility, individual freedom, criminal justice reform, and ending qualified immunity. Supports reducing government intervention while protecting civil liberties. Strong academic credentials with second-highest FCAO score.
@@ -94,6 +100,7 @@ Economics professor at state university and civil liberties advocate. Priorities
 ---
 
 ### Patricia O'Brien
+
 **Party Registration:** Democratic | **Party Endorsements:** Democratic, Working Families, Green | **FCAO Exam:** 83%
 
 Labor union organizer with 25 years experience in public sector unions. Champions workers' rights, environmental justice, progressive taxation, and union organizing protections. Maximum three-party endorsement demonstrates broad progressive coalition support.
@@ -101,6 +108,7 @@ Labor union organizer with 25 years experience in public sector unions. Champion
 ---
 
 ### Michael Torres
+
 **Party Registration:** Republican | **Party Endorsements:** none | **FCAO Exam:** 77%
 
 Former state senator who did not receive Republican Party endorsement. Emphasizes traditional conservative values, border security, agricultural policy, and rural community development. Running without party endorsement after internal party disputes. Lowest FCAO score among all candidates.
@@ -108,6 +116,7 @@ Former state senator who did not receive Republican Party endorsement. Emphasize
 ---
 
 ### David Park
+
 **Party Registration:** none | **Party Endorsements:** Forward | **FCAO Exam:** 89%
 
 Software engineer and civic tech advocate with background in government technology systems. Focuses on government modernization, electoral reform, anti-corruption measures, and digital infrastructure. Not registered with any party but endorsed by reform-focused Forward Party.
@@ -115,6 +124,7 @@ Software engineer and civic tech advocate with background in government technolo
 ---
 
 ### Elizabeth Harris
+
 **Party Registration:** Republican | **Party Endorsements:** Republican | **FCAO Exam:** 84%
 
 Small business owner (retail and e-commerce) and local chamber president. Priorities include economic development, Main Street revitalization, regulatory reform, and supporting local entrepreneurship. Moderate Republican focused on practical business solutions rather than culture war issues.
@@ -122,6 +132,7 @@ Small business owner (retail and e-commerce) and local chamber president. Priori
 ---
 
 ### Carlos Mendez
+
 **Party Registration:** Democratic | **Party Endorsements:** none | **FCAO Exam:** 81%
 
 Community college instructor and immigrant rights advocate. Focuses on education access, immigration reform, student debt relief, and expanding career technical education. Registered Democrat but has not received party endorsement, possibly due to crowded Democratic field.
@@ -129,6 +140,7 @@ Community college instructor and immigrant rights advocate. Focuses on education
 ---
 
 ### Sophia Patel
+
 **Party Registration:** Green | **Party Endorsements:** Green, Working Families | **FCAO Exam:** 87%
 
 Organic farmer and sustainable agriculture advocate with 15 years farming experience. Emphasizes agricultural policy, environmental protection, food security, climate-resilient agriculture, and supporting family farms. Coalition endorsement from Working Families Party shows labor-environmental alliance.
@@ -140,10 +152,12 @@ Organic farmer and sustainable agriculture advocate with 15 years farming experi
 ### Party Registration vs. Party Endorsements
 
 **Party Registration** (shown in the table):
+
 - Shows which party, if any, the candidate is registered with
 - Examples: Democratic, Republican, Libertarian, Green, none
 
 **Party Endorsements** (shown in the table):
+
 - Shows which parties formally endorsed this candidate
 - Candidates may receive up to three endorsements
 - Examples: Democratic, Working Families | Republican | Independent
@@ -176,6 +190,7 @@ The FCAO examination is a **transparency mechanism, not a qualification barrier*
 Candidates may retake the exam unlimited times, with only their highest score reported. This allows candidates to demonstrate improvement and commitment to learning.
 
 **FCAO Exam Range in This Election:**
+
 - **Highest:** Jennifer Kim (Independent) - 95%
 - **90%+ (3 candidates):** Kim (95%), Chen (92%), Wilson (91%)
 - **80-89% (7 candidates):** Park (89%), Martinez (88%), Patel (87%), Rodriguez (85%), Harris (84%), O'Brien (83%), Mendez (81%)
@@ -193,6 +208,7 @@ With **5 seats** to fill and **12 candidates** running, this district uses STAR 
 4. **Coalition representation**: The 5 winners will likely represent different viewpoints, reflecting the diversity of the district
 
 **Example Outcome:** If voters in this district are roughly 40% progressive, 35% conservative, and 25% moderate/independent, the 5 elected Representatives might be:
+
 - 2 progressive Democrats (Martinez, Rodriguez, or O'Brien)
 - 2 Republicans (Chen, Anderson, or Harris)
 - 1 moderate/independent (Kim, Park, Wilson, or Patel)
@@ -204,7 +220,9 @@ This ensures everyone gets representation, not just the plurality.
 ## CANDIDATE SCENARIOS ILLUSTRATED
 
 ### Democratic Party Division
+
 The **four Democratic candidates** show party diversity:
+
 - **Sarah Martinez** (Dem, WF) - Moderate, business-focused with labor support
 - **Maria Rodriguez** (Dem, Green) - Progressive with environmental focus
 - **Patricia O'Brien** (Dem, WF, Green) - Most progressive with maximum coalition support
@@ -213,7 +231,9 @@ The **four Democratic candidates** show party diversity:
 This demonstrates how proportional representation allows parties to run multiple candidates representing different wings without splitting votes destructively.
 
 ### Republican Party Division
+
 The **four Republican candidates** show conservative diversity:
+
 - **James Chen** (Rep) - High Civics score (92%), law-and-order moderate
 - **Thomas Anderson** (Rep, Forward) - Reform-minded veteran with cross-party appeal
 - **Elizabeth Harris** (Rep) - Business-focused pragmatist
@@ -222,7 +242,9 @@ The **four Republican candidates** show conservative diversity:
 Torres's lack of endorsement signals internal party conflict - voters can see clearly that his own party doesn't support him.
 
 ### Independent and Third-Party Options
+
 **Five candidates** outside the Democratic-Republican binary:
+
 - **Jennifer Kim** (none, Ind) - Highest Civics score, true independent
 - **Robert Wilson** (Lib) - Academic libertarian, civil liberties focus
 - **David Park** (none, Forward) - Tech-focused reformer
@@ -231,7 +253,9 @@ Torres's lack of endorsement signals internal party conflict - voters can see cl
 These candidates provide alternatives to major party options while building coalitions through Joint Endorsement Lists.
 
 ### Coalition Building Through Endorsements
+
 Note the coalition patterns:
+
 - **Progressive coalition**: O'Brien (Dem, WF, Green), Patel (Green, WF)
 - **Reform coalition**: Anderson (Rep, Forward), Park (Forward)
 - **Labor coalition**: Martinez (Dem, WF), O'Brien (Dem, WF, Green), Patel (Green, WF)
@@ -255,7 +279,9 @@ Even if you have clear favorites, rating all candidates helps:
 ## STRATEGIC VOTING EXAMPLES
 
 ### Progressive Voter
+
 A progressive voter might rate:
+
 - O'Brien: ⑤ (maximum coalition support)
 - Rodriguez: ⑤ (strong environmental credentials)
 - Martinez: ④ (moderate but acceptable)
@@ -270,7 +296,9 @@ A progressive voter might rate:
 - Torres: ⓪ (traditional conservative)
 
 ### Conservative Voter
+
 A conservative voter might rate:
+
 - Chen: ⑤ (highest Civics score, solid conservative)
 - Harris: ⑤ (business-focused, practical)
 - Anderson: ④ (veteran, reform-minded)
@@ -285,7 +313,9 @@ A conservative voter might rate:
 - Patel: ⓪ (Green Party)
 
 ### Independent/Moderate Voter
+
 An independent voter might rate:
+
 - Kim: ⑤ (highest Civics score, true independent)
 - Park: ⑤ (reformer, good governance focus)
 - Anderson: ④ (bipartisan veteran)
@@ -304,6 +334,7 @@ An independent voter might rate:
 ## PARTY AND COALITION BREAKDOWN
 
 ### By Party Registration
+
 - **Democratic (4):** Martinez, Rodriguez, O'Brien, Mendez
 - **Republican (4):** Chen, Anderson, Torres, Harris
 - **Independent (2):** Kim, Park
@@ -311,12 +342,14 @@ An independent voter might rate:
 - **Green (1):** Patel
 
 ### By Endorsement Pattern
+
 - **Three endorsements (1):** O'Brien (Dem, WF, Green)
 - **Two endorsements (5):** Martinez (Dem, WF), Rodriguez (Dem, Green), Anderson (Rep, Forward), Patel (Green, WF)
 - **One endorsement (4):** Chen (Rep), Wilson (Lib), Harris (Rep), Kim (Ind), Park (Forward)
 - **No endorsement (2):** Torres (Rep registered), Mendez (Dem registered)
 
 ### By FCAO Exam
+
 - **95%:** Kim
 - **90-94%:** Chen (92%), Wilson (91%)
 - **85-89%:** Park (89%), Martinez (88%), Patel (87%), Rodriguez (85%)
@@ -325,7 +358,7 @@ An independent voter might rate:
 
 ---
 
-**VOTE BOTH SIDES OF BALLOT**  
+**VOTE BOTH SIDES OF BALLOT**
 Turn ballot over for additional races →
 
 ---
@@ -338,5 +371,5 @@ Turn ballot over for additional races →
 Albert E. Ramos, Director
 The American Policy Architecture Institute
 
-**Contact:** info@policyarchitecture.org
-**Website:** www.policyarchitecture.org
+**Contact:** <info@policyarchitecture.org>
+**Website:** <www.policyarchitecture.org>

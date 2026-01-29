@@ -1,6 +1,6 @@
 # CMA House Member Guide
 
-### Published January 2026
+**Published January 2026**
 
 ---
 
@@ -331,5 +331,5 @@ This is not the reason to support CMA. But it is relevant to understanding what 
 Albert E. Ramos, Director
 The American Policy Architecture Institute
 
-**Contact:** info@policyarchitecture.org
-**Website:** www.policyarchitecture.org
+**Contact:** <info@policyarchitecture.org>
+**Website:** <www.policyarchitecture.org>

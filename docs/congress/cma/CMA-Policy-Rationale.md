@@ -2,7 +2,7 @@
 
 ## Policy Rationale
 
-### Published January 2026
+**Published January 2026**
 
 ---
 
@@ -16,9 +16,9 @@ America's electoral system is running on outdated machinery. Congress operates w
 
 The question isn't whether constitutional machinery needs updating. The question is whether we modernize it methodically with safeguards and tested methods, or wait for crisis-driven improvisation.
 
-CMA is scheduled maintenance -- nothing more, nothing less.
+The CMA is the scheduled maintenance every vital system needs from time to time -- nothing more, nothing less.
 
-CMA Rev 4.2 delivers this modernization on a human timescale. Rather than defer reform impacts to a distant 25-year horizon, the accelerated implementation architecture achieves cube root compliance within approximately 14 years -- three presidential terms. Members who vote for CMA will see results during their careers. Voters will experience tangible improvements in representation quality within a single political generation.
+The CMA delivers this modernization on a human timescale. Rather than defer reform impacts to a distant 25-year horizon, the accelerated implementation architecture achieves cube root compliance within approximately 14 years -- three presidential terms. Members who vote for CMA will see results during their careers. Voters will experience tangible improvements in representation quality within a single political generation.
 
 ---
 
@@ -872,12 +872,11 @@ Supreme Court interpretation confirms this grants Congress plenary power over fe
 
 Key requirement: Title VII, Section 701(d) requires Congressional Budget Office to prepare comprehensive cost estimates including direct costs of all provisions, offsetting savings from efficiency gains, long-term fiscal impacts over 30-year horizon, comparison to alternative scenarios, and economic growth effects.
 
-
 ---
 
 **Prepared by:**
 Albert E. Ramos, Director
 The American Policy Architecture Institute
 
-**Contact:** info@policyarchitecture.org
-**Website:** www.policyarchitecture.org
+**Contact:** <info@policyarchitecture.org>
+**Website:** <www.policyarchitecture.org>

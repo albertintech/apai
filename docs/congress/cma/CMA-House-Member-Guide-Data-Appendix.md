@@ -1,6 +1,6 @@
 # CMA House Member Guide: Data Appendix
 
-### Published January 2026
+**Published January 2026**
 
 ---
 
@@ -288,5 +288,5 @@ This appendix provides tabular reference data supporting the *CMA House Member G
 Albert E. Ramos, Director
 The American Policy Architecture Institute
 
-**Contact:** info@policyarchitecture.org
-**Website:** www.policyarchitecture.org
+**Contact:** <info@policyarchitecture.org>
+**Website:** <www.policyarchitecture.org>

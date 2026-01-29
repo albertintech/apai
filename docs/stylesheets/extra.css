@@ -1,0 +1,9 @@
+/* Increase table font size for readability */
+.md-typeset table {
+    font-size: 0.9rem;
+}
+
+/* Optional: slightly larger header text */
+.md-typeset table th {
+    font-size: 0.95rem;
+}

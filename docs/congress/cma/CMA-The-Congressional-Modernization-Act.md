@@ -2,7 +2,7 @@
 
 ## A Framework for Stable, Effective, and Representative Governance
 
-### Published January 2026
+**Published January 2026**
 
 ---
 
@@ -91,6 +91,7 @@ Congress finds that:
 ---
 
 **END OF FINDINGS**
+
 # CMA Rev 1.9 - TITLE I
 
 ## TITLE I: FEDERAL BALLOT ACCESS STANDARDS
@@ -324,7 +325,6 @@ This Title takes effect 24 months after the date of enactment, applying to all f
 
 **END OF TITLE II**
 
-
 ### Section 301. House Expansion Schedule
 
 #### (a) Initial Expansion
@@ -426,7 +426,6 @@ Any qualified voter may bring suit in federal district court to challenge redist
 ---
 
 **END OF TITLE III**
-
 
 ### Section 401. Single-Member District Mandate Repeal
 
@@ -1135,7 +1134,7 @@ The abbreviation "FE" may be used interchangeably with "FCAO Exam" or "FCAO Exam
 FCAO examinations shall be structured with time-based rigor calibrated to office responsibility:
 
 - **House FE**: 2-hour examination
-- **Senate FE**: 4-hour examination  
+- **Senate FE**: 4-hour examination
 - **Presidential FE**: 8-hour examination administered in two 4-hour parts
 
 **(2) Content Requirements**
@@ -1194,6 +1193,7 @@ The following candidates are exempt from FCAO examination requirements:
 2. Former federal officeholders seeking any federal office, provided they completed the applicable FCAO examination for a previous candidacy within the past 10 years and the examination structure has not substantially changed.
 
 Exempt candidates may voluntarily complete FCAO examinations and disclose scores. If they decline, their ballot designation shall read:
+
 - "House FCAO Score: Exempt (Current Representative)" or "Exempt (Former Representative)"
 - "Senate FCAO Score: Exempt (Current Senator)" or "Exempt (Former Senator)"
 - "Presidential FCAO Score: Exempt (Current President)" or "Exempt (Former President)"
@@ -2741,20 +2741,22 @@ Provisions in this Title are divided into:
 **(1) House of Representatives**
 
 The annual rate of pay for members of the House of Representatives shall increase according to the following schedule:
-   - Year 1 (beginning on the Immediate Effective Date): $189,200
-   - Year 2 (first January 1 following Year 1): $204,400
-   - Year 3 (first January 1 following Year 2): $219,600
-   - Year 4 (first January 1 following Year 3): $234,800
-   - Year 5 (first January 1 following Year 4): $250,000
+
+- Year 1 (beginning on the Immediate Effective Date): $189,200
+- Year 2 (first January 1 following Year 1): $204,400
+- Year 3 (first January 1 following Year 2): $219,600
+- Year 4 (first January 1 following Year 3): $234,800
+- Year 5 (first January 1 following Year 4): $250,000
 
 **(2) United States Senate**
 
 The annual rate of pay for members of the United States Senate shall increase according to the following schedule:
-   - Year 1 (beginning on the Immediate Effective Date): $199,200
-   - Year 2 (first January 1 following Year 1): $224,400
-   - Year 3 (first January 1 following Year 2): $249,600
-   - Year 4 (first January 1 following Year 3): $274,800
-   - Year 5 (first January 1 following Year 4): $300,000
+
+- Year 1 (beginning on the Immediate Effective Date): $199,200
+- Year 2 (first January 1 following Year 1): $224,400
+- Year 3 (first January 1 following Year 2): $249,600
+- Year 4 (first January 1 following Year 3): $274,800
+- Year 5 (first January 1 following Year 4): $300,000
 
 **(3) Timing**
 
@@ -2802,6 +2804,7 @@ Each member of Congress shall receive an annual professional development allowan
 #### (b) Allowance Amounts
 
 Based on salaries established in Section 602(a):
+
 1. Members of the House of Representatives: $12,500 per year
 2. Members of the Senate: $15,000 per year
 
@@ -2814,6 +2817,7 @@ While private sector executive professional development typically represents 3-4
 #### (d) Qualifying Activities
 
 Allowance may be used for:
+
 1. Academic coursework and degree programs
 2. Professional conferences, seminars, and executive education programs
 3. Policy research and study trips (domestic and international)
@@ -2826,6 +2830,7 @@ Allowance may be used for:
 #### (e) Non-Qualifying Uses
 
 Allowance may not be used for:
+
 1. Campaign-related activities or partisan political events
 2. Personal travel unrelated to educational objectives
 3. Entertainment, social events, or meals except when integral to qualifying programs
@@ -3019,7 +3024,6 @@ If any provision of this Title is held invalid by a court of competent jurisdict
 ---
 
 **END OF TITLE VI**
-
 
 ### Section 701. Federal Election Commission Enforcement Authority
 
@@ -3305,6 +3309,7 @@ This structure ensures members receive substantial immediate benefits while demo
 **Title V establishes FCAO as a permanent independent agency following the Federal Reserve/SEC model:**
 
 **Political Resilience Structure:**
+
 - Multi-branch appointment (President, Chief Justice, House Speaker, Senate Majority Leader)
 - Staggered 6-year terms preventing single-faction control
 - Supermajority removal protections (6 of 9 votes required)
@@ -3312,12 +3317,14 @@ This structure ensures members receive substantial immediate benefits while demo
 - Professional expertise requirements and partisan balance
 
 **Institutional Durability:**
+
 - Once established with this structure, FCAO becomes politically entrenched
 - Like the Fed, independent agencies with multi-branch appointments are rarely dismantled
 - Independent funding insulates from appropriations politics
 - Stakeholder ecosystem (testing industry, state officials, civic groups) resists destabilizing changes
 
 **Non-Qualifying Principle Protection:**
+
 - Inviolable transparency mandate: no minimum scores required
 - Highest score reporting encourages improvement
 - Automatic invalidity of qualification systems
@@ -3353,12 +3360,14 @@ This approach transforms democratic reform from political suicide into rational 
 The implementation timeline uses a tiered structure with two key trigger elections:
 
 **Tier 1 -- Immediate upon Enactment:**
+
 - Title VI (Compensation): Phased salary increases begin immediately
 - Title VII (Enforcement): FEC and DOJ authority established
 - Title VIII (General Provisions): Definitions and administrative framework operative
 - Planning and preparation for electoral reforms begin
 
 **Tier 2 -- First CMA Election (second general election after enactment, 18-month minimum):**
+
 - Title I (Ballot Access): Uniform federal standards take effect
 - Title II (Party Recognition): Joint Endorsement Lists implemented
 - Title III (House Expansion): Initial expansion to 510 seats
@@ -3366,14 +3375,17 @@ The implementation timeline uses a tiered structure with two key trigger electio
 - All electoral reforms launch simultaneously as an integrated system
 
 **Tier 3 -- Second CMA Election (first general election after First CMA Election):**
+
 - Title V (FCAO): Examination requirements take effect
 - Ballots include FCAO score designations for the first time
 
 **Ongoing -- Biennial Expansion:**
+
 - House increases by 35 seats every two years after First CMA Election
 - Cube root compliance (~720 seats) achieved approximately 14 years after enactment
 
 **Example Timeline (assuming early 2026 enactment):**
+
 - 2026: Enactment; Title VI/VII/VIII immediate; preparation begins
 - November 2028: First CMA Election; Titles I-IV take effect; House expands to 510
 - November 2030: Second CMA Election; Title V (FCAO) takes effect; House at 545
@@ -3391,6 +3403,7 @@ Revision 1.4 introduced differentiated primary structures (nonpartisan primaries
 **Party Autonomy Preserved:** Political parties retain full authority to conduct internal nomination processes -- caucuses, conventions, advisory polls -- at their own expense and independent of state election infrastructure. Joint Endorsement Lists provide a streamlined mechanism for parties to signal preferred candidates to voters.
 
 **Core Principles:**
+
 - **Let STAR do the work:** The scoring mechanism identifies broadly supported winners from any reasonable candidate field
 - **Consistency of voter experience:** Every federal election works the same way -- show up in November, score candidates, done
 - **Administrative efficiency:** One election instead of two reduces costs, shortens campaign cycles, and maximizes voter participation
@@ -3400,12 +3413,14 @@ Revision 1.4 introduced differentiated primary structures (nonpartisan primaries
 Revision 1.4 introduced mandatory examination requirement; Revision 1.6 rebranded to FCAO and enhanced framework; Revision 1.7 established FCAO as permanent independent agency; Revision 1.8 reorganizes FCAO as standalone Title V; Revision 4.0 decouples FCAO launch from other electoral reforms:
 
 **Core Principles:**
+
 - **Non-qualifying nature:** No minimum score required; candidates scoring 0% may still serve
 - **Office-specific rigor:** Time-based examinations (2/4/8 hours) calibrated to office responsibility
 - **Transparency mechanism:** Scores displayed on ballots as "House/Senate/Presidential FCAO Score"
 - **Professional standards:** Psychometric rigor, unlimited retakes with highest score reporting, year-round availability
 
 **Implementation Timing (Rev 4.0):**
+
 - **Agency establishment:** Begins immediately upon enactment
 - **Exam development:** Completed 18 months before Second CMA Election
 - **Administration opens:** 12 months before Second CMA Election
@@ -3415,12 +3430,14 @@ Revision 1.4 introduced mandatory examination requirement; Revision 1.6 rebrande
 This decoupled timeline ensures adequate runway for exam validation and psychometric certification without delaying core electoral reforms.
 
 **Agency Structure:**
+
 - **9-member Commission** with multi-branch appointments (President, Chief Justice, House Speaker, Senate Majority Leader)
 - **Staggered 6-year terms** with supermajority removal protections
 - **Independent funding** through examination fees after startup period
 - **Professional governance** with psychometric expertise requirements
 
 **Examination Administration:**
+
 - Contracts with professional testing organizations
 - Nationwide testing center network plus online proctoring
 - Comprehensive accommodations for disabilities
@@ -3428,6 +3445,7 @@ This decoupled timeline ensures adequate runway for exam validation and psychome
 - Score turnaround within Commission-established timeframes
 
 **Oversight and Accountability:**
+
 - Annual GAO audits of validity, fairness, and administration
 - Quarterly public Commission meetings
 - Transparent operations with public practice materials
@@ -3472,5 +3490,5 @@ The Fed model demonstrates that statutory independent agencies with proper struc
 Albert E. Ramos, Director
 The American Policy Architecture Institute
 
-**Contact:** info@policyarchitecture.org
-**Website:** www.policyarchitecture.org
+**Contact:** <info@policyarchitecture.org>
+**Website:** <www.policyarchitecture.org>

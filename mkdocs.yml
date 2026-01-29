@@ -26,6 +26,9 @@ theme:
     - search.highlight
     - toc.integrate
 
+extra_css:
+  - stylesheets/extra.css
+
 nav:
   - Home: index.md
 

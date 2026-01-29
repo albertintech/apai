@@ -2,7 +2,7 @@
 
 ## One-Page Summary
 
-### Published January 2026
+**Published January 2026**
 
 ---
 
@@ -54,5 +54,5 @@ See the CMA Executive Summary or full legislative text for comprehensive details
 Albert E. Ramos, Director
 The American Policy Architecture Institute
 
-**Contact:** info@policyarchitecture.org
-**Website:** www.policyarchitecture.org
+**Contact:** <info@policyarchitecture.org>
+**Website:** <www.policyarchitecture.org>

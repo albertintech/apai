@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-### Published January 2026
+**Published January 2026**
 
 ---
 
@@ -254,12 +254,11 @@ CMA chooses systematic modernization with:
 - Constitutional defensibility under Elections Clause authority
 - American historical precedent rather than imported models
 
-
 ---
 
 **Prepared by:**
 Albert E. Ramos, Director
 The American Policy Architecture Institute
 
-**Contact:** info@policyarchitecture.org
-**Website:** www.policyarchitecture.org
+**Contact:** <info@policyarchitecture.org>
+**Website:** <www.policyarchitecture.org>

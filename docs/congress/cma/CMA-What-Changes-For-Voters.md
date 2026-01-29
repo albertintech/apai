@@ -2,7 +2,7 @@
 
 ## What Changes for Voters
 
-### Published January 2026
+**Published January 2026**
 
 ---
 
@@ -18,7 +18,7 @@ Under CMA, your House ballot uses STAR voting -- Score Then Automatic Runoff. In
 
 **A sample ballot might look like this:**
 
-```
+```text
 U.S. HOUSE OF REPRESENTATIVES - District 3
 Score each candidate from 0 (worst) to 5 (best). You may give the same score to multiple candidates.
 
@@ -59,6 +59,7 @@ CMA adds two new pieces of information to help you evaluate candidates:
 Every candidate for federal office takes the Federal Candidate Assessment Office (FCAO) examination, which tests knowledge of constitutional structure, government operations, and civic fundamentals. The percentage shown is their exam result.
 
 What to know about FCAO scores:
+
 - This is information for you, not a barrier for candidates -- there's no minimum score required to run or serve
 - A candidate who scores 0% can still appear on the ballot and win if voters choose them
 - Candidates can retake the exam as many times as they want; only their highest score appears
@@ -107,6 +108,7 @@ In most states, your House district becomes a multi-member district electing 3-5
 **A simple example:**
 
 Your region elects 5 representatives. After all ballots are scored:
+
 - Candidates preferred by 40% of voters --> 2 seats
 - Candidates preferred by 35% of voters --> 2 seats
 - Candidates preferred by 25% of voters --> 1 seat
@@ -163,5 +165,5 @@ You vote honestly. The system handles the rest.
 Albert E. Ramos, Director
 The American Policy Architecture Institute
 
-**Contact:** info@policyarchitecture.org
-**Website:** www.policyarchitecture.org
+**Contact:** <info@policyarchitecture.org>
+**Website:** <www.policyarchitecture.org>
