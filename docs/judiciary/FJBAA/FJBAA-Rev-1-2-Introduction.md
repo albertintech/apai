@@ -33,11 +33,13 @@ The full legislative text provides complete statutory language for all provision
 ## Revision History
 
 **Revision 1.2** (Current)
+
 - Updated to reflect FJBAA Rev 1.2
 - Added automatic Chief Justice rotation to Title II description
 - Added Chief Justice rotation timing to Title IV description
 
 **Revision 1.1**
+
 - Initial publication based on FJBAA Rev 1.1
 
 ---

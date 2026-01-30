@@ -87,6 +87,7 @@ The reform is deliberately focused on structural problems -- circuit imbalance, 
 ## Revision History
 
 **Revision 1.2** (Current)
+
 - Updated to reflect FJBAA Rev 1.2
 - Added Chief Justice power concentration to Design Philosophy
 - Added concentration of power in Chief Justice as fourth dysfunction in Problem Analysis
@@ -97,6 +98,7 @@ The reform is deliberately focused on structural problems -- circuit imbalance, 
 - Updated What FJBAA Does Not Do to include Chief Justice concentration among structural problems addressed
 
 **Revision 1.1**
+
 - Initial publication based on FJBAA Rev 1.1
 
 ---

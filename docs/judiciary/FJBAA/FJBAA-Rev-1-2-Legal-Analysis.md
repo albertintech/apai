@@ -335,6 +335,7 @@ The ultimate constitutional assessment will depend on how courts balance textual
 ## Revision History
 
 **Revision 1.2** (Current)
+
 - Updated to reflect FJBAA Rev 1.2
 - Added new section on Chief Justice Rotation analyzing automatic seniority-based selection
 - Incorporated Akhil Reed Amar's "duty vs. tenure" scholarly framework into senior service analysis
@@ -343,6 +344,7 @@ The ultimate constitutional assessment will depend on how courts balance textual
 - Updated Anticipated Challenges to include Chief Justice rotation Appointments Clause theory
 
 **Revision 1.1**
+
 - Initial publication based on FJBAA Rev 1.1
 
 ---
