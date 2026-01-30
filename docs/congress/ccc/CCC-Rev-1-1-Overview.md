@@ -123,11 +123,13 @@ This is not about enriching incumbents. This is about ensuring the legislative b
 ## Revision History
 
 **Revision 1.1** (Current)
+
 - Reformatted to comply with APAI Document Production Manual standards
 - Consolidated from Executive Summary and Legislative Overview into single Overview document
 - Condensed content to target length (5-10% of legislative text)
 
 **Revision 1.0**
+
 - Initial publication as Executive Summary (~6,500 words)
 
 ---

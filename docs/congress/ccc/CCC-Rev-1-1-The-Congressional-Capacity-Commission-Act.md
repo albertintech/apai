@@ -892,6 +892,7 @@ This completes the Intro (Title Block, Findings) and Title I (Commission Establi
 Word count: approximately 5,800 words (within estimated range of 5,500-6,000 for this section).
 
 Next section will be Title II: Phased Authority Transfer.
+
 # CCC ACT - TITLE II: PHASED AUTHORITY TRANSFER
 
 ## TITLE II: PHASED AUTHORITY TRANSFER
@@ -1726,6 +1727,7 @@ This completes Title II: Phased Authority Transfer.
 Word count: approximately 7,100 words (exceeds estimated range but necessary for comprehensive phase detail).
 
 Next section will be Title III: Determination Procedures (including the negative consent mechanism).
+
 # CCC ACT - TITLE III: DETERMINATION PROCEDURES
 
 ## TITLE III: DETERMINATION PROCEDURES
@@ -1757,6 +1759,7 @@ This approach follows successful precedent models including BRAC, Congressional 
 ---
 
 **END OF TITLE III**
+
 # CCC ACT - TITLE IV: SCOPE OF AUTHORITY (PART A)
 
 ## TITLE IV: SCOPE OF AUTHORITY
@@ -1786,7 +1789,7 @@ The Commission shall:
    - Classifications create consistency across congressional offices while allowing flexibility for office-specific needs;
 
 2. **Position Classification Framework:**
-   
+
    **Entry-Level Positions (Grade 1-3):**
    - Staff Assistants / Legislative Correspondents
    - Responsibilities: Correspondence management, constituent inquiries, administrative support
@@ -3268,6 +3271,7 @@ This completes Sections 401-403 of Title IV: Scope of Authority.
 Word count: approximately 12,500 words (substantially exceeds original estimate, reflecting comprehensive detail necessary for implementation).
 
 Next section will be Title IV Part B covering Sections 404-406 (Member Support Infrastructure, MRA, Member Compensation Package).
+
 # CCC ACT - TITLE IV: SCOPE OF AUTHORITY (PART B)
 
 ## TITLE IV: SCOPE OF AUTHORITY (CONTINUED)
@@ -3293,7 +3297,7 @@ The Commission shall establish a tax-free housing stipend modeled on military Ba
    - Stipend covers reasonable housing costs in DC metropolitan area;
 
 2. **Calculation Methodology:**
-   
+
    **Based on DC Metropolitan Area Rental Market Rates:**
    - Commission conducts annual survey of rental housing costs in DC metro area;
    - Survey covers appropriate housing types (apartments, townhomes, small houses);
@@ -4497,6 +4501,7 @@ This completes Title IV: Scope of Authority (Sections 401-406).
 Combined with Part A, Title IV is now complete at approximately 21,000 words covering all six authority domains comprehensively.
 
 Next sections: Title V (Funding and Operations), Title VI (Accountability and Oversight), Title VII (General Provisions).
+
 # CCC ACT - TITLES V & VI
 
 ## TITLE V: FUNDING AND OPERATIONS
@@ -4510,25 +4515,25 @@ Next sections: Title V (Funding and Operations), Title VI (Accountability and Ov
 There are authorized to be appropriated such sums as necessary for Commission establishment and initial operations during Years 1-2:
 
 1. **Year 1 Estimated Requirements: $8-12 Million**
-   
+
    **Commission Establishment ($2-3 Million):**
    - Nine Commissioner salaries and benefits (prorated for partial year);
    - Commissioner travel expenses for meetings and site visits;
    - Initial meeting facilities and equipment;
-   
+
    **Staff Recruitment and Initial Operations ($3-4 Million):**
    - Executive Director salary and recruitment;
    - Initial professional staff hiring (compensation analysts, economists, HR specialists, policy analysts, legal counsel, administrative staff);
    - Staff salaries for partial year;
    - Recruitment and onboarding costs;
-   
+
    **Headquarters and Infrastructure ($2-3 Million):**
    - Office space lease and buildout;
    - Furniture and equipment;
    - Technology infrastructure (computers, servers, networks, cybersecurity);
    - Communications systems;
    - Security systems;
-   
+
    **Initial Systems Development ($1-2 Million):**
    - Database systems for benchmarking data;
    - Financial management systems;
@@ -4537,21 +4542,21 @@ There are authorized to be appropriated such sums as necessary for Commission es
    - Public transparency portal;
 
 2. **Year 2 Estimated Requirements: $10-15 Million**
-   
+
    **Full Operations ($6-8 Million):**
    - Commissioner salaries and benefits (full year);
    - Full staff salaries and benefits (expanding to full complement);
    - Office space and facilities (full year);
    - Technology and systems (full year);
    - Travel and operational expenses;
-   
+
    **Methodology Development ($2-3 Million):**
    - Contracting with compensation survey firms;
    - Contracting with psychometric and statistical experts;
    - Benchmarking data acquisition;
    - Methodology peer review;
    - Professional standards development;
-   
+
    **Baseline Studies ($2-4 Million):**
    - Comprehensive baseline resource assessment;
    - Technology infrastructure audit;
@@ -5669,6 +5674,7 @@ Courts may order:
 Titles V (Funding and Operations) and VI (Accountability and Oversight) complete.
 
 Final section remaining: Title VII (General Provisions).
+
 # CCC ACT - TITLE VII: GENERAL PROVISIONS
 
 ## TITLE VII: GENERAL PROVISIONS
@@ -5712,9 +5718,10 @@ For purposes of this Act:
 **(9) Review Period**
 
 "Review period" means the period during which Congress may consider a Joint Resolution of Disapproval of a Commission Determination, as specified in Section 301(c), consisting of:
-   - 60 calendar days for standard Determinations;
-   - 90 calendar days for member compensation Determinations;
-   - 30 calendar days for emergency Determinations.
+
+- 60 calendar days for standard Determinations;
+- 90 calendar days for member compensation Determinations;
+- 30 calendar days for emergency Determinations.
 
 **(10) Effective Date**
 
@@ -6216,28 +6223,28 @@ Commission works with administrative offices to ensure smooth transition:
 #### (a) Amendments to Title 2, United States Code
 
 1. **2 U.S.C. Â§ 4501 (Congressional Pay Adjustment):**
-   
+
    At the end of section 4501, add the following:
-   
+
    "(d) SUPERSEDING AUTHORITY. -- Beginning on the date the Congressional Capacity Commission established by the Congressional Capacity Commission Act first issues a Determination regarding congressional compensation pursuant to Phase 3 authority under that Act, the provisions of this section are superseded by Commission authority to the extent of any conflict. The Commission may incorporate the automatic adjustment mechanism in this section into its Determinations if it determines such mechanism remains appropriate."
 
 2. **Other Amendments as Necessary:**
-   
+
    The Director of the Office of the Law Revision Counsel shall make such technical and conforming amendments to Title 2 as necessary to reflect the authorities established by this Act.
 
 #### (b) Coordination with Ethics Rules
 
 1. **House Ethics Rules:**
-   
+
    The House Committee on Ethics shall review existing ethics rules to identify any rules that may require modification to implement Commission Determinations, particularly regarding:
    - Spousal employment restrictions (Section 404(c)(4));
    - Outside income limitations;
    - Gift rules;
-   
+
    The Committee shall report findings and recommendations to the House within 180 days of the first Commission Determination in Phase 3.
 
 2. **Senate Ethics Rules:**
-   
+
    The Senate Select Committee on Ethics shall conduct parallel review and report to the Senate within the same timeframe.
 
 #### (c) No Automatic Repeal
@@ -6357,11 +6364,13 @@ The findings and purposes of this Act are set forth in Section 2 (Findings) and 
 ## Revision History
 
 **Revision 1.1** (Current)
+
 - Reformatted to comply with APAI Document Production Manual standards
 - Removed duplicate header structure and table of contents
 - Standardized footer format with revision history
 
 **Revision 1.0**
+
 - Initial complete draft with all seven Titles
 - 30 comprehensive Findings
 - Full implementation provisions

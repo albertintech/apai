@@ -318,11 +318,13 @@ The alternative is continued decay: frozen compensation, departing expertise, ob
 ## Revision History
 
 **Revision 1.1** (Current)
+
 - Reformatted to comply with APAI Document Production Manual standards
 - Renamed from "Coalition Policy Rationale" to "Policy Rationale"
 - Standardized header and footer format
 
 **Revision 1.0**
+
 - Initial publication as Coalition Policy Rationale
 
 ---

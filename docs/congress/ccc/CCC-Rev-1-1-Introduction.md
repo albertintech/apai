@@ -37,10 +37,12 @@ The complete legislative text contains seven Titles across approximately 35,000 
 ## Revision History
 
 **Revision 1.1** (Current)
+
 - Reformatted to comply with APAI Document Production Manual standards
 - Replaced One-Page Summary with Policy Introduction format
 
 **Revision 1.0**
+
 - Initial publication as One-Page Executive Summary
 
 ---
