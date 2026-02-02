@@ -1,7 +1,7 @@
 site_name: American Policy Architecture Institute
 site_description: A portfolio of civic systems maintenance proposals
 site_author: Albert Ramos
-copyright: © 2026 Albert Ramos | American Policy Architecture Institute
+copyright: "&copy; 2026 Albert Ramos | American Policy Architecture Institute"
 site_url: https://policyarchitecture.org
 
 theme:
@@ -32,23 +32,30 @@ nav:
   - Home: index.md
 
   - Congress & Elections:
-      - Congressional Modernization Act:
-          - One-Page Summary: congress/cma/CMA-One-Page-Summary.md
-          - Legislative Text: congress/cma/CMA-The-Congressional-Modernization-Act.md
-          - Policy Rationale: congress/cma/CMA-Policy-Rationale.md
-          - Reference Materials:
-              - What Changes For Voters: congress/cma/CMA-What-Changes-For-Voters.md
-              - Sample Ballot (Multi-Member District): congress/cma/CMA-Sample-Ballot-Multi-Member-District.md
-              - Sample Ballot (Single-Member District): congress/cma/CMA-Sample-Ballot-Single-Member-District.md
-              - House Member Guide: congress/cma/CMA-House-Member-Guide.md
-              - Data Appendix: congress/cma/CMA-House-Member-Guide-Data-Appendix.md
-      - Office of Congressional Procedure Act:
-          - Introduction: congress/ocp/OCP-Rev-1-1-Introduction.md
-          - Legislative Text: congress/ocp/OCP-Rev-1-1-Legislative-Text.md
-          - Policy Rationale: congress/ocp/OCP-Rev-1-1-Policy-Rationale.md
-          - Reference Materials:
-              - Constitutional Analysis: congress/ocp/OCP-Rev-1-1-Constitutional-Analysis.md
-              - CMA-OCP Integration Analysis: congress/ocp/CMA-OCP-Rev-1-0-Integration-Analysis.md
+      - Congressional Modernization Framework:
+          - Introduction: congress/cmf/CMF-Rev-1-0-Introduction.md
+          - Integration Analysis: congress/cmf/CMF-Rev-3-0-Integration-Analysis.md
+          - Federal Elections Modernization Act:
+              - Introduction: congress/fema/FEMA-Rev-5-0-Introduction.md
+              - Overview: congress/fema/FEMA-Rev-5-0-Overview.md
+              - Legislative Text: congress/fema/FEMA-Rev-5-0-The-Federal-Elections-Modernization-Act.md
+              - Policy Rationale: congress/fema/FEMA-Rev-5-0-Policy-Rationale.md
+              - Reference Materials:
+                  - What Changes For Voters: congress/fema/FEMA-Rev-5-0-What-Changes-For-Voters.md
+                  - Sample Ballot (Multi-Member District): congress/fema/FEMA-Rev-5-0-Sample-Ballot-Multi-Member-District.md
+                  - Sample Ballot (Single-Member District): congress/fema/FEMA-Rev-5-0-Sample-Ballot-Single-Member-District.md
+                  - House Member Guide: congress/fema/FEMA-Rev-5-0-House-Member-Guide.md
+                  - Data Appendix: congress/fema/FEMA-Rev-5-0-House-Member-Guide-Data-Appendix.md
+                  - Voting Methods Explainer: congress/fema/FEMA-Rev-5-0-Voting-Methods-Technical-Explainer.md
+                  - FCAO Explainer: congress/fema/FEMA-Rev-5-0-FCAO-Explainer.md
+                  - Constitutional Authority Memorandum: congress/fema/FEMA-Rev-5-0-Constitutional-Authority-Technical-Memorandum.md
+                  - Constitutional Boundaries of PR: congress/fema/FEMA-Rev-5-0-Constitutional-Boundaries-of-Proportional-Representation.md
+          - Office of Congressional Procedure Act:
+              - Introduction: congress/ocp/OCP-Rev-1-1-Introduction.md
+              - Legislative Text: congress/ocp/OCP-Rev-1-1-Legislative-Text.md
+              - Policy Rationale: congress/ocp/OCP-Rev-1-1-Policy-Rationale.md
+              - Reference Materials:
+                  - Constitutional Analysis: congress/ocp/OCP-Rev-1-1-Constitutional-Analysis.md
       - Congressional Capacity Commission Act:
           - Introduction: congress/ccc/CCC-Rev-1-1-Introduction.md
           - Overview: congress/ccc/CCC-Rev-1-1-Overview.md
@@ -87,21 +94,21 @@ nav:
 
   - Economic Stability & Security:
       - American Shared Prosperity Compact:
-          - One-Page Summary: aspc/ASPC-One-Page-Summary.md
-          - Executive Summary: aspc/ASPC-Executive-Summary.md
+          - Introduction: aspc/ASPC-Introduction.md
+          - Overview: aspc/ASPC-Overview.md
           - FAQ: aspc/ASPC-FAQ.md
-      - American Prosperity and Stability Act:
-          - One-Page Summary: aspc/APSA-One-Page-Summary.md
-          - Legislative Text: aspc/APSA-Legislative-Text.md
-          - Policy Rationale: aspc/APSA-Policy-Rationale.md
-      - American Payment Network Act:
-          - One-Page Summary: aspc/APNA-One-Page-Summary.md
-          - Legislative Text: aspc/APNA-Legislative-Text.md
-          - Policy Rationale: aspc/APNA-Policy-Rationale.md
-      - Secure Our Children Act:
-          - One-Page Summary: aspc/SOCA-One-Page-Summary.md
-          - Legislative Text: aspc/SOCA-Legislative-Text.md
-          - Policy Rationale: aspc/SOCA-Policy-Rationale.md
+          - American Prosperity and Stability Act:
+              - Introduction: aspc/apsa/APSA-Introduction.md
+              - Legislative Text: aspc/apsa/APSA-Legislative-Text.md
+              - Policy Rationale: aspc/apsa/APSA-Policy-Rationale.md
+          - American Payment Network Act:
+              - Introduction: aspc/apna/APNA-Introduction.md
+              - Legislative Text: aspc/apna/APNA-Legislative-Text.md
+              - Policy Rationale: aspc/apna/APNA-Policy-Rationale.md
+          - Secure Our Children Act:
+              - Introduction: aspc/soca/SOCA-Introduction.md
+              - Legislative Text: aspc/soca/SOCA-Legislative-Text.md
+              - Policy Rationale: aspc/soca/SOCA-Policy-Rationale.md
 
 markdown_extensions:
   - toc:
