@@ -36,26 +36,26 @@ nav:
           - Introduction: congress/cmf/CMF-Rev-1-0-Introduction.md
           - Integration Analysis: congress/cmf/CMF-Rev-3-0-Integration-Analysis.md
           - Federal Elections Modernization Act:
-              - Introduction: congress/fema/FEMA-Rev-5-0-Introduction.md
-              - Overview: congress/fema/FEMA-Rev-5-0-Overview.md
-              - Legislative Text: congress/fema/FEMA-Rev-5-0-The-Federal-Elections-Modernization-Act.md
-              - Policy Rationale: congress/fema/FEMA-Rev-5-0-Policy-Rationale.md
+              - Introduction: congress/cmf/fema/FEMA-Rev-5-0-Introduction.md
+              - Overview: congress/cmf/fema/FEMA-Rev-5-0-Overview.md
+              - Legislative Text: congress/cmf/fema/FEMA-Rev-5-0-The-Federal-Elections-Modernization-Act.md
+              - Policy Rationale: congress/cmf/fema/FEMA-Rev-5-0-Policy-Rationale.md
               - Reference Materials:
-                  - What Changes For Voters: congress/fema/FEMA-Rev-5-0-What-Changes-For-Voters.md
-                  - Sample Ballot (Multi-Member District): congress/fema/FEMA-Rev-5-0-Sample-Ballot-Multi-Member-District.md
-                  - Sample Ballot (Single-Member District): congress/fema/FEMA-Rev-5-0-Sample-Ballot-Single-Member-District.md
-                  - House Member Guide: congress/fema/FEMA-Rev-5-0-House-Member-Guide.md
-                  - Data Appendix: congress/fema/FEMA-Rev-5-0-House-Member-Guide-Data-Appendix.md
-                  - Voting Methods Explainer: congress/fema/FEMA-Rev-5-0-Voting-Methods-Technical-Explainer.md
-                  - FCAO Explainer: congress/fema/FEMA-Rev-5-0-FCAO-Explainer.md
-                  - Constitutional Authority Memorandum: congress/fema/FEMA-Rev-5-0-Constitutional-Authority-Technical-Memorandum.md
-                  - Constitutional Boundaries of PR: congress/fema/FEMA-Rev-5-0-Constitutional-Boundaries-of-Proportional-Representation.md
+                  - What Changes For Voters: congress/cmf/fema/FEMA-Rev-5-0-What-Changes-For-Voters.md
+                  - Sample Ballot (Multi-Member District): congress/cmf/fema/FEMA-Rev-5-0-Sample-Ballot-Multi-Member-District.md
+                  - Sample Ballot (Single-Member District): congress/cmf/fema/FEMA-Rev-5-0-Sample-Ballot-Single-Member-District.md
+                  - House Member Guide: congress/cmf/fema/FEMA-Rev-5-0-House-Member-Guide.md
+                  - Data Appendix: congress/cmf/fema/FEMA-Rev-5-0-House-Member-Guide-Data-Appendix.md
+                  - Voting Methods Explainer: congress/cmf/fema/FEMA-Rev-5-0-Voting-Methods-Technical-Explainer.md
+                  - FCAO Explainer: congress/cmf/fema/FEMA-Rev-5-0-FCAO-Explainer.md
+                  - Constitutional Authority Memorandum: congress/cmf/fema/FEMA-Rev-5-0-Constitutional-Authority-Technical-Memorandum.md
+                  - Constitutional Boundaries of PR: congress/cmf/fema/FEMA-Rev-5-0-Constitutional-Boundaries-of-Proportional-Representation.md
           - Office of Congressional Procedure Act:
-              - Introduction: congress/ocp/OCP-Rev-1-1-Introduction.md
-              - Legislative Text: congress/ocp/OCP-Rev-1-1-Legislative-Text.md
-              - Policy Rationale: congress/ocp/OCP-Rev-1-1-Policy-Rationale.md
+              - Introduction: congress/cmf/ocp/OCP-Rev-1-1-Introduction.md
+              - Legislative Text: congress/cmf/ocp/OCP-Rev-1-1-Legislative-Text.md
+              - Policy Rationale: congress/cmf/ocp/OCP-Rev-1-1-Policy-Rationale.md
               - Reference Materials:
-                  - Constitutional Analysis: congress/ocp/OCP-Rev-1-1-Constitutional-Analysis.md
+                  - Constitutional Analysis: congress/cmf/ocp/OCP-Rev-1-1-Constitutional-Analysis.md
       - Congressional Capacity Commission Act:
           - Introduction: congress/ccc/CCC-Rev-1-1-Introduction.md
           - Overview: congress/ccc/CCC-Rev-1-1-Overview.md
