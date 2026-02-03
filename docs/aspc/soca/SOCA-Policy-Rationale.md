@@ -140,5 +140,5 @@ The alternative is the status quo -- periodic expansions followed by expirations
 Albert E. Ramos
 Director, The American Policy Architecture Institute
 
-**Contact:** info@policyarchitecture.org
-**Website:** www.policyarchitecture.org
+**Contact:** <info@policyarchitecture.org>
+**Website:** <www.policyarchitecture.org>

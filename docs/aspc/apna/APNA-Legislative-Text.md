@@ -6,19 +6,19 @@
 
 ---
 
-## SECTION 1. SHORT TITLE.
+## SECTION 1. SHORT TITLE
 
 This Act may be cited as the **"American Payment Network Act"** or **"APNA."**
 
 ---
 
-## SECTION 2. PURPOSE AND FINDINGS.
+## SECTION 2. PURPOSE AND FINDINGS
 
-### (a) Purpose.
+### (a) Purpose
 
 To establish a national, interoperable, utility-style payments network providing every American with access to secure, low-cost electronic accounts for receiving and sending funds; to modernize federal payment systems; and to ensure nationwide participation in the digital economy.
 
-### (b) Findings.
+### (b) Findings
 
 Congress finds that --
 
@@ -36,7 +36,7 @@ Congress finds that --
 
 ---
 
-## SECTION 3. DEFINITIONS.
+## SECTION 3. DEFINITIONS
 
 For purposes of this Act:
 
@@ -58,13 +58,13 @@ For purposes of this Act:
 
 ---
 
-## SECTION 4. ESTABLISHMENT OF THE AMERICAN PAYMENT NETWORK.
+## SECTION 4. ESTABLISHMENT OF THE AMERICAN PAYMENT NETWORK
 
-### (a) Creation.
+### (a) Creation
 
 There is hereby established within the Department of the Treasury a public digital-payments infrastructure to be known as the **American Payment Network (APN)**.
 
-### (b) Governance.
+### (b) Governance
 
 1. The Secretary of the Treasury shall administer the Network through the **Office of Digital Payment Infrastructure (ODPI)**.
 
@@ -72,7 +72,7 @@ There is hereby established within the Department of the Treasury a public digit
 
 3. The Network shall operate under a **utility charter**, guaranteeing neutrality, interoperability, transparency, and non-discriminatory access.
 
-### (c) Digital-First Rollout.
+### (c) Digital-First Rollout
 
 1. The APN shall launch as a **digital-first network**, accessible through web portal, mobile application, and automated-teller-machine interfaces.
 
@@ -80,7 +80,7 @@ There is hereby established within the Department of the Treasury a public digit
 
 3. Digital infrastructure shall reach full national coverage before new purpose-built physical facilities are required.
 
-### (d) Physical Infrastructure Strategy.
+### (d) Physical Infrastructure Strategy
 
 1. **Priority One: U.S. Postal Service Integration**
 
@@ -104,7 +104,7 @@ There is hereby established within the Department of the Treasury a public digit
    (B) Phase 2 (Years 3-5): Targeted service center construction in remaining Banking Deserts where USPS coverage is insufficient;
    (C) Phase 3 (Years 5+): Ongoing maintenance, accessibility improvements, and coverage expansion as needed.
 
-### (e) Open-Network Participation.
+### (e) Open-Network Participation
 
 1. Any regulated financial institution, credit union, or approved fintech provider may serve as an **APN Agent**, offering front-end account services connected to the Treasury-operated APN backbone.
 
@@ -114,7 +114,7 @@ There is hereby established within the Department of the Treasury a public digit
 
 4. No APN Agent may impose additional maintenance or overdraft fees on basic APN accounts.
 
-### (f) Scope of Service.
+### (f) Scope of Service
 
 The APN shall:
 
@@ -130,9 +130,9 @@ The APN shall:
 
 ---
 
-## SECTION 4A. ACCOUNTS FOR MINORS AND VULNERABLE POPULATIONS.
+## SECTION 4A. ACCOUNTS FOR MINORS AND VULNERABLE POPULATIONS
 
-### (a) Independent Youth Access.
+### (a) Independent Youth Access
 
 1. **Age 16 and Older.** Individuals aged 16 and older may independently open and manage Network Accounts through any APN Agent, subject to standard identity verification requirements established by the Treasury.
 
@@ -140,7 +140,7 @@ The APN shall:
 
 3. **No Parental Consent Required.** APN Agents shall not require parental or guardian consent for individuals aged 16 or older, except as specified in subsection (e) for enhanced security features.
 
-### (b) Working Minors Under Age 16.
+### (b) Working Minors Under Age 16
 
 1. **Eligibility.** Minors under age 16 who receive documented wages, compensation, or other payments shall be eligible for Network Accounts upon: submission of proof of employment or income; parental or legal guardian consent; and designation of an APN Agent as account manager.
 
@@ -148,7 +148,7 @@ The APN shall:
 
 3. **Income Source Verification.** APN Agents shall verify that income sources comply with applicable federal and state child labor laws.
 
-### (c) Special Populations -- Independent Access Without Parental Consent.
+### (c) Special Populations -- Independent Access Without Parental Consent
 
 1. **Emancipated Minors.** Individuals under age 18 who provide proof of legal emancipation status under state law may open independent Network Accounts with full features, without parental or guardian consent.
 
@@ -158,7 +158,7 @@ The APN shall:
 
 4. **Survivors of Domestic Abuse.** Minors fleeing domestic violence or abuse may open independent Network Accounts through designated APN Agents without parental notification, with enhanced privacy protections.
 
-### (d) Privacy and Safety Protections.
+### (d) Privacy and Safety Protections
 
 1. **Confidential Account Access.** For minors accessing accounts under subsection (c), APN Agents shall provide account services without requiring parental notification and ensure contact information remains confidential.
 
@@ -166,27 +166,27 @@ The APN shall:
 
 3. **Prohibition on Financial Abuse.** No parent, guardian, employer, or other adult may coerce a minor into transferring funds or access account credentials through fraud or intimidation.
 
-### (e) Enhanced Security Features -- Voluntary Enrollment.
+### (e) Enhanced Security Features -- Voluntary Enrollment
 
 Minors and their parents or guardians may voluntarily elect enhanced security features, including multi-factor authentication, merchant category restrictions, spending limits, and parental notification for high-value transactions. Such features are entirely optional.
 
-### (f) Implementation Authority.
+### (f) Implementation Authority
 
 The Secretary of the Treasury, in consultation with the Department of Health and Human Services and state child welfare agencies, shall issue regulations within 18 months of enactment establishing age-appropriate procedures, training requirements, and privacy protections.
 
-### (g) Transition to Adult Accounts.
+### (g) Transition to Adult Accounts
 
 Upon reaching age 18, all Network Accounts established under this section shall automatically convert to standard adult accounts with full features, and all parental joint visibility or enhanced security features shall terminate unless the account holder independently elects to maintain such features.
 
 ---
 
-## SECTION 5. ACCOUNT ACCESS AND INCLUSION SERVICES.
+## SECTION 5. ACCOUNT ACCESS AND INCLUSION SERVICES
 
-### (a) Nationwide Eligibility.
+### (a) Nationwide Eligibility
 
 Every lawful U.S. resident is entitled to hold one primary **Network Account** through the APN. Eligibility shall not depend on income, employment status, or credit history.
 
-### (b) Account Features.
+### (b) Account Features
 
 1. No minimum-balance requirement.
 2. No maintenance or overdraft fees.
@@ -195,7 +195,7 @@ Every lawful U.S. resident is entitled to hold one primary **Network Account** t
 5. Optional debit-card and mobile-wallet functionality.
 6. Physical debit cards shall be offered to all account holders at no cost.
 
-### (c) Technology-Neutral Access Standards.
+### (c) Technology-Neutral Access Standards
 
 1. **Multi-Device Access Guarantee.** Network Accounts shall be accessible through: smartphone applications; web browsers; feature phones via SMS and USSD protocols; ATM networks; physical debit cards; APN Agents; and U.S. Postal Service facilities and other designated public access points.
 
@@ -205,13 +205,13 @@ Every lawful U.S. resident is entitled to hold one primary **Network Account** t
 
 4. **Public Internet Access Integration.** The Treasury shall coordinate with public libraries, community centers, and other public internet access points to ensure availability of secure APN web portal access.
 
-### (d) Access Channels.
+### (d) Access Channels
 
 1. Network Accounts may be accessed through any of the methods described in subsection (c).
 
 2. The Secretary of the Treasury shall ensure that at least **90 percent of the U.S. population** has an in-person or digital access point within reasonable proximity.
 
-### (e) Tiered Security and Voluntary Safeguards.
+### (e) Tiered Security and Voluntary Safeguards
 
 1. **Baseline Security Requirements.** All APN accounts shall implement password or PIN authentication, account activity notifications, transaction history logging, and immediate account freeze capability.
 
@@ -221,7 +221,7 @@ Every lawful U.S. resident is entitled to hold one primary **Network Account** t
 
 4. **Fraud Protection Standards.** Account holders shall not be liable for unauthorized transactions reported within 60 days of the transaction date.
 
-### (f) Cash Services and Physical Currency Access.
+### (f) Cash Services and Physical Currency Access
 
 1. **Nationwide Cash Access Guarantee.** Every Network Account holder shall have the right to deposit cash, withdraw cash, and convert digital balances to physical currency without fee.
 
@@ -229,7 +229,7 @@ Every lawful U.S. resident is entitled to hold one primary **Network Account** t
 
 3. **Geographic Coverage Requirements.** The Treasury shall ensure that all APN Agents collectively provide sufficient cash access points to meet the 90 percent geographic proximity standard.
 
-### (g) Inclusion Safeguards.
+### (g) Inclusion Safeguards
 
 1. The Treasury shall establish an **Unbanked Access Program** providing in-person onboarding assistance, alternative identity verification standards, and financial-literacy education grants.
 
@@ -241,7 +241,7 @@ Every lawful U.S. resident is entitled to hold one primary **Network Account** t
 
 ---
 
-## SECTION 6. TREASURY AND FEDERAL RESERVE COORDINATION.
+## SECTION 6. TREASURY AND FEDERAL RESERVE COORDINATION
 
 1. The Federal Reserve System shall provide settlement and liquidity services to the APN Treasury Node.
 
@@ -251,7 +251,7 @@ Every lawful U.S. resident is entitled to hold one primary **Network Account** t
 
 ---
 
-## SECTION 7. STATE AND LOCAL PARTNERSHIPS.
+## SECTION 7. STATE AND LOCAL PARTNERSHIPS
 
 1. State governments may elect to integrate tax refund, benefit, and payroll systems into the APN on a cost-reimbursement basis.
 
@@ -261,15 +261,15 @@ Every lawful U.S. resident is entitled to hold one primary **Network Account** t
 
 ---
 
-## SECTION 8. CAPITALIZATION, FUNDING, AND USER FEES.
+## SECTION 8. CAPITALIZATION, FUNDING, AND USER FEES
 
-### (a) Establishment of the American Payment Network Fund.
+### (a) Establishment of the American Payment Network Fund
 
 1. There is hereby established in the Treasury of the United States a fund to be known as the **American Payment Network Fund** (the "Fund").
 
 2. The Fund shall be available to the Secretary, without further appropriation, to carry out the purposes of this Act, including: initial infrastructure development and deployment; ongoing network operations and maintenance; APN Agent certification and oversight activities; USPS partnership implementation and compensation; public outreach, financial literacy, and inclusion programs; and repayment of borrowing under subsection (b).
 
-### (b) Initial Capitalization -- Treasury Borrowing Authority.
+### (b) Initial Capitalization -- Treasury Borrowing Authority
 
 1. **Authorization.** The Secretary of the Treasury is authorized to borrow from the Treasury General Fund such sums as are necessary for initial capitalization of the American Payment Network, not to exceed **$15,000,000,000** (fifteen billion dollars) in aggregate principal.
 
@@ -283,13 +283,13 @@ Every lawful U.S. resident is entitled to hold one primary **Network Account** t
 
 6. **Cost Containment Assessment.** Any notification under paragraph (5) shall include an assessment of cost containment measures undertaken or available.
 
-### (c) Ongoing Revenue Sources.
+### (c) Ongoing Revenue Sources
 
 1. The following revenues shall be credited to the Fund: network transaction fees charged to participating financial institutions; interest earnings on Treasury Node settlement balances and Fund balances; APN Agent certification fees; and cost-sharing payments from state and local governments.
 
 2. Revenues credited to the Fund shall be available without fiscal year limitation.
 
-### (d) Network Transaction Fees.
+### (d) Network Transaction Fees
 
 1. The Secretary, in consultation with the Board of Governors of the Federal Reserve System, shall establish transaction fees charged to participating financial institutions for use of APN infrastructure.
 
@@ -297,7 +297,7 @@ Every lawful U.S. resident is entitled to hold one primary **Network Account** t
 
 3. The Secretary shall publish a fee schedule annually, with at least 90 days notice before any fee increases take effect.
 
-### (e) Repayment Priority and Fund Management.
+### (e) Repayment Priority and Fund Management
 
 1. **Repayment Priority.** Until all borrowing is fully repaid with interest, the Secretary shall allocate Fund revenues in the following priority: first, to scheduled principal and interest payments; second, to ongoing network operations and maintenance; third, to network improvements and expansion; and fourth, to reserves for contingencies and future capital needs.
 
@@ -305,19 +305,19 @@ Every lawful U.S. resident is entitled to hold one primary **Network Account** t
 
 3. **Excess Revenues.** If Fund balances exceed operating needs plus required reserves, the Secretary may reduce transaction fees, expand network services, or transfer excess funds to the Treasury General Fund.
 
-### (f) Prohibition on User Fees.
+### (f) Prohibition on User Fees
 
 1. No fees may be charged directly to individual account holders for: standard transactions between Network Accounts; account opening, maintenance, or closure; cash deposits or withdrawals within U.S. jurisdiction; balance inquiries or transaction history access; direct deposit enrollment or receipt; or standard customer service and dispute resolution.
 
 2. Fees may be assessed for: expedited or premium services beyond standard offerings; replacement of physical access cards beyond a reasonable annual limit; international transactions or cash access outside U.S. jurisdiction; and services requested by businesses or institutions beyond individual account features.
 
-### (g) Annual Reporting on Fund Status.
+### (g) Annual Reporting on Fund Status
 
 1. The Secretary shall include in the annual report required under Section 10 a detailed accounting of Fund status, including: opening and closing Fund balances; revenues by source; expenditures by category; outstanding borrowing balance and scheduled repayment; reserve adequacy assessment; and projected revenues and expenditures for the following fiscal year.
 
 2. The Government Accountability Office shall include in its triennial audit an assessment of Fund management, fee adequacy, and long-term financial sustainability.
 
-### (h) Emergency Operational Authority.
+### (h) Emergency Operational Authority
 
 1. In the event of a government shutdown, appropriations lapse, or debt ceiling crisis affecting general Treasury operations, the American Payment Network shall continue operations using Fund balances without interruption.
 
@@ -325,7 +325,7 @@ Every lawful U.S. resident is entitled to hold one primary **Network Account** t
 
 ---
 
-## SECTION 9. IMPLEMENTATION TIMELINE.
+## SECTION 9. IMPLEMENTATION TIMELINE
 
 1. Pilot programs shall begin within 18 months of enactment in at least five states representing diverse geographies and demographics.
 
@@ -337,7 +337,7 @@ Every lawful U.S. resident is entitled to hold one primary **Network Account** t
 
 ---
 
-## SECTION 10. OVERSIGHT AND REPORTING.
+## SECTION 10. OVERSIGHT AND REPORTING
 
 1. The Government Accountability Office shall audit the APN every three years.
 
@@ -347,7 +347,7 @@ Every lawful U.S. resident is entitled to hold one primary **Network Account** t
 
 ---
 
-## SECTION 11. SEVERABILITY.
+## SECTION 11. SEVERABILITY
 
 If any provision of this Act is held invalid, the remainder shall remain in effect.
 
@@ -357,5 +357,5 @@ If any provision of this Act is held invalid, the remainder shall remain in effe
 Albert E. Ramos
 Director, The American Policy Architecture Institute
 
-**Contact:** info@policyarchitecture.org
-**Website:** www.policyarchitecture.org
+**Contact:** <info@policyarchitecture.org>
+**Website:** <www.policyarchitecture.org>

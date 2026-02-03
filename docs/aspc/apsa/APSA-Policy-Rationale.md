@@ -209,5 +209,5 @@ The result is a program that reaches more people, provides a higher guaranteed f
 Albert E. Ramos
 Director, The American Policy Architecture Institute
 
-**Contact:** info@policyarchitecture.org
-**Website:** www.policyarchitecture.org
+**Contact:** <info@policyarchitecture.org>
+**Website:** <www.policyarchitecture.org>

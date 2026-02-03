@@ -94,9 +94,9 @@ nav:
 
   - Economic Stability & Security:
       - American Shared Prosperity Compact:
-          - Introduction: aspc/ASPC-Rev-5-3-Introduction
+          - Introduction: aspc/ASPC-Rev-5-3-Introduction.md
           - American Prosperity and Stability Act:
-              - Introduction: aspc/apsa/APSA-Introduction.md
+              - Introduction: aspc/apsa/APSA-Rev-4-6-Introduction.md
               - Legislative Text: aspc/apsa/APSA-Legislative-Text.md
               - Policy Rationale: aspc/apsa/APSA-Policy-Rationale.md
           - American Payment Network Act:
@@ -104,7 +104,7 @@ nav:
               - Legislative Text: aspc/apna/APNA-Legislative-Text.md
               - Policy Rationale: aspc/apna/APNA-Policy-Rationale.md
           - Secure Our Children Act:
-              - Introduction: aspc/soca/SOCA-Introduction.md
+              - Introduction: aspc/soca/SOCA-Rev-2-4-Introduction.md
               - Legislative Text: aspc/soca/SOCA-Legislative-Text.md
               - Policy Rationale: aspc/soca/SOCA-Policy-Rationale.md
 

@@ -107,5 +107,5 @@ Together, these measures form an **American Shared Prosperity Compact**:
 Albert E. Ramos
 Director, The American Policy Architecture Institute
 
-**Contact:** info@policyarchitecture.org
-**Website:** www.policyarchitecture.org
+**Contact:** <info@policyarchitecture.org>
+**Website:** <www.policyarchitecture.org>

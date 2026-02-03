@@ -463,5 +463,5 @@ If any provision of this Act, or the application thereof to any person or circum
 Albert E. Ramos
 Director, The American Policy Architecture Institute
 
-**Contact:** info@policyarchitecture.org
-**Website:** www.policyarchitecture.org
+**Contact:** <info@policyarchitecture.org>
+**Website:** <www.policyarchitecture.org>
