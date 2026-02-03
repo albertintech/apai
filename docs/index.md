@@ -1,46 +1,79 @@
 # American Policy Architecture Institute
 
-**Evidence-based civic systems maintenance**
+**Blueprints for a stronger and more dynamic Republic**
 
 ---
 
-The American Policy Architecture Institute develops structural reforms designed to address foundational challenges in American governance. Our approach treats policy design as institutional engineering -- combining rigorous analysis with political realism to produce proposals that are both substantively sound and strategically viable.
-
-Each proposal includes complete legislative text, policy rationale, and supporting documentation. We believe serious reform requires serious detail.
+The American Policy Architecture Institute develops comprehensive blueprints to repair, maintain, and strengthen the systems designed to serve *We The People*.
 
 ---
 
-## Reform Portfolio
+## Flagship Proposals
 
-### 🗳️ Congressional Modernization Act (CMA)
+### 🏛️ Congressional Modernization Framework (CMF)
 
-Comprehensive reform addressing congressional dysfunction through integrated electoral and institutional modernization. The Act combines House expansion, STAR voting, multi-member districts with proportional representation, and enhanced legislative capacity -- launching together as a unified system rather than piecemeal changes.
+The Congressional Modernization Framework addresses structural challenges in American electoral and legislative systems through integrated modernization. The current system — winner-take-all elections, a House fixed at 435 members since 1913, and procedural rules that incentivize obstruction — produces predictable dysfunction regardless of which party holds power.
 
-CMA delivers reform on a human timescale: cube root compliance within approximately 14 years, ensuring that members who vote for the Act see results during their careers.
+The Framework combines two coordinated components:
 
-[Read the One-Page Summary](congress/cma/CMA-One-Page-Summary.md)
+**Federal Elections Modernization Act (FEMA)** — Establishes House expansion toward cube root compliance, STAR voting for all federal elections, and multi-member districts with proportional representation for House elections. The Act includes a tiered implementation structure delivering results on a human timescale.
+
+**Office of Congressional Procedure Act (OCP)** — Creates procedural infrastructure for effective multiparty governance, including proportional committee assignments and floor time allocation regardless of which coalition holds the majority.
+
+[Learn more about the Congressional Modernization Framework](congress/cmf/CMF-Rev-1-0-Introduction.md)
 
 ---
 
-### 🤝 American Stability and Prosperity Compact (ASPC)
+### 💰 American Shared Prosperity Compact (ASPC)
 
-A coordinated package of three reforms addressing economic security, payment infrastructure, and child welfare. Together, they demonstrate how interconnected policy challenges benefit from integrated solutions.
+The American Shared Prosperity Compact addresses economic security through coordinated modernization of payment infrastructure, income support, and child benefits. Current systems are fragmented, administratively complex, and exclude millions from basic financial services. These interconnected problems require integrated solutions.
 
-**American Prosperity and Stability Act (APSA)** -- Restructures the social safety net to provide universal economic security while simplifying administration and reducing bureaucratic overhead.
+The Compact combines three components designed to function independently while integrating powerfully when combined:
 
-**American Payment Network Act (APNA)** -- Establishes public payment infrastructure to reduce transaction costs, enhance financial inclusion, and support efficient distribution of public benefits.
+**American Prosperity and Stability Act (APSA)** — Establishes a universal stability payment providing baseline economic security for adult Americans, funded through a broad-based consumption mechanism and administered through simplified enrollment.
 
-**Secure Our Children Act (SOCA)** -- Reforms child welfare funding and administration to prioritize family stability and improve outcomes for vulnerable children.
+**American Payment Network Act (APNA)** — Creates public payment infrastructure providing every American access to a fee-free digital account, enabling efficient delivery of public benefits and reducing transaction costs for unbanked and underbanked households.
 
-[Read the One-Page Summary](aspc/ASPC-One-Page-Summary.md)
+**Secure Our Children Act (SOCA)** — Makes the expanded Child Tax Credit permanent at $3,600/$3,000 per child, with monthly payments, dedicated funding through the Child Security Contribution, and automatic stabilization mechanisms.
+
+[Learn more about the American Shared Prosperity Compact](aspc/ASPC-Rev-5-3-Introduction.md)
+
+---
+
+## Additional Proposals
+
+### Congress & Elections
+
+**Congressional Capacity Commission Act (CCC)** — Establishes an independent commission to assess congressional institutional capacity and recommend investments in staff, technology, and expertise. Congress has experienced significant capacity erosion relative to the executive branch it oversees.
+
+[Learn more](congress/ccc/CCC-Rev-1-1-Introduction.md)
+
+**Candidate Verification and Transparency Act (CVTA)** — Creates standardized verification processes for federal candidates, ensuring biographical claims are confirmed through systematic procedures rather than adversarial discovery.
+
+[Learn more](congress/cvta/CVTA-Rev-1-2-Introduction.md)
+
+---
+
+### Executive Branch
+
+**Civil Service Accountability Act (CSAA)** — Modernizes federal workforce accountability mechanisms while strengthening protections against politicization. The Act addresses the dual challenges of removing poor performers and maintaining professional independence.
+
+[Learn more](executive/csaa/CSAA-Rev-1-1-Introduction.md)
+
+---
+
+### Federal Judiciary
+
+**Federal Judicial Balance and Accountability Act (FJBAA)** — Restructures the federal judiciary to address population-based representation, predictable appointments, and qualification standards. The Act establishes a three-phase career structure for Supreme Court Justices — Associate Justice for ten years, Chief Justice for two years, then Senior Justice — combined with fifteen justices aligned to population-based circuits and predictable biennial appointments.
+
+[Learn more](judiciary/fjbaa/FJBAA-Rev-1-3-Introduction.md)
 
 ---
 
 ## In Development
 
-Additional reform proposals covering judicial accountability, civil service, taxation, and healthcare are in development. Each follows the same methodology: identify structural dysfunction, design integrated solutions, provide complete legislative architecture.
+Additional proposals covering taxation and healthcare are in active development. Each follows the same methodology: identify structural dysfunction, design integrated solutions, provide complete legislative blueprints.
 
 ---
 
-**Albert E. Ramos**
-Director, The American Policy Architecture Institute
+*Prepared by Albert Ramos for The American Policy Architecture Institute*
