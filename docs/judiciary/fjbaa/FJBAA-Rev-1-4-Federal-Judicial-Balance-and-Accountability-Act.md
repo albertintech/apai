@@ -1,8 +1,8 @@
 # FEDERAL JUDICIAL BALANCE AND ACCOUNTABILITY ACT
 
-## A Bill to Modernize the Federal Judiciary, Establish Population-Based Judicial Circuits, Expand the Supreme Court, and Ensure Balanced Representation
+## A Bill to Modernize the Federal Judiciary, Establish Population-Based Judicial Circuits, Align Supreme Court Composition with Circuit Organization, and Ensure Balanced Representation
 
-### Revision 1.3
+### Revision 1.4
 
 ---
 
@@ -152,29 +152,31 @@ District court structure and judgeships shall continue unchanged, except that:
 
 #### (a) Court Structure
 
-The Supreme Court of the United States shall consist of:
+The Supreme Court of the United States shall consist of fifteen justice positions, with each justice progressing through the three-phase career structure established by this Act:
 
-1. Up to fifteen Associate Justices serving in active service during their first ten years on the Court;
+1. **Active service** comprises the first twelve years of each justice's tenure and includes two phases:
+   - (A) **Associate Justice** (years one through ten), performing the regular duties of hearing and deciding cases before the Court; and
+   - (B) **Chief Justice** (years eleven and twelve), presiding over the Court and serving as administrative head of the federal judiciary;
 
-2. One Chief Justice serving in active service during their eleventh and twelfth years on the Court;
+2. **Senior Justice** status begins upon completion of active service, with justices retaining full Article III protections and life tenure while serving in a reduced-duty capacity.
 
-3. Senior Justices who have completed active service and continue in life tenure.
+At steady state, the Court shall have fifteen justices in active service: fourteen in the Associate Justice phase and one in the Chief Justice phase.
 
 #### (b) Alignment with Circuits
 
 The Supreme Court composition reflects:
 
-1. Fifteen regional judicial circuits, each represented by one Associate Justice position;
+1. Fifteen regional judicial circuits, each corresponding to one justice position;
 
-2. One Chief Justice serving administrative and ceremonial functions;
+2. Restoration of the constitutional relationship between circuit organization and Supreme Court size, whereby each regional circuit is served by one circuit justice;
 
-3. Restoration of the constitutional relationship between circuit organization and Supreme Court size.
+3. The Chief Justice, in addition to their assigned regional circuit, provides circuit justice coverage for the District of Columbia Circuit and the Federal Circuit.
 
 #### (c) Phased Expansion Schedule
 
 The Court shall expand gradually according to the following timeline:
 
-1. **Initial Expansion (Years 1-6)**: One additional Associate Justice appointed in each odd-numbered year until fifteen Associate Justice positions exist;
+1. **Initial Expansion (Years 1-6)**: One additional justice appointed in each odd-numbered year until all fifteen justice positions are filled;
 
 2. **Regular Replacement (Year 13+)**: Beginning twelve years after the first appointment under this Act, one justice completes active service and transitions to Senior Justice each odd-numbered year;
 
@@ -200,7 +202,7 @@ The Senate shall:
 
 Beginning twelve years after the first appointment under Section 201(c):
 
-1. One Associate Justice position becomes available each odd-numbered year;
+1. One justice position becomes available each odd-numbered year;
 
 2. The most senior justice appointed under this Act's expansion schedule transitions to Senior Justice;
 
@@ -474,8 +476,15 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 ## Revision History
 
-**Revision 1.3** (Current)
+**Revision 1.4** (Current)
+- Revised Section 201(a) to clarify that the Court consists of fifteen justice positions, eliminating ambiguity suggesting 15 Associate Justices plus 1 Chief Justice (16 total)
+- Restructured Section 201(a) to present the three-phase career structure (Associate Justice, Chief Justice, Senior Justice) as phases within a single position rather than separate position types
+- Added explicit steady-state description: fourteen justices in Associate Justice phase plus one in Chief Justice phase equals fifteen active justices
+- Revised Section 201(b) to clarify circuit justice assignments: each of fifteen regional circuits corresponds to one justice position
+- Added provision that Chief Justice provides circuit justice coverage for D.C. Circuit and Federal Circuit in addition to their assigned regional circuit
+- Updated Section 201(c)(1) and Section 202(c)(1) terminology from "Associate Justice positions" to "justice positions" for consistency with revised Section 201(a)
 
+**Revision 1.3**
 - Established three distinct justice roles with clear terminology: Associate Justice (years 1-10), Chief Justice (years 11-12), Senior Justice (year 13+)
 - Revised Section 3 (Definitions) to define Associate Justice, Chief Justice, and Senior Justice as distinct phases
 - Restructured Section 203 as "Three-Phase Justice Career Structure" consolidating the duties for each phase
@@ -485,9 +494,9 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 - Section 201 revised to reflect three-phase composition
 - Section 202 clarifies appointments fill Associate Justice positions
 - Section 204 updated for consistency with three-phase terminology
+- Revised subtitle: "Expand the Supreme Court" replaced with "Align Supreme Court Composition with Circuit Organization"
 
 **Revision 1.2**
-
 - Revised Section 204 to establish automatic Chief Justice rotation
 - Chief Justice now selected automatically by seniority for final two years of active service (years 11-12)
 - Eliminates separate nomination and confirmation for Chief Justice position
@@ -497,7 +506,6 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 - Added findings (11) and purposes (9) regarding Chief Justice rotation and power diffusion
 
 **Revision 1.1**
-
 - Reformatted document to comply with APAI Document Production Manual Rev 1.1
 - Corrected Title and Section heading formats
 - Moved Revision History to document end
@@ -506,7 +514,6 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 - Removed Legislative Notes section (rationale belongs in separate Policy Rationale document)
 
 **Revision 1.0**
-
 - Initial comprehensive draft
 - Establishes fifteen population-based judicial circuits
 - Aligns Supreme Court composition with circuit organization

@@ -4,7 +4,7 @@
 
 ### Published January 2025
 
-Based on Rev 1.3 of the Federal Judicial Balance and Accountability Act
+Based on Rev 1.4 of the Federal Judicial Balance and Accountability Act
 
 ---
 
@@ -38,7 +38,7 @@ Several alternative approaches to judicial reform exist. The Act's design reflec
 
 **Eighteen-year term limits** would create regular appointment opportunities without expanding the Court. This approach has significant support among legal scholars, including originalist constitutional scholar Akhil Reed Amar. However, term limits that actually end judicial tenure likely require constitutional amendment -- the "good behavior" clause in Article III has historically been interpreted as life tenure. The Act achieves similar regularity through the three-phase career structure, which preserves Article III status throughout a justice's lifetime while transitioning them from active service to Senior Justice status. This approach builds on Amar's key insight: Congress may regulate judicial *duties* without touching judicial *tenure*. The distinction between duty assignment and tenure termination is constitutionally critical, and the Act operates entirely on the duty side of that line.
 
-**Simple court expansion** (adding seats without structural justification) addresses immediate imbalance but provides no stopping principle. If Democrats add four seats, Republicans add six when they regain power. The Court expands indefinitely, losing institutional legitimacy. The Act's circuit-aligned composition provides a principled ceiling: one Associate Justice per regional circuit, plus the Chief Justice.
+**Simple court expansion** (adding seats without structural justification) addresses immediate imbalance but provides no stopping principle. If Democrats add four seats, Republicans add six when they regain power. The Court expands indefinitely, losing institutional legitimacy. The Act's circuit-aligned composition provides a principled ceiling: fifteen justice positions corresponding to fifteen regional circuits, with Associate Justice and Chief Justice as phases within each position rather than separate offices.
 
 **Jurisdiction stripping** would limit the Court's authority over specific issues. This approach raises serious constitutional concerns and does nothing to address circuit imbalance or appointment randomness. It treats symptoms rather than structural causes.
 
@@ -48,13 +48,55 @@ Several alternative approaches to judicial reform exist. The Act's design reflec
 
 The Act combines the benefits of regular appointments (from term limit proposals) with principled Court sizing (avoiding court-packing dynamics) and diffused leadership (through automatic rotation) while remaining within Congress's established constitutional authority to organize the judiciary.
 
+## Numerical Basis for Circuit and Court Composition
+
+A threshold question for any circuit reorganization proposal is: why this number of circuits? The Act establishes fifteen regional circuits not because fifteen is an aesthetically appealing number or because it matches some predetermined target for Supreme Court expansion, but because fifteen is the minimum number of circuits required to satisfy the Act's organizing principles when applied to current U.S. population distribution.
+
+### The Governing Principles
+
+The Act rests on three principles for circuit organization, each independently justifiable:
+
+**Population equity.** Citizens in one region should not face systematically longer case processing times, larger dockets per judge, or reduced access to appellate justice simply because of where they reside. Equal population distribution across circuits is the structural guarantee of equal treatment.
+
+**Tolerance band.** Perfect mathematical equality is impossible given that circuits must be composed of whole states and territories. The Act therefore permits a 10% deviation above or below the average circuit population -- sufficient flexibility to accommodate geographic reality while preventing the gross disparities that characterize the current system.
+
+**Geographic contiguity.** Circuits should consist of geographically connected states to facilitate judicial administration, attorney practice across the circuit, and coherent regional legal culture. Circuits should not consist of disconnected states scattered across the country.
+
+### Why Fifteen Emerges from These Principles
+
+The current system of eleven regional circuits produces population disparities approaching 5:1. The Ninth Circuit serves approximately 68 million people; the First Circuit serves approximately 14 million. No tolerance band can rationalize disparities of this magnitude -- the system requires more circuits.
+
+The question becomes: how many circuits are necessary to achieve population equity within the 10% tolerance band, given geographic constraints?
+
+The United States population of approximately 335 million, divided into fifteen circuits, yields an average circuit population of approximately 22.3 million. The tolerance band permits circuits ranging from approximately 20 million to 24.5 million. This range is achievable with reasonable state groupings that respect geographic contiguity.
+
+Fewer circuits cannot satisfy the constraints. At thirteen circuits, the average would be approximately 25.8 million with a band of 23.2 to 28.4 million. Given that California alone exceeds 39 million and Texas exceeds 30 million, achieving this band while maintaining contiguity becomes geometrically difficult. States must be grouped in ways that either violate contiguity or produce circuits well outside the tolerance band.
+
+More circuits would satisfy the constraints but introduce unnecessary administrative complexity. At seventeen circuits, the average would be approximately 19.7 million -- achievable, but requiring the creation of two additional circuit court administrative structures, two additional sets of circuit rules, and fragmentation of existing circuits that currently function adequately. The principle of minimum necessary change counsels against reorganization beyond what the equity principles require.
+
+Fifteen is therefore not chosen but derived -- it is the minimum number of regional circuits that satisfies population equity within the 10% tolerance band given geographic contiguity constraints and current U.S. population distribution.
+
+### Connection to Supreme Court Composition
+
+The constitutional tradition from 1789 through 1869 maintained alignment between the number of judicial circuits and the number of Supreme Court justices. This alignment was not coincidental but functional: each justice served as circuit justice for one circuit, hearing cases and providing appellate oversight within that region. Six circuits meant six justices; nine circuits meant nine justices.
+
+The Act restores this alignment. Fifteen regional circuits, each requiring circuit justice coverage for emergency applications and administrative oversight, correspond to fifteen justice positions on the Supreme Court. Each justice serves as circuit justice for an assigned regional circuit. The Chief Justice -- the justice serving in years eleven and twelve of active service -- additionally provides circuit justice coverage for the two specialized circuits: the D.C. Circuit and the Federal Circuit, which exist for subject-matter reasons rather than population representation and therefore do not independently justify Supreme Court seats.
+
+At steady state, the Court has fifteen justices in active service: fourteen in the Associate Justice phase (years one through ten) and one in the Chief Justice phase (years eleven and twelve). This produces a principled basis for Court size that transcends immediate partisan calculation. Critics cannot plausibly argue that the number was chosen to achieve a particular ideological balance, because the number derives from population mathematics and geographic constraints applied according to stated principles. A different population distribution would yield a different number of circuits and correspondingly a different number of justice positions.
+
+### Future Calibration
+
+The Act's decennial rebalancing provision ensures that circuit boundaries adjust to population shifts over time. This same logic implies that circuit count itself may eventually require adjustment. If U.S. population growth and geographic redistribution render the 10% tolerance band unachievable at fifteen circuits -- a scenario that might arise if population reaches 400 million or beyond with continued Sun Belt concentration -- the same principles that yielded fifteen would indicate sixteen or seventeen circuits.
+
+The Act does not hard-code fifteen as a permanent number. It establishes principles; the number follows from principled application to demographic reality. This is the opposite of court-packing, which selects a number to achieve an outcome. Here, the outcome follows from the principles, and the principles are independently defensible on grounds of equity, administrability, and constitutional tradition.
+
 ## Provision Rationale
 
 **Title I: Circuit Reorganization.** Population-based circuits ensure equal representation and balanced workloads. The 90-110% population band provides flexibility for geographic contiguity while preventing extreme disparities. Decennial rebalancing maintains equality as populations shift. Preserving the D.C. Circuit and Federal Circuit's specialized jurisdictions avoids disrupting established administrative and patent law expertise.
 
-**Title II: Court Composition and Appointments.** Fifteen Associate Justices align with fifteen regional circuits, restoring the historical relationship between circuit organization and Court size. (The original six-justice Court corresponded to six circuits; the nine-justice Court corresponded to nine circuits.) Phased alignment -- one justice per odd-numbered year -- prevents any single president from dominating appointments during the transition. The twelve-year active service period balances meaningful tenure with regular turnover. The Senior Justice phase preserves Article III protections while creating predictable vacancies.
+**Title II: Court Composition and Appointments.** Fifteen justice positions align with fifteen regional circuits, restoring the historical relationship between circuit organization and Court size. (The original six-justice Court corresponded to six circuits; the nine-justice Court corresponded to nine circuits.) Each justice progresses through a three-phase career structure within a single position: Associate Justice for years one through ten, Chief Justice for years eleven and twelve, and Senior Justice thereafter. At steady state, the Court has fifteen justices in active service -- fourteen in the Associate Justice phase and one in the Chief Justice phase. Phased alignment -- one justice per odd-numbered year -- prevents any single president from dominating appointments during the transition. The twelve-year active service period balances meaningful tenure with regular turnover. The Senior Justice phase preserves Article III protections while creating predictable vacancies.
 
-The three-phase career structure -- Associate Justice for years one through ten, Chief Justice for years eleven and twelve, Senior Justice thereafter -- serves multiple purposes beyond administrative efficiency.
+The three-phase career structure serves multiple purposes beyond administrative efficiency.
 
 First, it provides clarity and dignity for justices themselves. Every justice appointed under the Act knows exactly what their career arc will look like: a decade of active service hearing cases, two years leading the Court, then continued service in a reduced-duty capacity with full constitutional protections. There is no uncertainty, no strategic calculation about optimal retirement timing, no pressure to cling to office despite declining capacity.
 
@@ -70,9 +112,11 @@ Sixth, automatic rotation aligns with the principle that all justices are equals
 
 The two-year Chief Justice term (years eleven and twelve of active service) provides sufficient time for administrative leadership while ensuring regular rotation. It also creates a natural capstone: each justice's final years of active service are spent leading the Court, followed by transition to Senior Justice status. The seniority-based selection -- most senior Associate Justice who has not previously served -- ensures orderly succession and prevents any justice from being passed over.
 
+Circuit justice assignments complete the structural alignment. Each of the fifteen justice positions corresponds to one regional circuit. The Chief Justice, in addition to their assigned regional circuit, provides circuit justice coverage for the D.C. Circuit and Federal Circuit -- the two specialized circuits that exist for subject-matter jurisdiction rather than population representation.
+
 **Title III: Qualifications and Transparency.** Minimum qualifications -- fifteen years legal experience, five years as federal appellate judge -- ensure nominees have substantial judicial records to evaluate. The federal appellate requirement means every nominee has authored opinions that reveal judicial philosophy, reducing confirmation theater around hypothetical questions. Mandatory documentation and public disclosure shift the confirmation process toward substantive evaluation of credentials and judicial approach.
 
-**Title IV: Implementation.** Phased implementation over multiple years allows orderly transition. Circuit reorganization precedes Court composition alignment, ensuring the structural justification exists before new seats are filled. Automatic Chief Justice rotation begins when the first justice appointed under the expansion schedule reaches their eleventh year of active service, ensuring the mechanism operates only for justices appointed with knowledge of the three-phase career structure. The fairness provisions explicitly preserve constitutional protections -- no sitting justice is removed, no salary is reduced, life tenure continues. The severability clause ensures partial implementation if any provision faces legal challenge.
+**Title IV: Implementation.** Phased implementation over multiple years allows orderly transition. Circuit reorganization precedes Court composition alignment, ensuring the structural justification exists before new positions are filled. Automatic Chief Justice rotation begins when the first justice appointed under the expansion schedule reaches their eleventh year of active service, ensuring the mechanism operates only for justices appointed with knowledge of the three-phase career structure. The fairness provisions explicitly preserve constitutional protections -- no sitting justice is removed, no salary is reduced, life tenure continues. The severability clause ensures partial implementation if any provision faces legal challenge.
 
 ## Addressing Concerns
 
@@ -104,7 +148,16 @@ The reform is deliberately focused on structural problems -- circuit imbalance, 
 
 ## Revision History
 
-**Revision 1.3** (Current)
+**Revision 1.4** (Current)
+- Updated to reflect FJBAA Rev 1.4
+- Added new section "Numerical Basis for Circuit and Court Composition" explaining why fifteen circuits/positions is derived, not chosen
+- Revised Alternatives Considered: "fifteen justice positions" replaces "one Associate Justice per regional circuit, plus the Chief Justice"
+- Revised Title II rationale: "Fifteen justice positions align with fifteen regional circuits"
+- Added steady-state description: fourteen justices in Associate Justice phase plus one in Chief Justice phase
+- Added circuit justice assignment explanation to Provision Rationale
+- Fixed ASCII encoding issues (replaced special characters with ASCII-safe alternatives)
+
+**Revision 1.3**
 - Updated to reflect FJBAA Rev 1.3
 - Added three-phase career structure terminology throughout (Associate Justice, Chief Justice, Senior Justice)
 - Added "National anxiety over justice health and longevity" as fifth dysfunction in Problem Analysis

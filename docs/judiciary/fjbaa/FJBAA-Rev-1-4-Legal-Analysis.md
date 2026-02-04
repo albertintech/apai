@@ -4,13 +4,13 @@
 
 ### Published January 2025
 
-Based on Rev 1.3 of the Federal Judicial Balance and Accountability Act
+Based on Rev 1.4 of the Federal Judicial Balance and Accountability Act
 
 ---
 
 ## Introduction
 
-The Federal Judicial Balance and Accountability Act (FJBAA), hereafter "the Act," exercises congressional authority to reorganize the federal judiciary. While Congress has changed the size of the Supreme Court seven times and reorganized circuit boundaries repeatedly throughout American history, the Act's combination of reforms -- circuit reorganization, Court expansion, three-phase career structure, automatic Chief Justice rotation, and qualification requirements -- will face legal challenges. This analysis examines the constitutional basis for each major provision, identifies likely litigation theories, and assesses the Act's prospects for surviving judicial review.
+The Federal Judicial Balance and Accountability Act (FJBAA), hereafter "the Act," exercises congressional authority to reorganize the federal judiciary. While Congress has changed the size of the Supreme Court seven times and reorganized circuit boundaries repeatedly throughout American history, the Act's combination of reforms -- circuit reorganization, Court composition alignment, three-phase career structure, automatic Chief Justice rotation, and qualification requirements -- will face legal challenges. This analysis examines the constitutional basis for each major provision, identifies likely litigation theories, and assesses the Act's prospects for surviving judicial review.
 
 The central conclusion is that the Act operates within Congress's established constitutional authority under Article III and the Necessary and Proper Clause. The most significant legal question -- whether the Senior Justice mechanism preserves "good behavior" tenure -- has a strong textual and precedential basis, though it presents a question of first impression at the Supreme Court level. The automatic Chief Justice rotation presents minimal additional legal risk because it regulates duty assignments within continued judicial office, not tenure itself.
 
@@ -52,7 +52,7 @@ The Act respects both constraints. No sitting justice is removed from office. No
 
 ---
 
-## Supreme Court Expansion
+## Supreme Court Composition Alignment
 
 ### Constitutional Basis
 
@@ -60,13 +60,19 @@ The Constitution does not specify how many justices shall serve on the Supreme C
 
 ### Principled Basis vs. "Court Packing"
 
-While Congress clearly has authority to change the Court's size, the Act's political viability depends on distinguishing principled expansion from partisan court-packing.
+While Congress clearly has authority to change the Court's size, the Act's political viability depends on distinguishing principled composition alignment from partisan court-packing.
 
 Court-packing -- adding seats solely to change case outcomes -- triggered a constitutional crisis in 1937 when President Roosevelt proposed expanding the Court to overcome resistance to New Deal legislation. The proposal failed politically despite its technical legality, and the episode remains a cautionary example of legitimate authority exercised for illegitimate purposes.
 
-The Act provides a principled basis for Court size: alignment with circuit organization. Historically, Supreme Court membership corresponded to the number of judicial circuits, reflecting justices' duty to "ride circuit" and hear cases in regional courts. Six justices served six circuits; nine justices served nine circuits. The Act restores this relationship: fifteen Associate Justices for fifteen regional circuits.
+The Act provides a principled basis for Court size: alignment with circuit organization. Historically, Supreme Court membership corresponded to the number of judicial circuits, reflecting justices' duty to "ride circuit" and hear cases in regional courts. Six justices served six circuits; nine justices served nine circuits. The Act restores this relationship: fifteen justice positions for fifteen regional circuits.
 
-This structural justification -- unlike simple court-packing -- provides a limiting principle. The Court cannot expand indefinitely because its size is tied to circuit organization, not partisan convenience. Future Congresses seeking to add justices would need to justify additional circuits, constraining political manipulation.
+This structural justification -- unlike simple court-packing -- provides a limiting principle. The Court cannot expand indefinitely because its size is tied to circuit organization, not partisan convenience. Future Congresses seeking to add positions would need to justify additional circuits, constraining political manipulation.
+
+### Circuit Justice Assignments
+
+The Act assigns each justice to serve as circuit justice for one regional circuit, providing circuit justice coverage for emergency applications and administrative oversight. The Chief Justice additionally covers the D.C. Circuit and Federal Circuit -- specialized circuits that exist for subject-matter jurisdiction rather than population representation and therefore do not independently justify Supreme Court positions.
+
+This assignment structure reinforces the principled basis for Court composition: the number of positions derives from the number of regional circuits requiring circuit justice coverage, not from any desired ideological outcome.
 
 ### Phased Implementation
 
@@ -78,7 +84,7 @@ The Act's gradual expansion -- one justice per odd-numbered year -- further dist
 
 ### The Central Legal Question
 
-The Act's most significant legal innovation is the three-phase career structure: Associate Justice for years one through ten, Chief Justice for years eleven and twelve, and Senior Justice thereafter. This mechanism creates predictable vacancies without formal term limits.
+The Act's most significant legal innovation is the three-phase career structure: Associate Justice for years one through ten, Chief Justice for years eleven and twelve, and Senior Justice thereafter. These are phases within a single justice position, not separate offices. This mechanism creates predictable vacancies without formal term limits.
 
 The constitutional question is whether the Senior Justice transition preserves "good behavior" tenure as required by Article III, Section 1.
 
@@ -238,7 +244,7 @@ However, several features of the Act's specific requirements reduce vulnerabilit
 
 **Prior confirmation requirement.** Requiring federal appellate service means every Supreme Court nominee will have previously undergone Senate confirmation as an Article III judge. This leverages the existing appointment process rather than creating new barriers.
 
-**Severability.** If qualification requirements are struck down, the remainder of the Act continues in effect. The Act's core provisions (circuit reorganization, Court expansion, three-phase career structure) do not depend on Title III qualifications.
+**Severability.** If qualification requirements are struck down, the remainder of the Act continues in effect. The Act's core provisions (circuit reorganization, Court composition alignment, three-phase career structure) do not depend on Title III qualifications.
 
 ---
 
@@ -304,17 +310,17 @@ If challenges succeed at lower court levels, the Act's severability clause (Sect
 
 The Act includes an explicit severability clause: "If any provision of this Act is held invalid, the remainder shall remain in effect." (Section 403(c))
 
-This clause is significant because the Act's major components -- circuit reorganization, Court expansion, three-phase career structure, Chief Justice rotation, and qualification requirements -- can function independently:
+This clause is significant because the Act's major components -- circuit reorganization, Court composition alignment, three-phase career structure, Chief Justice rotation, and qualification requirements -- can function independently:
 
-**If three-phase career structure provisions are struck:** Court expansion could proceed without the regular replacement schedule. The expanded Court would operate like the current Court, with vacancies arising from death or voluntary retirement rather than scheduled transition. Chief Justice rotation would also fail, as it depends on the twelve-year active service framework.
+**If three-phase career structure provisions are struck:** Court composition alignment could proceed without the regular replacement schedule. The expanded Court would operate like the current Court, with vacancies arising from death or voluntary retirement rather than scheduled transition. Chief Justice rotation would also fail, as it depends on the twelve-year active service framework.
 
-**If Chief Justice rotation is struck:** The three-phase career structure and Court expansion provisions would operate with modification. The Chief Justice would be appointed through traditional nomination and confirmation during the transition period and thereafter as Senior Justice transitions create vacancies.
+**If Chief Justice rotation is struck:** The three-phase career structure and Court composition alignment provisions would operate with modification. The Chief Justice would be appointed through traditional nomination and confirmation during the transition period and thereafter as Senior Justice transitions create vacancies.
 
-**If qualification requirements are struck:** Court expansion, three-phase career structure, and Chief Justice rotation provisions would operate unchanged. The appointment process would continue without statutory qualification floor.
+**If qualification requirements are struck:** Court composition alignment, three-phase career structure, and Chief Justice rotation provisions would operate unchanged. The appointment process would continue without statutory qualification floor.
 
-**If Court expansion is limited:** Circuit reorganization would proceed independently. The circuit-aligned rationale for expansion would weaken, but population-based circuits serve independent purposes of workload balance and equal representation.
+**If Court composition alignment is limited:** Circuit reorganization would proceed independently. The circuit-aligned rationale for the composition would weaken, but population-based circuits serve independent purposes of workload balance and equal representation.
 
-**If circuit reorganization is struck:** This is unlikely given clear congressional authority over inferior courts. But if struck, Court expansion and three-phase career structure provisions would proceed under alternative rationales.
+**If circuit reorganization is struck:** This is unlikely given clear congressional authority over inferior courts. But if struck, Court composition alignment and three-phase career structure provisions would proceed under alternative rationales.
 
 The modular structure reduces the Act's vulnerability to total invalidation. Even successful challenges to specific provisions would leave substantial reforms in effect.
 
@@ -322,7 +328,7 @@ The modular structure reduces the Act's vulnerability to total invalidation. Eve
 
 ## Conclusion
 
-The Act operates within Congress's established constitutional authority to organize the federal judiciary. The strongest legal foundation supports circuit reorganization (explicit Article III authority, extensive historical practice) and Court expansion (seven historical precedents, no constitutional specification of Court size). Chief Justice rotation presents minimal additional risk because it regulates duty assignments among already-appointed justices rather than requiring new appointments. Qualification requirements face moderate uncertainty but are defensible under the Necessary and Proper Clause and survive severability analysis if struck.
+The Act operates within Congress's established constitutional authority to organize the federal judiciary. The strongest legal foundation supports circuit reorganization (explicit Article III authority, extensive historical practice) and Court composition alignment (seven historical precedents, no constitutional specification of Court size). Chief Justice rotation presents minimal additional risk because it regulates duty assignments among already-appointed justices rather than requiring new appointments. Qualification requirements face moderate uncertainty but are defensible under the Necessary and Proper Clause and survive severability analysis if struck.
 
 The three-phase career structure presents the most significant legal question. While strong textual arguments, Akhil Reed Amar's scholarly framework distinguishing duty regulation from tenure termination, and the precedent of 28 U.S.C. Section 371 support constitutionality, the provision applies a familiar mechanism (senior status) in a novel context (mandatory Supreme Court transition). A challenge reaching the merits would present a question of first impression.
 
@@ -334,8 +340,15 @@ The ultimate constitutional assessment will depend on how courts balance textual
 
 ## Revision History
 
-**Revision 1.3** (Current)
+**Revision 1.4** (Current)
+- Updated to reflect FJBAA Rev 1.4
+- Renamed "Supreme Court Expansion" section to "Supreme Court Composition Alignment"
+- Revised composition language: "fifteen justice positions" replaces "fifteen Associate Justices"
+- Added new subsection on Circuit Justice Assignments explaining how each position corresponds to one regional circuit
+- Updated three-phase career structure section to clarify phases are within a single position, not separate offices
+- Updated Severability Analysis terminology: "Court composition alignment" replaces "Court expansion"
 
+**Revision 1.3**
 - Updated to reflect FJBAA Rev 1.3
 - Replaced "senior service" with "Senior Justice" throughout
 - Renamed central section to "Three-Phase Career Structure and 'Good Behavior' Tenure"
@@ -344,7 +357,6 @@ The ultimate constitutional assessment will depend on how courts balance textual
 - Applied self-reference convention per APAI Document Production Standards Section 1.7
 
 **Revision 1.2**
-
 - Added new section on Chief Justice Rotation analyzing automatic seniority-based selection
 - Incorporated Akhil Reed Amar's "duty vs. tenure" scholarly framework into senior service analysis
 - Added duty regulation argument to Counterargument: Constructive Removal section
@@ -352,7 +364,6 @@ The ultimate constitutional assessment will depend on how courts balance textual
 - Updated Anticipated Challenges to include Chief Justice rotation Appointments Clause theory
 
 **Revision 1.1**
-
 - Initial publication based on FJBAA Rev 1.1
 
 ---

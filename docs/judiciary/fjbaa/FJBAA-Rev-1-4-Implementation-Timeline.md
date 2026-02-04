@@ -4,7 +4,7 @@
 
 ### Published January 2025
 
-Based on Rev 1.3 of the Federal Judicial Balance and Accountability Act
+Based on Rev 1.4 of the Federal Judicial Balance and Accountability Act
 
 ---
 
@@ -17,7 +17,7 @@ All dates below assume enactment with an effective date of January 1, 2026, as s
 | Phase | Duration | Key Milestone |
 |-------|----------|---------------|
 | Phase One: Circuit Reorganization | Years 1-2 | New circuit structure operational January 1, 2028 |
-| Phase Two: Court Expansion | Years 2-12 | Full 16-member Court achieved by 2037 |
+| Phase Two: Court Composition Alignment | Years 2-12 | All 15 justice positions filled by 2037 |
 | Phase Three: Three-Phase Career Structure | Year 11+ | Automatic CJ rotation begins 2037; regular replacement begins 2039 |
 
 ---
@@ -59,9 +59,9 @@ All dates below assume enactment with an effective date of January 1, 2026, as s
 
 ### First Odd-Numbered Year at Least 18 Months After Enactment (2027)
 
-**Court expansion begins.** The President nominates the first additional Associate Justice. This timing ensures:
+**Court composition alignment begins.** The President nominates the first additional justice. This timing ensures:
 
-- Expansion begins after circuit reorganization is underway
+- Composition alignment begins after circuit reorganization is underway
 - At least one full year of preparation before first expansion appointment
 - Appointments occur on predictable biennial schedule thereafter
 
@@ -89,21 +89,18 @@ All dates below assume enactment with an effective date of January 1, 2026, as s
 ### Year One (2026)
 
 **Q1 2026: Effective Date and Initiation**
-
 - The Act takes effect January 1, 2026
 - Qualification requirements apply to all future Supreme Court nominations
 - Administrative Office begins circuit boundary development
 - Existing justices may voluntarily elect Senior Justice status
 
 **Q2 2026: Boundary Development**
-
 - Administrative Office analyzes census data and population distribution
 - Draft boundaries developed prioritizing equal population and geographic contiguity
 - Stakeholder consultation with federal courts, state governments, bar associations
 - Circuit boundary proposal completed by June 30, 2026
 
 **Q3-Q4 2026: Preparation Period**
-
 - Congressional review of proposed boundaries
 - Federal courts begin transition planning
 - Circuit judge vacancy assessment conducted
@@ -112,14 +109,12 @@ All dates below assume enactment with an effective date of January 1, 2026, as s
 ### Year Two (2027)
 
 **Q1-Q2 2027: Transition Preparation**
-
 - Additional circuit judge nominations as needed (minimum six per regional circuit)
 - Court administrative systems updated for new circuit structure
 - Case routing procedures revised
 - Judicial reassignment notifications issued based on primary residence
 
 **Q3-Q4 2027: Final Preparation**
-
 - First expansion Supreme Court appointment occurs (see Phase Two)
 - Courts complete administrative transition preparations
 - Final implementation testing and verification
@@ -127,7 +122,6 @@ All dates below assume enactment with an effective date of January 1, 2026, as s
 ### Year Three (2028)
 
 **January 1, 2028: Circuit Reorganization Effective**
-
 - Fifteen regional circuits become operational
 - District courts assigned to new circuit jurisdictions
 - Appeals proceed to appropriate regional circuits
@@ -135,20 +129,22 @@ All dates below assume enactment with an effective date of January 1, 2026, as s
 
 ---
 
-## Phase Two: Court Expansion (2027-2037)
+## Phase Two: Court Composition Alignment (2027-2037)
 
-Court expansion proceeds gradually with one additional Associate Justice appointed each odd-numbered year. This distributes appointments across multiple administrations and prevents any single president from dominating the expanded Court.
+Court composition alignment proceeds gradually with one additional justice appointed each odd-numbered year. This distributes appointments across multiple administrations and prevents any single president from dominating the expanded Court.
 
 ### Expansion Schedule
 
-| Year | Appointment | Court Composition | Presidential Term |
-|------|-------------|-------------------|-------------------|
-| 2027 | 1st expansion | 10 members | Term ending Jan 2029 |
-| 2029 | 2nd expansion | 11 members | Term ending Jan 2033 |
-| 2031 | 3rd expansion | 12 members | Term ending Jan 2033 |
-| 2033 | 4th expansion | 13 members | Term ending Jan 2037 |
-| 2035 | 5th expansion | 14 members | Term ending Jan 2037 |
-| 2037 | 6th expansion | 15 Associate Justices + Chief Justice = 16 members | Term ending Jan 2041 |
+| Year | Appointment | Justices in Active Service | Presidential Term |
+|------|-------------|---------------------------|-------------------|
+| 2027 | 1st expansion | 10 | Term ending Jan 2029 |
+| 2029 | 2nd expansion | 11 | Term ending Jan 2033 |
+| 2031 | 3rd expansion | 12 | Term ending Jan 2033 |
+| 2033 | 4th expansion | 13 | Term ending Jan 2037 |
+| 2035 | 5th expansion | 14 | Term ending Jan 2037 |
+| 2037 | 6th expansion | 15 (full composition) | Term ending Jan 2041 |
+
+Note: At steady state, 15 justices serve in active service -- 14 in the Associate Justice phase and 1 in the Chief Justice phase. The Chief Justice phase is years 11-12 of the same justice position, not a separate position.
 
 ### Expansion Phase Characteristics
 
@@ -164,7 +160,7 @@ Court expansion proceeds gradually with one additional Associate Justice appoint
 
 ## Phase Three: Three-Phase Career Structure and Regular Replacement (2037+)
 
-Beginning eleven years after the first expansion appointment, the three-phase career structure becomes fully operational. Each justice progresses through Associate Justice (years 1-10), Chief Justice (years 11-12), and Senior Justice (year 13+).
+Beginning eleven years after the first expansion appointment, the three-phase career structure becomes fully operational. Each justice progresses through Associate Justice (years 1-10), Chief Justice (years 11-12), and Senior Justice (year 13+) -- three phases within a single justice position.
 
 ### Chief Justice Rotation and Replacement Schedule
 
@@ -186,17 +182,20 @@ Beginning eleven years after the first expansion appointment, the three-phase ca
 
 **Predictable presidential opportunities.** Every four-year presidential term includes exactly two appointment opportunities (two odd-numbered years). This equalizes influence across administrations regardless of party.
 
-**Three-phase career structure.** Each justice serves through three distinct phases:
-
+**Fifteen justice positions with three-phase career structure.** Each of the fifteen positions progresses through three phases:
 - **Associate Justice (Years 1-10):** Hearing and deciding cases, full participation in Court deliberations
 - **Chief Justice (Years 11-12):** Leading the Court and federal judiciary, presiding over sessions and conferences
 - **Senior Justice (Year 13+):** Reduced-duty status with full Article III protections and life tenure
+
+At any given time, 14 justices are in the Associate Justice phase and 1 is in the Chief Justice phase, totaling 15 justices in active service.
 
 **Two-year Chief Justice terms.** Each justice serves as Chief Justice for their final two years of active service (years eleven and twelve). This provides sufficient time for administrative leadership while ensuring regular rotation and diffusing power that would otherwise concentrate in a single individual.
 
 **Every justice serves as Chief Justice.** Under the automatic rotation system, every justice who completes a full term serves as Chief Justice. The position becomes a capstone to distinguished service rather than a selective appointment based on presidential preference and actuarial chance.
 
 **Seniority-based succession.** The most senior Associate Justice who has not previously served as Chief Justice automatically assumes the role upon commencing their eleventh year. This ensures orderly succession and prevents any justice from being passed over.
+
+**Circuit justice assignments.** Each justice serves as circuit justice for one assigned regional circuit. The Chief Justice additionally covers the D.C. Circuit and Federal Circuit.
 
 **Senior Justice status preserves Article III protections.** Transitioning justices retain full constitutional protections, salary, benefits, and life tenure. They may continue hearing cases by Chief Justice assignment, sit on circuit courts by designation, or decline assignments without penalty.
 
@@ -212,7 +211,7 @@ Certain provisions must occur in sequence; others may proceed in parallel.
 
 1. **Boundary development must precede circuit reorganization.** The Administrative Office must complete population-based boundary proposals before new circuits can take effect.
 
-2. **Circuit reorganization provides basis for Court expansion.** The principled justification for fifteen Associate Justices -- one per regional circuit -- requires the circuit structure to be established or underway before expansion begins.
+2. **Circuit reorganization provides basis for Court composition alignment.** The principled justification for fifteen justice positions -- one per regional circuit -- requires the circuit structure to be established or underway before expansion begins.
 
 3. **Expansion must precede regular replacement.** The twelve-year clock for Senior Justice transition begins only for justices appointed under the expansion schedule. Regular replacement cannot begin until at least twelve years after the first expansion appointment.
 
@@ -224,7 +223,7 @@ Certain provisions must occur in sequence; others may proceed in parallel.
 
 - **Qualification requirements and circuit reorganization** proceed independently. Title III applies immediately while Title I phases in over two years.
 
-- **Circuit judge appointments and Supreme Court expansion** may proceed in parallel. Additional circuit judges for the reorganized circuits do not depend on Supreme Court composition.
+- **Circuit judge appointments and Supreme Court composition alignment** may proceed in parallel. Additional circuit judges for the reorganized circuits do not depend on Supreme Court composition.
 
 - **Existing justice decisions** are independent. Sitting justices may voluntarily elect Senior Justice status at any time without affecting the expansion or replacement schedule.
 
@@ -242,7 +241,6 @@ Certain provisions must occur in sequence; others may proceed in parallel.
 ### Judicial Qualifications Panel
 
 Section 303(b) establishes a five-member panel for each Supreme Court nominee:
-
 - Two federal judges selected by the Chief Justice
 - Two practicing attorneys selected by the American Bar Association
 - One law professor selected by the Association of American Law Schools
@@ -258,7 +256,6 @@ This panel must be constituted for each nomination and complete its review befor
 ### Appropriations Requirements
 
 Section 404 authorizes appropriations for:
-
 - Additional judicial salaries and benefits (circuit judges, expanded Supreme Court)
 - Court facilities and administrative costs
 - Circuit reorganization implementation
@@ -271,7 +268,6 @@ Section 404 authorizes appropriations for:
 ### Existing Supreme Court Justices
 
 Justices serving on January 1, 2026:
-
 - May continue in active service indefinitely
 - May voluntarily elect Senior Justice status at any time
 - Are not subject to the three-phase career structure
@@ -281,7 +277,6 @@ Justices serving on January 1, 2026:
 ### Existing Chief Justice
 
 The Chief Justice serving on the effective date:
-
 - Continues in that capacity until death, voluntary election of Senior Justice status, or removal
 - Is not subject to the two-year term limit applicable to justices appointed under the Act
 - If a vacancy occurs before automatic rotation begins (2037), the President designates a replacement from among sitting Associate Justices, subject to Senate confirmation
@@ -289,7 +284,6 @@ The Chief Justice serving on the effective date:
 ### Chief Justice Incapacity or Vacancy (After Automatic Rotation Begins)
 
 Once automatic rotation is operational:
-
 - If the Chief Justice is temporarily unable to perform duties, the Associate Justice with the longest tenure in active service serves as Acting Chief Justice
 - If the Chief Justice dies, is removed, or elects early transition to Senior Justice during their term, the Associate Justice next in line under the automatic selection process becomes Chief Justice for the remainder of their own eleventh and twelfth years of active service
 - If no Associate Justice has reached their eleventh year of active service when a vacancy occurs, the transition period provisions apply
@@ -297,7 +291,6 @@ Once automatic rotation is operational:
 ### Existing Circuit Judges
 
 Circuit judges serving when reorganization takes effect:
-
 - Are reassigned to the regional circuit encompassing their primary residence
 - Maintain their Article III status and tenure
 - Continue hearing cases in their reassigned circuit
@@ -318,10 +311,10 @@ Circuit judges serving when reorganization takes effect:
 - **180-day boundary development deadline:** Statutory requirement, not discretionary
 - **24-month minimum before circuit reorganization:** Ensures adequate preparation
 - **18-month minimum before first expansion appointment:** Ensures orderly sequencing
-- **10-year Associate Justice term:** Defines when Chief Justice transition occurs
+- **10-year Associate Justice phase:** Defines when Chief Justice transition occurs
 - **11-year active service before Chief Justice rotation:** Defines when automatic CJ selection occurs
 - **12-year active service before Senior Justice transition:** Defines replacement schedule
-- **2-year Chief Justice term:** Years eleven and twelve of active service
+- **2-year Chief Justice phase:** Years eleven and twelve of active service
 - **Odd-numbered year appointments:** Creates predictable biennial schedule
 - **120-day Senate consideration:** Prevents indefinite obstruction
 
@@ -346,7 +339,7 @@ Circuit judges serving when reorganization takes effect:
 | 2031 | Third expansion appointment |
 | 2033 | Fourth expansion appointment |
 | 2035 | Fifth expansion appointment |
-| 2037 | Sixth expansion appointment; full composition achieved; automatic CJ rotation begins |
+| 2037 | Sixth expansion appointment; all 15 positions filled; automatic CJ rotation begins |
 | 2039 | Regular replacement schedule begins |
 | 2041+ | Predictable biennial appointments and CJ rotation continue indefinitely |
 
@@ -354,8 +347,19 @@ Circuit judges serving when reorganization takes effect:
 
 ## Revision History
 
-**Revision 1.3** (Current)
+**Revision 1.4** (Current)
+- Updated to reflect FJBAA Rev 1.4
+- Renamed Phase Two from "Court Expansion" to "Court Composition Alignment"
+- Revised Timeline Overview table: "15 justice positions filled" replaces "16-member Court"
+- Revised Expansion Schedule table: "Justices in Active Service" column replaces "Court Composition"; removed "15 Associate Justices + Chief Justice = 16" language
+- Added note clarifying 15 justices in active service with 14 in Associate Justice phase and 1 in Chief Justice phase
+- Revised Phase Three to clarify three phases are within a single justice position
+- Updated Steady-State Characteristics with circuit justice assignment explanation
+- Updated Sequencing Requirements: "fifteen justice positions" replaces "fifteen Associate Justices"
+- Updated Firm Requirements: "Associate Justice phase" and "Chief Justice phase" terminology
+- Updated Summary Timeline: "all 15 positions filled" replaces "full composition achieved"
 
+**Revision 1.3**
 - Updated to reflect FJBAA Rev 1.3
 - Renamed Phase Three to "Three-Phase Career Structure and Regular Replacement"
 - Replaced "senior service" with "Senior Justice" throughout
@@ -365,7 +369,6 @@ Circuit judges serving when reorganization takes effect:
 - Applied self-reference convention per APAI Document Production Standards Section 1.7
 
 **Revision 1.2**
-
 - Revised Timeline Overview table to include CJ rotation milestone
 - Added "Eleven Years After First Expansion Appointment" to Effective Date Architecture
 - Revised Phase Two to replace presidential CJ elevation with transition period provisions
@@ -377,7 +380,6 @@ Circuit judges serving when reorganization takes effect:
 - Updated Summary Timeline to include CJ rotation milestones
 
 **Revision 1.1**
-
 - Initial publication based on FJBAA Rev 1.1
 
 ---
