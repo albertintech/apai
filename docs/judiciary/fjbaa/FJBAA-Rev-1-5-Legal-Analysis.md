@@ -66,7 +66,7 @@ While Congress clearly has authority to change the Court's size, the Act's polit
 
 Court-packing -- adding seats solely to change case outcomes -- triggered a constitutional crisis in 1937 when President Roosevelt proposed expanding the Court to overcome resistance to New Deal legislation. The proposal failed politically despite its technical legality, and the episode remains a cautionary example of legitimate authority exercised for illegitimate purposes.
 
-The Act provides a principled basis for Court size: alignment with circuit organization. Historically, Supreme Court membership corresponded to the number of judicial circuits, reflecting justices' duty to "ride circuit" and hear cases in regional courts. Six justices served six circuits; nine justices served nine circuits. The Act restores this relationship: fifteen Associate Justices for fifteen regional circuits.
+The Act provides a principled basis for Court size: alignment with circuit organization. Historically, Supreme Court membership corresponded to the number of judicial circuits, reflecting justices' duty to "ride circuit" and hear cases in regional courts. Six justices served six circuits; nine justices served nine circuits. The Act restores this relationship: fifteen Justices (fourteen Associates and one Chief) for fifteen regional circuits.
 
 This structural justification -- unlike simple court-packing -- provides a limiting principle. The Court cannot expand indefinitely because its size is tied to circuit organization, not partisan convenience. Future Congresses seeking to add justices would need to justify additional circuits, constraining political manipulation.
 
