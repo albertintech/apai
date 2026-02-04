@@ -89,18 +89,21 @@ All dates below assume enactment with an effective date of January 1, 2026, as s
 ### Year One (2026)
 
 **Q1 2026: Effective Date and Initiation**
+
 - The Act takes effect January 1, 2026
 - Qualification requirements apply to all future Supreme Court nominations
 - Administrative Office begins circuit boundary development
 - Existing justices may voluntarily elect Senior Justice status
 
 **Q2 2026: Boundary Development**
+
 - Administrative Office analyzes census data and population distribution
 - Draft boundaries developed prioritizing equal population and geographic contiguity
 - Stakeholder consultation with federal courts, state governments, bar associations
 - Circuit boundary proposal completed by June 30, 2026
 
 **Q3-Q4 2026: Preparation Period**
+
 - Congressional review of proposed boundaries
 - Federal courts begin transition planning
 - Circuit judge vacancy assessment conducted
@@ -109,12 +112,14 @@ All dates below assume enactment with an effective date of January 1, 2026, as s
 ### Year Two (2027)
 
 **Q1-Q2 2027: Transition Preparation**
+
 - Additional circuit judge nominations as needed (minimum six per regional circuit)
 - Court administrative systems updated for new circuit structure
 - Case routing procedures revised
 - Judicial reassignment notifications issued based on primary residence
 
 **Q3-Q4 2027: Final Preparation**
+
 - First expansion Supreme Court appointment occurs (see Phase Two)
 - Courts complete administrative transition preparations
 - Final implementation testing and verification
@@ -122,6 +127,7 @@ All dates below assume enactment with an effective date of January 1, 2026, as s
 ### Year Three (2028)
 
 **January 1, 2028: Circuit Reorganization Effective**
+
 - Fifteen regional circuits become operational
 - District courts assigned to new circuit jurisdictions
 - Appeals proceed to appropriate regional circuits
@@ -181,6 +187,7 @@ Beginning eleven years after the first expansion appointment, the three-phase ca
 **Predictable presidential opportunities.** Every four-year presidential term includes exactly two appointment opportunities (two odd-numbered years). This equalizes influence across administrations regardless of party.
 
 **Three-phase career structure.** Each justice serves through three distinct phases:
+
 - **Associate Justice (Years 1-10):** Hearing and deciding cases, full participation in Court deliberations
 - **Chief Justice (Years 11-12):** Leading the Court and federal judiciary, presiding over sessions and conferences
 - **Senior Justice (Year 13+):** Reduced-duty status with full Article III protections and life tenure
@@ -235,6 +242,7 @@ Certain provisions must occur in sequence; others may proceed in parallel.
 ### Judicial Qualifications Panel
 
 Section 303(b) establishes a five-member panel for each Supreme Court nominee:
+
 - Two federal judges selected by the Chief Justice
 - Two practicing attorneys selected by the American Bar Association
 - One law professor selected by the Association of American Law Schools
@@ -250,6 +258,7 @@ This panel must be constituted for each nomination and complete its review befor
 ### Appropriations Requirements
 
 Section 404 authorizes appropriations for:
+
 - Additional judicial salaries and benefits (circuit judges, expanded Supreme Court)
 - Court facilities and administrative costs
 - Circuit reorganization implementation
@@ -262,6 +271,7 @@ Section 404 authorizes appropriations for:
 ### Existing Supreme Court Justices
 
 Justices serving on January 1, 2026:
+
 - May continue in active service indefinitely
 - May voluntarily elect Senior Justice status at any time
 - Are not subject to the three-phase career structure
@@ -271,6 +281,7 @@ Justices serving on January 1, 2026:
 ### Existing Chief Justice
 
 The Chief Justice serving on the effective date:
+
 - Continues in that capacity until death, voluntary election of Senior Justice status, or removal
 - Is not subject to the two-year term limit applicable to justices appointed under the Act
 - If a vacancy occurs before automatic rotation begins (2037), the President designates a replacement from among sitting Associate Justices, subject to Senate confirmation
@@ -278,6 +289,7 @@ The Chief Justice serving on the effective date:
 ### Chief Justice Incapacity or Vacancy (After Automatic Rotation Begins)
 
 Once automatic rotation is operational:
+
 - If the Chief Justice is temporarily unable to perform duties, the Associate Justice with the longest tenure in active service serves as Acting Chief Justice
 - If the Chief Justice dies, is removed, or elects early transition to Senior Justice during their term, the Associate Justice next in line under the automatic selection process becomes Chief Justice for the remainder of their own eleventh and twelfth years of active service
 - If no Associate Justice has reached their eleventh year of active service when a vacancy occurs, the transition period provisions apply
@@ -285,6 +297,7 @@ Once automatic rotation is operational:
 ### Existing Circuit Judges
 
 Circuit judges serving when reorganization takes effect:
+
 - Are reassigned to the regional circuit encompassing their primary residence
 - Maintain their Article III status and tenure
 - Continue hearing cases in their reassigned circuit
@@ -342,6 +355,7 @@ Circuit judges serving when reorganization takes effect:
 ## Revision History
 
 **Revision 1.3** (Current)
+
 - Updated to reflect FJBAA Rev 1.3
 - Renamed Phase Three to "Three-Phase Career Structure and Regular Replacement"
 - Replaced "senior service" with "Senior Justice" throughout
@@ -351,6 +365,7 @@ Circuit judges serving when reorganization takes effect:
 - Applied self-reference convention per APAI Document Production Standards Section 1.7
 
 **Revision 1.2**
+
 - Revised Timeline Overview table to include CJ rotation milestone
 - Added "Eleven Years After First Expansion Appointment" to Effective Date Architecture
 - Revised Phase Two to replace presidential CJ elevation with transition period provisions
@@ -362,6 +377,7 @@ Circuit judges serving when reorganization takes effect:
 - Updated Summary Timeline to include CJ rotation milestones
 
 **Revision 1.1**
+
 - Initial publication based on FJBAA Rev 1.1
 
 ---

@@ -75,6 +75,7 @@ The full legislative text provides complete statutory language. The Policy Ratio
 ## Revision History
 
 **Revision 1.3** (Current)
+
 - Updated to reflect FJBAA Rev 1.3
 - Added national anxiety over justice health and longevity to Problem Statement
 - Revised Solution Architecture to feature three-phase career structure as distinct mechanism
@@ -84,6 +85,7 @@ The full legislative text provides complete statutory language. The Policy Ratio
 - Applied self-reference convention per APAI Document Production Standards Section 1.7
 
 **Revision 1.2**
+
 - Added automatic Chief Justice rotation as fifth structural mechanism in Solution Architecture
 - Revised Title II summary to explain seniority-based CJ selection and two-year term
 - Added CJ rotation timing to Title IV summary
@@ -91,6 +93,7 @@ The full legislative text provides complete statutory language. The Policy Ratio
 - Revised Conclusion to include CJ rotation among structural reforms
 
 **Revision 1.1**
+
 - Initial publication based on FJBAA Rev 1.1
 
 ---

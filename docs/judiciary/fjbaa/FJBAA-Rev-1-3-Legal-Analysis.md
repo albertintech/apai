@@ -335,6 +335,7 @@ The ultimate constitutional assessment will depend on how courts balance textual
 ## Revision History
 
 **Revision 1.3** (Current)
+
 - Updated to reflect FJBAA Rev 1.3
 - Replaced "senior service" with "Senior Justice" throughout
 - Renamed central section to "Three-Phase Career Structure and 'Good Behavior' Tenure"
@@ -343,6 +344,7 @@ The ultimate constitutional assessment will depend on how courts balance textual
 - Applied self-reference convention per APAI Document Production Standards Section 1.7
 
 **Revision 1.2**
+
 - Added new section on Chief Justice Rotation analyzing automatic seniority-based selection
 - Incorporated Akhil Reed Amar's "duty vs. tenure" scholarly framework into senior service analysis
 - Added duty regulation argument to Counterargument: Constructive Removal section
@@ -350,6 +352,7 @@ The ultimate constitutional assessment will depend on how courts balance textual
 - Updated Anticipated Challenges to include Chief Justice rotation Appointments Clause theory
 
 **Revision 1.1**
+
 - Initial publication based on FJBAA Rev 1.1
 
 ---

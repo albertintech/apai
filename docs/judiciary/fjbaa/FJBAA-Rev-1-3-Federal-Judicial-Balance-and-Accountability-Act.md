@@ -475,6 +475,7 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 ## Revision History
 
 **Revision 1.3** (Current)
+
 - Established three distinct justice roles with clear terminology: Associate Justice (years 1-10), Chief Justice (years 11-12), Senior Justice (year 13+)
 - Revised Section 3 (Definitions) to define Associate Justice, Chief Justice, and Senior Justice as distinct phases
 - Restructured Section 203 as "Three-Phase Justice Career Structure" consolidating the duties for each phase
@@ -486,6 +487,7 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 - Section 204 updated for consistency with three-phase terminology
 
 **Revision 1.2**
+
 - Revised Section 204 to establish automatic Chief Justice rotation
 - Chief Justice now selected automatically by seniority for final two years of active service (years 11-12)
 - Eliminates separate nomination and confirmation for Chief Justice position
@@ -495,6 +497,7 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 - Added findings (11) and purposes (9) regarding Chief Justice rotation and power diffusion
 
 **Revision 1.1**
+
 - Reformatted document to comply with APAI Document Production Manual Rev 1.1
 - Corrected Title and Section heading formats
 - Moved Revision History to document end
@@ -503,6 +506,7 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 - Removed Legislative Notes section (rationale belongs in separate Policy Rationale document)
 
 **Revision 1.0**
+
 - Initial comprehensive draft
 - Establishes fifteen population-based judicial circuits
 - Aligns Supreme Court composition with circuit organization
