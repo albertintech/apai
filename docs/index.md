@@ -64,9 +64,9 @@ The Compact combines three components designed to function independently while i
 
 ### Federal Judiciary
 
-**Federal Judicial Balance and Accountability Act (FJBAA)** — Restructures the federal judiciary to address population-based representation, predictable appointments, and qualification standards. The Act establishes a three-phase career structure for Supreme Court Justices — Associate Justice for ten years, Chief Justice for two years, then Senior Justice — combined with fifteen justices aligned to population-based circuits and predictable biennial appointments.
+**Federal Judicial Balance and Accountability Act (FJBAA)** — Restructures the federal judiciary to address population-based representation, predictable appointments, transparent evaluation of nominees, and enforceable ethics. The Act establishes fifteen justices aligned to population-based circuits, a three-phase career structure (Associate Justice for ten years, Chief Justice for two years, then Senior Justice), automatic Chief Justice rotation, evidence-based documentation requirements for nominees, and binding ethical standards enforced by Senior Justices.
 
-[Learn more](judiciary/fjbaa/FJBAA-Rev-1-3-Introduction.md)
+[Learn more](judiciary/fjbaa/FJBAA-Rev-1-6-Introduction.md)
 
 ---
 
