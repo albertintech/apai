@@ -2,9 +2,9 @@
 
 ## Policy Rationale
 
-### Published February 2025
+### Published February 2026
 
-Based on Rev 1.7 of the Federal Judicial Balance and Accountability Act
+Based on Rev 1.8 of the Federal Judicial Balance and Accountability Act
 
 ---
 
@@ -195,6 +195,37 @@ Lottery selection is critical. It prevents any actor from stacking the Bridge Pa
 
 **Partisan manipulation.** Critics may argue the Act advantages whichever party passes it. Three design features address this concern. First, phased alignment spreads appointments across multiple administrations -- no single president gains more than two or three seats during transition. Second, the regular replacement schedule guarantees exactly two appointments per presidential term once fully implemented, regardless of party. Third, circuit-aligned sizing provides a principled ceiling that constrains future manipulation.
 
+**Senate confirmation timeline enforcement.** The Act establishes a 120-day timeline for Senate consideration of Supreme Court nominations (Section 202(b)) but does not specify consequences if the Senate fails to act. Critics may argue this is a structural weakness -- that the 2016 Garland blockade demonstrates how Senate inaction can defeat the entire appointment framework.
+
+This limitation is deliberate, not an oversight. The Constitution grants each chamber authority to "determine the Rules of its Proceedings" (Article I, Section 5). Scholarly analysis confirms that a statute cannot constitutionally override the Senate's power to control its own procedural rules. Any enforcement mechanism that purports to "deem" Senate consent waived, or that mandates a floor vote, would be unenforceable -- the Senate could simply adopt a rule declaring that it had considered the nomination (by voting to table it, for example), thereby complying with the letter of any statute while achieving the same obstruction.
+
+The Act addresses this limitation through three structural mitigations rather than unenforceable mandates:
+
+First, the predictable appointment schedule reduces obstruction incentives. Under the current system, blocking one appointment can shift the Court's direction for a generation -- the stakes are existential. Under the Act, each party knows that appointments will alternate predictably; obstruction in one cycle merely delays the inevitable while imposing significant political cost. The regular replacement schedule transforms each appointment from a winner-take-all battle into one move in an ongoing sequence.
+
+Second, the vacancy coverage mechanism (Section 205) ensures the Court continues functioning regardless of Senate action. If the Senate refuses to confirm a nominee, a Senior Justice fills the vacant seat through the rotation system until the next regularly scheduled appointment. The obstructing party gains nothing -- they do not prevent a justice from serving, they merely delay the confirmation of a permanent replacement. This removes the strategic payoff that made the Garland blockade attractive.
+
+Third, the two-appointments-per-term framework creates symmetric political expectations. A senator who supports obstruction when their party is in the minority must contemplate that their party will face the same obstruction when the roles reverse. This symmetry, combined with public visibility of departures from the 120-day norm, creates political accountability even without legal enforcement.
+
+The structures-over-norms philosophy does not require that every structural mechanism be legally enforceable. Some structures operate through incentive alignment rather than compulsion. The 120-day timeline establishes a clear norm with visible compliance metrics; the vacancy coverage mechanism removes the strategic benefit of violation; the predictable appointment schedule reduces the stakes of any individual confirmation. Together, these structural features make obstruction politically costly and strategically futile -- a more durable protection than an unenforceable mandate.
+
+!!! info "Cross-Portfolio Integration: Binding Senate Procedural Rules"
+
+    Full enforcement of Senate confirmation deadlines would require the Senate to adopt binding procedural rules on itself -- a reform that is politically unrealistic under current two-party, winner-take-all conditions where the majority party has strong incentives to preserve obstruction tools for future use when they become the minority.
+
+    The American Policy Architecture Institute (APAI) has developed a reform pathway that creates the political conditions under which such self-binding becomes feasible:
+
+    The [Congressional Modernization Framework (CMF)](../../congress/cmf/CMF-Rev-1-0-Introduction.md) integrates two complementary reforms. The [Federal Elections Modernization Act (FEMA)](../../congress/cmf/fema/FEMA-Rev-5-0-Introduction.md) establishes proportional representation and multi-party ballot access, creating coalition governance conditions where no single party controls either chamber. The [Office of Congressional Procedure Act (OCP)](../../congress/cmf/ocp/OCP-Rev-1-1-Introduction.md) establishes independent procedural infrastructure with phased authority that becomes binding over time.
+
+    Under coalition governance -- where multiple parties must cooperate to govern -- locking in predictable procedural rules benefits all coalition partners. A future OCP amendment (Section 505B, Nomination Consideration Deadlines) could establish:
+
+    - Mandatory Judiciary Committee hearings within 60 days of nomination receipt
+    - Mandatory floor vote within 120 days of nomination receipt
+    - Privileged calendar status upon deadline passage, with non-debatable motion to proceed
+    - Two-thirds supermajority waiver requirement
+
+    The Federal Judicial Balance and Accountability Act is designed to function effectively without this enhancement, but would benefit from it once the political conditions exist.
+
 **Why focus on the Supreme Court?** Critics may argue that the Act's focus on Supreme Court composition and career structure reveals partisan motivation -- that reformers simply want to change the Court that issues decisions they dislike, while leaving the rest of the federal judiciary untouched. This accusation has rhetorical force because every major court reform proposal in living memory has arisen during periods of dissatisfaction with the Court's ideological direction. But the substance does not support the accusation, for several reasons.
 
 First, the structural dysfunctions the Act addresses are SCOTUS-specific dysfunctions. Actuarial randomness in appointments matters at the Supreme Court because each seat shapes constitutional interpretation for a generation; a district court vacancy does not trigger national constitutional anxiety. The "national anxiety over justice health" problem is inherently a phenomenon of a small court of last resort with life tenure and no regular turnover. Chief Justice power concentration is a SCOTUS-specific problem because circuit chief judges already rotate by seniority under 28 U.S.C. Section 45. The ethics gap is a SCOTUS-specific gap because lower federal judges are already bound by the Code of Conduct and subject to discipline under the Judicial Conduct and Disability Act. The Act focuses on the Supreme Court because that is where the problems are.
@@ -257,7 +288,17 @@ The reform is deliberately focused on structural problems -- circuit imbalance, 
 
 ## Revision History
 
-**Revision 1.7** (Current)
+**Revision 1.8** (Current)
+- Updated reference line to reflect FJBAA Rev 1.8
+- Updated publication date to February 2026
+- Added "Senate confirmation timeline enforcement" to Addressing Concerns explaining:
+  - Why the 120-day timeline is deliberately non-binding (Article I, Section 5 procedural autonomy)
+  - The constitutional barrier to statutory enforcement of Senate procedural deadlines
+  - Three structural mitigations that make obstruction politically costly without unenforceable mandates: predictable appointment schedule, vacancy coverage mechanism (Section 205), symmetric political expectations
+  - The structures-over-norms philosophy accommodates mechanisms that operate through incentive alignment rather than legal compulsion
+- Added cross-portfolio integration note describing future pathway for binding Senate procedural rules through the Congressional Modernization Framework (CMF), Federal Elections Modernization Act (FEMA), and Office of Congressional Procedure Act (OCP)
+
+**Revision 1.7**
 - Updated reference line to reflect FJBAA Rev 1.7
 - Incorporated SCOTUS-specific Section 371 precedent material throughout
 - Added paragraph to Alternatives Considered documenting that the duty-versus-tenure distinction is already operationalized in existing law for Supreme Court justices (Clark, Souter, O'Connor, Breyer)
