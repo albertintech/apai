@@ -215,16 +215,16 @@ The structures-over-norms philosophy does not require that every structural mech
 
     The American Policy Architecture Institute (APAI) has developed a reform pathway that creates the political conditions under which such self-binding becomes feasible:
 
-    The [Congressional Modernization Framework (CMF)](../../congress/cmf/CMF-Rev-1-0-Introduction.md) integrates two complementary reforms. The [Federal Elections Modernization Act (FEMA)](../../congress/cmf/fema/FEMA-Rev-5-0-Introduction.md) establishes proportional representation and multi-party ballot access, creating coalition governance conditions where no single party controls either chamber. The [Office of Congressional Procedure Act (OCP)](../../congress/cmf/ocp/OCP-Rev-1-1-Introduction.md) establishes independent procedural infrastructure with phased authority that becomes binding over time.
+    The [Congressional Modernization Framework (CMF)](../../congress/cmf/CMF-Rev-1-0-Introduction.md) integrates two complementary reforms. The [Federal Elections Modernization Act (FEMA)](../../congress/cmf/fema/FEMA-Rev-5-0-Introduction.md) establishes proportional representation and multi-party ballot access, creating coalition governance conditions where no single party controls either chamber. The [Office of Congressional Procedure Act (OCP)](../../congress/cmf/ocp/OCP-Rev-1-2-Introduction.md) establishes independent procedural infrastructure with phased authority that becomes binding over time.
 
-    Under coalition governance -- where multiple parties must cooperate to govern -- locking in predictable procedural rules benefits all coalition partners. A future OCP amendment (Section 505B, Nomination Consideration Deadlines) could establish:
+    Under coalition governance -- where multiple parties must cooperate to govern -- locking in predictable procedural rules benefits all coalition partners. The OCP's Section 505B (Supreme Court Nomination Consideration) establishes:
 
-    - Mandatory Judiciary Committee hearings within 60 days of nomination receipt
-    - Mandatory floor vote within 120 days of nomination receipt
+    - Mandatory Judiciary Committee hearings within 60 legislative days of nomination receipt
+    - Mandatory floor vote within 120 legislative days of nomination receipt
     - Privileged calendar status upon deadline passage, with non-debatable motion to proceed
     - Two-thirds supermajority waiver requirement
 
-    The Federal Judicial Balance and Accountability Act is designed to function effectively without this enhancement, but would benefit from it once the political conditions exist.
+    These provisions take effect upon activation of Phase 2 authority. The Federal Judicial Balance and Accountability Act is designed to function effectively without this enhancement, but integrates with it once the political conditions exist.
 
 **Why focus on the Supreme Court?** Critics may argue that the Act's focus on Supreme Court composition and career structure reveals partisan motivation -- that reformers simply want to change the Court that issues decisions they dislike, while leaving the rest of the federal judiciary untouched. This accusation has rhetorical force because every major court reform proposal in living memory has arisen during periods of dissatisfaction with the Court's ideological direction. But the substance does not support the accusation, for several reasons.
 
