@@ -2,17 +2,17 @@
 
 ## Legal Analysis
 
-### Published February 2025
+### Published February 2026
 
-Based on Rev 1.7 of the Federal Judicial Balance and Accountability Act
+Based on Rev 2.1 of the Federal Judicial Balance and Accountability Act
 
 ---
 
 ## Introduction
 
-The Federal Judicial Balance and Accountability Act (FJBAA), hereafter "the Act," exercises congressional authority to reorganize the federal judiciary. While Congress has changed the size of the Supreme Court seven times and reorganized circuit boundaries repeatedly throughout American history, the Act's combination of reforms -- circuit reorganization, Court expansion, three-phase career structure, automatic Chief Justice rotation, transparency requirements, and ethics enforcement -- will face legal challenges. This analysis examines the constitutional basis for each major provision, identifies likely litigation theories, and assesses the Act's prospects for surviving judicial review.
+The Federal Judicial Balance and Accountability Act (FJBAA), hereafter "the Act," exercises congressional authority to reorganize the federal judiciary. While Congress has changed the size of the Supreme Court seven times and reorganized circuit boundaries repeatedly throughout American history, the Act's combination of reforms -- circuit reorganization, Court expansion, three-phase career structure, shared Co-Chief Justice leadership, appointment equalization, vacancy coverage rotation, slate-based nomination with BLOC STAR voting, transparency requirements, and ethics enforcement -- will face legal challenges. This analysis examines the constitutional basis for each major provision, identifies likely litigation theories, and assesses the Act's prospects for surviving judicial review.
 
-The central conclusion is that the Act operates within Congress's established constitutional authority under Article III and the Necessary and Proper Clause. The most significant legal question -- whether the Senior Justice mechanism preserves "good behavior" tenure -- has a strong textual and precedential basis, reinforced by the demonstrated practice of Supreme Court justices themselves transitioning from active service to hearing cases on lower courts under existing statutory authority. The automatic Chief Justice rotation presents minimal additional legal risk because it regulates duty assignments within continued judicial office, not tenure itself. The ethics provisions of Title V operate under the same constitutional framework, with Mandatory Early Transition representing a sanction that changes duty assignment while preserving tenure. The transparency and documentation requirements of Title III present minimal constitutional risk because they regulate Senate procedures for advice and consent rather than constraining presidential nomination discretion.
+The central conclusion is that the Act operates within Congress's established constitutional authority under Article III and the Necessary and Proper Clause. The most significant legal question -- whether the Senior Justice mechanism preserves "good behavior" tenure -- has a strong textual and precedential basis, reinforced by the demonstrated practice of Supreme Court justices themselves transitioning from active service to hearing cases on lower courts under existing statutory authority. The Co-Chief Justice model presents minimal additional legal risk because it regulates duty assignments within continued judicial office, not tenure itself -- and preserves a presidential role in the Ceremonial Chief Justice designation. The vacancy coverage system and appointment equalization mechanism operate under the same Article III organizational authority that permits Congress to structure appointment schedules and manage judicial vacancies. The slate-based nomination and BLOC STAR voting provisions operate within Congress's Necessary and Proper Clause authority to structure the advice-and-consent process, following established precedent from statutory frameworks that require specific Senate action within defined timelines while leaving internal procedural mechanics to Senate rules. The ethics provisions of Title V operate under the same constitutional framework, with Mandatory Early Transition representing a sanction that changes duty assignment while preserving tenure. The transparency and documentation requirements of Title III present minimal constitutional risk because they regulate Senate procedures for advice and consent rather than constraining presidential nomination discretion. The voluntary opt-in mechanism for Legacy Associate Justices raises no independent constitutional concern because it is voluntary, preserves all Article III protections, and operates through the same career structure framework the Act establishes for new appointees.
 
 ---
 
@@ -80,7 +80,7 @@ The Act's gradual expansion -- one justice per odd-numbered year -- further dist
 
 ### The Central Legal Question
 
-The Act's most significant legal innovation is the three-phase career structure: Associate Justice for years one through ten, Chief Justice for years eleven and twelve, and Senior Justice thereafter. This mechanism creates predictable vacancies without formal term limits.
+The Act's most significant legal innovation is the three-phase career structure: Associate Justice for years one through ten, Co-Chief Justice for years eleven and twelve, and Senior Justice thereafter. This mechanism creates predictable vacancies without formal term limits.
 
 The constitutional question is whether the Senior Justice transition preserves "good behavior" tenure as required by Article III, Section 1.
 
@@ -197,15 +197,15 @@ However, the case for constitutionality is stronger than the abstract novelty of
 
 ---
 
-## Chief Justice Rotation
+## Co-Chief Justice Model
 
 ### Constitutional Framework
 
-The Act establishes automatic Chief Justice rotation: the most senior Associate Justice who has not previously served as Chief Justice becomes Chief Justice upon commencing their eleventh year of active service, serving for two years before transitioning to Senior Justice status. This rotation requires no separate nomination or confirmation.
+The Act replaces the singular Chief Justice with a shared Co-Chief Justice model: multiple justices serve simultaneously as Co-Chief Justices during their eleventh and twelfth years of active service. Co-Chief Justice status attaches automatically upon commencing the eleventh year -- no separate nomination or confirmation is required. The President designates one Co-Chief Justice as Ceremonial Chief Justice, who exercises the constitutionally specified function of presiding over presidential impeachment trials and other ceremonial duties including administering the presidential oath of office. Administrative responsibilities are shared among all Co-Chief Justices pursuant to rules established by the Judicial Conference of the United States.
 
-The constitutional question is whether Congress may structure the Chief Justice position this way without presidential nomination and Senate confirmation for each transition.
+The constitutional questions are whether Congress may structure the Co-Chief Justice position without separate appointment, and whether the Ceremonial Chief Justice designation is constitutionally adequate for the functions the Constitution assigns to the "Chief Justice."
 
-### The Chief Justice as Duty Assignment
+### The Co-Chief Justice as Duty Assignment
 
 The Constitution mentions the Chief Justice only once -- in Article I, Section 3, Clause 6: "When the President of the United States is tried, the Chief Justice shall preside." This sole constitutional function (presiding over presidential impeachment trials) does not require a separately appointed officer; it requires only that someone hold the designation "Chief Justice" when such a trial occurs.
 
@@ -213,29 +213,99 @@ The Constitution does not specify how the Chief Justice is selected. It does not
 
 Constitutional scholars have noted this ambiguity. The American Academy of Arts and Sciences, in analyzing Supreme Court term limits, observed that "the Constitution does not clearly indicate whether the position of chief justice is a distinct office" and that "the overwhelming similarity between the justices might suggest that the chief is merely first among equals." The Constitution "makes no separate provision for appointment as chief and mentions only 'judges of the Supreme Court' when describing the presidential appointment power."
 
-Under this reading, "Chief Justice" is a duty assignment -- designating which justice performs certain administrative and ceremonial functions -- rather than a separate Article III office requiring independent appointment. Congress has broad authority to regulate judicial duties, including determining how the Chief Justice designation rotates among sitting justices.
+Under this reading, "Chief Justice" is a duty assignment -- designating which justice performs certain administrative and ceremonial functions -- rather than a separate Article III office requiring independent appointment. Congress has broad authority to regulate judicial duties, including determining how those duties are shared among sitting justices.
+
+The Co-Chief Justice model takes this analysis one step further than sequential rotation would: rather than concentrating administrative authority in a single rotating justice, it distributes that authority among multiple peers simultaneously, with the Judicial Conference establishing rules for the division of responsibilities. This is a less aggressive exercise of congressional power than concentrating all Chief Justice functions in a single justice by rotation, because it disperses rather than concentrates administrative authority.
+
+### Ceremonial Chief Justice Designation
+
+The Act's Ceremonial Chief Justice designation addresses the one constitutional function that is inherently singular: presiding over presidential impeachment trials. The Constitution requires "the Chief Justice" to preside -- using the singular article -- which implies that one person must hold this designation when the function is exercised.
+
+The Act satisfies this requirement by having the President designate one Co-Chief Justice to serve as Ceremonial Chief Justice for two-year terms. This design preserves a presidential role in determining which justice exercises the constitutionally specified function while keeping the designation within the pool of already-appointed, already-confirmed Article III justices. The President is not appointing a new officer -- the President is designating which among the serving Co-Chief Justices exercises a particular function. This is analogous to the President designating a specific Cabinet member as acting Secretary of another department -- a reassignment of duties among already-appointed officers, not a new appointment.
 
 ### Historical Practice Supports Congressional Authority
 
 The current practice of separate Chief Justice nomination and confirmation is statutory and customary, not constitutionally mandated. Congress established the position in the Judiciary Act of 1789 and has regulated its duties ever since. The administrative functions now associated with the Chief Justice -- chairing the Judicial Conference, appointing judges to specialized courts, serving as administrative head of the federal judiciary -- are statutory creations that Congress could restructure.
 
-The Act's automatic rotation treats the Chief Justice position as what the Constitution suggests it is: a designation among equal Article III justices, not a separate constitutional office. The rotation ensures every justice who completes a full term serves as Chief Justice -- democratizing an honor that currently depends on actuarial chance and presidential preference.
+The Act's Co-Chief Justice model treats the Chief Justice position as what the Constitution suggests it is: a designation among equal Article III justices, not a separate constitutional office. The model ensures every justice who completes a full term serves as Co-Chief Justice -- democratizing an honor that currently depends on actuarial chance and presidential preference.
 
 ### Appointment Clause Analysis
 
 Critics might argue that the Appointments Clause (Article II, Section 2) requires presidential nomination and Senate confirmation for the Chief Justice. This argument faces significant difficulties:
 
-**The justice is already appointed.** Under the Act's rotation, the person becoming Chief Justice has already been nominated by the President, confirmed by the Senate, and appointed as an Article III justice. The Appointments Clause has been satisfied. Rotating the Chief Justice designation among already-appointed justices does not require a new appointment -- it reassigns duties within existing appointments.
+**The justice is already appointed.** Under the Act, the person becoming Co-Chief Justice has already been nominated by the President, confirmed by the Senate, and appointed as an Article III justice. The Appointments Clause has been satisfied. Conferring Co-Chief Justice status on already-appointed justices does not require a new appointment -- it reassigns duties within existing appointments.
 
 **Duty assignments are not appointments.** When a circuit court chief judge assumes that position by seniority (as occurs under 28 U.S.C. Section 45), no new appointment occurs. The judge was already appointed; the chief designation follows automatically. The Act applies the same logic to the Supreme Court.
 
 **Constitutional text supports duty-assignment reading.** The Constitution refers to "Judges of the supreme Court" and "the chief Justice" without suggesting the latter is a separate appointment. The natural reading is that the Chief Justice is one of the judges, not a distinct officer.
 
+**Ceremonial designation preserves presidential nexus.** The President retains a role in selecting the Ceremonial Chief Justice from among the serving Co-Chief Justices. This preserves a connection between the presidency and the most constitutionally visible judicial function (presiding over impeachment trials) without requiring separate nomination and confirmation. If the Appointments Clause concern is that the President must have a role in selecting whoever exercises the "Chief Justice" function, the ceremonial designation satisfies that concern.
+
 ### Risk Assessment
 
-The automatic Chief Justice rotation presents minimal additional litigation risk beyond the three-phase career structure provisions. If courts accept that Congress may regulate judicial duties without touching tenure -- the framework supporting the Senior Justice transition -- then rotating the Chief Justice designation among sitting justices follows directly. The Chief Justice rotation is a less aggressive exercise of congressional power than mandatory Senior Justice transition, because it changes only which justice performs certain administrative duties, not whether they remain active Supreme Court members.
+The Co-Chief Justice model presents minimal additional litigation risk beyond the three-phase career structure provisions. If courts accept that Congress may regulate judicial duties without touching tenure -- the framework supporting the Senior Justice transition -- then distributing Co-Chief Justice duties among sitting justices follows directly. The Co-Chief Justice model is a less aggressive exercise of congressional power than mandatory Senior Justice transition, because it changes only how administrative duties are distributed among active justices, not whether they remain active Supreme Court members.
 
-The strongest argument against automatic rotation is historical practice: separate Chief Justice nominations and confirmations have occurred since 1789. However, historical practice does not establish constitutional requirement. Congress has authority to restructure positions it created by statute, and the Appointments Clause is satisfied when the justice is initially appointed to the Court.
+The Ceremonial Chief Justice designation adds an element not present in the previous singular rotation model, but this element strengthens rather than weakens the constitutional position by preserving a presidential role in determining who exercises the constitutionally specified function of presiding over impeachment trials.
+
+The strongest argument against the Co-Chief Justice model is historical practice: separate Chief Justice nominations and confirmations have occurred since 1789. However, historical practice does not establish constitutional requirement. Congress has authority to restructure positions it created by statute, and the Appointments Clause is satisfied when the justice is initially appointed to the Court.
+
+---
+
+## Slate-Based Nomination and BLOC STAR Voting
+
+### Constitutional Framework
+
+The Act replaces binary single-nominee confirmation with a slate-based process: the President submits multiple nominees per appointment cycle (minimum two per position, maximum 2.5 per position rounded up), and the Senate selects from the slate using BLOC STAR voting -- a scored procedure in which each senator assigns each nominee a score from 0 to 5, with aggregate scores determining selection (Section 202(a)-(b)). The Senate retains authority to reject an entire slate, triggering resubmission within thirty days (Section 202(c)). Carryover nominees from prior slates may be included on subsequent slates for up to five years from original documentation submission (Section 202(f)).
+
+The constitutional questions are whether Congress may require the President to submit multiple nominees rather than one, whether Congress may mandate a specific voting procedure for Senate confirmation, and whether the hybrid statutory-Senate framework for confirmation timelines is constitutionally permissible.
+
+### Congressional Authority Over Appointment Process Structure
+
+The Appointments Clause (Article II, Section 2) provides that the President "shall nominate, and by and with the Advice and Consent of the Senate, shall appoint" Supreme Court justices. The clause establishes two requirements: presidential nomination and Senate advice and consent. It does not specify the mechanics of either function.
+
+**Presidential nomination authority preserved.** The Act does not constrain whom the President may nominate. Section 202(a)(5) explicitly provides: "Nothing in this section shall be construed to limit the President's authority under Article II to include any person of the President's choosing on a nomination slate." The President retains full discretion over which individuals appear on the slate. The requirement to submit multiple nominees structures the nomination *process* -- how many candidates the President presents -- without constraining the nomination *power* -- which individuals the President selects.
+
+**Congress structures the advice-and-consent process.** The Constitution vests "Advice and Consent" in the Senate but does not specify how the Senate exercises this authority. Congress has enacted numerous statutes structuring the confirmation process: requiring background investigations, establishing timelines for committee action, mandating financial disclosures, and creating procedural frameworks for Senate consideration. The BLOC STAR voting procedure is a further specification of how the Senate exercises its constitutional function.
+
+**The Necessary and Proper Clause supports process structuring.** Congress may enact laws "necessary and proper" for carrying out constitutional functions, including the appointment power. Structuring the confirmation process to reduce obstruction, ensure timely consideration, and produce broadly acceptable selections serves the effective exercise of the advice-and-consent power.
+
+### The Hybrid Model: Statute Mandates Action, Senate Rules Govern Mechanics
+
+The Act adopts a hybrid approach: statutory provisions mandate that the Senate act on nomination slates within 120 days and prescribe the BLOC STAR scoring method for selection, while Senate rules govern the internal procedural mechanics -- floor scheduling, debate time, slate rejection threshold, and other operational matters.
+
+This hybrid model follows established precedent from multiple statutory frameworks:
+
+**Congressional Budget Act of 1974.** Congress enacted statutory budget timelines requiring specific Senate action within defined periods. The reconciliation process -- established by statute, not Senate rule -- governs how the Senate considers certain fiscal legislation, including limitations on debate and amendment. The Senate has operated under this statutory framework for five decades.
+
+**War Powers Resolution of 1973.** Congress established statutory requirements for presidential reporting and congressional authorization timelines affecting how the Senate considers military actions. The statute mandates that Congress act within specified timeframes on questions of ongoing military engagement.
+
+**Pay-As-You-Go (PAYGO) rules.** Congress has enacted statutory requirements that constrain how legislation is considered, requiring offset provisions and establishing points of order that affect Senate procedure. These statutory frameworks operate alongside -- and sometimes in tension with -- Senate internal rules.
+
+**Trade Promotion Authority (TPA).** Congress has repeatedly enacted statutes establishing "fast track" procedures for considering trade agreements, including limitations on Senate debate time, amendment restrictions, and guaranteed up-or-down votes within specified timelines. These statutory procedures directly prescribe how the Senate considers and votes on nominations (of trade agreements, in this case).
+
+These precedents establish that Congress may enact statutes structuring how the Senate exercises its constitutional functions, provided the statute does not eliminate the Senate's substantive authority. The Act follows this pattern: it mandates that the Senate select from the slate using scored voting (substantive framework), while leaving the Senate to determine internal procedures for scheduling, debate, and the threshold for slate rejection (procedural mechanics).
+
+### The Critical Distinction: Substantive Legislation vs. Internal Rules
+
+The Constitution provides that "[e]ach House may determine the Rules of its Proceedings" (Article I, Section 5). Critics may argue that the BLOC STAR voting requirement invades this rulemaking authority.
+
+The proper distinction is between Congress legislating on substantive matters (permissible) and one chamber dictating another's purely internal procedural rules (reserved to each chamber). The Act operates on the former side of this line.
+
+**Congress regularly legislates confirmation procedures.** The Senate's advice-and-consent function is not a purely internal matter -- it is a constitutional function shared between the President and Senate in which Congress as a whole has a legislative interest. Congress has enacted statutes governing financial disclosures for nominees, establishing the Senate Judiciary Committee's role, and creating procedural frameworks for confirmation. The BLOC STAR procedure is an extension of this established practice.
+
+**The Appointments Clause vests power in "the Senate" -- not in the Senate acting under whatever procedures it chooses.** The constitutional grant of advice-and-consent authority does not carry with it an implied immunity from legislative structuring of that authority's exercise. Congress's Article III authority to structure the judiciary, combined with the Necessary and Proper Clause authority for implementation processes, provides independent constitutional basis for prescribing how the Senate selects from among multiple qualified nominees.
+
+**The slate rejection provision preserves Senate autonomy.** The Act explicitly preserves the Senate's authority to reject an entire slate (Section 202(c)), with the threshold and procedures for rejection determined by Senate rules. This design ensures the Senate is never compelled to confirm any particular nominee -- it may reject the entire slate and require the President to submit new candidates. The BLOC STAR procedure governs only how the Senate selects when it chooses to select, not whether it must accept the President's nominees.
+
+### Risk Assessment
+
+The slate-based nomination and BLOC STAR voting provisions present moderate litigation risk -- higher than the transparency requirements but lower than the three-phase career structure.
+
+The strongest argument for constitutionality is that the provisions structure the exercise of the advice-and-consent function without eliminating Senate authority. The Senate retains the power to reject slates entirely, the President retains full nomination discretion, and the BLOC STAR procedure determines only how selection occurs when the Senate acts affirmatively. The extensive precedent from statutory frameworks that prescribe Senate procedures (budget reconciliation, TPA, War Powers Resolution) supports the hybrid model.
+
+The strongest argument against is that the Appointments Clause entrusts advice and consent specifically to the Senate and that prescribing a voting method invades Senate procedural autonomy under Article I, Section 5. This argument has force but faces the difficulty that Congress has structured Senate confirmation procedures through legislation for decades without successful constitutional challenge.
+
+The practical dynamic is also relevant: the Act creates strong structural incentives for the Senate to engage with the BLOC STAR procedure rather than resorting to slate rejection. As analyzed in the Policy Rationale, participation in scored voting is the strategically dominant response for both majority and minority parties. A Senate that consistently rejects slates and triggers resubmission cycles gains nothing -- each new slate excludes previously rejected nominees, the 30-day resubmission clock creates pressure, and the public scoring requirement makes obstruction visible and costly. The architecture makes the statutory framework self-enforcing through incentive alignment rather than requiring judicial enforcement of Senate compliance.
 
 ---
 
@@ -243,7 +313,7 @@ The strongest argument against automatic rotation is historical practice: separa
 
 ### Constitutional Framework
 
-Title III establishes transparency and documentation requirements for Supreme Court nominations. Unlike earlier versions of the Act that imposed credential-based qualifications (minimum years of experience, required prior judicial service), the current approach requires nominees to submit documented evidence of their legal reasoning -- fifty works of substantial legal analysis -- without mandating any particular career path or credential.
+Title III establishes transparency and documentation requirements for Supreme Court nominations. Unlike earlier versions of the Act that imposed credential-based qualifications (minimum years of experience, required prior judicial service), the current approach requires nominees to submit documented evidence of their legal reasoning -- ten self-selected works of substantial legal analysis -- without mandating any particular career path or credential. The documentation requirements have been calibrated for the slate-based nomination process, enabling Senate evaluation of multiple nominees simultaneously without sacrificing transparency goals.
 
 The constitutional question is whether these documentation requirements impermissibly constrain presidential nomination discretion or whether they fall within Congress's authority to structure the advice-and-consent process.
 
@@ -274,6 +344,14 @@ The Act's documentation requirements can be satisfied through six distinct categ
 
 This diversity of qualifying pathways distinguishes the Act's transparency requirements from credential-based qualifications that would foreclose certain career paths. Five of the nine current justices (Roberts, Thomas, Kagan, Barrett, Jackson) would not have satisfied a five-year federal appellate service requirement. All could satisfy the documentation requirements through their respective bodies of work.
 
+### Calibration for Slate-Based Process
+
+The documentation requirements have been calibrated to enable Senate evaluation of multiple nominees simultaneously. The ten-work requirement (reduced from fifty in earlier versions) reflects the reality that under slate-based nomination, the Senate evaluates multiple nominees per appointment cycle. A slate of five nominees each submitting fifty works would produce 250 works for committee review -- an evaluation burden that could undermine meaningful scrutiny. Ten self-selected works per nominee provides a curated portfolio of the nominee's best and most characteristic legal reasoning, sufficient for substantive evaluation while remaining manageable at scale.
+
+The 2,000-word judicial philosophy statement (reduced from 5,000 in earlier versions) serves the same calibration function. The statement retains its core purpose -- revealing the nominee's interpretive approach, views on precedent, and understanding of the judicial function -- in a format calibrated for multi-nominee review. The requirement that nominees self-select their submitted works adds informational value: the choice of which works to submit reveals the nominee's own judgment about what represents their best and most characteristic reasoning.
+
+Congressional findings explicitly connect documentation calibration to the slate process: "Documentation requirements calibrated to enable Senate evaluation of multiple nominees simultaneously serve both the transparency goals of this Title and the selection process established in Section 202." (Section 301(5))
+
 ### Constitutional Authority
 
 **Senate procedural authority.** The Constitution grants the Senate authority to "Advice and Consent" on nominations. The Senate has inherent authority to determine what information it needs to fulfill this function. Statutory specification of minimum documentation requirements falls within this authority.
@@ -294,9 +372,79 @@ The transparency and documentation requirements present minimal litigation risk.
 
 **Framed as Senate procedure.** The requirements are structured as information the Senate needs for advice and consent, not as constraints on executive nomination power. This framing aligns with the Senate's established authority to determine its own procedures.
 
-**Severability.** If documentation requirements are struck down, the remainder of the Act continues in effect. The Act's core provisions (circuit reorganization, Court expansion, three-phase career structure, Chief Justice rotation, ethics enforcement) do not depend on Title III.
+**Severability.** If documentation requirements are struck down, the remainder of the Act continues in effect. The Act's core provisions (circuit reorganization, Court expansion, three-phase career structure, Co-Chief Justice model, slate-based nomination, ethics enforcement) do not depend on Title III.
 
-The most plausible challenge would argue that the fifty-work requirement is so demanding that it operates as a de facto credential requirement, foreclosing nomination of individuals without extensive written records. This challenge faces the difficulty that the Act accommodates six distinct types of qualifying documentation, ensuring that accomplished lawyers from diverse backgrounds can satisfy the requirements. The fifty-work threshold is calibrated to ensure comprehensive records while remaining achievable for any seriously considered Supreme Court nominee.
+The most plausible challenge would argue that the ten-work requirement operates as a de facto credential requirement, foreclosing nomination of individuals without written records. This challenge faces the difficulty that the Act accommodates six distinct types of qualifying documentation, ensuring that accomplished lawyers from diverse backgrounds can satisfy the requirements. The ten-work threshold is calibrated to provide curated portfolios while remaining achievable for any seriously considered Supreme Court nominee.
+
+---
+
+## Appointment Equalization
+
+### Constitutional Basis
+
+Section 202(d) addresses the mathematical reality that the Act's fifteen-seat, twelve-year, biennial-appointment structure does not produce uniform appointment opportunities across presidential terms. In steady state, the schedule produces periods where three positions become available in a single odd-numbered year. The equalization mechanism shifts one position from the first of three such consecutive years to the outgoing president of the preceding term, ensuring each presidential term includes exactly five appointment opportunities beginning in Year 21.
+
+Congressional authority to structure appointment schedules is well established. Congress has changed when and how Supreme Court vacancies are filled throughout American history -- expanding and contracting the Court's size, creating and eliminating positions, and timing when new seats become available. The equalization mechanism is a scheduling provision, not a constraint on nomination or confirmation. The President retains full nomination power for each position; the mechanism merely determines which presidential term includes which appointment opportunity.
+
+### Risk Assessment
+
+The appointment equalization mechanism presents minimal litigation risk. It operates entirely within Congress's Article III organizational authority and does not implicate Article II nomination power (the President still nominates and the Senate still confirms). The provision is functionally equivalent to Congress setting an effective date for a new judicial position -- a routine exercise of legislative power.
+
+---
+
+## Vacancy Coverage and Schedule Integrity
+
+### Constitutional Basis
+
+Section 205 establishes that vacancies arising during a justice's active service do not create additional presidential appointment opportunities outside the biennial schedule. Instead, Senior Justices fill vacant seats through a random lottery rotation system until the seat's next regularly scheduled appointment.
+
+This provision operates under two established constitutional principles:
+
+**Congressional authority over appointment timing.** Congress determines how many Supreme Court seats exist and when they are filled. Setting a regular schedule for appointments and declining to create additional appointment opportunities for unexpected vacancies is an exercise of the same authority Congress has used throughout history to structure judicial appointments.
+
+**Senior Justices remain Article III judges.** A Senior Justice assigned to fill a vacant seat through the rotation system is an Article III judge exercising judicial power. Their assignment to hear cases on the Supreme Court is functionally identical to the longstanding practice of senior judges sitting by designation on courts throughout the federal system. No new appointment is required because the Senior Justice already holds Article III office.
+
+### Potential Challenge: Presidential Appointment Power
+
+Critics might argue that by preventing the President from filling unexpected vacancies outside the regular schedule, the Act impermissibly constrains Article II appointment power. This argument is weak for several reasons:
+
+**Congress controls the number of seats.** If Congress may reduce the Court from ten to seven (as it did in 1866, explicitly to deny President Andrew Johnson appointment opportunities), Congress may certainly structure when existing seats are filled. The vacancy coverage mechanism does not eliminate the President's appointment opportunity -- it schedules it at the seat's next regular interval.
+
+**No constitutional right to fill vacancies immediately.** Nothing in Article II requires that vacancies be filled on any particular timeline. The Senate's refusal to act on the Garland nomination in 2016, whatever its political merits, confirmed that no constitutional mechanism compels timely filling of Supreme Court vacancies. The Act's approach is more structured and principled than ad hoc Senate obstruction -- it establishes a clear, predictable rule that applies equally to all presidents.
+
+**The seat is filled, not left vacant.** The vacancy coverage rotation ensures the Court operates at full capacity. The objection is not that the Court lacks a functioning member in the vacant seat, but that the President must wait until the scheduled interval to appoint a permanent replacement. This is a constraint on timing, not on the appointment power itself.
+
+### Risk Assessment
+
+The vacancy coverage mechanism presents low to moderate litigation risk. The strongest constitutional basis is Congress's uncontested authority to structure the judiciary, including determining when seats are filled. The most plausible challenge -- that the President has a constitutional right to fill vacancies as they arise -- lacks textual support and is undermined by historical practice. The severability clause ensures that if the vacancy coverage mechanism is struck, the regular appointment schedule and remaining provisions continue to operate.
+
+---
+
+## Oath of Office and Mutual Oath Requirement
+
+### Constitutional Basis
+
+Section 206 establishes oath administration procedures and requires that all justices confirmed to commence service in the same year be sworn in during the same ceremony. The mutual oath requirement prevents strategic timing of oath ceremonies to gain advantage in pending cases.
+
+Congressional authority to prescribe oaths for federal officers is explicit: Article VI requires that all federal officers "shall be bound by Oath or Affirmation, to support this Constitution," and Congress has prescribed the form and administration of judicial oaths since the first Judiciary Act. The mutual oath provision is a procedural regulation of oath administration -- specifying when and how the oath is taken -- which falls squarely within Congress's authority over judicial procedures.
+
+### Risk Assessment
+
+The oath provisions present minimal litigation risk. The exception for death, permanent incapacity, or withdrawal ensures that the mutual requirement cannot be exploited to prevent a confirmed justice from taking office, addressing the most plausible fairness objection.
+
+---
+
+## Legacy Opt-In for Existing Justices
+
+### Constitutional Basis
+
+Section 403(d) permits Legacy Associate Justices to voluntarily elect entry into the Act's three-phase career structure by claiming available Co-Chief Justice slots. The mechanism is entirely voluntary; no justice is compelled to participate, and declining carries no consequence.
+
+The voluntary nature of the opt-in eliminates the primary constitutional concern that attaches to the Act's career structure for new appointees -- namely, whether Congress may schedule a justice's transition to Senior Justice status. A justice who voluntarily elects entry into the career structure has consented to the transition schedule. Voluntary senior status under 28 U.S.C. Section 371 has never been challenged as unconstitutional, and the opt-in mechanism operates under identical logic: the justice chooses to enter the structure, serves as Co-Chief Justice for two years, and transitions to Senior Justice status with full Article III protections.
+
+### Risk Assessment
+
+The legacy opt-in mechanism presents negligible litigation risk. It is voluntary, preserves all constitutional protections, and follows the well-established precedent of voluntary senior status election. The age-based tiebreaker for slot assignment (oldest justice by date of birth receives priority) is a neutral, objective allocation rule that raises no equal protection or due process concerns.
 
 ---
 
@@ -344,7 +492,7 @@ The Act's decision to place ethics enforcement authority in Senior Justices rath
 
 **Lower court enforcement would invert the judicial hierarchy.** Having district or circuit courts review Supreme Court ethics would create the anomaly of inferior courts exercising authority over the highest court. The Act avoids this by using Senior Justices -- judicial officers of equal constitutional stature who have completed active Supreme Court service.
 
-**Senior Justice enforcement preserves independence while ensuring accountability.** Senior Justices have no stake in current Court dynamics. They have rotated through the Chief Justice position, completed their active service, and have no pending cases, no opinions to assign or receive, and no professional interest in the outcomes of ethics proceedings. They possess the stature and expertise to evaluate judicial conduct while lacking the conflicts that would afflict active justices or political actors.
+**Senior Justice enforcement preserves independence while ensuring accountability.** Senior Justices have no stake in current Court dynamics. They have served as Co-Chief Justices, completed their active service, and have no pending cases, no opinions to assign or receive, and no professional interest in the outcomes of ethics proceedings. They possess the stature and expertise to evaluate judicial conduct while lacking the conflicts that would afflict active justices or political actors.
 
 ### Mandatory Early Transition as Sanction
 
@@ -412,7 +560,9 @@ Before reaching merits, courts must determine whether plaintiffs have standing t
 
 **Constructive removal claim.** Challengers would argue that mandatory Senior Justice transition removes justices from "Office" in violation of Article III tenure protection. This is the strongest potential claim, discussed extensively above.
 
-**Appointments Clause claim.** Challengers might argue that automatic Chief Justice rotation unconstitutionally bypasses presidential nomination power. This claim has some textual basis but faces significant counterarguments -- the justice has already been appointed through the constitutional process, and the rotation merely reassigns duties among already-appointed justices.
+**Appointments Clause claim.** Challengers might argue that automatic Co-Chief Justice status unconstitutionally bypasses presidential nomination power. This claim has some textual basis but faces significant counterarguments -- the justice has already been appointed through the constitutional process, the Co-Chief Justice designation merely reassigns duties among already-appointed justices, and the Ceremonial Chief Justice designation preserves a presidential role in determining who exercises the constitutionally specified function of presiding over impeachment trials.
+
+**Slate nomination and BLOC STAR claim.** Challengers might argue that the slate requirement constrains presidential nomination discretion by requiring multiple nominees, or that the BLOC STAR voting procedure invades Senate rulemaking authority under Article I, Section 5. The nomination claim is weak given the explicit preservation of presidential discretion (Section 202(a)(5)). The Senate rulemaking claim has more force but faces the precedent of statutory frameworks that structure Senate procedures (budget reconciliation, TPA, War Powers Resolution) and the Act's preservation of Senate authority over slate rejection threshold and internal procedural mechanics.
 
 **Separation of powers claim.** Challengers might argue that the Act's combination of provisions impermissibly restructures the judicial branch. This claim would need to identify specific constitutional violations rather than generalized separation of powers concerns.
 
@@ -420,7 +570,9 @@ Before reaching merits, courts must determine whether plaintiffs have standing t
 
 **Ethics enforcement claims.** Challengers might argue that Mandatory Early Transition violates Article III tenure, that the Inspector General structure unconstitutionally insulates an officer from removal, or that the Ethics Review Panel exercises authority that belongs to Congress (impeachment) or courts (judicial review). These claims face the counterarguments discussed in the Title V analysis above.
 
-**Documentation requirements claim.** Challengers might argue that the fifty-work documentation requirement operates as a de facto qualification requirement constraining presidential nomination discretion. This claim is weak given that the Act explicitly preserves presidential nomination authority, that six distinct documentation pathways accommodate diverse career backgrounds, and that the requirements are framed as Senate information needs rather than executive constraints.
+**Documentation requirements claim.** Challengers might argue that the ten-work documentation requirement operates as a de facto qualification requirement constraining presidential nomination discretion. This claim is weak given that the Act explicitly preserves presidential nomination authority, that six distinct documentation pathways accommodate diverse career backgrounds, and that the requirements are framed as Senate information needs rather than executive constraints.
+
+**Vacancy coverage claim.** Challengers might argue that the vacancy coverage mechanism (Section 205) impermissibly constrains the President's Article II appointment power by preventing immediate filling of unexpected vacancies. This claim faces the difficulty that Congress has uncontested authority to determine when judicial seats are filled, that the President retains full nomination power at each scheduled interval, and that historical practice confirms no constitutional right to immediate vacancy filling.
 
 ### Venue and Timing
 
@@ -428,21 +580,25 @@ Challenges to the Act would likely be filed in district court and proceed throug
 
 This creates an awkward dynamic: justices would rule on a statute directly affecting their tenure and the Court's structure. Recusal questions would arise. The Court might seek to avoid the merits through standing, ripeness, or political question doctrines.
 
-If challenges succeed at lower court levels, the Act's severability clause (Section 403(c)) ensures that valid provisions remain in effect even if specific provisions are struck.
+If challenges succeed at lower court levels, the Act's severability clause (Section 403(e)) ensures that valid provisions remain in effect even if specific provisions are struck.
 
 ---
 
 ## Severability Analysis
 
-The Act includes an explicit severability clause: "If any provision of this Act is held invalid, the remainder shall remain in effect." (Section 403(c))
+The Act includes an explicit severability clause: "If any provision of this Act is held invalid, the remainder shall remain in effect." (Section 403(e))
 
-This clause is significant because the Act's major components -- circuit reorganization, Court expansion, three-phase career structure, Chief Justice rotation, transparency requirements, and ethics enforcement -- can function independently:
+This clause is significant because the Act's major components -- circuit reorganization, Court expansion, three-phase career structure, Co-Chief Justice model, appointment equalization, vacancy coverage, slate-based nomination and BLOC STAR voting, transparency requirements, and ethics enforcement -- can function independently:
 
-**If three-phase career structure provisions are struck:** Court expansion could proceed without the regular replacement schedule. The expanded Court would operate like the current Court, with vacancies arising from death or voluntary retirement rather than scheduled transition. Chief Justice rotation would also fail, as it depends on the twelve-year active service framework. Ethics enforcement could continue with all sanctions except Mandatory Early Transition.
+**If three-phase career structure provisions are struck:** Court expansion could proceed without the regular replacement schedule. The expanded Court would operate like the current Court, with vacancies arising from death or voluntary retirement rather than scheduled transition. The Co-Chief Justice model would also fail, as it depends on the twelve-year active service framework. Ethics enforcement could continue with all sanctions except Mandatory Early Transition. The vacancy coverage mechanism would become moot in the absence of scheduled transitions. Slate-based nomination and BLOC STAR voting would continue to apply to however vacancies are filled.
 
-**If Chief Justice rotation is struck:** The three-phase career structure and Court expansion provisions would operate with modification. The Chief Justice would be appointed through traditional nomination and confirmation during the transition period and thereafter as Senior Justice transitions create vacancies. Ethics enforcement would be unaffected.
+**If the Co-Chief Justice model is struck:** The three-phase career structure and Court expansion provisions would operate with modification. The Chief Justice would be appointed through traditional nomination and confirmation during the transition period and thereafter as Senior Justice transitions create vacancies. The appointment equalization mechanism, vacancy coverage system, slate-based nomination, and ethics enforcement would be unaffected.
 
-**If transparency requirements are struck:** Court expansion, three-phase career structure, Chief Justice rotation, and ethics enforcement provisions would operate unchanged. The appointment process would continue without the statutory documentation requirements, though the Senate could impose similar requirements through its rules.
+**If slate-based nomination and BLOC STAR voting are struck:** The Act's core structural provisions -- Court expansion, three-phase career structure, Co-Chief Justice model, appointment equalization, vacancy coverage, and ethics enforcement -- would continue to function. The appointment process would revert to traditional single-nominee presidential nomination with Senate confirmation. Transparency and documentation requirements would remain in effect, though the calibration for multi-nominee evaluation would become unnecessarily restrictive -- Congress could adjust the documentation thresholds through subsequent legislation. The carryover nominee provisions would become moot.
+
+**If transparency requirements are struck:** Court expansion, three-phase career structure, Co-Chief Justice model, appointment equalization, vacancy coverage, slate-based nomination, and ethics enforcement provisions would operate unchanged. The appointment process would continue without the statutory documentation requirements, though the Senate could impose similar requirements through its rules.
+
+**If vacancy coverage is struck:** The three-phase career structure, Co-Chief Justice model, slate-based nomination, and appointment equalization would continue to function. Unexpected vacancies would presumably be handled under traditional practice -- the President would nominate a replacement immediately, outside the regular schedule. This would weaken but not eliminate the balanced appointment architecture, as the equalization mechanism would still govern scheduled appointments.
 
 **If Court expansion is limited:** Circuit reorganization would proceed independently. The circuit-aligned rationale for expansion would weaken, but population-based circuits serve independent purposes of workload balance and equal representation. Ethics enforcement would be unaffected.
 
@@ -450,7 +606,7 @@ This clause is significant because the Act's major components -- circuit reorgan
 
 **If Mandatory Early Transition is struck:** The remainder of Title V would continue to function. The Ethics Review Panel could impose lesser sanctions (private admonition, public censure, mandatory recusal, administrative reassignment) and refer serious cases to the House for impeachment consideration. The ethics framework would be weakened but not eliminated.
 
-**If the entire ethics framework (Title V) is struck:** Titles I-IV would continue to function unchanged. The Act would address circuit organization, Court composition, career structure, and appointments without the ethics enforcement component.
+**If the entire ethics framework (Title V) is struck:** Titles I-IV would continue to function unchanged. The Act would address circuit organization, Court composition, career structure, slate-based nomination, and appointments without the ethics enforcement component.
 
 The modular structure reduces the Act's vulnerability to total invalidation. Even successful challenges to specific provisions would leave substantial reforms in effect.
 
@@ -458,7 +614,9 @@ The modular structure reduces the Act's vulnerability to total invalidation. Eve
 
 ## Conclusion
 
-The Act operates within Congress's established constitutional authority to organize the federal judiciary. The strongest legal foundation supports circuit reorganization (explicit Article III authority, extensive historical practice) and Court expansion (seven historical precedents, no constitutional specification of Court size). Chief Justice rotation presents minimal additional risk because it regulates duty assignments among already-appointed justices rather than requiring new appointments. Transparency requirements present minimal constitutional risk because they are framed as Senate information requirements rather than constraints on presidential nomination discretion, explicitly preserve presidential authority, and accommodate diverse career paths through six qualifying documentation pathways.
+The Act operates within Congress's established constitutional authority to organize the federal judiciary. The strongest legal foundation supports circuit reorganization (explicit Article III authority, extensive historical practice) and Court expansion (seven historical precedents, no constitutional specification of Court size). The Co-Chief Justice model presents minimal additional risk because it distributes duty assignments among already-appointed justices rather than requiring new appointments, and the Ceremonial Chief Justice designation preserves a presidential role in selecting which justice exercises the constitutionally specified function of presiding over impeachment trials. Transparency requirements present minimal constitutional risk because they are framed as Senate information requirements rather than constraints on presidential nomination discretion, explicitly preserve presidential authority, and accommodate diverse career paths through six qualifying documentation pathways. The appointment equalization mechanism and vacancy coverage system operate under the same Article III organizational authority that Congress has exercised throughout American history. The legacy opt-in mechanism for existing justices raises no independent constitutional concern because it is voluntary and preserves all Article III protections.
+
+The slate-based nomination and BLOC STAR voting provisions present a novel but well-grounded exercise of congressional authority. The Necessary and Proper Clause empowers Congress to structure the advice-and-consent process, and extensive precedent from statutory frameworks -- budget reconciliation, Trade Promotion Authority, War Powers Resolution, PAYGO -- confirms that Congress may prescribe how the Senate exercises its constitutional functions. The hybrid model -- statute mandates action and selection method, Senate rules govern internal mechanics -- follows this established pattern. The Senate's retention of slate rejection authority preserves its ultimate constitutional prerogative while the Act's structural incentives make engagement with the BLOC STAR process strategically dominant for all parties.
 
 The three-phase career structure presents the most significant legal question. While strong textual arguments, Akhil Reed Amar's scholarly framework distinguishing duty regulation from tenure termination, the precedent of 28 U.S.C. Section 371, and the demonstrated practice of Supreme Court justices transitioning to lower court service under existing law all support constitutionality, the provision applies a familiar mechanism (senior status) in a novel manner (mandatory Supreme Court transition on a scheduled timeline). A challenge reaching the merits would present a question of first impression -- though the demonstrated practice of Justices Souter, O'Connor, Breyer, and Clark narrows the novelty considerably. The constitutional question is not whether the transition is permissible but whether Congress may schedule a transition that justices already undertake voluntarily under existing statutory authority.
 
@@ -472,7 +630,41 @@ The ultimate constitutional assessment will depend on how courts balance textual
 
 ## Revision History
 
-**Revision 1.7** (Current)
+**Revision 2.1** (Current)
+- Updated reference line to reflect FJBAA Rev 2.1
+- Added new section "Slate-Based Nomination and BLOC STAR Voting" analyzing:
+  - Congressional authority to structure the advice-and-consent process under the Necessary and Proper Clause
+  - The hybrid model: statute mandates action and selection method, Senate rules govern internal mechanics
+  - Precedent from budget reconciliation, War Powers Resolution, PAYGO, and Trade Promotion Authority as analogues for statutory frameworks prescribing Senate procedures
+  - The critical distinction between Congress legislating on substantive matters (permissible) and dictating purely internal procedural rules (reserved to each chamber)
+  - Preservation of Senate authority through slate rejection mechanism
+  - Risk assessment: moderate risk, higher than transparency requirements but lower than three-phase career structure
+- Updated Transparency and Documentation Requirements section:
+  - Updated documentation threshold from fifty works to ten self-selected works
+  - Updated judicial philosophy statement from 5,000 words to 2,000 words
+  - Added new subsection "Calibration for Slate-Based Process" explaining documentation scaling rationale
+  - Added Congressional Finding 301(5) connecting documentation calibration to slate process
+- Updated Introduction to reference slate-based nomination with BLOC STAR voting
+- Updated Anticipated Challenges: added slate nomination and BLOC STAR claim as likely litigation theory
+- Updated Severability Analysis: added slate-based nomination and BLOC STAR as independent component with severability scenario
+- Updated Conclusion to address slate-based nomination and BLOC STAR voting constitutional basis
+
+**Revision 2.0**
+- Updated reference line to reflect FJBAA Rev 2.0
+- Rewrote "Chief Justice Rotation" section as "Co-Chief Justice Model" analyzing shared leadership structure, Ceremonial Chief Justice designation, Judicial Conference administrative rulemaking delegation, and Appointments Clause implications of presidential ceremonial designation
+- Added new section "Appointment Equalization" analyzing constitutional basis for scheduling mechanism under Article III organizational authority
+- Added new section "Vacancy Coverage and Schedule Integrity" analyzing constitutional basis for denying presidential appointment on vacancy, Senior Justice rotation system, and potential presidential appointment power challenge
+- Added new section "Oath of Office and Mutual Oath Requirement" analyzing congressional authority over oath administration and anti-gaming rationale
+- Added new section "Legacy Opt-In for Existing Justices" analyzing voluntary nature and negligible constitutional risk
+- Updated Introduction to reference Co-Chief Justice model, appointment equalization, vacancy coverage, and legacy opt-in
+- Updated Anticipated Challenges: revised Appointments Clause claim for Co-Chief model with Ceremonial Chief Justice analysis; added vacancy coverage claim
+- Updated Severability Analysis for Co-Chief Justice model, vacancy coverage, and appointment equalization
+- Added vacancy coverage severability scenario
+- Updated Conclusion to address all new provisions
+- Updated Co-Chief Justice terminology throughout
+- Updated publication date to February 2026
+
+**Revision 1.7**
 - Updated reference line to reflect FJBAA Rev 1.7
 - Added new subsection "Supreme Court-Specific Precedent: Existing Practice Under Section 371" documenting that the senior status mechanism already applies to SCOTUS justices and has been exercised by Justices Clark, Souter, O'Connor, and Breyer
 - Added reductio ad absurdum argument to Counterargument: Constructive Removal section: if Congress may create the transition mechanism but may not schedule it, Article III organizational authority is stripped of meaningful content
