@@ -4,7 +4,7 @@
 
 ### Published February 2026
 
-Based on Rev 2.1 of the Federal Judicial Balance and Accountability Act
+Based on Rev 2.2 of the Federal Judicial Balance and Accountability Act
 
 ---
 
@@ -61,7 +61,7 @@ The phased approach serves critical purposes: it spreads appointment opportuniti
 **Circuit boundary development complete.** The Administrative Office of the United States Courts must:
 
 - Divide national population into fifteen approximately equal segments
-- Assign each segment to a numbered regional circuit
+- Assign federal judicial districts to numbered regional circuits, prioritizing the assignment of all districts within a state to the same circuit; permitting division along federal judicial district boundaries where population equity within the tolerance band requires it
 - Ensure no circuit serves more than 110% or less than 90% of average population
 - Prioritize geographic contiguity where feasible
 - Submit proposed boundaries for Congressional review
@@ -149,8 +149,8 @@ The preparatory phase begins upon enactment and continues until Year 1 of the Ap
 
 ### Boundary Development and Ethics Setup (First 180 Days)
 
-- Administrative Office analyzes census data and population distribution
-- Draft boundaries developed prioritizing equal population and geographic contiguity
+- Administrative Office analyzes census data and population distribution at the federal judicial district level
+- Draft boundaries developed using federal judicial districts as building blocks, prioritizing state unity and equal population with geographic contiguity
 - Stakeholder consultation with federal courts, state governments, bar associations
 - Circuit boundary proposal completed within 180 days
 - Nominating Committee for Judicial Inspector General convenes
@@ -183,7 +183,7 @@ The preparatory phase begins upon enactment and continues until Year 1 of the Ap
 On the first January 1 falling at least 24 months after enactment:
 
 - Fifteen regional circuits become operational
-- District courts assigned to new circuit jurisdictions
+- Federal judicial districts assigned to regional circuits per approved boundary plan
 - Appeals proceed to appropriate regional circuits
 - D.C. Circuit and Federal Circuit continue unchanged
 
@@ -275,6 +275,8 @@ Beginning eleven years after the first expansion appointment, the three-phase ca
 
 **Ethics enforcement at full capacity.** With multiple Senior Justices available, the Ethics Review Panel operates with full Senior Justice membership. The En Banc Senior Body provides robust appellate review capacity. The Inspector General continues with ten-year terms providing institutional stability.
 
+**Circuit compliance maintained through structured assessment.** The Administrative Office conducts population compliance assessments on a five-year cycle -- authoritative assessments within one year of each decennial census and interim assessments at the midpoint using American Community Survey data. A tiered response framework ensures circuit boundaries remain population-balanced: zero to one circuits outside the tolerance band requires no action; two circuits triggers contingency planning; three or more triggers mandatory rebalancing. If population growth eventually renders boundary adjustment insufficient, the Administrative Office reports to Congress for potential circuit count adjustment.
+
 ---
 
 ## Sequencing Requirements
@@ -319,8 +321,11 @@ Certain provisions must occur in sequence; others may proceed in parallel.
 
 ### Administrative Office Responsibilities
 
-- Develop population-based circuit boundaries within 180 days of enactment
-- Propose decennial boundary adjustments following each census
+- Develop population-based circuit boundaries using federal judicial districts as building blocks within 180 days of enactment
+- Conduct population compliance assessments at two intervals: authoritative assessment within one year of each decennial census, interim assessment at the approximate midpoint using American Community Survey five-year estimates
+- Prepare contingency boundary proposals when two circuits fall outside the tolerance band (advisory status)
+- Initiate mandatory boundary adjustment proceedings when three or more circuits fall outside the tolerance band
+- Report to Congress when boundary adjustments alone cannot restore compliance, with analysis of minimum additional circuits required
 - Coordinate judicial reassignments based on primary residence
 - Assess circuit judge staffing needs
 - Publish and maintain the Appointment Schedule for each justice position
@@ -515,7 +520,7 @@ During the transition period (until five expansion-appointed justices reach Seni
 | Sixth expansion appointment; full composition achieved; Co-Chief Justice service begins; first Inspector General term expires (if appointed within one year of enactment) | Year 11 |
 | Regular replacement schedule begins; first expansion-appointed Senior Justices; vacancy coverage roster begins receiving expansion appointees | Year 13 |
 | Fifth expansion-appointed Senior Justice; Bridge Panel transition ends; appointment equalization approaching steady state | Year 21 |
-| Predictable appointments (5 per presidential term), shared Co-Chief Justice leadership, vacancy coverage, and ethics enforcement continue indefinitely | Year 23+ |
+| Predictable appointments (5 per presidential term), shared Co-Chief Justice leadership, vacancy coverage, ethics enforcement, and structured compliance assessments continue indefinitely | Year 23+ |
 
 ---
 
@@ -543,6 +548,11 @@ If the Act is enacted during the presidential term beginning in January 2029, Ye
 - Removed "odd-numbered year appointments" from Firm Requirements (replaced with "biennial appointments in odd-numbered years of the Appointment Schedule")
 - Updated all Phase Two and Phase Three prose to use Appointment Schedule year references
 - Updated Preparatory Phase to describe flexible duration depending on enactment timing
+- Updated reference line to reflect FJBAA Rev 2.2
+- Updated boundary development sections to reference federal judicial districts as building blocks and preference-with-exception structure for state unity
+- Updated Administrative Office Responsibilities to include five-year compliance assessment cycle (authoritative and interim assessments), tiered response framework duties, and circuit count adjustment reporting
+- Added "Circuit compliance maintained through structured assessment" to Steady-State Characteristics describing five-year assessment cycle, tiered response framework, and circuit count adjustment mechanism
+- Updated Summary Timeline steady-state entry to include structured compliance assessments
 - No substantive policy changes; all institutional mechanisms, sequencing requirements, transition provisions, and flexible/firm elements preserved from Rev 2.1
 
 **Revision 2.1**

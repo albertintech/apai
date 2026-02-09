@@ -4,7 +4,7 @@
 
 ### Published February 2026
 
-Based on Rev 2.1 of the Federal Judicial Balance and Accountability Act
+Based on Rev 2.2 of the Federal Judicial Balance and Accountability Act
 
 ---
 
@@ -458,13 +458,25 @@ Congress has reorganized circuit boundaries repeatedly throughout American histo
 
 ### Population-Based Boundaries
 
-The Act's innovation is organizing circuits primarily by population rather than state groupings. This approach serves equal protection values (equal access to federal justice) and administrative efficiency (balanced workloads).
+The Act's innovation is organizing circuits primarily by population rather than historical state groupings. This approach serves equal protection values (equal access to federal justice) and administrative efficiency (balanced workloads).
 
 Nothing in Article III requires circuits to follow state boundaries. The original circuits grouped states for convenience; the Act groups populations for equity. Both are permissible exercises of congressional authority.
 
-### Decennial Rebalancing
+The Act uses federal judicial districts -- established by Congress under Article III and defined in 28 U.S.C. Sections 81-131 -- as the building blocks for circuit construction. This approach strengthens the Act's constitutional foundation in two respects. First, federal judicial districts are creatures of federal statute, not expressions of state sovereignty. Reassigning federal courts to different circuits is an internal reorganization of the federal judicial system, raising no federalism concerns. Second, using existing institutional units with established administrative infrastructure, bar memberships, and geographic jurisdictions ensures that the reorganization is practically implementable rather than merely theoretical.
 
-The Act provides for circuit boundary adjustments following each census to maintain population equality. This ongoing adjustment mechanism is consistent with Article III's "from time to time" language, which contemplates continuing congressional authority over judicial organization.
+The Act prioritizes keeping all districts within a state assigned to the same circuit but permits division along existing federal judicial district boundaries where population equity within the tolerance band cannot otherwise be achieved. No subdivision of a federal judicial district is authorized. This preference-with-exception structure reflects the practical reality -- confirmed through district-level modeling -- that whole-state boundaries cannot achieve the Act's population equity requirements across all fifteen circuits, while district-level flexibility achieves near-universal compliance. The constraint operates as a preference rather than a mandate, using the least disruptive unit of reorganization available within the federal judicial system.
+
+### Compliance Assessment and Boundary Adjustment
+
+The Act establishes a structured five-year compliance assessment cycle to maintain population equality as demographics shift. The Administrative Office conducts authoritative assessments within one year of each decennial census and interim assessments at the approximate midpoint using American Community Survey five-year estimates. A tiered response framework governs action: zero to one circuits outside the tolerance band requires no action; two circuits triggers contingency planning; three or more triggers mandatory rebalancing with boundary adjustment proceedings within 180 days.
+
+This ongoing adjustment mechanism is consistent with Article III's "from time to time" language, which contemplates continuing congressional authority over judicial organization. The delegation of compliance assessment to the Administrative Office and boundary adjustment authority to an administrative process -- subject to congressional filing and review -- follows established patterns of congressional delegation in judicial administration. Congress routinely delegates administrative functions within the judicial branch to the Administrative Office of the United States Courts and the Judicial Conference, including matters affecting court organization, resource allocation, and procedural requirements.
+
+### Circuit Count Adjustment
+
+The Act provides that when boundary adjustments alone cannot restore compliance -- that is, when population growth renders the current circuit count mathematically insufficient -- the Administrative Office reports to Congress with an analysis of the minimum additional circuits required. The creation of new circuits and corresponding adjustment to Supreme Court composition under Title II requires an act of Congress.
+
+This mechanism operates within Congress's established authority. The initial circuit count of fifteen is derived from principled application of the Act's organizing principles to current population data; the adjustment mechanism ensures that future changes follow the same principled derivation rather than political convenience. Requiring congressional action for circuit count changes -- rather than delegating this decision to the Administrative Office -- preserves democratic accountability for a decision that carries Supreme Court composition implications while ensuring that any such action is informed by the same objective methodology underlying the Act.
 
 ### Risk Assessment
 
@@ -630,7 +642,13 @@ The ultimate constitutional assessment will depend on how courts balance textual
 
 ## Revision History
 
-**Revision 2.1** (Current)
+**Revision 2.2** (Current)
+- Updated reference line to reflect FJBAA Rev 2.2
+- Rewrote Circuit Reorganization "Population-Based Boundaries" subsection: added district-level building block analysis explaining constitutional significance of using federal judicial districts (creatures of federal statute, not state sovereignty) as circuit construction units; added preference-with-exception structure for state unity; referenced district-level modeling results
+- Replaced "Decennial Rebalancing" subsection with two new subsections: "Compliance Assessment and Boundary Adjustment" analyzing constitutional basis for five-year assessment cycle, tiered response framework, and delegation to Administrative Office; "Circuit Count Adjustment" analyzing mechanism for future circuit count expansion, congressional action requirement, and principled derivation methodology
+- No substantive changes to other sections (three-phase career structure, Co-Chief Justice model, slate-based nomination, BLOC STAR voting, transparency requirements, appointment equalization, vacancy coverage, oath of office, legacy opt-in, ethics enforcement, anticipated challenges, severability analysis, or conclusion)
+
+**Revision 2.1**
 - Updated reference line to reflect FJBAA Rev 2.1
 - Added new section "Slate-Based Nomination and BLOC STAR Voting" analyzing:
   - Congressional authority to structure the advice-and-consent process under the Necessary and Proper Clause

@@ -4,7 +4,7 @@
 
 ### Published February 2026
 
-Based on Rev 2.1 of the Federal Judicial Balance and Accountability Act
+Based on Rev 2.2 of the Federal Judicial Balance and Accountability Act
 
 ---
 
@@ -78,7 +78,35 @@ The Act combines the benefits of regular appointments (from term limit proposals
 
 ## Provision Rationale
 
-**Title I: Circuit Reorganization.** Population-based circuits ensure equal representation and balanced workloads. The 90-110% population band provides flexibility for geographic contiguity while preventing extreme disparities. Decennial rebalancing maintains equality as populations shift. Preserving the D.C. Circuit and Federal Circuit's specialized jurisdictions avoids disrupting established administrative and patent law expertise.
+**Title I: Circuit Reorganization.** Population-based circuits ensure equal representation and balanced workloads. The 90-110% population band provides flexibility for geographic contiguity while preventing extreme disparities. Preserving the D.C. Circuit and Federal Circuit's specialized jurisdictions avoids disrupting established administrative and patent law expertise.
+
+*District-level building blocks.* Rev 2.2 replaced the original whole-state constraint with a district-level building block approach. Under the original formulation, Section 101(b)(3) provided that "no State is divided between circuits." This constraint was intuitive and politically simple, but modeling demonstrated that it was mathematically insufficient. A comprehensive district-level modeling exercise -- documented in the District-Level Circuit Reorganization Model -- tested whether fifteen population-balanced circuits could be constructed under the whole-state constraint using 2020 Census data. The best whole-state configuration achieved only ten of fifteen circuits within the tolerance band (67% compliance). California (39.5 million, 79% above target), Texas (29.1 million, 32% above target), and New England (15.1 million, 32% below target) were permanent outliers under any whole-state arrangement. No amount of optimization could bring these regions into compliance without crossing state lines.
+
+When the same exercise was conducted using federal judicial districts as building blocks -- the eighty-nine districts established under 28 U.S.C. Sections 81-131 plus the District of Columbia -- fourteen of fifteen circuits fell within the tolerance band (93% compliance). The single remaining outlier was a structural artifact of geographic contiguity constraints rather than a failure of the methodology. The improvement from 67% to 93% compliance justified the shift.
+
+The Act's revised Section 101(b)(3) reflects a preference-with-exception structure: it prioritizes keeping all districts within a state assigned to the same circuit, but permits division along existing federal judicial district boundaries where population equity within the tolerance band cannot otherwise be achieved. No subdivision of a federal judicial district is authorized. This "rough bricks over perfect crystals" approach reflects the reality that mathematical perfection across all fifteen circuits is nearly impossible given geographic constraints; the system prioritizes practical achievability over theoretical elegance.
+
+The choice of federal judicial districts as the sub-state unit is deliberate. Federal judicial districts are creatures of federal statute, not expressions of state sovereignty. They are internal organizational units of the federal court system, created by Congress under Article III, with boundaries defined by 28 U.S.C. Sections 81-131. Reassigning them between circuits is internal federal court reorganization, not a federalism intrusion. Each district has existing administrative infrastructure, established bar memberships, and defined geographic jurisdictions. They are the least disruptive sub-state unit available for circuit construction.
+
+Under current population data, only two to four states would require division, and only along boundaries that already exist as federal court jurisdictions. California's four districts, Texas's four districts, New York's four districts, and Pennsylvania's three districts provide natural division points where population concentration makes whole-state assignment mathematically impossible. In each case, the division follows lines along which the federal judiciary already operates -- no new boundaries are created.
+
+*Five-year compliance assessment cycle.* Rev 2.2 replaced the original single-sentence decennial rebalancing provision with a structured five-year compliance assessment cycle. The original provision -- "Circuit boundaries shall be reviewed following each decennial census and may be adjusted through administrative action by the Judicial Conference to maintain population balance" -- was adequate as a statement of principle but insufficient as an operational framework. It provided no assessment methodology, no trigger for action, and no standard for determining when intervention was warranted.
+
+The revised Section 101(c) establishes two types of assessments on a five-year cycle: authoritative assessments within one year of each decennial census using census data, and interim assessments at the approximate midpoint between censuses using American Community Survey five-year estimates. This cycle balances responsiveness with stability. Ten years between assessments is too long given the pace of contemporary population shifts; annual assessments would be disruptive and statistically noisy. The five-year interval provides a regular monitoring cadence without destabilizing the circuit system through constant adjustment.
+
+The tiered response framework reflects the same "rough bricks over perfect crystals" philosophy that governs the initial boundary-drawing. Three tiers govern the Administrative Office's response based on the number of circuits falling outside the tolerance band. Zero or one circuits out of band requires no action -- minor deviations within the system's tolerances do not warrant disruptive reorganization. Two circuits out of band triggers an advisory response: the Administrative Office prepares contingency boundary proposals for consideration at the next assessment. This tier acknowledges emerging drift without mandating premature intervention. Three or more circuits out of band triggers mandatory rebalancing within 180 days -- at this level, systemic degradation has reached the point where inaction would undermine the foundational principle of population equity.
+
+The three-plus threshold for mandatory action reflects a considered judgment. Perfect fifteen-of-fifteen compliance is mathematically near-impossible given geographic contiguity constraints and the granularity of population distribution. Demanding perfection would trigger disruptive rebalancing over trivial deviations. The system tolerates minor imperfections while triggering mandatory correction when degradation becomes systemic.
+
+The use of ACS five-year estimates for interim assessments reflects the best available data between censuses. These are estimates rather than counts, which is why they trigger only advisory and contingency responses at the two-circuit tier rather than mandatory action. The authoritative assessment -- using the constitutionally mandated decennial census -- remains the basis for mandatory rebalancing decisions. The 180-day timeline for mandatory rebalancing mirrors the initial boundary development timeline under Section 101(b), providing adequate time for the same Administrative Office process.
+
+*Circuit count adjustment mechanism.* Section 101(d) addresses a long-term sustainability concern: what happens when population growth renders the current circuit count insufficient? The Act's fifteen circuits are derived from applying the organizing principles of Section 101(b) to current population distribution. If future demographic reality makes fifteen circuits mathematically incapable of maintaining compliance, the system must have a mechanism for adaptation that does not invite manipulation.
+
+The circuit count adjustment mechanism has three components. First, a principled trigger: the Administrative Office determines, in the course of a compliance assessment, that boundary adjustments alone cannot restore compliance to no more than two circuits outside the tolerance band. This determination is mechanical and non-discretionary -- it follows from the same population data and tolerance band calculations that govern routine compliance assessments. Second, an analytical report: the Administrative Office reports to Congress with the finding of insufficiency, an analysis of the minimum number of additional circuits required, and proposed boundaries for the expanded system. The "minimum additional circuits required" formulation constrains the scope of any expansion to what the methodology demands, preventing overreach. Third, a democratic accountability requirement: the creation of new circuits -- with corresponding Supreme Court composition adjustments under Title II -- requires an act of Congress.
+
+This mechanism extends the principled-derivation defense against court-packing accusations. The initial fifteen circuits emerged from objective methodology applied to demographic reality, not political manipulation. Future circuit count changes would follow the same methodology -- the Administrative Office determines that the math no longer works, reports the minimum expansion needed, and Congress acts. No actor can inflate the circuit count beyond what principled application demands, and no expansion occurs without legislative authorization carrying the democratic accountability that decisions with Supreme Court composition implications warrant.
+
+The mechanism also ensures that the Act is not locked into fifteen circuits forever. Population growth, regional demographic shifts, or territorial changes may genuinely require additional circuits in the decades ahead. The Act provides a principled pathway for that evolution rather than requiring future Congresses to start from scratch.
 
 **Title II: Court Composition and Appointments.** Fifteen Associate Justices align with fifteen regional circuits, restoring the historical relationship between circuit organization and Court size. (The original six-justice Court corresponded to six circuits; the nine-justice Court corresponded to nine circuits.) Phased alignment -- one justice per odd-numbered year -- prevents any single president from dominating appointments during the transition. The Senior Justice phase preserves Article III protections while creating predictable vacancies.
 
@@ -306,7 +334,9 @@ Third -- and perhaps most importantly -- the Act largely avoids institutional no
 
 Finally, the combination of finality and life tenure justifies focused structural attention. District judges are reviewable by circuit courts. Circuit judges are reviewable by the Supreme Court. The Supreme Court is reviewable by nobody. This is not merely a quantitative difference in power but a qualitative one. The institution that exercises unreviewable constitutional authority over 335 million Americans warrants structural safeguards proportionate to the power it wields and the absence of any external check upon it.
 
-**Complexity and disruption.** Judicial reorganization is administratively complex. The Act addresses this through phased implementation, allowing the Administrative Office two years to develop circuit boundaries and states time to adjust. Existing judges are reassigned based on residence, minimizing disruption. District court structure remains unchanged. The transition is significant but manageable -- comparable to past circuit reorganizations that the federal judiciary has successfully navigated.
+**Complexity and disruption.** Judicial reorganization is administratively complex. The Act addresses this through phased implementation, allowing the Administrative Office time to develop circuit boundaries and states time to adjust. The district-level building block approach simplifies implementation in a critical respect: the sub-state units used for circuit construction are existing federal judicial districts with established institutional infrastructure, bar memberships, and geographic jurisdictions. No new administrative boundaries are created -- the Act reassigns existing federal court units between circuits. Existing judges are reassigned based on residence, minimizing disruption. District court structure remains unchanged.
+
+The five-year compliance assessment cycle ensures that circuit reorganization is not a one-time event followed by decades of drift. The tiered response framework provides ongoing maintenance: minor population shifts are tolerated, emerging imbalances trigger contingency planning, and systemic degradation triggers mandatory rebalancing. This ongoing monitoring makes the initial implementation less freighted -- the system does not need to achieve perfect balance on the first attempt because it has a structured mechanism for self-correction. The transition is significant but manageable -- comparable to past circuit reorganizations that the federal judiciary has successfully navigated.
 
 **Fifty works was arbitrary; ten works is insufficient.** The documentation requirement was reduced from fifty works to ten self-selected works in Rev 2.1 to accommodate multi-nominee evaluation under the slate-based process. Critics may argue in opposite directions: that ten works provides an insufficient record for evaluating fitness for the Supreme Court, or that any numerical requirement is arbitrary.
 
@@ -340,7 +370,16 @@ The reform is deliberately focused on structural problems -- circuit imbalance, 
 
 ## Revision History
 
-**Revision 2.1** (Current)
+**Revision 2.2** (Current)
+- Updated reference line to reflect FJBAA Rev 2.2
+- Expanded Title I Provision Rationale from a single paragraph into a comprehensive discussion with three italic-lead-in subsections:
+  - *District-level building blocks*: explains the shift from whole-state to district-level constraints, 67% vs. 93% compliance comparison, federal judicial districts as creatures of federal statute, preference-with-exception structure, and limited state divisions under current data
+  - *Five-year compliance assessment cycle*: explains the structured assessment schedule, tiered response framework (0-1/2/3+ thresholds), rationale for five-year cadence, ACS estimates for interim assessments, and 180-day rebalancing timeline
+  - *Circuit count adjustment mechanism*: explains principled trigger, minimum-expansion formulation, congressional authorization requirement, and extension of principled-derivation defense
+- Updated "Complexity and disruption" concern to reference district-level building blocks as simplifying implementation and the five-year compliance assessment cycle as ongoing maintenance
+- Removed "Decennial rebalancing maintains equality as populations shift" from Title I opening paragraph (superseded by expanded compliance assessment discussion)
+
+**Revision 2.1**
 - Updated reference line to reflect FJBAA Rev 2.1
 - Added "Senate obstruction as a structural vulnerability" as seventh dysfunction in Problem Analysis, drawing on Chilton, Epps, Rozema & Sen (2021)
 - Added binary single-nominee confirmation to Alternatives Considered as rejected alternative, with Chilton et al. empirical analysis
@@ -369,6 +408,13 @@ The reform is deliberately focused on structural problems -- circuit imbalance, 
 - Updated all "Chief Justice" references to "Co-Chief Justice" throughout to reflect Rev 1.9 shared leadership model
 - Revised Design Philosophy to describe shared Co-Chief Justice leadership rather than sequential rotation
 - Revised Provision Rationale Title II: rewrote Co-Chief Justice rationale explaining shared leadership model, Ceremonial Chief Justice designation, and advantages over both singular appointment and sequential rotation
+- Added Provision Rationale for Title II Slate-Based Nomination and BLOC STAR Voting:
+  - Problem analysis: concentration of leverage in binary rejection
+  - Incentive transformation: obstruction as strategically irrational under slate model
+  - BLOC STAR mechanism: degrees-of-support scoring, aggregation mathematics, public scoring rationale
+  - Slate rejection as "ornamental gun" -- constitutional authority preserved but structurally rendered irrational
+  - Slate sizing formula: n x 2 minimum as anti-regression mechanism, n x 2.5 maximum to prevent inflation
+  - 120-day consideration timeline and hybrid statutory/Senate-rules model
 - Added Provision Rationale for Title II Appointment Equalization (Section 202(d)): explains steady-state five-appointments-per-term distribution and borrowing mechanism
 - Added Provision Rationale for Title II Vacancy and Schedule Integrity (Section 205): explains vacancy coverage rotation system, random lottery mechanism, pool-exhaustion cycling, and the principle that vacancies do not create presidential appointment opportunities
 - Added Provision Rationale for Title II Oath of Office (Section 206): explains mutual oath requirement and anti-gaming purpose
