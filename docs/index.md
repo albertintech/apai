@@ -24,6 +24,26 @@ The Framework combines two coordinated components:
 
 ---
 
+### ⚖️ Federal Judicial Balance and Accountability Act (FJBAA)
+
+The Federal Judicial Balance and Accountability Act restructures the federal judiciary to address structural dysfunctions that no single reform can solve in isolation. Federal circuits reflect nineteenth-century boundaries rather than contemporary population distribution. The Supreme Court has maintained nine justices since 1869 despite dramatic population growth. Judicial appointments depend on actuarial chance rather than principled constitutional design. The binary single-nominee confirmation model concentrates maximum leverage in the Senate's ability to reject. And the Supreme Court remains the only court in the federal system without binding ethical rules or meaningful enforcement.
+
+The Act addresses these interconnected problems through five integrated titles:
+
+**Title I: Federal Circuit Reorganization** — Establishes fifteen population-based regional circuits using federal judicial districts as building blocks, with a structured five-year compliance assessment cycle and tiered rebalancing framework.
+
+**Title II: Supreme Court Composition and Appointments** — Aligns the Court with circuit structure through fifteen justice positions, a three-phase career structure (Associate Justice, Co-Chief Justice, Senior Justice), shared leadership, vacancy coverage through Senior Justice rotation, and appointment equalization ensuring each presidential term includes exactly five appointment opportunities at steady state.
+
+**Title III: Transparency and Evaluative Standards** — Establishes evidence-based documentation requirements ensuring nominees possess comprehensive evaluable records, calibrated for multi-nominee evaluation under the slate-based process.
+
+**Title IV: Implementation and Fairness Provisions** — Phases reforms over multiple years, with slate-based nomination using BLOC STAR voting and transparency requirements effective immediately. Constitutional protections are explicitly preserved: no sitting justice is removed, no salary is reduced, and "good behavior" tenure remains intact.
+
+**Title V: Judicial Ethics and Accountability** — Creates binding ethical standards enforced through a Judicial Inspector General and Ethics Review Panel composed of Senior Justices, with graduated sanctions including mandatory early transition to senior status.
+
+[Learn more about the Federal Judicial Balance and Accountability Act](judiciary/fjbaa/FJBAA-Rev-2-2-Introduction.md)
+
+---
+
 ### 💰 American Shared Prosperity Compact (ASPC)
 
 The American Shared Prosperity Compact addresses economic security through coordinated modernization of payment infrastructure, income support, and child benefits. Current systems are fragmented, administratively complex, and exclude millions from basic financial services. These interconnected problems require integrated solutions.
@@ -59,14 +79,6 @@ The Compact combines three components designed to function independently while i
 **Civil Service Accountability Act (CSAA)** — Modernizes federal workforce accountability mechanisms while strengthening protections against politicization. The Act addresses the dual challenges of removing poor performers and maintaining professional independence.
 
 [Learn more](executive/csaa/CSAA-Rev-1-1-Introduction.md)
-
----
-
-### Federal Judiciary
-
-**Federal Judicial Balance and Accountability Act (FJBAA)** — Restructures the federal judiciary to address population-based representation, predictable appointments, transparent evaluation of nominees, and enforceable ethics. The Act establishes fifteen justices aligned to population-based circuits, a three-phase career structure (Associate Justice for ten years, Chief Justice for two years, then Senior Justice), automatic Chief Justice rotation, evidence-based documentation requirements for nominees, and binding ethical standards enforced by Senior Justices.
-
-[Learn more](judiciary/fjbaa/FJBAA-Rev-2-2-Introduction.md)
 
 ---
 
