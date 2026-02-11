@@ -78,7 +78,7 @@ The Compact combines three components designed to function independently while i
 
 **Civil Service Accountability Act (CSAA)** — Modernizes federal workforce accountability mechanisms while strengthening protections against politicization. The Act addresses the dual challenges of removing poor performers and maintaining professional independence.
 
-[Learn more](executive/csaa/CSAA-Rev-1-1-Introduction.md)
+[Learn more](executive/csaa/CSAA-Rev-1-3-Introduction.md)
 
 ---
 
