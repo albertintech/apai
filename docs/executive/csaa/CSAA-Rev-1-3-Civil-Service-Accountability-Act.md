@@ -1,0 +1,2255 @@
+# THE CIVIL SERVICE ACCOUNTABILITY ACT
+
+## Establishing Professional Standards, Transparency, and Merit-Based Service in the Federal Civil Service
+
+### Revision 1.3
+
+---
+
+## EXECUTIVE SUMMARY
+
+The Civil Service Accountability Act (CSAA) transforms the federal civil service from a politicized patronage system into a professional meritocracy modeled on the United States military officer corps. By establishing a principled framework limiting political appointments to approximately 1,000 positions (1.25% of the senior policy and management workforce, bounded by a floor of 1.0% and ceiling of 1.5%), creating transparent performance standards, establishing fixed-term Senior Professional Service positions with tiered confirmation, implementing a Professional Recommendation and Political Override Framework for discretionary governance decisions, implementing enhanced revolving door restrictions, and instituting rigorous accountability mechanisms, the CSAA ensures that government operates with the same professionalism, continuity, and non-partisan service that Americans expect from their armed forces.
+
+**Core Principles:**
+
+- Professional expertise serving under civilian control
+- Transparent accountability through public performance reviews and oversight
+- Merit-based advancement rewarding excellence, not patronage
+- Non-partisan service to the Constitution, not political parties
+- Institutional continuity across administrations
+- Effective execution of elected officials' policy directives
+- Protection against revolving-door corruption
+- Structured accountability for discretionary decisions through documentation and transparency
+
+**The Model:** Just as Americans trust career military officers -- from the Chairman of the Joint Chiefs to combatant commanders -- to defend the nation under civilian leadership, the CSAA brings the same professionalism to civil service. Career professionals who know their jobs, serve fixed terms spanning multiple administrations, take oaths to the Constitution, face rigorous accountability while executing the lawful directives of elected officials, and transition to post-government careers without conflicts of interest.
+
+---
+
+## TABLE OF CONTENTS
+
+1. Findings and Purpose
+2. Definitions
+3. Title I: Professional Civil Service Structure
+4. Title II: Accountability and Transparency Standards
+5. Title III: Senior Professional Service
+6. Title IV: Reduction and Reform of Political Appointments
+7. Title V: Merit-Based Hiring and Promotion
+8. Title VI: Constitutional Oath and Non-Partisan Service
+9. Title VII: Compensation and Professional Development
+10. Title VIII: Implementation and Transition
+11. Title IX: Oversight and Reporting
+
+---
+
+## FINDINGS AND PURPOSE
+
+### Section 101. Congressional Findings
+
+Congress finds that:
+
+(1) **Institutional Memory Crisis.** The current system of approximately 4,000 political appointments creates institutional amnesia every 4-8 years, forcing each administration to relearn lessons at taxpayer expense and undermining effective governance.
+
+(2) **Dysfunction Creates "Deep State" Perception.** The over-politicization of executive branch positions creates the very dysfunction that fuels conspiracy theories about unaccountable bureaucrats, when in fact the problem is incompetent political appointees operating without professional expertise or institutional knowledge.
+
+(3) **Military Model Works.** The United States military demonstrates that professional officer corps serving under civilian control -- with career advancement based on merit, fixed terms for senior officers, Senate confirmation for flag officers, and oath to the Constitution -- can operate with exceptional professionalism, accountability, and effectiveness while preserving democratic control.
+
+(4) **International Best Practice.** Peer democracies (United Kingdom, Germany, France, Canada, Australia, New Zealand) maintain professional civil services with 50-150 political appointments compared to America's 4,000, demonstrating superior governmental effectiveness, policy continuity, and institutional competence.
+
+(5) **Constitutional Authority.** Congress possesses constitutional authority under Article I, Section 8 to establish offices and prescribe regulations for civil service, as demonstrated by the Pendleton Act (1883), Classification Act (1923), Civil Service Reform Act (1978), and numerous precedents including fixed terms for FBI Directors (10 years) and Federal Reserve governors (14 years).
+
+(6) **Current System Fails All Parties.** Political appointees lack expertise to execute policy effectively, career civil servants operate in shadows due to political distrust, elected officials cannot achieve their policy goals due to incompetent execution, and taxpayers fund waste, fraud, and repeated mistakes.
+
+(7) **Transparency Ensures Accountability.** Public performance reviews, Inspector General oversight, congressional testimony requirements, and transparent removal procedures provide genuine accountability superior to the current system where incompetent political appointees face no consequences for failure. Chronic vacancy rates of 30-65% across Cabinet departments in recent administrations demonstrate the current system's inability to even fill the positions it creates.
+
+(8) **Structural Staffing Gap.** A structural gap exists between the approximately 4,000 appointee positions authorized and the approximately 2,000 positions any administration has demonstrated the capacity to fill in its first year, resulting in permanent institutional instability.
+
+(9) **Confirmation Pipeline Deterioration.** The average confirmation time has nearly tripled since the Reagan administration -- from 69 days to 192 days -- rendering large-scale political appointment operationally unsustainable.
+
+(10) **Structural Fiction.** Approximately 2,000 positions that no administration consistently fills represent a structural fiction that distorts public understanding of executive branch staffing and impedes effective governance.
+
+(11) **National Security Implications.** Government departments require the same institutional continuity, professional expertise, and operational effectiveness as the Department of Defense to address challenges including pandemics, economic crises, cybersecurity threats, climate change, and international competition.
+
+### Section 102. Statement of Purpose
+
+The purposes of this Act are to:
+
+(1) **Establish Professional Civil Service.** Create a three-tier professional civil service modeled on military officer corps structure, with clear ranks, merit-based advancement, professional development requirements, and transparent accountability.
+
+(2) **Ensure Institutional Continuity.** Provide fixed terms for Senior Professional Service positions that span multiple administrations, preserving institutional knowledge, international relationships, and operational expertise across electoral cycles.
+
+(3) **Enhance Democratic Accountability.** Require tiered confirmation for senior civil servants -- full Senate confirmation for the most senior tier, committee confirmation for mid-level leadership, and professional merit panel selection for operational positions -- mandate public performance reviews, strengthen Inspector General oversight, and establish transparent removal procedures that balance presidential authority with professional continuity.
+
+(4) **Restore Competent Execution.** Enable elected officials to achieve their policy objectives through professional civil servants who execute lawful directives effectively, rather than incompetent political appointees who undermine presidential agendas through inexperience.
+
+(5) **Eliminate Patronage.** Replace political loyalty tests with merit-based hiring, competitive examinations, performance evaluations, and career advancement based on excellence rather than campaign contributions or personal connections.
+
+(6) **Reduce Waste.** Save taxpayer dollars by ending the repetitive cycle of institutional knowledge loss, policy mistakes, operational failures, and administrative chaos that accompanies mass turnover every 4-8 years.
+
+(7) **Depoliticize Administration.** Establish non-partisan service to the Constitution through oaths, ethics requirements, and prohibitions on partisan political activity, ensuring civil servants serve the American people rather than political parties.
+
+(8) **Create Transparent Accountability.** Implement public performance reviews, congressional oversight, Inspector General investigations, and for-cause removal procedures that provide genuine accountability while protecting competent civil servants from political purges.
+
+(9) **Establish Structured Decision-Making.** Create a Professional Recommendation and Political Override Framework that preserves democratic control while ensuring professional expertise is documented, considered, and cannot be silently ignored.
+
+---
+
+## DEFINITIONS
+
+### Section 201. Key Terms
+
+For purposes of this Act:
+
+(1) **Professional Civil Service.** The permanent merit-based workforce of the federal government, excluding political appointees, military personnel, postal workers, and congressional staff.
+
+(2) **Senior Professional Service (SPS).** Senior civil servants serving in positions equivalent to Deputy Secretary, Undersecretary, or Assistant Secretary levels, appointed to fixed terms through the applicable confirmation process established in Section 502.
+
+(3) **Professional Civil Service Officer Corps (PCSOC).** Mid-level career civil servants in positions classified CS-4 through CS-10, serving as the professional managerial and technical workforce.
+
+(4) **Career Civil Service (CCS).** Entry-level and mid-career civil servants in positions classified CS-11 through CS-20, forming the foundational workforce.
+
+(5) **Political Appointee.** An individual appointed by the President or agency head based on political considerations rather than merit-based selection, serving at the pleasure of the appointing authority.
+
+(6) **For-Cause Removal.** Removal from position based on documented grounds including inefficiency, neglect of duty, malfeasance, misconduct, incompetence, refusal to execute lawful directives, ethics violations, or other legitimate cause as defined by regulation, following due process procedures.
+
+(7) **Merit-Based Selection.** Appointment and promotion based on qualifications, experience, competitive examination, performance evaluation, and professional competence rather than political affiliation, personal connections, or patronage.
+
+(8) **Fixed Term.** A specified period of service established by statute, providing tenure security subject to for-cause removal procedures.
+
+(9) **Lawful Directive.** An order, instruction, or policy directive issued by constitutional authority (President, Cabinet Secretary, or delegated official) that does not violate federal law, constitutional provisions, or require professional officers to engage in illegal conduct.
+
+(10) **Institutional Knowledge.** Expertise, relationships, operational procedures, historical context, lessons learned, and professional competence accumulated through long-term service in governmental functions.
+
+(11) **Senior Policy and Management Workforce.** The total number of federal civilian employees in the following categories, as reported by the Office of Personnel Management through published workforce data: (i) all Senior Executive Service positions allocated by OPM; (ii) all General Schedule GS-14 and GS-15 positions designated as supervisory or managerial; and (iii) all incumbent political appointee positions. This workforce constitutes the denominator for the political appointment limit formula established in Section 602(c).
+
+(12) **Professional Recommendation.** A written assessment by an SPS officer documenting the evidentiary basis, alternatives considered, and recommended course of action on discretionary matters within their domain of authority, as established in Section 504A.
+
+(13) **Political Override.** A written decision by a Cabinet Secretary or equivalent political appointee to accept, modify, or reject a professional recommendation, including the justification for departure from the recommendation, as established in Section 504A.
+
+(14) **Structured Escalation.** The process by which an SPS officer who believes an override will cause genuine harm -- meaning specific, articulable, demonstrable risk beyond legitimate policy disagreement -- may simultaneously notify the strengthened Inspector General, the relevant congressional committee, and the administrative record, as established in Section 504A.
+
+---
+
+## TITLE I: PROFESSIONAL CIVIL SERVICE STRUCTURE
+
+### Section 301. Three-Tier Structure
+
+The federal civil service shall be organized in three tiers modeled on the structure of the United States military:
+
+(a) **Tier 1: Senior Professional Service (SPS)**
+
+    (1) Equivalent to: Flag officers (general/admiral rank)
+    (2) Positions: Deputy Secretary, Undersecretary, Assistant Secretary levels
+    (3) Structure: CS-1 (highest) through CS-3
+    (4) Appointment: Fixed terms, tiered confirmation as established in Section 502
+    (5) Purpose: Strategic leadership, institutional continuity, policy execution
+
+(b) **Tier 2: Professional Civil Service Officer Corps (PCSOC)**
+
+    (1) Equivalent to: Military officer corps (O-1 through O-6)
+    (2) Positions: Mid-level management, technical leadership, program directors
+    (3) Structure: CS-4 through CS-10
+    (4) Appointment: Merit-based career progression
+    (5) Purpose: Operational management, program execution, professional expertise
+
+(c) **Tier 3: Career Civil Service (CCS)**
+
+    (1) Equivalent to: Military enlisted personnel
+    (2) Positions: Entry-level through mid-career professionals
+    (3) Structure: CS-11 through CS-20
+    (4) Appointment: Merit-based competitive hiring
+    (5) Purpose: Foundational workforce, service delivery, technical support
+
+### Section 302. Civil Service Officer Ranks
+
+(a) **Senior Professional Service (SPS) Ranks**
+
+    (1) **CS-1 (Deputy Secretary Level)**
+        (i) Fixed term: 6 years, non-renewable
+        (ii) Full Senate confirmation required
+        (iii) Bipartisan balance: No more than 60% of CS-1 positions across executive branch from single political party
+        (iv) Removal: For cause only, with due process
+        (v) Responsibilities: Highest-ranking professional civil servant in department, maintains institutional continuity, executes Cabinet Secretary directives, coordinates across divisions, briefs incoming political leadership
+
+    (2) **CS-2 (Undersecretary Level)**
+        (i) Fixed term: 5 years, renewable once through committee reconfirmation
+        (ii) Committee confirmation required, with default approval as established in Section 502
+        (iii) Bipartisan balance: No more than 60% of CS-2 positions across executive branch from single political party
+        (iv) Removal: For cause only, with due process
+        (v) Responsibilities: Regional or functional expertise leadership, coordinates major program areas, maintains international or interagency relationships
+
+    (3) **CS-3 (Assistant Secretary Level)**
+        (i) Fixed term: 6 years (initial), career progression thereafter
+        (ii) Professional merit panel selection, no Senate involvement
+        (iii) Removal: For cause following standard civil service procedures
+        (iv) Responsibilities: Leads specific bureaus or program areas, provides subject matter expertise, manages operations
+
+(b) **Professional Civil Service Officer Corps (PCSOC) Ranks**
+
+CS-4 through CS-10: Career positions with merit-based advancement, competitive promotion, performance evaluation requirements, and professional development standards (detailed in Title V).
+
+(c) **Career Civil Service (CCS) Ranks**
+
+CS-11 through CS-20: Entry-level and mid-career positions with merit-based hiring, competitive examination, and career advancement opportunities (detailed in Title V).
+
+### Section 303. Military Analogy Framework
+
+The professional civil service structure shall operate under principles analogous to the United States military:
+
+(a) **Civilian Control.** Just as military officers serve under the President as Commander in Chief and civilian Secretary of Defense, professional civil servants serve under the President as Chief Executive and civilian Cabinet Secretaries.
+
+(b) **Professional Expertise.** Just as military officers develop expertise through career progression, professional development, and institutional experience, civil servants shall advance through merit-based promotion and specialized training.
+
+(c) **Institutional Continuity.** Just as the Chairman of the Joint Chiefs and combatant commanders serve fixed terms spanning multiple administrations, Senior Professional Service members provide continuity across electoral cycles.
+
+(d) **Oath to Constitution.** Just as military officers swear allegiance to the Constitution rather than any individual, civil servants shall take identical oaths of office.
+
+(e) **Transparent Accountability.** Just as military officers face Inspector General oversight, congressional testimony, performance evaluations, and courts-martial, civil servants face parallel accountability mechanisms.
+
+(f) **Non-Partisan Service.** Just as military officers serve Republican and Democratic commanders equally, civil servants execute lawful directives regardless of political party in power.
+
+### Section 304. Relationship to Political Leadership
+
+(a) **Cabinet Secretaries.** Continue as political appointees serving at the pleasure of the President, setting policy direction and representing presidential priorities.
+
+(b) **Deputy Secretaries (CS-1).** Professional civil servants serving fixed 6-year terms, executing Cabinet Secretary directives, maintaining institutional operations, and providing professional expertise. The relationship between political leadership and professional officers on discretionary matters is governed by the Professional Recommendation and Political Override Framework established in Section 504A.
+
+(c) **Chain of Command.** President --> Cabinet Secretary (political) --> Deputy Secretary (CS-1 professional) --> Undersecretaries (CS-2 professional) --> Assistant Secretaries (CS-3 professional) --> PCSOC --> CCS
+
+(d) **Policy vs. Execution.** Political appointees set policy objectives and priorities; professional civil servants execute those policies competently and lawfully.
+
+(e) **Preservation of Presidential Authority.** Nothing in this Act shall diminish the President's constitutional authority under Article II to supervise the executive branch, require written opinions from principal officers, or remove officers subject to constitutional limitations.
+
+---
+
+## TITLE II: ACCOUNTABILITY AND TRANSPARENCY STANDARDS
+
+### Section 401. Public Performance Review System
+
+(a) **Annual Performance Reviews**
+
+    (1) All civil servants in PCSOC and SPS positions shall receive annual written performance evaluations.
+
+    (2) Performance reviews for SPS positions (CS-1 through CS-3) shall be made publicly available within 30 days of completion, with redactions only for classified national security information.
+
+    (3) Performance reviews shall evaluate:
+        (i) Professional competence and expertise
+        (ii) Execution of assigned responsibilities
+        (iii) Management and leadership effectiveness
+        (iv) Adherence to ethical standards
+        (v) Cooperation with oversight entities
+        (vi) Response to lawful directives
+
+    (4) Performance standards shall be objective, measurable, and established in advance.
+
+(b) **Performance Rating System**
+
+Ratings shall be:
+
+    (1) **Exceptional:** Performance significantly exceeds standards
+    (2) **Superior:** Performance exceeds standards
+    (3) **Fully Successful:** Performance meets all standards
+    (4) **Minimally Satisfactory:** Performance meets most standards with deficiencies noted
+    (5) **Unsatisfactory:** Performance fails to meet standards
+
+Two consecutive "Unsatisfactory" ratings constitute grounds for for-cause removal.
+
+### Section 402. Inspector General Oversight
+
+(a) **Enhanced IG Authority**
+
+    (1) Inspectors General shall conduct regular audits of civil service hiring, promotion, and removal decisions to ensure compliance with merit principles.
+
+    (2) IGs shall investigate allegations of:
+        (i) Political influence in hiring or promotion
+        (ii) Improper removal or retaliation
+        (iii) Ethics violations
+        (iv) Waste, fraud, or abuse
+        (v) Nepotism or favoritism
+        (vi) Abuse of the political override process, including patterns of overrides that disregard professional recommendations without adequate justification
+
+    (3) IG reports shall be transmitted to Congress and made publicly available within 60 days, absent compelling national security reasons.
+
+(b) **IG Independence and Professional Service Architecture**
+
+    (1) Inspectors General shall be selected through professional merit panels consistent with the SPS selection process established in Section 502, ensuring nonpartisan professional qualifications.
+
+    (2) Inspectors General shall serve fixed terms of 7 years, non-renewable, to avoid alignment with presidential terms and ensure independence across administrations.
+
+    (3) Removal of an Inspector General requires:
+        (i) Documented for-cause grounds consistent with the removal standards established in Section 404
+        (ii) Written explanation transmitted to Congress 30 days prior to removal
+        (iii) Review by the Council of Inspectors General on Integrity and Efficiency
+        (iv) Publication of the removal justification through the Transparency Portal established in Section 405
+
+    (4) IGs shall have unrestricted access to all agency documents and personnel relevant to investigations.
+
+    (5) IGs serve as one leg of the triangulated accountability framework established in Section 504A. Their structural independence is a prerequisite for the escalation pathway to function as designed.
+
+### Section 403. Congressional Oversight
+
+(a) **Testimony Requirements**
+
+    (1) SPS members (CS-1 through CS-3) shall testify before relevant congressional committees at least annually regarding:
+        (i) Department operations and performance
+        (ii) Implementation of congressional mandates
+        (iii) Resource allocation and efficiency
+        (iv) Challenges and recommendations
+
+    (2) Testimony shall be under oath and subject to penalties for perjury.
+
+    (3) Professional civil servants testifying before Congress shall not be subject to retaliation for truthful testimony regarding operational matters, legal compliance, or professional expertise.
+
+(b) **Reports to Congress**
+
+    (1) Agencies shall submit annual reports detailing:
+        (i) Civil service hiring, promotion, and removal statistics
+        (ii) Performance review results (aggregated)
+        (iii) IG findings and corrective actions
+        (iv) Compliance with merit principles
+        (v) Political appointee turnover rates
+
+    (2) Government Accountability Office shall audit civil service operations biennially and report findings to Congress.
+
+(c) **Automatic Escalation Routing**
+
+    (1) Structured escalation filings under the Professional Recommendation and Political Override Framework (Section 504A) shall be automatically transmitted to the relevant congressional oversight committee.
+
+    (2) The committee shall receive the complete record: the original professional recommendation, the political override, the override rationale, and the escalation filing.
+
+    (3) Transmission is automatic and does not require the SPS officer to separately contact Congress. The escalation filing triggers simultaneous notification to all three recipients identified in Section 504A.
+
+### Section 404. Removal Procedures and Due Process
+
+(a) **Grounds for Removal**
+
+Professional civil servants in SPS and PCSOC may be removed for:
+
+    (1) **Inefficiency.** Demonstrated inability to perform assigned duties competently, documented through performance reviews or operational failures.
+
+    (2) **Neglect of Duty.** Failure to fulfill assigned responsibilities, including unjustified absence, refusal to perform work, or abandonment of duties.
+
+    (3) **Malfeasance.** Misconduct, abuse of authority, or intentional wrongdoing in the performance of official duties.
+
+    (4) **Incompetence.** Lack of qualifications, skills, or knowledge necessary to perform position requirements, demonstrated through evaluation.
+
+    (5) **Refusal to Execute Lawful Directives.** Unwillingness to implement lawful orders, instructions, or policies issued by constitutional authority.
+
+    (6) **Ethics Violations.** Breach of ethical standards, conflicts of interest, misuse of position, or violation of applicable codes of conduct.
+
+    (7) **Criminal Conduct.** Conviction of a crime involving moral turpitude or relevant to official duties.
+
+    (8) **Security Violations.** Improper handling of classified information or failure to maintain required security clearances.
+
+(b) **What Does NOT Constitute Cause**
+
+Removal shall NOT be based solely on:
+
+    (1) **Policy Disagreement.** Professional advice or recommendations that differ from political leadership preferences, provided lawful directives are ultimately executed.
+
+    (2) **Political Affiliation.** Actual or perceived party membership, political beliefs, or voting preferences.
+
+    (3) **Prior Administration Service.** Competent service under previous presidents of different political parties.
+
+    (4) **Provision of Expertise.** Informing leadership of legal constraints, operational challenges, or professional best practices.
+
+    (5) **Protected Whistleblowing.** Disclosure to Congress, IGs, or appropriate authorities of waste, fraud, abuse, or illegality.
+
+    (6) **Filing a Structured Escalation.** Good-faith use of the structured escalation process established in Section 504A, consistent with the anti-retaliation protections in that section.
+
+(c) **Due Process Requirements**
+
+Removal for cause requires:
+
+    (1) **Written Notice.** Specific charges, evidence supporting charges, and proposed removal delivered to the officer at least 30 days prior to removal.
+
+    (2) **Opportunity to Respond.** Right to submit written response, present evidence, call witnesses, and be represented by counsel.
+
+    (3) **Impartial Review.** Initial determination by agency official other than the accuser, with written findings.
+
+    (4) **Appeal Rights.**
+        (i) SPS members: Appeal to Merit Systems Protection Board with expedited review
+        (ii) Right to judicial review in U.S. Court of Appeals
+        (iii) Burden of proof on agency to demonstrate cause by preponderance of evidence
+
+    (5) **Stay Pending Appeal.** Officer remains in position with full pay and benefits during appeal process unless agency demonstrates immediate threat to operations or security.
+
+    (6) **Public Record.** Final removal decisions and supporting documentation shall be made public (with redactions only for classified information or personal privacy), ensuring transparency and discouraging arbitrary removals.
+
+(d) **Emergency Suspension**
+
+Officers may be suspended with pay pending investigation when:
+
+    (1) Credible evidence suggests criminal conduct, security violations, or conduct posing immediate operational threat.
+
+    (2) Suspension requires written explanation and is subject to expedited review (within 30 days).
+
+    (3) If investigation does not substantiate grounds for removal, officer is reinstated with back pay and benefits.
+
+### Section 405. Transparency Portal
+
+(a) **Public Database**
+
+Office of Personnel Management shall establish and maintain a publicly accessible online database containing:
+
+    (1) Names, titles, and ranks of all SPS members
+    (2) Performance review ratings (not full text except SPS)
+    (3) Appointment and removal statistics
+    (4) Salary information
+    (5) Professional qualifications and experience
+    (6) IG reports and findings
+    (7) Congressional testimony transcripts
+    (8) Agency compliance reports
+    (9) Professional recommendations and political override records, subject to classification exceptions for national security matters
+    (10) Structured escalation filings and their resolution
+    (11) Override frequency by department and agency (aggregate data)
+    (12) IG evaluation findings related to override disputes
+
+(b) **Real-Time Updates**
+
+Database shall be updated within 15 days of any personnel action.
+
+(c) **User-Friendly Interface**
+
+Database shall be searchable, downloadable, and accessible to journalists, researchers, and the public without registration requirements.
+
+---
+
+## TITLE III: SENIOR PROFESSIONAL SERVICE
+
+### Section 501. Establishment of SPS
+
+(a) **Purpose and Structure**
+
+The Senior Professional Service is established to provide strategic leadership, institutional continuity, and professional expertise at the highest levels of federal departments and agencies, modeled on the Chairman of the Joint Chiefs of Staff and senior military officers who serve under civilian leadership while maintaining institutional knowledge across administrations.
+
+(b) **Positions Included**
+
+The following positions shall be designated Senior Professional Service:
+
+    (1) **CS-1 Level (Deputy Secretary equivalent):**
+        (i) Deputy Secretary of each Cabinet department
+        (ii) Deputy Administrator of major independent agencies
+        (iii) Other positions designated by statute as CS-1
+
+    (2) **CS-2 Level (Undersecretary equivalent):**
+        (i) Undersecretaries of Cabinet departments
+        (ii) Regional/functional bureau chiefs
+        (iii) Other positions designated by statute as CS-2
+
+    (3) **CS-3 Level (Assistant Secretary equivalent):**
+        (i) Assistant Secretaries
+        (ii) Bureau directors
+        (iii) Other positions designated by statute as CS-3
+
+(c) **Conversion Through Evaluation and Attrition**
+
+    (1) **Tranche 1 -- Vacant Position Evaluation (Years 1-2).**
+
+        (i) Within 180 days of enactment, OPM shall conduct a comprehensive audit of all political appointee positions, identifying those that have not been filled with a confirmed appointee for a cumulative period of two years or more across the two most recent presidential administrations.
+
+        (ii) For each such position, OPM shall determine whether the position:
+            (a) Is business-critical and should be converted to professional civil service;
+            (b) Is business-critical and should remain a political appointment with justification; or
+            (c) Is not business-critical and should be eliminated.
+
+        (iii) Positions determined to be non-critical shall be eliminated from the authorized political appointee roster.
+
+        (iv) Positions determined to be critical but not requiring political judgment shall convert to professional civil service immediately upon OPM determination, as no incumbent occupies the position.
+
+        (v) This tranche is expected to address approximately 2,000 positions -- those that exist on paper but are chronically unfilled.
+
+    (2) **Tranche 2 -- Operational and Technical Positions (Years 2-4).**
+
+        (i) OPM shall identify approximately 500 additional positions that are currently filled by political appointees but do not require political judgment for their core functions -- operational, technical, and institutional management roles.
+
+        (ii) These positions shall be flagged for conversion to professional civil service.
+
+        (iii) Conversion occurs upon vacancy. No incumbent shall be removed from a position solely due to its designation for conversion.
+
+        (iv) Upon vacancy, the position converts to professional civil service and is filled through the applicable merit selection process.
+
+    (3) **Tranche 3 -- Boundary Positions (Years 4-6).**
+
+        (i) OPM shall identify approximately 500 additional positions near the political-professional boundary -- positions where the case for political appointment is arguable but where professional service may better serve institutional effectiveness.
+
+        (ii) These positions shall undergo individual evaluation, including consultation with the relevant agency, the relevant Congressional oversight committee, and the Government Accountability Office.
+
+        (iii) Positions determined to require political appointment shall be retained with documented justification.
+
+        (iv) Positions determined to be suitable for conversion shall be flagged for conversion upon vacancy.
+
+    (4) **Occupied Position Protection.**
+
+        (i) No position shall be converted while occupied by an incumbent political appointee.
+
+        (ii) Positions occupied by incumbent appointees shall be flagged for re-evaluation upon vacancy.
+
+        (iii) This provision does not prevent OPM from identifying and classifying occupied positions in advance. Classification and conversion are distinct actions.
+
+    (5) **Exceptions.** Positions specifically exempted by Section 603 remain political appointments regardless of evaluation outcome.
+
+### Section 502. Appointment Process for SPS
+
+(a) **Qualifications**
+
+SPS candidates must demonstrate:
+
+    (1) **Experience.** Minimum 15 years federal service for CS-1, 12 years for CS-2, 10 years for CS-3, or equivalent private sector/state government experience in relevant field.
+
+    (2) **Expertise.** Advanced degree or equivalent professional credentials in relevant discipline (law, policy, management, technical field).
+
+    (3) **Leadership.** Demonstrated management of large organizations, complex programs, or significant budgets.
+
+    (4) **Performance.** History of excellent performance evaluations and professional accomplishments.
+
+    (5) **Ethics.** Unblemished ethics record and successful background investigation.
+
+(b) **Selection Process**
+
+    (1) **For CS-1 Positions:**
+
+        (i) Office of Personnel Management establishes selection panel including:
+            (A) Three retired senior civil servants or military officers (non-partisan)
+            (B) Two subject matter experts from relevant field
+            (C) One representative from government accountability organization
+
+        (ii) Panel reviews applications, conducts interviews, and recommends top three candidates to President.
+
+        (iii) President selects nominee from recommended candidates.
+
+        (iv) Senate conducts confirmation hearing and votes per Section 502(c).
+
+        (v) If Senate rejects nominee, President selects from remaining recommended candidates or selection panel reconvenes.
+
+    (2) **For CS-2 Positions:**
+
+        (i) Selection panels convened by agency heads in consultation with OPM, using the same panel composition as CS-1.
+
+        (ii) Agency head selects nominee from recommended candidates in consultation with OPM.
+
+        (iii) Nominee submitted for committee confirmation per Section 502(d).
+
+    (3) **For CS-3 Positions:**
+
+        (i) Selection panels convened by agency heads in consultation with OPM, consistent with current career SES selection processes.
+
+        (ii) Agency head selects from recommended candidates. No Senate involvement.
+
+        (iii) OPM certifies that the selection process complied with merit principles.
+
+(c) **Senate Confirmation for CS-1 Positions**
+
+    (1) Senate committees shall hold confirmation hearings within 60 days of nomination.
+
+    (2) Hearings shall focus on:
+        (i) Professional qualifications and experience
+        (ii) Understanding of department/agency mission
+        (iii) Commitment to non-partisan service
+        (iv) Plans for executing political leadership directives
+        (v) Approach to accountability and transparency
+
+    (3) Senate votes within 30 days of committee recommendation.
+
+    (4) Nominees approved by majority vote.
+
+(d) **Committee Confirmation for CS-2 Positions**
+
+    (1) The relevant Senate committee with jurisdiction over the department or agency shall receive the CS-2 nomination.
+
+    (2) The committee may hold a hearing, request additional information, or take no action.
+
+    (3) **Default Approval.** If the committee does not vote to reject the nominee within 60 legislative days of receiving the nomination, the nominee is confirmed by operation of law.
+
+    (4) **Committee Rejection.** The committee may reject a nominee by majority vote of the committee membership. If rejected, the agency head shall submit an alternative nominee through the same process.
+
+    (5) **Procedural Requirements.** The committee shall acknowledge receipt of the nomination within 10 legislative days. If the committee does not acknowledge receipt, the 60-day clock begins upon submission.
+
+(e) **Bipartisan Balance**
+
+    (1) At no time shall more than 60% of CS-1 positions across the executive branch be held by individuals who:
+        (i) Are registered members of a single political party, OR
+        (ii) Previously held positions in administrations of a single political party (within previous 10 years)
+
+    (2) At no time shall more than 60% of CS-2 positions across the executive branch be held by individuals meeting the criteria in subsection (1).
+
+    (3) OPM shall monitor and report compliance with the CS-1 and CS-2 balance requirements quarterly.
+
+    (4) If imbalance exceeds 60% at either the CS-1 or CS-2 level, next three appointments at the affected level must restore balance before additional appointments from the over-represented party.
+
+    (5) OPM shall monitor and publish the partisan composition of CS-3 positions on the same quarterly reporting cycle. CS-3 positions are not subject to the hard cap or remedial appointment requirements of subsections (1) through (4), but partisan composition data shall be published through the Transparency Portal (Section 405) to enable public accountability and congressional oversight.
+
+### Section 503. Terms and Tenure
+
+(a) **Fixed Terms**
+
+    (1) CS-1 positions: 6-year terms, non-renewable
+    (2) CS-2 positions: 5-year terms, renewable once through the applicable confirmation mechanism
+    (3) CS-3 positions: 6-year initial terms, thereafter career civil service with standard protections
+
+(b) **Staggered Terms**
+
+    (1) Initial appointments shall be staggered so no more than one-third of SPS positions in any department expire in a single year.
+
+    (2) This prevents mass turnover and preserves institutional continuity.
+
+(c) **Service Across Administrations**
+
+    (1) SPS members serve fixed terms regardless of presidential transitions.
+
+    (2) New presidents inherit sitting SPS members and work with them until terms expire.
+
+    (3) This mirrors military model where new commanders work with existing officer corps.
+
+(d) **Reappointment Process**
+
+For CS-2 positions eligible for reappointment:
+
+    (1) Performance review by IG and GAO evaluating competence, compliance, and effectiveness.
+
+    (2) Review by the relevant Senate committee.
+
+    (3) Reconfirmation through the committee confirmation process established in Section 502(d).
+
+### Section 504. Responsibilities and Authority
+
+(a) **CS-1 Deputy Secretary Responsibilities**
+
+    (1) **Execute Cabinet Secretary Directives.** Implement policy decisions and priorities established by political leadership.
+
+    (2) **Maintain Operations.** Ensure continuous, effective functioning of department during transitions and vacancies in political positions.
+
+    (3) **Provide Expertise.** Brief Cabinet Secretary and President on operational realities, legal constraints, best practices, and professional recommendations.
+
+    (4) **Coordinate Across Department.** Integrate activities of undersecretaries, bureaus, and divisions.
+
+    (5) **Manage Institutional Relationships.** Maintain working relationships with:
+        (i) Congressional committees and staff
+        (ii) Other departments and agencies
+        (iii) State and local government partners
+        (iv) International counterparts
+        (v) Private sector stakeholders
+
+    (6) **Brief Incoming Leadership.** During transitions, provide comprehensive briefings to incoming Cabinet Secretaries on department operations, ongoing initiatives, legal obligations, and challenges.
+
+    (7) **Represent Department.** Testify before Congress, speak at professional conferences, and represent department in official capacities as directed.
+
+(b) **CS-2 and CS-3 Responsibilities**
+
+Similar responsibilities at undersecretariat and assistant secretary levels, with focus on functional or regional specialization.
+
+(c) **Limitations on Authority**
+
+SPS members shall NOT:
+
+    (1) Set policy priorities (political leadership function)
+    (2) Ignore or countermand lawful directives from Cabinet Secretary or President
+    (3) Engage in partisan political activity
+    (4) Make independent policy pronouncements contrary to administration positions
+    (5) Refuse cooperation with political leadership, Congress, or oversight entities
+
+(d) **Duty to Advise vs. Duty to Execute**
+
+    (1) **Advising.** SPS members have duty to provide candid professional advice, legal analysis, operational concerns, and expert recommendations to political leadership, even when advice contradicts political preferences.
+
+    (2) **Executing.** After decisions are made, SPS members have duty to execute lawful directives effectively and professionally, regardless of personal views.
+
+    (3) **Whistleblowing.** If directed to take illegal action, SPS members must:
+        (i) Refuse the illegal directive
+        (ii) Document refusal and reasoning
+        (iii) Report to Inspector General and, if necessary, Congress
+        (iv) Face no retaliation for refusing illegal orders
+
+    (4) **Discretionary Matters.** For decisions within the gray area between clear directives and bright-line illegality, SPS members shall follow the Professional Recommendation and Political Override Framework established in Section 504A.
+
+### Section 504A. Professional Recommendation and Political Override Framework
+
+(a) **Professional Recommendation Process**
+
+On discretionary matters within their domain of authority, SPS officers shall provide written professional recommendations documenting:
+
+    (1) The evidentiary basis for the recommendation
+    (2) Alternatives considered and reasons for rejection
+    (3) The recommended course of action
+    (4) Potential risks and consequences of alternative approaches
+
+(b) **Political Override Authority**
+
+Cabinet Secretaries and equivalent political appointees retain full authority to accept, modify, or reject professional recommendations. If the political leadership departs from the professional recommendation:
+
+    (1) The override must be documented in writing
+    (2) The override document must include the political leadership's justification for departure
+    (3) Both the recommendation and the override become part of the administrative record
+    (4) Both documents are subject to congressional oversight and judicial review under the Administrative Procedure Act
+    (5) Both documents are published through the Transparency Portal (Section 405), subject to classification exceptions for national security matters
+
+(c) **Structured Escalation Pathway**
+
+When an SPS officer believes an override will cause genuine harm -- meaning specific, articulable, demonstrable risk beyond a legitimate policy disagreement -- the officer may file a structured escalation. Filing an escalation:
+
+    (1) Is a defined procedural step within the system's normal operations, not an extraordinary act
+    (2) Does not constitute insubordination
+    (3) Does not require the officer to refuse execution of the override
+    (4) Triggers simultaneous notification to three independent recipients:
+        (i) The strengthened Inspector General (Section 402)
+        (ii) The relevant congressional oversight committee (Section 403)
+        (iii) The administrative record, where the complete chain (recommendation, override, rationale, escalation) is preserved for judicial review
+
+(d) **Anti-Abuse Provisions**
+
+    (1) Escalation filings must meet the "genuine harm" threshold -- specific, articulable, demonstrable risk. General policy disagreements do not qualify.
+    (2) Frivolous or bad-faith escalation filings are subject to professional review and potential disciplinary action.
+    (3) Retaliation against an officer for filing a good-faith escalation is prohibited and subject to the same protections as whistleblower retaliation under this Act.
+
+(e) **Design Principle**
+
+Neither the career officer nor the political appointee is constrained in their substantive judgment. Both must put their reasoning on the record. Accountability is achieved through documentation and transparency, not through prohibition. Democratic control is preserved -- the politically accountable Cabinet Secretary makes the final call. Professional integrity is preserved -- the career officer's expertise is documented and cannot be silently ignored.
+
+### Section 505. Removal and Resignation
+
+(a) **For-Cause Removal**
+
+SPS members may be removed for cause as defined in Section 404, following due process procedures.
+
+(b) **Political Cost of Removal**
+
+To discourage arbitrary removal for political reasons, the Act establishes procedural and transparency requirements that create political accountability:
+
+    (1) **Public Justification.** Written removal notice and findings must be made public.
+
+    (2) **Congressional Notification.** Relevant committees must be notified 30 days before removal becomes effective.
+
+    (3) **IG Review.** Inspector General must review removal decision and report findings to Congress.
+
+    (4) **Media Scrutiny.** Public removal of a confirmed professional with strong performance record creates political backlash.
+
+    (5) **Appeal Process.** Public proceedings during appeals expose arbitrary removals.
+
+(c) **Voluntary Resignation**
+
+SPS members may resign at any time with 60 days notice, allowing orderly transition.
+
+(d) **Succession Planning**
+
+    (1) Each department shall maintain succession plans identifying interim acting officials during SPS vacancies.
+
+    (2) Vacancies shall be filled within 180 days through appointment process outlined in Section 502.
+
+---
+
+## TITLE IV: REDUCTION AND REFORM OF POLITICAL APPOINTMENTS
+
+### Section 601. Findings on Over-Politicization
+
+Congress finds that the expansion of political appointments from approximately 200 in the 1960s to over 4,000 today has:
+
+(1) Undermined professional expertise and institutional competence
+
+(2) Created excessive turnover and knowledge loss
+
+(3) Filled positions with unqualified loyalists rather than competent professionals
+
+(4) Increased revolving-door corruption between government and lobbying
+
+(5) Politicized functions that should be professionally managed
+
+(6) Generated dysfunction that fuels "deep state" conspiracy theories
+
+(7) Exceeded the capacity of any administration to properly vet, nominate, confirm, and manage appointees, as demonstrated by chronic vacancy rates of 30-65% across Cabinet departments in recent administrations
+
+(8) Created a structural gap between the approximately 4,000 appointee positions authorized and the approximately 2,000 positions any administration has demonstrated the capacity to fill in its first year, resulting in permanent institutional instability
+
+(9) Produced a confirmation pipeline that has tripled in average duration since the Reagan administration -- from 69 days to 192 days -- rendering large-scale political appointment operationally unsustainable
+
+(10) Maintained approximately 2,000 positions that no administration consistently fills, representing a structural fiction that distorts public understanding of executive branch staffing and impedes effective governance
+
+### Section 602. Limitation on Political Appointments
+
+(a) **General Principle**
+
+Political appointments shall be limited to positions genuinely requiring policy-making discretion, political judgment, or confidential relationship with elected officials, and shall not extend to operational, technical, or administrative positions appropriate for professional civil service.
+
+(b) **Categorical Framework**
+
+Political appointments shall be organized in the following categories:
+
+    (1) **Tier 1 - Executive Office of the President:**
+        (i) No statutory limit (Article II prerogative)
+        (ii) Estimated: 150-200 positions
+
+    (2) **Tier 2 - Cabinet Leadership:**
+        (i) Cabinet Secretaries (15 statutory)
+        (ii) Senior policy staff per department (maximum 8 per department)
+        (iii) Estimated: 130-150 positions
+
+    (3) **Tier 3 - Diplomatic and Quasi-Judicial:**
+        (i) Ambassadors and senior diplomatic posts
+        (ii) Regulatory commissioners (as established by statute)
+        (iii) Estimated: 250-300 positions
+
+    (4) **Tier 4 - Legal and Law Enforcement:**
+        (i) U.S. Attorneys, U.S. Marshals (as statutorily established)
+        (ii) Estimated: 200-220 positions
+
+    (5) **Tier 5 - Confidential and Personal Staff:**
+        (i) Schedule C positions requiring personal confidence
+        (ii) Maximum: 130 positions government-wide
+
+(c) **Quantitative Ceiling**
+
+    (1) **Denominator Definition.** For purposes of this section, "senior policy and management workforce" means the total number of federal civilian employees in the following categories, as reported by the Office of Personnel Management through published workforce data:
+        (i) All Senior Executive Service positions allocated by OPM;
+        (ii) All General Schedule GS-14 and GS-15 positions designated as supervisory or managerial; and
+        (iii) All incumbent political appointee positions.
+
+    (2) **Formula.** The combined total of political appointments across all categories shall not exceed 1.25% of the senior policy and management workforce.
+
+    (3) **Floor.** Under no circumstances shall the political appointment limit fall below 1.0% of the senior policy and management workforce.
+
+    (4) **Ceiling.** Under no circumstances shall political appointments exceed 1.5% of the senior policy and management workforce without Congressional authorization by joint resolution.
+
+    (5) **Current Calculation.** As of enactment, with a senior policy and management workforce of approximately 80,000, the target limit is 1,000 positions (1.25% = 1,000). The floor is 800 positions (1.0% = 800). The ceiling is 1,200 positions (1.5% = 1,200).
+
+    (6) **Scaling.** The formula adjusts automatically as the senior policy and management workforce expands or contracts. If the workforce grows to 90,000, the target adjusts to 1,125 with a floor of 900 and ceiling of 1,350. If the workforce contracts to 70,000, the target adjusts to 875 with a floor of 700 and ceiling of 1,050.
+
+(d) **Emergency Authority**
+
+    (1) During declared national emergency, President may temporarily designate up to 50 additional political appointments.
+
+    (2) Such designations expire 180 days after emergency ends unless:
+        (i) Congress authorizes extension by joint resolution; OR
+        (ii) Positions are converted to professional civil service through merit selection
+
+    (3) Emergency appointments shall be reported to Congress within 48 hours with justification.
+
+(e) **Annual Adjustment**
+
+    (1) The Office of Personnel Management shall calculate and publish the senior policy and management workforce total annually based on workforce data as of September 30.
+
+    (2) The Office of Management and Budget shall calculate the political appointment limit by applying the 1.25% formula to the OPM-published workforce total.
+
+    (3) Both calculations shall be published in the President's Budget submission.
+
+    (4) Changes take effect at the start of the following fiscal year.
+
+    (5) If the calculated limit exceeds the 1.5% ceiling equivalent:
+        (i) OMB shall submit a report to Congress explaining the factors driving workforce expansion
+        (ii) Government Accountability Office shall audit the calculation and the underlying workforce data
+        (iii) 90-day Congressional review period before implementation
+
+(f) **Prohibition on Circumvention**
+
+The limits in this section apply to actual exercise of political appointment authority, not formal classification. Agencies may not evade limits through:
+
+    (1) Detailees performing political functions
+    (2) Contractors exercising inherently governmental authority
+    (3) "Acting" appointments exceeding statutory time limits
+    (4) Schedule C exceeding authorized positions
+    (5) Any other mechanism to install political loyalists outside merit system
+    (6) Manipulating the classification of positions within the senior policy and management workforce to inflate the denominator and thereby increase the political appointment limit
+
+(g) **Transparency and Enforcement**
+
+    (1) OMB shall maintain public database of all political appointments, updated monthly, including:
+        (i) Position title and department
+        (ii) Appointee name
+        (iii) Appointment date
+        (iv) Tier/category classification
+        (v) Senate confirmation status (if applicable)
+        (vi) Total count against limit (expressed as both raw number and percentage of senior policy and management workforce)
+
+    (2) GAO shall audit annually for compliance, issuing public report
+
+    (3) Violations result in:
+        (i) Immediate reversal of excess appointments
+        (ii) Freeze on new political appointments until compliance restored
+        (iii) Public reporting to Congress
+        (iv) Potential withholding of agency administrative funds (up to 5%)
+
+(h) **Severability**
+
+If any provision of this section is held invalid, remainder of Act continues in effect. If quantitative limits are held unconstitutional, categorical framework remains enforceable.
+
+### Section 603. Specific Positions Within Categories
+
+The following provides specific examples of positions within each tier established in Section 602(b):
+
+(a) **Tier 1 - Executive Office of the President**
+
+All positions within the Executive Office of the President, including but not limited to:
+
+    (1) Chief of Staff and deputy chiefs of staff
+    (2) National Security Advisor and deputy national security advisors
+    (3) National Economic Council Director and staff
+    (4) Domestic Policy Council Director and staff
+    (5) White House Counsel and deputy counsels
+    (6) Communications Director, Press Secretary, and communications staff
+    (7) Senior Advisors to the President
+    (8) Office of Management and Budget political leadership
+    (9) Council of Economic Advisers Chair and members
+    (10) All other EOP staff positions
+    (11) Estimated total: 150-200 positions
+
+(b) **Tier 2 - Cabinet Leadership**
+
+    (1) **Cabinet Secretaries (15 positions):**
+    Secretaries of State, Treasury, Defense, Justice (Attorney General), Interior, Agriculture, Commerce, Labor, Health and Human Services, Housing and Urban Development, Transportation, Energy, Education, Veterans Affairs, and Homeland Security
+
+    (2) **Senior Policy Staff (maximum 8 per department, ~120 positions total):**
+    In each executive department, the following positions may remain political appointments:
+        (i) Chief of Staff to the Secretary (1 position)
+        (ii) Senior Policy Advisors (no more than 5 positions)
+        (iii) Communications Director (1 position)
+        (iv) Legislative Affairs Director (1 position)
+
+    These positions must be directly involved in policy formulation and political judgment, not operational execution.
+
+    (3) Estimated total for Tier 2: 130-150 positions
+
+(c) **Tier 3 - Diplomatic and Quasi-Judicial**
+
+    (1) **Ambassadors and Diplomatic Posts (~200-250 positions):**
+        (i) Ambassadors to foreign nations (mix of career Foreign Service and political appointments)
+        (ii) U.S. Representatives to international organizations (United Nations, NATO, OAS, etc.)
+        (iii) Special Envoys appointed by President for specific diplomatic initiatives
+
+    (2) **Regulatory Commissioners (~30-35 positions):**
+    Members of independent regulatory commissions as currently structured by statute, including:
+        (i) Federal Communications Commission (5 commissioners)
+        (ii) Federal Trade Commission (5 commissioners)
+        (iii) Securities and Exchange Commission (5 commissioners)
+        (iv) Federal Energy Regulatory Commission (5 commissioners)
+        (v) National Labor Relations Board (5 members)
+        (vi) Consumer Product Safety Commission (5 commissioners)
+        (vii) Federal Election Commission (6 commissioners)
+        (viii) Other independent regulatory agencies as established by statute
+
+    (3) Estimated total for Tier 3: 250-300 positions
+
+(d) **Tier 4 - Legal and Law Enforcement**
+
+    (1) **U.S. Attorneys (~93 positions):**
+    United States Attorneys for each federal judicial district
+
+    (2) **U.S. Marshals (~94 positions):**
+    United States Marshals for each federal judicial district
+
+    (3) **Limited Other (~15-30 positions):**
+        (i) Solicitor General
+        (ii) Selected senior Department of Justice political appointees involved in policy
+        (iii) As specified by statute
+
+    (4) Estimated total for Tier 4: 200-220 positions
+
+(e) **Tier 5 - Confidential and Personal Staff**
+
+    (1) **Schedule C Positions (130 maximum government-wide):**
+
+    Schedule C positions are reserved for staff requiring close personal and policy-determining relationship with political appointees. Positions must meet strict criteria:
+        (i) Confidential or policy-determining character of duties
+        (ii) Direct reporting relationship to political appointee
+        (iii) Involvement in formulation (not just execution) of policy
+        (iv) Impractical to subject to usual competitive examination
+
+    (2) **Allocation:**
+        (i) Office of Management and Budget approves all Schedule C designations
+        (ii) Each department allocated Schedule C positions based on size and policy scope
+        (iii) Unused allocations cannot be transferred between departments
+        (iv) Public list of all Schedule C positions maintained and updated monthly
+
+    (3) **Prohibited uses of Schedule C:**
+        (i) Operational or administrative positions
+        (ii) Technical or professional positions
+        (iii) Positions primarily executing (not formulating) policy
+        (iv) Circumventing merit system protections
+
+    (4) Estimated total for Tier 5: 130 positions
+
+(f) **Estimated Total Across All Tiers**
+
+Under this framework, total political appointments approximate:
+
+    (1) Tier 1 (EOP): 150-200
+    (2) Tier 2 (Cabinet): 130-150
+    (3) Tier 3 (Diplomatic/Regulatory): 250-300
+    (4) Tier 4 (Legal): 200-220
+    (5) Tier 5 (Schedule C): 130
+
+    Total Range: 860-1,000 positions
+
+With 1.25% formula and current senior policy and management workforce of ~80,000: 1,000 positions. This meets the target (1.25%) and is within the band between floor (800) and ceiling (1,200).
+
+### Section 604. Positions Converting to Professional Civil Service
+
+All positions NOT specifically exempted in Section 603 shall convert to merit-based professional civil service, including:
+
+(1) Deputy Secretaries (convert to CS-1 SPS)
+(2) Undersecretaries (convert to CS-2 SPS)
+(3) Assistant Secretaries (convert to CS-3 SPS)
+(4) Deputy Assistant Secretaries (convert to PCSOC)
+(5) Agency heads and deputies of sub-Cabinet agencies
+(6) General Counsels of departments
+(7) Chief Financial Officers
+(8) Chief Information Officers
+(9) Inspector General positions (strengthened independence per Section 402)
+(10) Public Affairs and Legislative Affairs positions (except senior political advisor)
+(11) All Schedule C positions beyond the 130 authorized
+
+### Section 605. Implementation Schedule
+
+(a) **Phase 1 (Years 1-2): Planning and Framework**
+
+    (1) OPM identifies positions for conversion per Tranche 1 evaluation (Section 501(c))
+    (2) Merit selection processes established
+    (3) Training and professional development programs created
+    (4) Succession planning conducted
+
+(b) **Phase 2 (Years 3-5): Conversion Through Attrition**
+
+    (1) As political appointees depart, positions convert to SPS or PCSOC per Tranche 2 and Tranche 3 evaluations
+    (2) Merit-based selection processes fill vacancies
+    (3) No forced removals of incumbents; conversion occurs naturally
+
+(c) **Phase 3 (Years 6-8): Completion**
+
+    (1) Remaining conversions completed through continued attrition
+    (2) Final positions filled through merit selection
+    (3) Full professional civil service operational
+    (4) Standing position evaluation function fully operational on rolling 4-year cycle
+
+### Section 605A. Ongoing Position Classification Review
+
+(a) **Standing Evaluation Mandate**
+
+    (1) The evaluation of political appointee positions is not a one-time implementation activity. OPM shall maintain a standing position evaluation function that continuously reviews the classification of all positions within the senior policy and management workforce.
+
+    (2) This function shall operate on a rolling basis, with each political appointee position reviewed at least once every four years.
+
+(b) **Evaluation Criteria**
+
+    For each political appointee position, OPM shall assess:
+
+    (1) Whether the position has been filled with a confirmed appointee for at least 50% of the preceding eight years;
+
+    (2) Whether the core functions of the position require political judgment, policy-making discretion, or a confidential relationship with elected officials;
+
+    (3) Whether the position could be effectively performed by a professional civil servant executing lawful directives from political leadership; and
+
+    (4) Whether the position's functions have been substantively performed by career officials during periods of vacancy.
+
+(c) **Reclassification Authority**
+
+    (1) Based on evaluation findings, OPM may recommend reclassification of a political appointee position to professional civil service.
+
+    (2) Reclassification recommendations shall be published, with a 90-day public comment period and consultation with the relevant agency head.
+
+    (3) Final reclassification decisions shall be reported to the relevant Congressional oversight committee.
+
+    (4) Reclassified positions convert upon the next vacancy.
+
+(d) **Reverse Reclassification**
+
+    (1) If changed circumstances require a professional civil service position to become a political appointment, the agency head may petition OPM for reclassification.
+
+    (2) Such petitions must demonstrate that the position's core functions have materially changed to require political judgment not present at the time of original classification.
+
+    (3) Reverse reclassifications count against the political appointment cap established in Section 602(c).
+
+    (4) OPM shall publish all reverse reclassification decisions with supporting justification.
+
+(e) **Anti-Reinflation Safeguard**
+
+    (1) The total number of political appointee positions may not increase in any fiscal year by more than 2% of the prior year total absent Congressional authorization.
+
+    (2) This provision prevents gradual reinflation of the political appointee roster through incremental reverse reclassifications or creation of new positions.
+
+(f) **Reporting**
+
+    (1) OPM shall include position evaluation findings in its annual report to Congress.
+
+    (2) GAO shall audit OPM's position evaluation function biennially, assessing whether evaluations are rigorous, timely, and consistent with the criteria established in this section.
+
+### Section 606. Monitoring and Compliance
+
+(a) **OMB Responsibilities**
+
+The Office of Management and Budget shall:
+
+    (1) **Maintain Central Database.** Public database of all political appointments updated monthly containing:
+        (i) Complete list of positions and appointees
+        (ii) Tier/category classification for each position
+        (iii) Real-time count against quantitative limits (expressed as both raw number and percentage of senior policy and management workforce)
+        (iv) Historical trends in political appointments
+        (v) Conversion schedule for positions transitioning to professional service
+
+    (2) **Annual Calculation.** Calculate and publish political appointment limit based on 1.25% formula using September 30 OPM workforce data for the senior policy and management workforce
+
+    (3) **Compliance Monitoring.** Ensure agencies remain within allocated political appointments
+
+    (4) **Approval Authority.** Approve all Schedule C designations and emergency appointments under Section 602(d)
+
+    (5) **Reporting.** Submit quarterly reports to Congress on:
+        (i) Current political appointment totals by tier and agency
+        (ii) Compliance status
+        (iii) Conversions completed
+        (iv) Any violations and corrective actions
+
+(b) **GAO Audit and Oversight**
+
+The Government Accountability Office shall:
+
+    (1) **Annual Comprehensive Audit.** Conduct annual audit of political appointments including:
+        (i) Verification of position classifications
+        (ii) Assessment of whether positions genuinely require political appointment
+        (iii) Review of Schedule C justifications
+        (iv) Detection of circumvention attempts
+        (v) Compliance with quantitative limits
+        (vi) Verification that the senior policy and management workforce denominator has not been artificially inflated
+
+    (2) **Public Reporting.** Issue public report within 90 days of fiscal year end containing:
+        (i) Findings and recommendations
+        (ii) Identification of any violations
+        (iii) Assessment of implementation progress
+        (iv) Recommendations for improvement
+
+    (3) **Investigation Authority.** Investigate complaints alleging:
+        (i) Improper classification of positions as political
+        (ii) Use of contractors or detailees to circumvent limits
+        (iii) Schedule C abuse
+        (iv) Manipulation of the senior policy and management workforce denominator
+        (v) Other evasion of Act's requirements
+
+    (4) **Enforcement Recommendations.** Recommend enforcement actions to OMB and Congress for violations
+
+(c) **Congressional Oversight**
+
+    (1) **Committee Jurisdiction.** Committees on Homeland Security and Governmental Affairs (Senate) and Oversight and Reform (House) have primary jurisdiction
+
+    (2) **Annual Hearings.** Committees shall hold annual oversight hearings on implementation, featuring testimony from:
+        (i) OMB Director
+        (ii) OPM Director
+        (iii) Comptroller General (GAO)
+        (iv) Inspector General community representative
+        (v) Civil service union representatives
+
+    (3) **Notification Requirements.** OMB shall notify Congress within 30 days of:
+        (i) Any agency exceeding allocated political appointments
+        (ii) Invocation of emergency authority under Section 602(d)
+        (iii) Calculated limit exceeding the 1.5% ceiling equivalent
+        (iv) Any significant compliance issues
+
+    (4) **Corrective Authority.** Congress may, by joint resolution:
+        (i) Require specific corrective actions for violations
+        (ii) Adjust quantitative limits if circumstances warrant
+        (iii) Authorize emergency appointments beyond 50-position limit
+
+---
+
+## TITLE V: MERIT-BASED HIRING AND PROMOTION
+
+### Section 701. Merit System Principles
+
+The civil service shall operate under the following principles, strengthening existing merit system protections:
+
+(1) **Recruitment.** From qualified individuals from all segments of society, with selection based solely on competence
+
+(2) **Fair Treatment.** Without regard to political affiliation, race, color, religion, national origin, sex, marital status, age, disability, sexual orientation, or gender identity
+
+(3) **Equal Pay.** For work of equal value, with performance incentives
+
+(4) **High Standards.** Of integrity, conduct, and concern for public interest
+
+(5) **Efficient Service.** To the American people, with continuous improvement
+
+(6) **Retention.** Based on performance, with correction of inadequate performance and separation of employees who cannot or will not improve
+
+(7) **Education and Training.** To assure high-quality performance
+
+(8) **Protection.** Against arbitrary action, personal favoritism, and coercion for partisan political purposes
+
+(9) **Protection for Whistleblowing.** From reprisal for lawful disclosure of waste, fraud, abuse, or illegality
+
+### Section 702. Competitive Examination and Selection
+
+(a) **Entry-Level Hiring (CCS Positions)**
+
+    (1) **Open Competition.** Positions announced publicly with qualification requirements
+
+    (2) **Structured Assessment.** Written examinations, structured interviews, work samples, or assessment centers measuring job-relevant competencies
+
+    (3) **Veteran Preference.** Maintain existing veteran preference points in competitive selection
+
+    (4) **Rule of Three.** Selecting officials choose from top three candidates, with written justification for selection
+
+    (5) **Prohibition on Political Inquiries.** Applications shall not request or consider political party affiliation, voting history, campaign contributions, or political activities
+
+(b) **Promotion (PCSOC Positions)**
+
+    (1) **Competitive Promotion.** Advancement to PCSOC ranks based on:
+        (i) Performance evaluations (40% weight)
+        (ii) Professional development and credentials (20% weight)
+        (iii) Competitive examination or assessment (30% weight)
+        (iv) Interview by promotion board (10% weight)
+
+    (2) **Promotion Boards.** Panels of senior civil servants evaluate candidates using standardized criteria
+
+    (3) **Time-in-Service Requirements.** Minimum service requirements at each level before promotion eligibility
+
+    (4) **Anti-Favoritism.** Board members recuse from evaluating subordinates, relatives, or close associates
+
+(c) **Senior Professional Service Selection**
+
+As detailed in Section 502, SPS positions are filled through professional selection panels with tiered confirmation: full Senate confirmation for CS-1, committee confirmation for CS-2, and professional merit panel selection for CS-3.
+
+### Section 703. Performance Evaluation System
+
+(a) **Annual Reviews**
+
+All civil servants receive annual written performance evaluations based on:
+
+    (1) Accomplishment of assigned objectives
+    (2) Quality and timeliness of work
+    (3) Professional competence
+    (4) Teamwork and collaboration
+    (5) Leadership (for supervisory positions)
+    (6) Adherence to ethics and professional standards
+
+(b) **Performance Standards**
+
+Standards shall be:
+
+    (1) Objective and measurable where possible
+    (2) Established in writing at beginning of rating period
+    (3) Job-relevant and based on position description
+    (4) Applied consistently across similar positions
+
+(c) **Performance-Based Compensation**
+
+    (1) **Pay Increases.** Annual within-grade increases based on satisfactory performance
+
+    (2) **Performance Bonuses.** Up to 20% of salary for "Exceptional" ratings, 10% for "Superior" ratings
+
+    (3) **Step Increases.** Accelerated progression through pay scales for sustained high performance
+
+    (4) **Accountability.** Poor performance results in no pay increase, performance improvement plans, and potential removal
+
+### Section 704. Professional Development
+
+(a) **Training Requirements**
+
+    (1) All civil servants complete minimum 40 hours professional development annually
+
+    (2) Supervisors complete leadership training before assuming supervisory duties
+
+    (3) SPS members complete executive leadership programs
+
+    (4) Technical professionals maintain currency in their fields through continuing education
+
+(b) **Career Development Programs**
+
+    (1) OPM establishes career paths for common occupational series
+
+    (2) Rotational assignments to provide breadth of experience
+
+    (3) Mentorship programs pairing senior and junior professionals
+
+    (4) Sabbaticals for advanced education or private sector experience
+
+(c) **Funding**
+
+Agencies shall budget minimum 3% of personnel costs for professional development.
+
+### Section 705. Prohibition on Nepotism and Patronage
+
+(a) **Anti-Nepotism**
+
+No official may appoint, promote, or advance:
+
+    (1) Relatives (as defined by existing anti-nepotism statutes)
+    (2) Personal friends or close associates
+    (3) Individuals to whom official owes personal favors or obligations
+
+(b) **Anti-Patronage**
+
+No official may:
+
+    (1) Consider political party affiliation in hiring or promotion
+    (2) Request information about political activities during selection
+    (3) Promise employment in exchange for campaign support
+    (4) Base selection on campaign contributions or political connections
+
+(c) **Enforcement**
+
+Violations result in:
+
+    (1) Reversal of personnel action
+    (2) Removal of selecting official
+    (3) Debarment from future supervisory duties
+    (4) Criminal penalties if applicable under existing law
+
+---
+
+## TITLE VI: CONSTITUTIONAL OATH AND NON-PARTISAN SERVICE
+
+### Section 801. Oath of Office
+
+(a) **Uniform Oath**
+
+All civil servants, from entry-level CCS through Senior Professional Service, shall take the following oath (identical to military officer oath):
+
+"I, [name], do solemnly swear (or affirm) that I will support and defend the Constitution of the United States against all enemies, foreign and domestic; that I will bear true faith and allegiance to the same; that I take this obligation freely, without any mental reservation or purpose of evasion; and that I will well and faithfully discharge the duties of the office on which I am about to enter. So help me God."
+
+(b) **Significance of Oath**
+
+    (1) **Allegiance to Constitution.** Primary loyalty is to Constitution, not to President, political party, or personal interests
+
+    (2) **Obligation to Obey Lawful Orders.** Duty to execute lawful directives from constitutional authorities
+
+    (3) **Obligation to Refuse Unlawful Orders.** Duty to refuse illegal directives and report them through proper channels
+
+    (4) **Lifetime Obligation.** Oath remains binding even after leaving federal service regarding classified information and ethics obligations
+
+### Section 802. Restrictions on Political Activity
+
+(a) **Strengthened Hatch Act**
+
+Building on existing Hatch Act provisions, civil servants shall be prohibited from:
+
+    (1) **Partisan Activity While on Duty.** No political activity during work hours, in federal buildings, using government resources, or while in uniform/representing government
+
+    (2) **Coercion.** No use of official position to influence elections or coerce political activity by others
+
+    (3) **Solicitation.** No fundraising from subordinates or using official position for political fundraising
+
+    (4) **Candidacy Restrictions:**
+        (i) SPS members may not run for partisan political office while serving
+        (ii) PCSOC members may run for office only with approved leave
+        (iii) All members may run for non-partisan local office with disclosure
+
+    (5) **Social Media.** Clear identification when expressing personal political views that official capacity not represented
+
+(b) **Permitted Activities**
+
+Civil servants retain First Amendment rights to:
+
+    (1) Vote and express personal opinions when not representing government
+    (2) Attend political rallies and events on personal time
+    (3) Contribute money to campaigns
+    (4) Display political bumper stickers on personal vehicles
+    (5) Belong to political parties as private citizens
+
+(c) **Enforcement**
+
+Office of Special Counsel investigates Hatch Act violations. Penalties range from warning letters to removal depending on severity and intent.
+
+### Section 803. Ethics Requirements
+
+(a) **Financial Disclosure**
+
+    (1) **SPS members (CS-1 through CS-3).** Annual public financial disclosure (OGE Form 278)
+
+    (2) **PCSOC members (CS-4 through CS-10).** Confidential financial disclosure (OGE Form 450)
+
+    (3) **CCS members in covered positions.** Confidential financial disclosure
+
+(b) **Conflicts of Interest**
+
+Civil servants must:
+
+    (1) Disclose potential conflicts of interest
+    (2) Recuse from matters affecting personal financial interests
+    (3) Divest conflicting investments or place in blind trust (SPS members)
+    (4) Avoid appearances of impropriety
+
+(c) **Enhanced Post-Employment Restrictions**
+
+    (1) **Purpose.** To prevent revolving-door corruption and conflicts of interest arising from civil servants' transition to private employment, these restrictions ensure that public service is not used as a pathway to private gain.
+
+    (2) **Senior Professional Service (CS-1 through CS-3) Restrictions:**
+
+    SPS officers are subject to enhanced restrictions recognizing their senior positions and access to sensitive information:
+
+        (i) **5-Year Lobbying Ban.** May not engage in lobbying activities directed at former agency for 5 years after leaving government service.
+
+        (ii) **5-Year Regulated Entity Ban.** May not accept employment with, or provide services to, any entity over which the officer exercised regulatory authority, including:
+            (A) Companies directly regulated by the agency
+            (B) Trade associations representing regulated entities
+            (C) Law firms primarily representing such entities before the agency
+
+        (iii) **5-Year Contractor Ban.** May not accept employment with contractors, grantees, or other entities that:
+            (A) Received contracts, grants, or agreements the officer influenced
+            (B) Were supervised or overseen by the officer
+            (C) Bid on contracts during officer's tenure in related area
+
+        (iv) **3-Year Appearance Ban.** May not appear before, or communicate with, former agency on behalf of any client or employer on any matter, even if not formally "lobbying."
+
+        (v) **Lifetime Foreign Government Ban.** May not represent any foreign government, foreign political party, or foreign-owned entity before any U.S. government agency on any matter (not limited to matters in which officer participated).
+
+        (vi) **Lifetime Switching Sides Ban.** May not represent any party other than the United States in any particular matter in which the officer participated personally and substantially.
+
+    (3) **Professional Civil Service (CS-4 through CS-10) Restrictions:**
+
+        (i) **3-Year Lobbying Ban.** May not lobby former agency for 3 years.
+
+        (ii) **2-Year Regulated Entity Ban.** May not accept employment with entities in area of direct responsibility if officer had regulatory authority.
+
+        (iii) **2-Year Contractor Ban.** May not accept employment with contractors officer directly supervised or whose contracts officer influenced.
+
+        (iv) **Lifetime Foreign Government Ban.** May not represent foreign governments on matters in officer's area of responsibility.
+
+    (4) **Career Civil Service (CS-11 through CS-15) Restrictions:**
+
+        (i) **1-Year Lobbying Ban.** May not lobby former office/division for 1 year.
+
+        (ii) **1-Year Regulated Entity Ban.** Applies only if officer had direct regulatory role over specific entities.
+
+        (iii) **Lifetime Foreign Government Ban.** Limited to particular matters in which officer participated.
+
+    (5) **Broad Definition of "Lobbying":**
+
+    For purposes of this section, "lobbying" includes any activity intended to influence government decisions, including:
+
+        (i) Direct communications to influence legislation, regulations, contracts, grants, permits, or other government decisions
+
+        (ii) Consulting or advising clients on strategies to influence government actions
+
+        (iii) Arranging meetings or communications between clients and government officials
+
+        (iv) Providing information, analysis, or recommendations intended to influence government decisions
+
+        (v) "Strategic advising" that constitutes de facto lobbying even if not meeting technical definition of lobbying under Lobbying Disclosure Act
+
+        (vi) Working for entities whose primary business is influencing government (lobbying firms, government relations firms)
+
+        (vii) Behind-the-scenes coordination of lobbying campaigns even if no direct contact with officials
+
+    (6) **Regulated Entities Defined:**
+
+    "Entities over which officer had regulatory authority" includes:
+
+        (i) Companies directly subject to agency regulations officer administered or enforced
+
+        (ii) Trade associations, industry groups, or coalitions representing regulated companies
+
+        (iii) Law firms, consulting firms, or advisory firms representing regulated entities before the agency
+
+        (iv) Think tanks, policy organizations, or research institutions funded primarily (>50%) by regulated entities
+
+        (v) Subsidiaries, parent companies, or affiliated entities of regulated companies
+
+    (7) **Contractor Restrictions Defined:**
+
+    "Contractors" includes:
+
+        (i) Prime contractors and all tiers of subcontractors
+
+        (ii) Grant recipients and cooperative agreement partners
+
+        (iii) Service providers, consultants, and technical assistance contractors
+
+        (iv) Entities in public-private partnerships or other collaborative arrangements with the agency
+
+        (v) Government-sponsored enterprises and federally funded research centers with which officer worked
+
+    (8) **Enforcement and Penalties:**
+
+        (i) **Civil Penalties:**
+            (A) Violations subject to civil penalties up to $250,000 per violation
+            (B) Each prohibited contact or representation constitutes separate violation
+            (C) Penalties adjust for inflation annually
+
+        (ii) **Criminal Prosecution:**
+            (A) Knowing and willful violations prosecuted under 18 U.S.C. Section 207 (revolving door statute)
+            (B) Penalties: fines and/or imprisonment up to 5 years
+            (C) Conspiracy to violate subject to same penalties
+
+        (iii) **Pension Forfeiture:**
+            (A) Convicted violators forfeit federal pension for period of violation
+            (B) Partial forfeiture for less serious violations (OGE determination)
+
+        (iv) **Disgorgement:**
+            (A) Violators must disgorge all compensation received from prohibited employment
+            (B) Includes salary, bonuses, stock options, and other benefits
+            (C) Recovered funds deposited in Treasury
+
+        (v) **Prohibition on Future Federal Employment:**
+            (A) Violators permanently barred from federal employment or contracting
+            (B) Extends to companies employing violators (for duration of employment)
+
+    (9) **Monitoring and Transparency:**
+
+        (i) **Office of Government Ethics Tracking:**
+            (A) OGE maintains database of all departing SPS officers
+            (B) Tracks post-government employment for restriction period
+            (C) Officers must report post-government positions quarterly
+            (D) Database publicly accessible
+
+        (ii) **Annual Public Reports:**
+            (A) OGE publishes annual report on where former SPS officers are employed
+            (B) Identifies any potential conflicts or concerns
+            (C) Recommends additional restrictions if patterns of abuse emerge
+
+        (iii) **Whistleblower Rewards:**
+            (A) Individuals reporting violations eligible for rewards
+            (B) Rewards equal to 10-30% of civil penalties collected
+            (C) Maximum reward: $1 million per case
+            (D) Whistleblower identity protected
+
+        (iv) **Agency Notifications:**
+            (A) Former officers must notify OGE within 30 days of accepting any position
+            (B) Notification includes employer, position, duties, and compensation
+            (C) OGE reviews for compliance within 60 days
+            (D) Violation of notification requirement itself subject to penalties
+
+    (10) **Certification Requirements:**
+
+        (i) **Annual Certification:**
+            (A) All former officers must certify annually (for restriction period) compliance with restrictions
+            (B) Certification under penalty of perjury
+            (C) Describes all employment, positions, and activities
+            (D) False certification prosecuted as perjury (18 U.S.C. Section 1621)
+
+        (ii) **Employer Certification:**
+            (A) Employers hiring former officers must certify:
+                (I) Awareness of restrictions
+                (II) Position and duties comply with restrictions
+                (III) Will not assign officer to prohibited activities
+            (B) Employer violations subject to same penalties as officer violations
+
+    (11) **Exceptions (Positions Not Subject to Restrictions):**
+
+    These restrictions do NOT apply to the following post-government positions:
+
+        (i) Full-time faculty positions at accredited colleges or universities (teaching or research)
+
+        (ii) Positions at non-profit organizations that:
+            (A) Are tax-exempt under 26 U.S.C. Section 501(c)(3)
+            (B) Do not engage primarily in lobbying or government relations
+            (C) Receive less than 25% of funding from regulated industries
+
+        (iii) State, local, or tribal government employment (except lobbying federal government)
+
+        (iv) International organization employment (UN, World Bank, IMF, etc.)
+
+        (v) Starting own business unrelated to former government responsibilities
+
+        (vi) Pro bono legal representation or advocacy for indigent clients or public interest causes
+
+        (vii) Public service positions (elected office, appointed positions in state/local government)
+
+    (12) **Waivers (Limited and Rare):**
+
+        (i) **Waiver Authority:**
+            (A) Director of Office of Government Ethics may waive restrictions in extraordinary circumstances
+            (B) Requires demonstration that:
+                (I) Position poses no realistic conflict of interest or appearance of impropriety
+                (II) Public interest served by waiver
+                (III) Officer has expertise uniquely valuable to employer
+                (IV) Adequate safeguards in place
+
+        (ii) **Waiver Process:**
+            (A) Officer submits detailed waiver request
+            (B) Public notice and 30-day comment period
+            (C) OGE issues written decision with detailed justification
+            (D) Decision published in Federal Register
+            (E) Congress may override by joint resolution within 60 days
+
+        (iii) **Conditions:**
+            (A) Waivers may include conditions (recusals, reporting requirements, etc.)
+            (B) Violations of waiver conditions result in revocation and penalties
+            (C) Waivers reviewed annually for continued appropriateness
+
+    (13) **Enhanced Compensation to Offset Restrictions:**
+
+    To make post-government restrictions more acceptable and attract talent despite reduced post-service earning potential:
+
+        (i) **Enhanced Retirement Benefits:**
+            (A) SPS officers receive federal pension multiplier of 2.0% per year of service (vs. 1.0% standard)
+            (B) Early retirement eligibility: age 50 with 20 years service
+            (C) Immediately vested in full benefits
+
+        (ii) **Retention Bonuses:**
+            (A) Officers completing full fixed terms receive bonus equal to 25% of final year salary
+            (B) Additional bonus for second term completion: 35% of final year salary
+
+        (iii) **Professional Development Support:**
+            (A) Post-service educational stipends ($25,000) for training in non-lobbying careers
+            (B) Career transition counseling and job placement assistance (for compliant positions)
+            (C) Access to executive education programs
+
+        (iv) **Competitive Service Compensation:**
+            (A) Enhanced salary ranges during service to offset post-service restrictions (Section 901)
+            (B) Performance bonuses up to 25% annually
+            (C) Deferred compensation plans
+
+    (14) **Prospective Application:**
+
+        (i) These enhanced restrictions apply to officers appointed after effective date of this Act
+
+        (ii) Current officers may opt-in to enhanced restrictions in exchange for enhanced compensation and benefits
+
+        (iii) Retroactive application to current officers only if they voluntarily accept enhanced terms
+
+        (iv) Officers appointed before effective date remain subject to existing post-employment restrictions (18 U.S.C. Section 207)
+
+(d) **Gifts and Gratuities**
+
+Strict adherence to existing gift restrictions, with zero tolerance for quid pro quo arrangements.
+
+### Section 804. Non-Partisan Service Requirements
+
+(a) **Equal Service**
+
+Civil servants shall execute lawful directives and serve the American people with equal professionalism regardless of:
+
+    (1) Which political party controls the White House or Congress
+    (2) Personal political preferences or party affiliation
+    (3) Agreement or disagreement with policy choices
+
+(b) **Professional Advice**
+
+Civil servants may provide candid professional advice, technical expertise, and legal analysis even when such advice contradicts political leadership preferences, but must execute lawful directives after decisions are made. The Professional Recommendation and Political Override Framework (Section 504A) provides the structured mechanism through which professional advice is documented, considered, and either accepted or overridden with accountability.
+
+(c) **Public Statements**
+
+When making public statements in official capacity:
+
+    (1) Present administration policies accurately
+    (2) Distinguish technical expertise from policy advocacy
+    (3) Avoid political commentary on partisan disputes
+    (4) Maintain appearance of impartiality
+
+---
+
+## TITLE VII: COMPENSATION AND PROFESSIONAL DEVELOPMENT
+
+### Section 901. Competitive Compensation
+
+(a) **Pay Reform Principles**
+
+Federal civil service compensation shall:
+
+    (1) Compete with private sector for talent in technical and professional fields
+    (2) Reward performance and excellence
+    (3) Provide career stability and retirement security
+    (4) Attract and retain high-quality professionals
+
+(b) **Pay Scales**
+
+    (1) **Senior Professional Service (SPS):**
+        (i) CS-1: $150,000 - $280,000 (Deputy Secretary level, comparable to flag officers)
+        (ii) CS-2: $130,000 - $220,000 (Undersecretary level)
+        (iii) CS-3: $110,000 - $180,000 (Assistant Secretary level)
+
+    (2) **Professional Civil Service Officer Corps (PCSOC):**
+    CS-4 through CS-10: $70,000 - $150,000 based on rank, specialty, and location
+
+    (3) **Career Civil Service (CCS):**
+    CS-11 through CS-20: $35,000 - $95,000 based on rank, specialty, and location
+
+    All ranges adjusted for locality pay and specialized skills where appropriate.
+
+(c) **Performance Bonuses**
+
+    (1) **SPS:** Up to 25% of base salary for exceptional performance
+    (2) **PCSOC:** Up to 20% of base salary for exceptional performance
+    (3) **CCS:** Up to 10% of base salary for exceptional performance
+
+    Bonus awards based on:
+        (i) Performance evaluation results
+        (ii) Achievement of measurable objectives
+        (iii) Innovation and process improvement
+        (iv) Leadership and mentorship
+        (v) Public service excellence
+
+(d) **Specialized Pay Authorities**
+
+For positions difficult to fill (STEM fields, cyber security, medical professionals):
+
+    (1) Recruitment bonuses
+    (2) Retention bonuses
+    (3) Student loan repayment
+    (4) Enhanced locality pay
+    (5) Special salary rates
+
+### Section 902. Benefits and Retirement
+
+(a) **Retirement System**
+
+Maintain Federal Employees Retirement System (FERS) with enhancements:
+
+    (1) **Defined benefit pension** based on years of service and high-3 salary average
+
+    (2) **Thrift Savings Plan (TSP)** with 5% employer matching
+
+    (3) **Social Security** participation
+
+    (4) **Enhanced benefits** for SPS members: Additional 1% accrual rate for SPS service years
+
+(b) **Health Benefits**
+
+    (1) Federal Employees Health Benefits (FEHB) program maintained
+
+    (2) Government contribution: 75% of premium costs
+
+    (3) Coverage continues into retirement for career employees
+
+(c) **Leave and Work-Life Balance**
+
+    (1) **Annual Leave.** 20-30 days annually based on years of service
+    (2) **Sick Leave.** 13 days annually, accumulates without limit
+    (3) **Parental Leave.** 12 weeks paid leave for birth, adoption, or foster placement
+    (4) **Sabbaticals.** Up to 1 year for advanced education or professional development (SPS and PCSOC)
+    (5) **Flexible Work.** Telework and flexible schedules where operational needs permit
+
+### Section 903. Professional Development Funding
+
+(a) **Training Budget**
+
+Each agency shall budget minimum 3% of personnel costs for professional development:
+
+    (1) Technical training and certification
+    (2) Leadership development programs
+    (3) Advanced degree programs
+    (4) Conferences and professional associations
+    (5) Cross-functional rotations
+
+(b) **Leadership Development**
+
+OPM shall establish:
+
+    (1) **Federal Executive Institute.** Executive leadership program for SPS members and candidates
+
+    (2) **Management Excellence Program.** Mid-career leadership development for PCSOC
+
+    (3) **New Supervisor Program.** Training for newly appointed supervisors
+
+    (4) **Mentorship Initiative.** Pairing experienced and early-career professionals
+
+(c) **Educational Partnerships**
+
+    (1) **Graduate Fellowships.** Partnerships with universities for advanced degrees in public administration, policy, and technical fields
+
+    (2) **Sabbaticals.** Professors-in-residence at agencies; civil servants teaching at universities
+
+    (3) **Research Collaboration.** University research on government operations and best practices
+
+### Section 904. Awards and Recognition
+
+(a) **Performance Awards**
+
+Annual awards recognizing:
+
+    (1) Exceptional service
+    (2) Innovation and process improvement
+    (3) Cost savings and efficiency gains
+    (4) Customer service excellence
+    (5) Leadership and mentorship
+
+Awards include:
+
+    (1) Cash bonuses
+    (2) Time-off awards
+    (3) Presidential rank awards (for SPS and senior PCSOC)
+    (4) Public recognition ceremonies
+
+(b) **Career Achievement Recognition**
+
+Upon retirement, civil servants with distinguished careers receive:
+
+    (1) Service medals analogous to military awards
+    (2) Public recognition of service
+    (3) Alumni status with continued access to professional development
+    (4) Eligibility to mentor current employees
+
+---
+
+## TITLE VIII: IMPLEMENTATION AND TRANSITION
+
+### Section 1001. Office of Personnel Management Responsibilities
+
+(a) **Implementation Authority**
+
+OPM shall serve as lead agency for CSAA implementation, with authority to:
+
+    (1) Develop implementing regulations within 180 days of enactment
+
+    (2) Establish professional standards, qualification requirements, and competency models for each civil service rank
+
+    (3) Create and administer competitive examination and assessment systems
+
+    (4) Develop performance evaluation frameworks and rating systems
+
+    (5) Establish professional development curricula and programs
+
+    (6) Design and maintain transparency portal (Section 405)
+
+    (7) Monitor compliance and issue guidance
+
+    (8) Report to Congress quarterly during implementation and annually thereafter
+
+(b) **Interagency Coordination**
+
+OPM shall coordinate with:
+
+    (1) OMB on budget and resource allocation
+    (2) Agencies on position conversions and workforce planning
+    (3) Department of Defense on adapting military personnel best practices
+    (4) Merit Systems Protection Board on appeal procedures
+    (5) Office of Special Counsel on Hatch Act enforcement
+    (6) Inspectors General on accountability mechanisms, including coordination with strengthened IG provisions under Section 402
+
+### Section 1002. Agency Implementation Plans
+
+(a) **Required Plans**
+
+Within 1 year of enactment, each agency shall submit implementation plan including:
+
+    (1) Inventory of current political appointee positions
+    (2) Classification of positions as remaining political or converting to professional civil service, consistent with the tranche-based evaluation criteria established in Section 501(c)
+    (3) Timeline for position conversions
+    (4) Succession planning for SPS positions
+    (5) Professional development needs and training plans
+    (6) Budget requirements for implementation
+    (7) Performance metrics for tracking progress
+
+(b) **OMB Review**
+
+OMB reviews and approves agency plans, ensuring:
+
+    (1) Compliance with CSAA requirements
+    (2) Consistency across agencies
+    (3) Adequate resource allocation
+    (4) Realistic timelines
+
+### Section 1003. Incumbent Protection
+
+(a) **No Forced Removals**
+
+Current political appointees serving at time of enactment shall not be removed solely due to position conversion.
+
+(b) **Transition Options**
+
+Political appointees in positions converting to professional civil service may:
+
+    (1) **Remain in Position.** Continue serving until normal departure, resignation, or end of presidential term, whichever comes first
+
+    (2) **Compete for Converted Position.** If qualified, compete in merit selection process for converted position
+
+    (3) **Reassignment.** Accept reassignment to different position within agency
+
+    (4) **Retirement.** Retire with early retirement incentives if eligible
+
+    (5) **Departure.** Leave with severance package and job placement assistance
+
+(c) **Career Appointee Conversion**
+
+Political appointees who:
+
+    (1) Have career civil service status prior to political appointment, OR
+    (2) Served 3+ years in converted position and meet professional qualifications
+
+May convert to professional civil service at appropriate rank through expedited process.
+
+### Section 1004. Phased Implementation Schedule
+
+(a) **Phase 1: Years 1-2 (Foundation and Tranche 1)**
+
+    (1) **Activities:**
+        (i) OPM issues implementing regulations
+        (ii) OPM conducts comprehensive audit of all political appointee positions (Tranche 1)
+        (iii) Chronically vacant positions evaluated, eliminated, or converted
+        (iv) Senior policy and management workforce denominator established and published
+        (v) Professional standards and competency models developed
+        (vi) Examination and assessment systems created
+        (vii) Transparency portal launched
+        (viii) SPS selection panels established
+        (ix) Standing position evaluation function established within OPM
+
+    (2) **Milestones:**
+        (i) Tranche 1 evaluation complete: approximately 2,000 chronically vacant positions audited
+        (ii) Political appointee positions reduced from approximately 4,000 on paper to approximately 2,000 authorized
+        (iii) 50 initial SPS positions created and filled from converted vacant slots
+        (iv) First cohort enters federal leadership development program
+        (v) Performance review system operational
+
+(b) **Phase 2: Years 3-5 (Conversion Through Attrition -- Tranches 2 and 3)**
+
+    (1) **Activities:**
+        (i) Tranche 2 positions identified and flagged for conversion upon vacancy
+        (ii) Tranche 3 positions undergo individual evaluation
+        (iii) Positions convert as political appointees depart through normal attrition
+        (iv) First wave SPS appointments completed through merit selection and tiered confirmation
+        (v) PCSOC promotion system operational
+        (vi) Professional development programs fully funded
+        (vii) Accountability mechanisms functioning, including Professional Recommendation and Political Override Framework
+        (viii) Public database tracking implementation progress
+
+    (2) **Milestones:**
+        (i) 200 SPS positions filled
+        (ii) Political appointments reduced to approximately 1,500 authorized positions
+        (iii) Performance data demonstrating improved effectiveness
+        (iv) First SPS members complete terms and reappointment process tested
+
+(c) **Phase 3: Years 6-8 (Completion and Steady State)**
+
+    (1) **Activities:**
+        (i) Remaining Tranche 2 and Tranche 3 conversions completed through continued attrition
+        (ii) Full SPS complements in all major departments
+        (iii) Mature performance evaluation and promotion systems
+        (iv) Demonstrated cost savings and effectiveness gains
+        (v) Standing position evaluation function fully operational on rolling 4-year cycle
+        (vi) Lessons learned and system refinements
+
+    (2) **Milestones:**
+        (i) Political appointments at or near target of approximately 1,000 (1.25% of senior policy and management workforce)
+        (ii) All SPS positions filled through merit selection and applicable confirmation processes
+        (iii) Professional civil service fully operational
+        (iv) Comprehensive evaluation of outcomes
+
+### Section 1005. Funding Authorization
+
+(a) **Implementation Costs**
+
+There are authorized to be appropriated such sums as necessary for CSAA implementation, including:
+
+    (1) **OPM Implementation:** $500 million over 8 years for:
+        (i) System development and administration
+        (ii) Examination and assessment systems
+        (iii) Transparency portal
+        (iv) Oversight and compliance monitoring
+
+    (2) **Agency Implementation:** $2 billion over 8 years for:
+        (i) Position conversions and transition costs
+        (ii) Professional development and training
+        (iii) Performance evaluation systems
+        (iv) Succession planning and recruitment
+
+    (3) **Compensation Adjustments:** Appropriations necessary to fund competitive compensation for SPS and enhanced performance bonuses
+
+(b) **Cost Savings**
+
+Congressional Budget Office shall calculate savings from:
+
+    (1) Reduced recruitment and training costs due to lower turnover
+    (2) Improved policy execution and program effectiveness
+    (3) Reduced waste, fraud, and repeated mistakes
+    (4) Lower transition costs during presidential changes
+
+Estimated savings: $5-10 billion annually once fully implemented, providing net positive return on investment within 5 years.
+
+### Section 1006. Evaluation and Reporting
+
+(a) **Annual Reporting**
+
+OPM shall submit annual reports to Congress detailing:
+
+    (1) Implementation progress against milestones
+    (2) Number of positions converted and filled
+    (3) Demographics and qualifications of appointees
+    (4) Performance evaluation results (aggregated)
+    (5) Professional development activities
+    (6) Accountability actions and removals
+    (7) Cost data and savings realized
+    (8) Challenges and recommendations
+
+(b) **Independent Evaluation**
+
+National Academy of Public Administration shall conduct independent evaluations at Years 3, 6, and 10 assessing:
+
+    (1) Achievement of statutory objectives
+    (2) Quality of civil service performance
+    (3) Impact on government effectiveness
+    (4) Employee morale and satisfaction
+    (5) Public perception and trust in government
+    (6) Recommendations for statutory amendments
+
+(c) **Congressional Oversight**
+
+Relevant committees shall:
+
+    (1) Hold annual oversight hearings on implementation
+    (2) Review independent evaluation reports
+    (3) Consider statutory refinements based on experience
+    (4) Assess appropriations needed for full implementation
+
+---
+
+## TITLE IX: OVERSIGHT AND REPORTING
+
+### Section 1101. Merit Systems Protection Board
+
+(a) **Enhanced MSPB Authority**
+
+The Merit Systems Protection Board's authority is strengthened to:
+
+    (1) Hear and adjudicate appeals of SPS removal decisions on expedited basis (within 90 days)
+
+    (2) Conduct compliance audits of agency merit system operations
+
+    (3) Issue reports on federal civil service health and best practices
+
+    (4) Recommend legislative improvements
+
+    (5) Investigate systemic violations of merit principles
+
+(b) **MSPB Independence**
+
+    (1) Board members serve 7-year staggered terms
+
+    (2) No more than two of three board members from same political party
+
+    (3) Removal only for cause, with congressional notification
+
+    (4) Adequate funding to fulfill expanded responsibilities
+
+### Section 1102. Government Accountability Office
+
+(a) **GAO Oversight Responsibilities**
+
+GAO shall:
+
+    (1) Audit civil service operations biennially, including:
+        (i) Compliance with merit principles
+        (ii) Political interference in hiring/promotion/removal
+        (iii) Effectiveness of performance evaluation systems
+        (iv) Professional development program quality
+        (v) Compensation competitiveness
+        (vi) Implementation of transparency requirements
+
+    (2) Investigate allegations of systemic problems
+
+    (3) Recommend improvements to Congress and agencies
+
+    (4) Track implementation of CSAA requirements
+
+(b) **Reporting**
+
+GAO reports findings publicly and testifies before Congress on civil service matters.
+
+### Section 1103. Inspector General Coordination
+
+(a) **Cross-Agency Issues**
+
+When Inspectors General -- serving under the strengthened independence protections established in Section 402 -- identify civil service problems affecting multiple agencies:
+
+    (1) Coordinate investigations through Council of Inspectors General on Integrity and Efficiency
+
+    (2) Issue joint reports on systemic issues
+
+    (3) Recommend government-wide corrective actions
+
+    (4) Monitor agency responses
+
+    (5) Coordinate review of cross-agency patterns in the use of the political override process established in Section 504A, including identification of systemic override patterns that may indicate institutional dysfunction
+
+(b) **IG Access**
+
+IGs shall have unrestricted access to:
+
+    (1) Civil service personnel records
+    (2) Performance evaluations
+    (3) Hiring and promotion documentation
+    (4) Removal proceedings and appeals
+    (5) Professional development records
+    (6) Professional recommendation and political override records, including escalation filings under Section 504A
+    (7) Documentation supporting political appointment classification decisions under Section 605A
+
+(c) **IG Accountability in the Triangulated Framework**
+
+    (1) In their role within the triangulated accountability framework established in Section 504A, Inspectors General shall:
+        (i) Receive and evaluate structured escalation filings in a timely manner
+        (ii) Conduct independent assessment of whether political overrides comply with applicable law and standards
+        (iii) Issue findings within 90 days of receiving an escalation filing
+        (iv) Transmit findings to the relevant congressional oversight committee and publish through the Transparency Portal (Section 405)
+
+    (2) The Council of Inspectors General on Integrity and Efficiency shall establish uniform procedures for processing escalation filings to ensure consistency across departments and agencies.
+
+### Section 1104. Congressional Oversight
+
+(a) **Committee Jurisdiction**
+
+House Oversight and Accountability Committee and Senate Homeland Security and Governmental Affairs Committee maintain primary jurisdiction over CSAA implementation and civil service oversight.
+
+(b) **Oversight Activities**
+
+Committees shall:
+
+    (1) Hold annual hearings on implementation progress
+    (2) Review agency compliance
+    (3) Examine performance data and outcomes
+    (4) Investigate allegations of political interference
+    (5) Consider refinements to statutory framework
+    (6) Ensure adequate appropriations
+    (7) Review patterns in political override usage and escalation filings received under Section 403(c)
+
+(c) **Whistleblower Protection**
+
+Civil servants who report CSAA violations, political interference, or non-compliance to Congress shall be protected from retaliation under existing whistleblower protection laws, with enhanced penalties for retaliation. This protection extends to SPS officers who file structured escalation filings in good faith under Section 504A, consistent with the anti-retaliation provisions of that section.
+
+### Section 1105. Public Transparency and Accountability
+
+(a) **Annual Public Report**
+
+OPM shall publish comprehensive annual public report including:
+
+    (1) **Performance Data:**
+        (i) Agency-by-agency performance evaluation results (aggregated)
+        (ii) Comparison to prior years
+        (iii) Identification of high-performing and low-performing units
+
+    (2) **Personnel Actions:**
+        (i) Hiring statistics by agency, position, and demographic
+        (ii) Promotion rates and timelines
+        (iii) Removal actions by cause category
+        (iv) Appeals and outcomes
+
+    (3) **Accountability Actions:**
+        (i) IG findings and recommendations
+        (ii) Corrective actions taken
+        (iii) Disciplinary actions
+        (iv) Ethics violations and resolutions
+
+    (4) **Professional Development:**
+        (i) Training participation rates
+        (ii) Program completion rates
+        (iii) Career progression statistics
+        (iv) Succession planning effectiveness
+
+    (5) **Cost and Efficiency:**
+        (i) Personnel costs and trends
+        (ii) Turnover rates and costs
+        (iii) Savings realized through reduced turnover
+        (iv) Return on investment for professional development
+
+    (6) **Professional Recommendation and Override Data:**
+        (i) Total professional recommendations issued by department and agency
+        (ii) Override frequency and acceptance rates
+        (iii) Escalation filings and outcomes
+        (iv) Aggregate analysis of override patterns and trends
+
+(b) **Open Data**
+
+All data underlying public reports shall be published in machine-readable formats on transparency portal, enabling:
+
+    (1) Academic research
+    (2) Investigative journalism
+    (3) Public accountability
+    (4) Continuous improvement
+
+### Section 1106. Structured Severability
+
+(a) **General Severability**
+
+If any provision of this Act, or the application thereof to any person or circumstance, is held to be unconstitutional or otherwise invalid, the remainder of this Act and the application of such provision to other persons and circumstances shall not be affected thereby.
+
+(b) **Tier-Specific Independence**
+
+Each tier of the Senior Professional Service (CS-1, CS-2, CS-3) is designed as a self-contained constitutional unit. The protections, requirements, and procedures applicable to each tier operate independently. Specifically:
+
+    (1) Invalidation of for-cause removal protections at one tier does not affect for-cause removal protections at other tiers. Each tier's removal protections rest on distinct constitutional foundations: CS-1 protections are grounded in full Senate confirmation, CS-2 protections in committee confirmation with default approval, and CS-3 protections in professional merit panel selection consistent with existing career SES processes.
+
+    (2) Invalidation of fixed-term provisions at one tier does not affect term structures at other tiers.
+
+    (3) Invalidation of the confirmation requirement for CS-1 positions does not affect committee confirmation for CS-2 positions or merit panel selection for CS-3 positions.
+
+    (4) Each tier's provisions shall be construed, to the maximum extent possible, to give independent effect to the protections at each tier.
+
+(c) **Explicit Fallback Provisions**
+
+For provisions identified as constitutionally exposed under current Supreme Court precedent, the following fallback architecture applies:
+
+    (1) **If for-cause removal protections for CS-1 officers are invalidated:** CS-1 officers remain subject to fixed terms, Senate confirmation requirements, professional recommendation documentation requirements under Section 504A, Transparency Portal publication under Section 405, and all other provisions not dependent on the invalidated provision. The professional recommendation and political override framework, including all documentation and transparency requirements, continues in full force.
+
+    (2) **If fixed terms for CS-1 officers are invalidated:** Merit selection requirements, professional qualification standards, documentation mandates, revolving door restrictions, and all accountability and transparency provisions remain operative.
+
+    (3) **If both for-cause removal protections and fixed terms for CS-1 officers are invalidated:** The Transparency Portal, the Professional Recommendation and Political Override Framework (Section 504A), all documentation requirements, congressional oversight mechanisms, merit selection criteria, revolving door restrictions, performance evaluation systems, and the bipartisan balance requirement continue to operate independently.
+
+    (4) **If for-cause removal protections for Inspectors General under Section 402 are invalidated:** IG merit-based selection, fixed terms, documentation requirements, and all provisions of the triangulated accountability framework not dependent on IG for-cause removal protections remain operative. The structured escalation pathway continues to function through automatic transmission to congressional committees and preservation in the administrative record.
+
+(d) **Constitutionally Unexposed Provisions**
+
+The following provisions face essentially zero unitary executive constitutional exposure because they do not constrain presidential removal power. They constrain only secrecy, impose documentation requirements, or establish professional standards:
+
+    (1) Transparency requirements and documentation mandates (Sections 405, 504A, 1105)
+    (2) Professional recommendation framework, including all documentation and publication requirements (Section 504A)
+    (3) Revolving door restrictions (Section 803(c))
+    (4) Merit selection criteria and professional qualification standards (Sections 502, 701, 702)
+    (5) Congressional oversight and reporting requirements (Sections 403, 1104, 1006)
+    (6) Public performance review system (Section 401)
+    (7) Standing position evaluation function (Section 605A)
+    (8) Political appointment quantitative limits and categorical framework (Section 602)
+    (9) Ethics requirements (Section 803)
+    (10) Non-partisan service requirements (Section 804)
+
+These provisions are designed as the load-bearing walls of this Act. Even under a worst-case judicial scenario that strikes all removal protections and fixed terms, a functioning reform framework built on transparency, documentation, merit, and oversight remains fully operative.
+
+(e) **Design Principle**
+
+This Act is designed so that a court must strike provisions one at a time, each on independent constitutional grounds. No single adverse ruling collapses the framework. Each layer of protection adds value independently, not only in combination. The Act's architecture ensures graceful degradation rather than framework collapse, preserving the maximum reform benefit under any plausible judicial outcome.
+
+---
+
+## CONCLUSION
+
+The Civil Service Accountability Act represents fundamental reform of the federal civil service, transforming it from a politicized patronage system into a professional meritocracy modeled on the United States military. By establishing an evidence-based framework limiting political appointments to approximately 1,000 positions (1.25% of the senior policy and management workforce, bounded by a floor of 1.0% and ceiling of 1.5%), creating transparent accountability mechanisms, establishing the Senior Professional Service with fixed terms and tiered confirmation, implementing the Professional Recommendation and Political Override Framework for structured accountability in discretionary governance decisions, strengthening Inspector General independence through professional service architecture, implementing enhanced 5-year revolving door restrictions, and instituting rigorous merit-based systems, the CSAA ensures that the American people receive the professional, competent, and non-partisan government service they deserve.
+
+Just as Americans trust career military officers to defend the nation under civilian control, the CSAA establishes trust in career civil servants to serve the nation under democratic leadership. Professional expertise, institutional continuity, transparent accountability, non-partisan service, and protection against conflicts of interest -- these principles made America's military the finest in the world. The Civil Service Accountability Act brings those same principles to the civil service, creating government as professional as our armed forces.
+
+**The result:** Government that works. Policies executed effectively. Taxpayer dollars spent wisely. Institutional knowledge preserved across administrations. Democratic accountability maintained through documentation and transparency, not secrecy and patronage. Revolving-door corruption eliminated. And the end of the dysfunction that fuels "deep state" conspiracy theories -- replaced by a professional civil service whose work is on the record and whose accountability is structural, not political.
+
+**The Civil Service Accountability Act -- professional government serving the American people, with integrity from service through retirement.**
+
+---
+
+## Revision History
+
+**Revision 1.3** (Current)
+- Revised political appointee cap formula: replaced 0.2% of total federal civilian workforce with 1.25% of senior policy and management workforce (target ~1,000 positions, floor 1.0%/~800, ceiling 1.5%/~1,200); corrects denominator error in Rev 1.2
+- Added statutory definition of "senior policy and management workforce" as formula denominator (Section 201)
+- Added definitions for "professional recommendation," "political override," and "structured escalation" (Section 201)
+- Added new findings (8)-(10) documenting structural staffing gap, confirmation pipeline deterioration, and structural fiction of unfilled positions (Section 101)
+- Revised CS-1 term length from 10 years to 6 years; revised CS-2 term length from 8 years to 5 years (Sections 501, 503)
+- Implemented tiered confirmation structure: full Senate confirmation for CS-1, committee confirmation with 60-day default approval for CS-2, professional merit panel for CS-3 (Section 502)
+- Extended bipartisan balance requirement with hard cap to CS-1 and CS-2; added transparency-only monitoring for CS-3 (Section 502(e))
+- Added Professional Recommendation and Political Override Framework (new Section 504A)
+- Strengthened Inspector General provisions: merit-based selection, 7-year fixed terms, for-cause removal protections, role in triangulated accountability framework (Section 402)
+- Added automatic escalation routing to congressional oversight committees (Section 403(c))
+- Expanded Transparency Portal scope to include override records, escalation filings, and IG findings on override disputes (Section 405)
+- Replaced linear conversion timeline with three-tranche evaluation and conversion approach (Section 501(c))
+- Added standing position evaluation function with ongoing OPM classification review authority (new Section 605A)
+- Updated Section 602 categorical framework position estimates to reflect ~1,000 target
+- Added anti-circumvention provision against denominator manipulation (Section 602(f)(6))
+- Replaced phased implementation schedule with tranche-aligned three-phase approach (Section 1004)
+- Updated IG coordination for strengthened IGs and override framework (Section 1103)
+- Added structured severability provision with tier-specific independence, explicit fallback provisions, constitutionally unexposed provisions identification, and design principle (new Section 1106)
+- Updated cross-references throughout: "Senate confirmation" to "tiered confirmation" or "applicable confirmation process" where appropriate
+- Updated Conclusion to reflect revised parameters and new mechanisms
+
+**Revision 1.2**
+- Reformatted to comply with APAI Document Production Manual Rev 1.1
+- Corrected character encoding throughout (em-dashes, apostrophes, arrows to ASCII-safe alternatives)
+- Removed "Draft -- Working Document" status line from header
+- Moved Revision History from header to document footer per manual specifications
+- Standardized section numbering format using parenthetical lowercase subsections
+- Removed "Prepared by" block from document body (retained in footer attribution)
+- Updated internal cross-references for consistency
+
+**Revision 1.1**
+- Enhanced revolving door provisions (Section 803(c)) with 5-year cooling-off periods for SPS, comprehensive enforcement, and broad definition of lobbying
+- Replaced hard "400" political appointment limit with flexible framework using 0.2% formula with 400 floor and 600 ceiling
+- Added categorical framework for political appointments with emergency flexibility
+- Strengthened anti-circumvention provisions
+- Enhanced transparency and enforcement mechanisms
+
+**Revision 1.0**
+- Initial comprehensive draft
+- Establishes three-tier civil service structure modeled on military officer corps
+- Creates Senior Professional Service with fixed terms and Senate confirmation
+- Implements transparency and accountability mechanisms
+- Reduces political appointments from ~4,000 to ~400
+- Defines for-cause removal standards within constitutional constraints
+- Establishes merit-based hiring and promotion systems
+
+---
+
+*Prepared by Albert Ramos for The American Policy Architecture Institute*
