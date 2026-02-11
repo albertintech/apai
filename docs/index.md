@@ -23,8 +23,8 @@ The Framework combines two coordinated components:
 - House expansion toward cube root compliance
 - Uniform ballot access standards and federal party recognition
 - Non-qualifying candidate assessment examinations
-- Enhanced congressional compensation
-- Tiered implementation delivering results on a human timescale
+- Enhanced congressional resources and incentives
+- Tiered implementation delivering results from day 1 of passage
 
 **Office of Congressional Procedure Act (OCP)** — Establishes professional, nonpartisan procedural infrastructure for proportional governance. Strengthens *how those who are elected govern*.
 
