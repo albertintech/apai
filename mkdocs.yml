@@ -100,9 +100,14 @@ nav:
       - American Shared Prosperity Compact:
           - Introduction: aspc/ASPC-Rev-5-3-Introduction.md
           - American Prosperity and Stability Act:
-              - Introduction: aspc/apsa/APSA-Rev-4-6-Introduction.md
-              - Legislative Text: aspc/apsa/APSA-Legislative-Text.md
-              - Policy Rationale: aspc/apsa/APSA-Policy-Rationale.md
+              - Introduction: aspc/apsa/APSA-Rev-4-7-Introduction.md
+              - Overview: aspc/apsa/APSA-Rev-4-7-Overview.md
+              - Legislative Text: aspc/apsa/APSA-Rev-4-7-American-Prosperity-and-Stability-Act.md
+              - Policy Rationale: aspc/apsa/APSA-Rev-4-7-Policy-Rationale.md
+              - Reference Materials:
+                  - Implementation Timeline: aspc/apsa/APSA-Rev-4-7-Implementation-Timeline.md
+                  - Detailed Implementation Timeline: aspc/apsa/APSA-Rev-4-7-Detailed-Implementation-Timeline.md
+                  - Constituency Impact Analysis: aspc/apsa/APSA-Rev-4-7-Constituency-Impact-Analysis.md
           - American Payment Network Act:
               - Introduction: aspc/apna/APNA-Rev-3-5-Introduction.md
               - Legislative Text: aspc/apna/APNA-Legislative-Text.md
