@@ -108,9 +108,9 @@ nav:
               - Legislative Text: aspc/apna/APNA-Legislative-Text.md
               - Policy Rationale: aspc/apna/APNA-Policy-Rationale.md
           - Secure Our Children Act:
-              - Introduction: aspc/soca/SOCA-Rev-2-4-Introduction.md
-              - Legislative Text: aspc/soca/SOCA-Legislative-Text.md
-              - Policy Rationale: aspc/soca/SOCA-Policy-Rationale.md
+              - Introduction: aspc/soca/SOCA-Rev-2-5-Introduction.md
+              - Legislative Text: aspc/soca/SOCA-Rev-2-5-Secure-Our-Children-Act.md
+              - Policy Rationale: aspc/soca/SOCA-Rev-2-5-Policy-Rationale.md
 
 markdown_extensions:
   - toc:
