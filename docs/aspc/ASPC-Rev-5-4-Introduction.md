@@ -4,7 +4,7 @@
 
 ### Published February 2026
 
-Based on Rev 5.3 of the American Shared Prosperity Compact
+Based on Rev 5.4 of the American Shared Prosperity Compact
 
 ---
 
