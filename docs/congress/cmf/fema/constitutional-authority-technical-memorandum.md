@@ -8,39 +8,6 @@ Based on Rev 5.0 of the Federal Elections Modernization Act
 
 ---
 
-## Revision History
-
-**Revision 2.0** (Current)
-- Updated all references for Federal Elections Modernization Act (FEMA) Rev 5.0 branding.
-- Reframed nonpartisan primary analysis as Unified General Election Structure (UGES) analysis reflecting Rev 4.2+ architecture.
-- Added Section V.G: Electoral Science Office delegation doctrine analysis covering graduated protection architecture.
-- Corrected Section X.B implementation timeline reference (was 25-year, corrected to ~14-year per Rev 4.0+ architecture).
-- Removed stale approval voting contingency reference not present in current legislative text.
-- Corrected all section number cross-references to align with FEMA Rev 5.0 statutory text.
-- Fixed encoding artifacts throughout.
-- Aligned header structure with APAI Document Production Standards Rev 1.3.
-
-**Revision 1.0**
-- Initial version adapted from RCEA Constitutional Authority document.
-- Updated all references to reflect CMA branding and current provisions.
-- Expanded analysis of STAR voting method mandates (Title IV).
-- Added section on nonpartisan primary authority.
-- Added section on Joint Endorsement Lists authority (Title II).
-- Added section on FCAO non-qualifying structure (Title V).
-- Integrated analysis of 1967 Uniform Congressional District Act repeal authority.
-- Added Voting Rights Act considerations for multi-member districts.
-- Expanded judicial review strategy section.
-
----
-
-**Prepared by:**
-Albert E. Ramos
-Director, The American Policy Architecture Institute
-
-**Document Status:** Draft -- Working Document
-
----
-
 ## I. The Question Presented
 
 Can Congress enact the Federal Elections Modernization Act's electoral provisions -- including STAR voting mandates, multi-member districts with proportional representation, unified general elections, Joint Endorsement Lists, and competency transparency requirements -- through ordinary legislation, or do such reforms require constitutional amendment? All subsequent references to the Federal Elections Modernization Act use "the Act."
@@ -575,6 +542,35 @@ Delegation Doctrine:
 
 ---
 
-**END OF DOCUMENT**
+## Revision History
+
+**Revision 3.0** (Current)
+- Aligned document structure with APAI Document Production Standards Rev 1.4
+- Relocated Revision History from header to footer per Section 1.3
+- Removed non-standard header metadata (Prepared by block, Document Status line)
+- Removed non-standard END OF DOCUMENT footer marker
+- No substantive content changes
+
+**Revision 2.0**
+- Updated all references for Federal Elections Modernization Act (FEMA) Rev 5.0 branding.
+- Reframed nonpartisan primary analysis as Unified General Election Structure (UGES) analysis reflecting Rev 4.2+ architecture.
+- Added Section V.G: Electoral Science Office delegation doctrine analysis covering graduated protection architecture.
+- Corrected Section X.B implementation timeline reference (was 25-year, corrected to ~14-year per Rev 4.0+ architecture).
+- Removed stale approval voting contingency reference not present in current legislative text.
+- Corrected all section number cross-references to align with FEMA Rev 5.0 statutory text.
+- Fixed encoding artifacts throughout.
+
+**Revision 1.0**
+- Initial version adapted from RCEA Constitutional Authority document.
+- Updated all references to reflect CMA branding and current provisions.
+- Expanded analysis of STAR voting method mandates (Title IV).
+- Added section on nonpartisan primary authority.
+- Added section on Joint Endorsement Lists authority (Title II).
+- Added section on FCAO non-qualifying structure (Title V).
+- Integrated analysis of 1967 Uniform Congressional District Act repeal authority.
+- Added Voting Rights Act considerations for multi-member districts.
+- Expanded judicial review strategy section.
+
+---
 
 *Prepared by Albert Ramos for The American Policy Architecture Institute*
