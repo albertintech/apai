@@ -109,9 +109,14 @@ nav:
                   - Detailed Implementation Timeline: aspc/apsa/APSA-Rev-4-7-Detailed-Implementation-Timeline.md
                   - Constituency Impact Analysis: aspc/apsa/APSA-Rev-4-7-Constituency-Impact-Analysis.md
           - American Payment Network Act:
-              - Introduction: aspc/apna/APNA-Rev-3-5-Introduction.md
-              - Legislative Text: aspc/apna/APNA-Legislative-Text.md
-              - Policy Rationale: aspc/apna/APNA-Policy-Rationale.md
+              - Introduction: aspc/apna/APNA-Rev-3-6-Introduction.md
+              - Overview: aspc/apna/APNA-Rev-3-6-Overview.md
+              - Legislative Text: aspc/apna/APNA-Rev-3-6-American-Payment-Network-Act.md
+              - Policy Rationale: aspc/apna/APNA-Rev-3-6-Policy-Rationale.md
+              - Reference Materials:
+                  - Future State Analysis: aspc/apna/APNA-Rev-3-6-Future-State-Analysis.md
+                  - Implementation Timeline: aspc/apna/APNA-Rev-3-6-Implementation-Timeline.md
+                  - Constituency Impact Analysis: aspc/apna/APNA-Rev-3-6-Constituency-Impact-Analysis.md
           - Secure Our Children Act:
               - Introduction: aspc/soca/SOCA-Rev-2-5-Introduction.md
               - Overview: aspc/soca/SOCA-Rev-2-5-Overview.md
