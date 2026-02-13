@@ -36,7 +36,7 @@ The Framework combines two coordinated components:
 - Supreme Court nomination consideration deadlines
 - Phased authority model with acceleration triggers responsive to multi-party conditions
 
-[Learn more about the Congressional Modernization Framework](congress/cmf/CMF-Rev-1-1-Introduction.md)
+[Learn more about the Congressional Modernization Framework](congress/cmf/introduction.md)
 
 ---
 
