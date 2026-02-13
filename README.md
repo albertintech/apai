@@ -1,4 +1,4 @@
-# 🇺🇸 American Policy Architecture Institute (APAI)
+# 📐 American Policy Architecture Institute (APAI)
 
 **Blueprints for a stronger and more dynamic Republic**
 
