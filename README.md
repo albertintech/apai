@@ -1,4 +1,4 @@
-# 📐 American Policy Architecture Institute (APAI)
+# American Policy Architecture Institute (APAI)
 
 **Blueprints for a stronger and more dynamic Republic**
 
@@ -10,7 +10,7 @@ APAI treats democratic institutions as engineered systems requiring periodic mai
 
 ## Portfolio
 
-- **🏛️ Congressional Modernization Framework (CMF)** -- Integrated electoral and procedural modernization for Congress, combining the Federal Elections Modernization Act and Office of Congressional Procedure Act
+- **🗳️ Congressional Modernization Framework (CMF)** -- Integrated electoral and procedural modernization for Congress, combining the Federal Elections Modernization Act and Office of Congressional Procedure Act
 - **💰 American Shared Prosperity Compact (ASPC)** -- Coordinated economic security through universal stability payments, public payment infrastructure, and permanent expanded child benefits
 - **⚖️ Federal Judicial Balance and Accountability Act (FJBAA)** -- Structural reform of federal courts including circuit reorganization, Supreme Court expansion, and binding judicial ethics
 - **💼 Civil Service Accountability Act (CSAA)** -- Professional civil service modernization modeled on the military officer corps, reducing political appointments from ~4,000 to ~1,000
@@ -19,7 +19,7 @@ APAI treats democratic institutions as engineered systems requiring periodic mai
 
 ## Site
 
-The published policy library is available at **[policyarchitecture.org](https://policyarchitecture.org)**.
+The published policy library is available at <a href="https://policyarchitecture.org" target="_blank"><strong>policyarchitecture.org</strong></a>.
 
 Each proposal includes an introduction, legislative text, policy rationale, and supporting reference materials. The site is built with MkDocs and the Material theme, deployed automatically via GitHub Actions.
 
