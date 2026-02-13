@@ -19,7 +19,7 @@ APAI treats democratic institutions as engineered systems requiring periodic mai
 
 ## Site
 
-The published policy library is available at <a href="https://policyarchitecture.org" target="_blank"><strong>policyarchitecture.org</strong></a>.
+The published policy library is available at **[policyarchitecture.org](https://policyarchitecture.org)**.
 
 Each proposal includes an introduction, legislative text, policy rationale, and supporting reference materials. The site is built with MkDocs and the Material theme, deployed automatically via GitHub Actions.
 
