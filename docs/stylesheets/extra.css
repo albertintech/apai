@@ -33,12 +33,12 @@
    Adds a thin colored bar on the left edge of category headers.
    ------------------------------------------------------------- */
 
-/*
-.md-nav__item--section > .md-nav__link {
+
+.md-nav__item--section>.md-nav__link {
     border-left: 3px solid var(--md-primary-fg-color);
     padding-left: 0.6rem;
 }
-*/
+
 
 
 /* -------------------------------------------------------------
