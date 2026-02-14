@@ -103,7 +103,7 @@ The Act replaces this cycle with professional infrastructure across nine titles:
 
 **Congressional Capacity Commission Act (CCC)** — Establishes an independent commission to assess congressional institutional capacity and recommend investments in staff, technology, and expertise. Congress has experienced significant capacity erosion relative to the executive branch it oversees.
 
-[Learn more](congress/ccc/CCC-Rev-1-1-Introduction.md)
+[Learn more](congress/ccc/introduction.md)
 
 **Candidate Verification and Transparency Act (CVTA)** — Creates standardized verification processes for federal candidates, ensuring biographical claims are confirmed through systematic procedures rather than adversarial discovery.
 
