@@ -40,20 +40,4 @@ The full legislative text provides complete statutory language. Supporting docum
 
 ---
 
-## Revision History
-
-**Revision 1.3** (Current)
-- Updated to reflect CSAA Rev 1.3 legislative text
-- Revised political appointee numbers from ~400 to ~1,000 with evidence-based formula
-- Updated SPS term lengths from 10/8/6 years to 6/5/career
-- Added tiered confirmation structure
-- Added Professional Recommendation and Political Override Framework
-- Added structured severability provision
-- Revised framing to distinguish authorized positions (~4,000) from functionally staffed positions (~2,000-2,100)
-
-**Revision 1.1**
-- Initial introduction document for CSAA Rev 1.1
-
----
-
 *Prepared by Albert Ramos for The American Policy Architecture Institute*
