@@ -38,12 +38,4 @@ The full legislative text contains detailed provisions across ten titles. The Po
 
 ---
 
-## Revision History
-
-**Revision 1.0** (Current)
-
-- Initial publication based on CVTA Rev 1.2
-
----
-
 *Prepared by Albert Ramos for The American Policy Architecture Institute*

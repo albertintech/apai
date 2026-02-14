@@ -22,9 +22,9 @@ These failures are not incidental. They are structural features of a system that
 
 ## Solution Architecture
 
-The Candidate Verification and Transparency Act addresses these structural failures through a dedicated informational infrastructure. The framework rests on several core principles.
+The Candidate Verification and Transparency Act (CVTA), hereafter referred to as "the Act," addresses these structural failures through a dedicated informational infrastructure. The framework rests on several core principles.
 
-**Verification, not regulation.** The CVTA establishes an agency that verifies documentary records and publishes findings. It does not regulate political speech, restrict ballot access, or determine who may serve. Voters receive authenticated information; they remain the sole decision-makers.
+**Verification, not regulation.** The Act establishes an agency that verifies documentary records and publishes findings. It does not regulate political speech, restrict ballot access, or determine who may serve. Voters receive authenticated information; they remain the sole decision-makers.
 
 **Uniformity across candidates.** Every candidate for federal office undergoes identical verification procedures regardless of party, ideology, incumbency, or electoral viability. The presidential nominee of a major party and the third-party candidate in a single House district face the same checklist.
 
@@ -78,7 +78,7 @@ Title X addresses codification, rulemaking, judicial review, and effective dates
 
 ## Implementation Overview
 
-The CVTA implements through three phases spanning approximately five years before mandatory verification begins.
+The Act implements through three phases spanning approximately five years before mandatory verification begins.
 
 **Phase I (Year 1)** focuses on agency formation: establishing leadership, initiating civil service hiring, and developing verification methodologies and systems.
 
@@ -92,7 +92,7 @@ This phased approach allows systems development, staff training, and procedural 
 
 The Candidate Verification and Transparency Act creates infrastructure where none currently exists. It does not solve every problem of electoral information -- voters will still encounter misleading campaign advertising, partisan interpretation of verified facts, and strategic framing of candidate records. But it establishes a baseline: a neutral, standardized, publicly accessible repository of verified documentary information about every candidate for federal office.
 
-The framework treats verification as scheduled maintenance on informational infrastructure rather than reform activism. It acknowledges that democratic self-government requires voters to make informed choices, and that informed choices require access to verified facts. The current adversarial system fails to provide that access consistently, equitably, or reliably. The CVTA fills the gap through limited, constrained, transparent governmental action that empowers voters without restricting candidates.
+The framework treats verification as scheduled maintenance on informational infrastructure rather than reform activism. It acknowledges that democratic self-government requires voters to make informed choices, and that informed choices require access to verified facts. The current adversarial system fails to provide that access consistently, equitably, or reliably. The Act fills the gap through limited, constrained, transparent governmental action that empowers voters without restricting candidates.
 
 The detailed legislative text contains the full statutory language. The Policy Rationale document explains the reasoning behind major design choices and addresses anticipated concerns.
 
@@ -100,8 +100,11 @@ The detailed legislative text contains the full statutory language. The Policy R
 
 ## Revision History
 
-**Revision 1.0** (Current)
+**Revision 1.1** (Current)
+- Applied self-reference convention per APAI Document Production Standards Rev 1.6.
+- Corrected filename to standardized published naming convention.
 
+**Revision 1.0**
 - Initial publication based on CVTA Rev 1.2
 
 ---

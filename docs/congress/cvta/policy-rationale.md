@@ -10,11 +10,11 @@ Based on Rev 1.2 of the Candidate Verification and Transparency Act
 
 ## Design Philosophy
 
-The CVTA rests on a single principle: voters should have access to verified factual information about candidates for federal office. The government's role is to authenticate documentation and publish findings -- not to evaluate candidates, regulate speech, or determine who may appear on ballots.
+The Candidate Verification and Transparency Act (CVTA), hereafter referred to as "the Act," rests on a single principle: voters should have access to verified factual information about candidates for federal office. The government's role is to authenticate documentation and publish findings -- not to evaluate candidates, regulate speech, or determine who may appear on ballots.
 
 This philosophy produces several structural commitments. First, verification must be uniform: every candidate undergoes identical procedures regardless of party, ideology, or electoral prospects. Second, verification must be limited: the Act enumerates specific documentary domains and prohibits expansion without supermajority legislative action. Third, verification must be informational: findings affect voter knowledge, not ballot access or eligibility determinations.
 
-The framework treats verification as infrastructure rather than regulation. Just as the government maintains roads without dictating where citizens may travel, the CVTA maintains informational infrastructure without dictating electoral outcomes.
+The framework treats verification as infrastructure rather than regulation. Just as the government maintains roads without dictating where citizens may travel, the Act maintains informational infrastructure without dictating electoral outcomes.
 
 ## Problem Analysis
 
@@ -28,21 +28,21 @@ Existing systems rely on adversarial discovery to surface candidate information.
 
 **Unequal access.** Sophisticated voters with time and resources can locate and evaluate scattered information. Others cannot. The current system privileges those already advantaged in democratic participation.
 
-The CVTA addresses these problems through standardized, timely, publicly accessible verification applied uniformly to all federal candidates.
+The Act addresses these problems through standardized, timely, publicly accessible verification applied uniformly to all federal candidates.
 
 ## Alternatives Considered
 
-**Mandatory disclosure with penalties.** Some proposals require candidates to submit verified documentation under penalty of law. This approach raises constitutional concerns about creating additional qualifications for office and invites enforcement disputes. The CVTA instead requests candidate cooperation and transparently reports the outcome without imposing penalties.
+**Mandatory disclosure with penalties.** Some proposals require candidates to submit verified documentation under penalty of law. This approach raises constitutional concerns about creating additional qualifications for office and invites enforcement disputes. The Act instead requests candidate cooperation and transparently reports the outcome without imposing penalties.
 
 **State-level verification.** States currently administer ballot access and could theoretically verify candidate claims. However, fifty different verification systems would produce inconsistent standards, create strategic forum-shopping, and burden candidates seeking office in multiple contexts. Federal verification ensures uniformity for federal candidates.
 
 **Media or nonprofit verification.** Private verification efforts exist but face credibility challenges, funding constraints, and accusations of bias. Government verification, properly constrained, provides neutral infrastructure that private efforts can supplement but not replace.
 
-**Expanded FEC authority.** The Federal Election Commission already regulates campaign finance; it could theoretically verify candidate backgrounds. However, the FEC's enforcement role creates different institutional incentives than a purely informational agency. The CVTA establishes a separate entity with a narrower, clearer mission.
+**Expanded FEC authority.** The Federal Election Commission already regulates campaign finance; it could theoretically verify candidate backgrounds. However, the FEC's enforcement role creates different institutional incentives than a purely informational agency. The Act establishes a separate entity with a narrower, clearer mission.
 
 ## Provision Rationale
 
-**Consent-based third-party verification (Section 406).** Records held by educational institutions, employers, and military repositories require candidate authorization for release. The CVTA uses standard authorization forms -- the same mechanism private employers use for background checks under existing FERPA provisions. This avoids complex statutory override approaches while creating transparency: verification reports indicate whether candidates provided routine authorizations or declined. Voters can draw their own conclusions when candidates refuse standard releases that job applicants routinely provide.
+**Consent-based third-party verification (Section 406).** Records held by educational institutions, employers, and military repositories require candidate authorization for release. The Act uses standard authorization forms -- the same mechanism private employers use for background checks under existing FERPA provisions. This avoids complex statutory override approaches while creating transparency: verification reports indicate whether candidates provided routine authorizations or declined. Voters can draw their own conclusions when candidates refuse standard releases that job applicants routinely provide.
 
 **Standardized status notations.** Section 406(f) establishes precise language for verification outcomes: "Verified," "Authorization form requested; deadline passed without candidate response," "Authorization provided; no matching record found," and similar notations. This precision prevents the Agency from editorializing while ensuring voters understand exactly what occurred.
 
@@ -50,7 +50,7 @@ The CVTA addresses these problems through standardized, timely, publicly accessi
 
 **Supermajority expansion threshold (Section 506).** Agency authority can expand only through three-fifths vote of both houses; reductions require simple majorities. This asymmetry reflects the principle that governmental power should be difficult to expand and easy to contract. The threshold also provides political durability: expansions require broad consensus, making them resistant to partisan overreach.
 
-**Prohibition on investigative powers (Sections 202, 403, 604).** The Act repeatedly prohibits subpoenas, surveillance, compelled testimony, and similar powers. This redundancy is intentional. The CVTA creates an informational agency, not an investigative one. Multiple explicit prohibitions foreclose creative interpretation and establish clear boundaries for judicial review.
+**Prohibition on investigative powers (Sections 202, 403, 604).** The Act repeatedly prohibits subpoenas, surveillance, compelled testimony, and similar powers. This redundancy is intentional. The Act creates an informational agency, not an investigative one. Multiple explicit prohibitions foreclose creative interpretation and establish clear boundaries for judicial review.
 
 **Public access architecture (Title VII).** Verification serves voters only if findings are accessible. Title VII mandates fee-free access, multiple publication formats, machine-readable datasets, public APIs, and immutable audit logs. The user interface requirements -- search function visible without scrolling, no registration barriers -- reflect lessons from government websites that bury information behind bureaucratic navigation.
 
@@ -64,14 +64,17 @@ The CVTA addresses these problems through standardized, timely, publicly accessi
 
 **"Candidates might refuse all authorizations."** They might. Section 406(f) ensures voters know when candidates decline standard verification authorizations. The political consequences of such refusals are for voters to assess, not for the government to impose.
 
-**"This duplicates what journalists already do."** Media investigation is valuable but inconsistent, fragmented, and variably accessible. The CVTA provides baseline infrastructure -- a standardized, permanent, freely accessible record -- that journalism can supplement. The two functions complement rather than compete.
+**"This duplicates what journalists already do."** Media investigation is valuable but inconsistent, fragmented, and variably accessible. The Act provides baseline infrastructure -- a standardized, permanent, freely accessible record -- that journalism can supplement. The two functions complement rather than compete.
 
 ---
 
 ## Revision History
 
-**Revision 1.0** (Current)
+**Revision 1.1** (Current)
+- Applied self-reference convention per APAI Document Production Standards Rev 1.6.
+- Corrected filename to standardized published naming convention.
 
+**Revision 1.0**
 - Initial publication based on CVTA Rev 1.2
 
 ---

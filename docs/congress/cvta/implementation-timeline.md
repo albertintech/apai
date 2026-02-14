@@ -10,7 +10,7 @@ Based on Rev 1.2 of the Candidate Verification and Transparency Act
 
 ## Timeline Overview
 
-The Candidate Verification and Transparency Act implements through three distinct phases spanning approximately five to six years from enactment to full mandatory operation. This graduated approach allows institutional development, operational refinement, and political adjustment before verification becomes mandatory for all federal candidates.
+The Candidate Verification and Transparency Act (CVTA), hereafter referred to as "the Act," implements through three distinct phases spanning approximately five to six years from enactment to full mandatory operation. This graduated approach allows institutional development, operational refinement, and political adjustment before verification becomes mandatory for all federal candidates.
 
 | Phase | Duration | Primary Activities |
 |-------|----------|-------------------|
@@ -156,7 +156,6 @@ Some implementation activities can proceed in parallel without dependency constr
 The Act does not specify staffing levels, leaving this to appropriations and operational judgment. However, the scope of verification suggests approximate requirements:
 
 **Phase I (Formation):** 50-100 FTEs
-
 - Leadership and administrative staff
 - Initial verification methodology team
 - IT and systems development
@@ -164,14 +163,12 @@ The Act does not specify staffing levels, leaving this to appropriations and ope
 - Inspector General staff
 
 **Phase II (Pilot):** 150-300 FTEs
-
 - Expanded verification operations staff
 - Public transparency and publication staff
 - Data systems maintenance
 - Increased legal and IG capacity
 
 **Phase III (Mandatory):** 400-800 FTEs
-
 - Full verification capacity for presidential cycle
 - Scaled capacity for congressional cycles
 - Sustained publication and access operations
@@ -209,7 +206,7 @@ These projections assume efficient processes and modern systems. Actual staffing
 
 ### Existing Candidate Information
 
-The CVTA does not apply retroactively to prior elections or candidates not seeking new office (Section 1006(d)). However, the transition raises practical questions:
+The Act does not apply retroactively to prior elections or candidates not seeking new office (Section 1006(d)). However, the transition raises practical questions:
 
 **Sitting officeholders seeking reelection.** A sitting Senator seeking reelection in the first mandatory cycle becomes subject to verification like any other candidate. Their prior service does not exempt them from the verification process.
 
@@ -287,8 +284,11 @@ This timeline assumes enactment in a non-presidential election year. Actual impl
 
 ## Revision History
 
-**Revision 1.0** (Current)
+**Revision 1.1** (Current)
+- Applied self-reference convention per APAI Document Production Standards Rev 1.6.
+- Corrected filename to standardized published naming convention.
 
+**Revision 1.0**
 - Initial publication based on CVTA Rev 1.2
 
 ---

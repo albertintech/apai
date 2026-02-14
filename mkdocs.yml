@@ -64,12 +64,12 @@ nav:
           - Reference Materials:
               - Implementation Timeline: congress/ccc/implementation-timeline.md
       - Candidate Verification and Transparency Act:
-          - Introduction: congress/cvta/CVTA-Rev-1-2-Introduction.md
-          - Overview: congress/cvta/CVTA-Rev-1-2-Overview.md
-          - Legislative Text: congress/cvta/CVTA-Rev-1-2-The-Candidate-Verification-and-Transparency-Act.md
-          - Policy Rationale: congress/cvta/CVTA-Rev-1-2-Policy-Rationale.md
+          - Introduction: congress/cvta/introduction.md
+          - Overview: congress/cvta/overview.md
+          - Legislative Text: congress/cvta/legislative-text.md
+          - Policy Rationale: congress/cvta/policy-rationale.md
           - Reference Materials:
-              - Implementation Timeline: congress/cvta/CVTA-Rev-1-2-Implementation-Timeline.md
+              - Implementation Timeline: congress/cvta/implementation-timeline.md
 
   - Executive Branch:
       - Civil Service Accountability Act:
