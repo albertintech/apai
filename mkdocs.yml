@@ -57,12 +57,12 @@ nav:
               - Reference Materials:
                   - Constitutional Analysis: congress/cmf/ocp/constitutional-analysis.md
       - Congressional Capacity Commission Act:
-          - Introduction: congress/ccc/CCC-Rev-1-1-Introduction.md
-          - Overview: congress/ccc/CCC-Rev-1-1-Overview.md
-          - Legislative Text: congress/ccc/CCC-Rev-1-1-The-Congressional-Capacity-Commission-Act.md
-          - Policy Rationale: congress/ccc/CCC-Rev-1-1-Policy-Rationale.md
+          - Introduction: congress/ccc/introduction.md
+          - Overview: congress/ccc/overview.md
+          - Legislative Text: congress/ccc/legislative-text.md
+          - Policy Rationale: congress/ccc/policy-rationale.md
           - Reference Materials:
-              - Implementation Timeline: congress/ccc/CCC-Rev-1-1-Implementation-Timeline.md
+              - Implementation Timeline: congress/ccc/implementation-timeline.md
       - Candidate Verification and Transparency Act:
           - Introduction: congress/cvta/CVTA-Rev-1-2-Introduction.md
           - Overview: congress/cvta/CVTA-Rev-1-2-Overview.md
