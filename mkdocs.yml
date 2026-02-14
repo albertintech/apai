@@ -73,16 +73,16 @@ nav:
 
   - Executive Branch:
       - Civil Service Accountability Act:
-          - Introduction: executive/csaa/CSAA-Rev-1-3-Introduction.md
-          - Future State Analysis: executive/csaa/CSAA-Rev-1-3-Future-State-Analysis.md
-          - Overview: executive/csaa/CSAA-Rev-1-3-Overview.md
-          - Legislative Text: executive/csaa/CSAA-Rev-1-3-Civil-Service-Accountability-Act.md
-          - Policy Rationale: executive/csaa/CSAA-Rev-1-3-Policy-Rationale.md
+          - Introduction: executive/csaa/introduction.md
+          - Future State Analysis: executive/csaa/future-state-analysis.md
+          - Overview: executive/csaa/overview.md
+          - Legislative Text: executive/csaa/legislative-text.md
+          - Policy Rationale: executive/csaa/policy-rationale.md
           - Reference Materials:
-              - International Comparative Analysis: executive/csaa/CSAA-Rev-1-3-International-Comparison.md
-              - Constitutional and Legal Analysis: executive/csaa/CSAA-Rev-1-3-Constitutional-Analysis.md
-              - Economic Analysis: executive/csaa/CSAA-Rev-1-3-Economic-Analysis.md
-              - CMF Interaction Analysis: executive/csaa/CSAA-Rev-1-3-Laying-the-Groundwork-for-a-Renewed-Civil-Service.md
+              - International Comparative Analysis: executive/csaa/international-comparison.md
+              - Constitutional and Legal Analysis: executive/csaa/constitutional-analysis.md
+              - Economic Analysis: executive/csaa/economic-analysis.md
+              - CMF Interaction Analysis: executive/csaa/laying-the-groundwork.md
 
   - Federal Judiciary:
       - Federal Judicial Balance and Accountability Act:
