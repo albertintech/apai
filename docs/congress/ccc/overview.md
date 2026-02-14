@@ -22,7 +22,7 @@ Traditional approaches have failed. Direct congressional votes on compensation a
 
 ## Solution Architecture
 
-The Congressional Capacity Commission Act breaks the self-dealing trap through three interlocking innovations: an independent expert commission, a negative consent mechanism, and phased authority transfer.
+The Congressional Capacity Commission Act (hereafter "the Act") breaks the self-dealing trap through three interlocking innovations: an independent expert commission, a negative consent mechanism, and phased authority transfer.
 
 ### Independent Expert Commission
 
@@ -110,7 +110,7 @@ Year 3 begins full authority operations. The first binding determinations addres
 
 ## Conclusion
 
-The Congressional Capacity Commission Act solves a fundamental political economy problem: legislators cannot vote for adequate institutional resources without facing self-dealing accusations that make such votes politically irrational. The solution delegates resource determinations to an independent professional commission while preserving congressional authority through negative consent.
+The Act solves a fundamental political economy problem: legislators cannot vote for adequate institutional resources without facing self-dealing accusations that make such votes politically irrational. The solution delegates resource determinations to an independent professional commission while preserving congressional authority through negative consent.
 
 The approach follows proven precedents. The Base Realignment and Closure Commission removed political interference from base closure decisions. The Federal Reserve conducts monetary policy insulated from electoral pressures. Judicial compensation commissions handle sensitive salary determinations for the courts. The Congressional Capacity Commission applies the same institutional logic to legislative branch resources.
 
@@ -123,13 +123,11 @@ This is not about enriching incumbents. This is about ensuring the legislative b
 ## Revision History
 
 **Revision 1.1** (Current)
-
-- Reformatted to comply with APAI Document Production Manual standards
+- Reformatted to comply with APAI Document Production Standards
 - Consolidated from Executive Summary and Legislative Overview into single Overview document
 - Condensed content to target length (5-10% of legislative text)
 
 **Revision 1.0**
-
 - Initial publication as Executive Summary (~6,500 words)
 
 ---

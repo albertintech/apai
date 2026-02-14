@@ -44,7 +44,7 @@ Every alternative to independent commission governance has been tried. Each has 
 
 ## THE COMMISSION SOLUTION
 
-The Congressional Capacity Commission Act creates an independent nine-member body to make professional, evidence-based determinations on congressional resources. The key innovation is the negative consent mechanism: Determinations automatically become law unless Congress actively votes to disapprove them.
+The Congressional Capacity Commission Act (hereafter "the Act") creates an independent nine-member body to make professional, evidence-based determinations on congressional resources. The key innovation is the negative consent mechanism: Determinations automatically become law unless Congress actively votes to disapprove them.
 
 **Why This Works Politically.**
 
@@ -303,7 +303,7 @@ These institutions demonstrate that independent agencies with multi-branch appoi
 
 ## BOTTOM LINE
 
-The Congressional Capacity Commission Act solves an impossible problem: Congress needs adequate resources to function effectively, but Members cannot vote for those resources without political consequences that outweigh any substantive benefit.
+The Act solves an impossible problem: Congress needs adequate resources to function effectively, but Members cannot vote for those resources without political consequences that outweigh any substantive benefit.
 
 The solution is independent professional oversight with negative consent. Expert commission makes evidence-based determinations using recognized methodologies. Determinations become law unless Congress actively disapproves. Members are protected from attack ads. Professional standards replace political calculation. Institutional capacity is maintained.
 
@@ -318,13 +318,11 @@ The alternative is continued decay: frozen compensation, departing expertise, ob
 ## Revision History
 
 **Revision 1.1** (Current)
-
-- Reformatted to comply with APAI Document Production Manual standards
+- Reformatted to comply with APAI Document Production Standards
 - Renamed from "Coalition Policy Rationale" to "Policy Rationale"
 - Standardized header and footer format
 
 **Revision 1.0**
-
 - Initial publication as Coalition Policy Rationale
 
 ---

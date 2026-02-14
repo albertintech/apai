@@ -283,27 +283,23 @@ All six authority domains become active with **binding Determination** authority
 ### Month 36+: Ongoing Operations
 
 **Annual Determinations (Required):**
-
 - [ ] Staff compensation adjustments
 - [ ] Technology audit and standards updates
 - [ ] Security threat assessment and funding
 
 **Biennial Comprehensive Reviews (Required):**
-
 - [ ] Member compensation package review
 - [ ] MRA adequacy assessment
 - [ ] Congressional Capacity Scorecard
 - [ ] Trend analysis and long-term planning
 
 **As-Needed Determinations:**
-
 - Emergency technology requirements
 - Security incidents requiring immediate response
 - Market condition changes
 - Operational disruptions
 
 **Continuous Activities:**
-
 - Annual GAO audits
 - Public transparency (website, reports, meetings)
 - Stakeholder surveys and feedback
@@ -335,7 +331,6 @@ All six authority domains become active with **binding Determination** authority
 **Make or break:** Commission credibility depends on appointing highly qualified, respected professionals.
 
 **Ideal Commissioners:**
-
 - Recognized experts in compensation, HR, economics, federal operations
 - Track record of non-partisan professionalism
 - Diverse geographic and professional backgrounds
@@ -349,7 +344,6 @@ All six authority domains become active with **binding Determination** authority
 **Foundation of legitimacy:** Professional methodologies meeting industry standards.
 
 **Must demonstrate:**
-
 - Rigorous benchmarking using multiple data sources
 - Statistical validity
 - Transparent data sources and calculations
@@ -363,7 +357,6 @@ All six authority domains become active with **binding Determination** authority
 **Builds trust:** Maximum transparency demonstrates Commission has nothing to hide.
 
 **Requirements:**
-
 - Open meetings (livestreamed, archived)
 - All Determinations and supporting documentation public
 - Methodologies fully documented and explained
@@ -378,7 +371,6 @@ All six authority domains become active with **binding Determination** authority
 **Core legitimacy:** Commission must be genuinely independent, not a partisan tool.
 
 **Critical:**
-
 - Multi-branch appointments prevent capture
 - Commissioners demonstrate independence in practice
 - No political pressure on determinations
@@ -392,7 +384,6 @@ All six authority domains become active with **binding Determination** authority
 **Strategic patience:** Demonstrate value before claiming sensitive authorities.
 
 **Phase 2 critical:**
-
 - High-quality recommendations on technology and security
 - Positive reception from members and staff
 - Media coverage emphasizes professionalism
@@ -409,7 +400,6 @@ All six authority domains become active with **binding Determination** authority
 **When advocating for the Act:**
 
 [YES] **DO SAY:**
-
 - "Removing political toxicity from necessary resource decisions"
 - "Independent professional commission like BRAC for base closures"
 - "Evidence-based, transparent process with congressional oversight"
@@ -417,7 +407,6 @@ All six authority domains become active with **binding Determination** authority
 - "Builds institutional capacity for effective governance"
 
 [NO] **DON'T SAY:**
-
 - "Congress needs a raise" (even if true)
 - "Members deserve more pay" (moral claim)
 - "Fairness requires..." (sounds like activist)
@@ -428,14 +417,12 @@ All six authority domains become active with **binding Determination** authority
 **How to explain vote FOR the Act:**
 
 [YES] **DO SAY:**
-
 - "I'm voting to establish an independent commission of experts to make professional, evidence-based recommendations on congressional resources"
 - "This removes the political toxicity from these decisions while maintaining congressional oversight"
 - "Similar to how BRAC handled base closures -- independent commission, congressional review"
 - "We need institutional capacity to govern effectively, and this provides transparent, accountable process"
 
 [NO] **DON'T SAY:**
-
 - "I'm voting to raise congressional pay" (you're not)
 - "We deserve this" (moral claim invites attack)
 - "Congress is underpaid" (even if true, sounds self-serving)
@@ -445,7 +432,6 @@ All six authority domains become active with **binding Determination** authority
 **If a Determination comes up and you're not voting to disapprove:**
 
 [YES] **DO SAY:**
-
 - "An independent commission of experts appointed by the President, Chief Justice, Speaker, and Senate Majority Leader conducted rigorous analysis and made this determination"
 - "They used professional benchmarking and transparent methodology"
 - "GAO audited their work and found it sound"
@@ -453,7 +439,6 @@ All six authority domains become active with **binding Determination** authority
 - "Congress retains authority to disapprove if we determine their analysis is flawed"
 
 [NO] **DON'T SAY:**
-
 - "I voted to raise my pay" (you didn't)
 - "I support this raise" (sounds self-interested)
 - Anything that sounds like YOU made the decision
@@ -465,7 +450,6 @@ All six authority domains become active with **binding Determination** authority
 ### Challenge: "This is an unconstitutional delegation"
 
 **Response:**
-
 - Ascertainment Clause says compensation shall be "ascertained by Law"
 - Congress ascertains BY LAW that compensation = Commission determination
 - Similar to BRAC, Congressional Review Act, Trade Promotion Authority
@@ -475,7 +459,6 @@ All six authority domains become active with **binding Determination** authority
 ### Challenge: "The Commission will be captured by [party/faction]"
 
 **Response:**
-
 - Multi-branch appointments (President, Chief Justice, Speaker, Senate Majority Leader)
 - No more than 5 from same party
 - Staggered 6-year terms spanning multiple elections
@@ -486,7 +469,6 @@ All six authority domains become active with **binding Determination** authority
 ### Challenge: "Why not just let market forces work?"
 
 **Response:**
-
 - Market forces don't work when one side of transaction (Congress) cannot negotiate due to political toxicity
 - 16-year freeze demonstrates market failure
 - Result is institutional capacity decay and narrowing of candidate pool to wealthy
@@ -495,7 +477,6 @@ All six authority domains become active with **binding Determination** authority
 ### Challenge: "This will cost taxpayers billions"
 
 **Response:**
-
 - Commission costs $3-7M annually to operate (tiny fraction of federal budget)
 - Adequate congressional compensation costs ~$50-100M additional annually (depending on increases)
 - Compare to $6+ trillion federal budget -- less than 0.002%
@@ -507,7 +488,6 @@ All six authority domains become active with **binding Determination** authority
 ## SUCCESS METRICS
 
 ### Year 1 (Phase 1)
-
 - [YES] All Commissioners appointed within 6 months
 - [YES] Baseline reports published on schedule
 - [YES] Methodology receives positive GAO review
@@ -515,7 +495,6 @@ All six authority domains become active with **binding Determination** authority
 - [YES] Media coverage emphasizes professionalism
 
 ### Year 2 (Phase 2)
-
 - [YES] Technology, security, staff, and MRA reports issued
 - [YES] Reports receive bipartisan praise for quality
 - [YES] GAO methodology reviews positive
@@ -523,7 +502,6 @@ All six authority domains become active with **binding Determination** authority
 - [YES] Public comment demonstrates stakeholder engagement
 
 ### Year 3+ (Phase 3)
-
 - [YES] First Determinations implemented without congressional disapproval
 - [YES] Staff retention improves measurably
 - [YES] Technology modernization visible in offices
@@ -533,7 +511,6 @@ All six authority domains become active with **binding Determination** authority
 - [YES] Congressional satisfaction with Commission high
 
 ### Long-term (Years 5-10)
-
 - [YES] Congressional capacity metrics improve (staffing, technology, security, effectiveness)
 - [YES] Candidate pool broadens (more middle-class candidates)
 - [YES] Staff retention rates normalize
@@ -570,13 +547,11 @@ All six authority domains become active with **binding Determination** authority
 ## Revision History
 
 **Revision 1.1** (Current)
-
-- Reformatted to comply with APAI Document Production Manual standards
+- Reformatted to comply with APAI Document Production Standards
 - Renamed from "Implementation Checklist and Quick Reference" to "Implementation Timeline"
 - Standardized header and footer format
 
 **Revision 1.0**
-
 - Initial publication as Implementation Guide
 
 ---
