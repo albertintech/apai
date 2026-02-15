@@ -86,15 +86,15 @@ nav:
 
   - Federal Judiciary:
       - Federal Judicial Balance and Accountability Act:
-          - Introduction: judiciary/fjbaa/FJBAA-Rev-2-2-Introduction.md
-          - Overview: judiciary/fjbaa/FJBAA-Rev-2-2-Overview.md
-          - Legislative Text: judiciary/fjbaa/FJBAA-Rev-2-2-Federal-Judicial-Balance-and-Accountability-Act.md
-          - Circuit Maps: judiciary/fjbaa/FJBAA-circuit-maps.md
-          - Policy Rationale: judiciary/fjbaa/FJBAA-Rev-2-2-Policy-Rationale.md
+          - Introduction: judiciary/fjbaa/introduction.md
+          - Overview: judiciary/fjbaa/overview.md
+          - Legislative Text: judiciary/fjbaa/legislative-text.md
+          - Circuit Maps: judiciary/fjbaa/circuit-maps.md
+          - Policy Rationale: judiciary/fjbaa/policy-rationale.md
           - Reference Materials:
-              - Legal Analysis: judiciary/fjbaa/FJBAA-Rev-2-2-Legal-Analysis.md
-              - Foundational Principles: judiciary/fjbaa/FJBAA-Rev-2-2-Foundational-Principles.md
-              - Implementation Timeline: judiciary/fjbaa/FJBAA-Rev-2-2-Implementation-Timeline.md
+              - Legal Analysis: judiciary/fjbaa/legal-analysis.md
+              - Foundational Principles: judiciary/fjbaa/foundational-principles.md
+              - Implementation Timeline: judiciary/fjbaa/implementation-timeline.md
 
   - Economic Stability & Security:
       - American Shared Prosperity Compact:
