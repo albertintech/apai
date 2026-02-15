@@ -103,24 +103,23 @@ nav:
                 - Integration and Sequencing Guide: aspc/integration-and-sequencing-guide.md
                 - FAQ: aspc/frequently-asked-questions.md
                 - American Prosperity and Stability Act:
-                      - Introduction: aspc/apsa/APSA-Rev-4-7-Introduction.md
-                      - Overview: aspc/apsa/APSA-Rev-4-7-Overview.md
-                      - Legislative Text: aspc/apsa/APSA-Rev-4-7-American-Prosperity-and-Stability-Act.md
-                      - Policy Rationale: aspc/apsa/APSA-Rev-4-7-Policy-Rationale.md
+                      - Introduction: aspc/apsa/introduction.md
+                      - Overview: aspc/apsa/overview.md
+                      - Legislative Text: aspc/apsa/legislative-text.md
+                      - Policy Rationale: aspc/apsa/policy-rationale.md
                       - Reference Materials:
-                            - Future State Analysis: aspc/apsa/APSA-Rev-4-7-Future-State-Analysis.md
-                            - Implementation Timeline: aspc/apsa/APSA-Rev-4-7-Implementation-Timeline.md
-                            - Detailed Implementation Timeline: aspc/apsa/APSA-Rev-4-7-Detailed-Implementation-Timeline.md
-                            - Constituency Impact Analysis: aspc/apsa/APSA-Rev-4-7-Constituency-Impact-Analysis.md
+                            - Future State Analysis: aspc/apsa/future-state-analysis.md
+                            - Implementation Timeline: aspc/apsa/implementation-timeline.md
+                            - Constituency Impact Analysis: aspc/apsa/constituency-impact-analysis.md
                 - American Payment Network Act:
-                      - Introduction: aspc/apna/introduction.md
-                      - Overview: aspc/apna/overview.md
-                      - Legislative Text: aspc/apna/legislative-text.md
-                      - Policy Rationale: aspc/apna/policy-rationale.md
+                      - Introduction: aspc/apna/APNA-Rev-3-6-Introduction.md
+                      - Overview: aspc/apna/APNA-Rev-3-6-Overview.md
+                      - Legislative Text: aspc/apna/APNA-Rev-3-6-American-Payment-Network-Act.md
+                      - Policy Rationale: aspc/apna/APNA-Rev-3-6-Policy-Rationale.md
                       - Reference Materials:
-                            - Future State Analysis: aspc/apna/future-state-analysis.md
-                            - Implementation Timeline: aspc/apna/implementation-timeline.md
-                            - Constituency Impact Analysis: aspc/apna/constituency-impact-analysis.md
+                            - Future State Analysis: aspc/apna/APNA-Rev-3-6-Future-State-Analysis.md
+                            - Implementation Timeline: aspc/apna/APNA-Rev-3-6-Implementation-Timeline.md
+                            - Constituency Impact Analysis: aspc/apna/APNA-Rev-3-6-Constituency-Impact-Analysis.md
                 - Secure Our Children Act:
                      - Introduction: aspc/soca/introduction.md
                      - Overview: aspc/soca/overview.md
