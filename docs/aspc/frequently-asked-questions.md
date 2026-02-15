@@ -16,7 +16,7 @@ The Compact is three separate but complementary acts that build economic infrast
 
 - **American Payment Network Act (APNA)** creates fee-free digital accounts for every American
 - **American Prosperity and Stability Act (APSA)** provides income-adjusted monthly stability payments for adults, funded by the American Prosperity Contribution, with integrated enrollment infrastructure
-- **Secure Our Children Act (SOCA)** delivers monthly child stability payments and birth support, funded by the Child Security Contribution
+- **Secure Our Children Act (SOCA)** delivers monthly child benefits and birth support, funded by the Child Security Contribution
 
 Each act solves real problems independently. Together, they provide economic security from birth through retirement.
 
@@ -157,9 +157,9 @@ This is gradual consolidation based on demonstrated success, not immediate repla
 
 ### How much would child payments be?
 
-Monthly Child Stability Payments are age-tiered to reflect developmental costs:
+Monthly child benefits are age-tiered to reflect developmental costs:
 
-- $300/month for children ages 0-5 ($3,600/year)
+- $300/month for children under 6 ($3,600/year)
 - $250/month for children ages 6-17 ($3,000/year)
 
 Higher amounts for younger children reflect research on the critical importance of early childhood investment.
@@ -345,18 +345,7 @@ Social Security survived because it built an enormous constituency. The Compact 
 
 ### Where can I learn more?
 
-See the full documentation:
-
-**Framework Documents:**
-
-- ASPC Integration and Sequencing Guide (Rev 5.4)
-- ASPC vs. EDAA Comparative Analysis (Rev 1.3)
-
-**Individual Act Documentation:**
-
-- APNA Rev 3.6 documentation suite (7 documents)
-- APSA Rev 4.7 documentation suite (7 documents)
-- SOCA Rev 2.4 documentation suite (6 documents)
+See the full documentation suite for the American Shared Prosperity Compact, including the Overview, Integration and Sequencing Guide, and individual act documentation for APNA (Rev 3.6), APSA (Rev 4.7), and SOCA (Rev 2.4).
 
 ### How can I contribute?
 
@@ -370,17 +359,11 @@ For inquiries, contact The American Policy Architecture Institute.
 
 **Revision 5.4** (Current)
 
-- APAI Document Production Standards Rev 1.5 compliance pass
-- Converted ALL CAPS H1 and H2 headings to title case
-- Removed "Prepared by:" block and "Document Status: Draft -- Working Document" line; added Section 1.2 header structure (Published date, reference line)
-- Moved Revision History from top of document to Section 1.3 footer position
-- Replaced `**END OF DOCUMENT**` with Section 1.3 standard footer
-- Updated ASPC references from Rev 5.3 to Rev 5.4
-- Updated APSA references from Rev 4.6 to Rev 4.7 (no parameter changes; Rev 4.7 was an APAI formatting pass)
-- Updated APNA references from Rev 3.4 to Rev 3.6
-- Updated "Next Steps" document references to current APAI document names and revision numbers; removed references to retired document types (One-Page Summary, Executive Summary)
-- Corrected Birth Support Payment amount from $2,400 to $2,000 (the $2,400 figure was erroneous; $2,000 is consistent with SOCA legislative text and all other ASPC documentation)
-- No other changes to policy substance, benefit amounts, or Q&A content
+- Standardized to APAI Document Production Standards Rev 1.6
+- Moved Revision History to end of document; removed "Prepared by" block and "Document Status" line from header
+- Corrected Birth Support Payment amount from $2,400 to $2,000 per SOCA Rev 2.4 legislative text
+- Updated companion document references to APSA Rev 4.7, APNA Rev 3.6
+- Updated "Next Steps" section to reference current document types and revision numbers
 
 **Revision 5.3**
 
@@ -390,15 +373,12 @@ For inquiries, contact The American Policy Architecture Institute.
 - Revised state share from ~$450B to ~$312B
 - Revised APSA fiscal footprint from ~$1.7T to ~$1.56T
 - Added baseline payment amount ($200/mo) and coverage (~90%) to APSA section
-- Updated document references to APSA Rev 4.6 and ASPC Rev 5.3
-- Rationale: APSA Rev 4.6 recalibrated parameters to eliminate excess surplus while improving program outcomes -- lower rate, broader coverage, higher baseline payment
 
 **Revision 5.2**
 
 - Updated to reflect APSA Rev 4.5 statutory changes
 - Revised federal/state split from 74/26 to 80/20
 - Revised state share from ~$448B to ~$344B
-- Updated document references to APSA Rev 4.5
 
 **Revision 5.1**
 

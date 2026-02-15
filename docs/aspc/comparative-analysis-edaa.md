@@ -4,7 +4,7 @@
 
 ### Published February 2026
 
-Based on Rev 5.4 of the American Shared Prosperity Compact and Rev 4.7 of the American Prosperity and Stability Act
+Based on Rev 5.4 of the American Shared Prosperity Compact
 
 ---
 
@@ -20,7 +20,7 @@ This analysis presents the structural comparison and lets the design choices spe
 
 ## Framework Overview
 
-### ASPC (American Shared Prosperity Compact -- Rev 5.4)
+### ASPC (American Shared Prosperity Compact -- Rev 5.3)
 
 The ASPC is a three-act modular framework:
 
@@ -63,7 +63,7 @@ This is the most significant structural difference between the programs.
 - ~1.9 million adults currently in deep poverty
 - All seniors regardless of economic circumstances
 
-ASPC covers all adults age 18 and older with no upper age limit. Under APSA Rev 4.7, approximately 90% of adults receive payments (those below the 10x FPL clean exit threshold).
+ASPC covers all adults age 18 and older with no upper age limit. Under Rev 4.6, approximately 90% of adults receive payments (those below the 10x FPL clean exit threshold).
 
 ### Child Benefit Coverage
 
@@ -82,8 +82,8 @@ EDAA provides higher per-child benefits. SOCA provides higher early childhood be
 
 ### Adult Benefits
 
-| Income Level | ASPC (APSA Rev 4.7) | EDAA (BOOST) | Difference |
-|--------------|----------------------|--------------|------------|
+| Income Level | ASPC (APSA Rev 4.6) | EDAA (BOOST) | Difference |
+|--------------|---------------------|--------------|------------|
 | $0 | $7,530 | $3,000 | **+$4,530 (+151%)** |
 | $15,000 | $7,171 | $3,000 | +$4,171 (+139%) |
 | $30,000 | $6,755 | $3,000 | +$3,755 (+125%) |
@@ -100,7 +100,7 @@ ASPC front-loads benefits to those with the lowest incomes, tapering gradually u
 
 EDAA provides a flat benefit to all covered adults regardless of income, with the funding mechanism (2.5% AGI surtax) creating an effective phase-out at higher incomes.
 
-**Key APSA Rev 4.6/4.7 Changes:** The ASPC baseline increased from $150/mo to $200/mo, and coverage expanded from 84% to 90% of adults (clean exit at 10x FPL instead of 8x FPL). This means ASPC now provides higher benefits at all income levels up to ~$100,000.
+**Key Rev 4.6 Changes:** The ASPC baseline increased from $150/mo to $200/mo, and coverage expanded from 84% to 90% of adults (clean exit at 10x FPL instead of 8x FPL). This means ASPC now provides higher benefits at all income levels up to ~$100,000.
 
 ### Child Benefits
 
@@ -156,14 +156,14 @@ Every senior currently in poverty or near-poverty receives substantial ASPC supp
 
 ---
 
-## Funding Architecture
+## Funding Architecture Comparison
 
 ### Revenue Sources
 
-| Program | Funding Mechanism | Annual Revenue |
-|---------|-------------------|----------------|
-| **ASPC (APSA)** | American Prosperity Contribution (12% VAT-style) | ~$1.56 trillion |
-| **ASPC (SOCA)** | Child Security Contribution (1.50% + 3.00% kicker) | ~$270 billion |
+| Source | Mechanism | Annual Revenue |
+|--------|-----------|----------------|
+| **ASPC (APC)** | 12% on domestic consumption | ~$1.56 trillion |
+| **ASPC (CSC)** | 1.50% AGI + 3.00% kicker | ~$270 billion |
 | **ASPC Total** | | **~$1.83 trillion** |
 | **EDAA (BOOST)** | 2.5% AGI surtax | ~$280 billion |
 | **EDAA (ECPA)** | (Not specified in bill) | $0 |
@@ -260,7 +260,7 @@ ASPC prioritizes comprehensive coverage, sustainable funding, and infrastructure
 
 Design trade-offs: Higher complexity. Longer implementation timeline. Requires building new infrastructure (APNA) for full benefit realization.
 
-**Rev 4.6/4.7 Improvements:** The recalibrated parameters improve the ASPC position -- the 12% APC rate is now below most European VAT rates, while 90% coverage creates stronger political durability than the previous 84%.
+**Rev 4.6 Improvements:** The recalibrated parameters improve the ASPC position -- the 12% APC rate is now below most European VAT rates, while 90% coverage creates stronger political durability than the previous 84%.
 
 ### Terminology and Framing
 
@@ -292,7 +292,7 @@ EDAA uses direct language ("End Child Poverty Act") that resonates with its targ
 
 ## Summary: Key Differences
 
-| Dimension | ASPC (Rev 5.4) | EDAA |
+| Dimension | ASPC (Rev 5.3) | EDAA |
 |-----------|----------------|------|
 | Adult coverage | All adults 18+ | Ages 19-67 only |
 | Adults receiving payments | ~90% (241M) | ~80% (204M) |
@@ -330,7 +330,7 @@ Neither framework is objectively superior. But they are not equivalent. Readers 
 
 ## Technical Appendix: APSP Benefit Formula
 
-The American Prosperity Stability Payment uses the following formula from APSA Rev 4.7 Appendix B:
+The American Prosperity Stability Payment uses the following formula from APSA Rev 4.6 Appendix B:
 
 **Constants:**
 
@@ -368,15 +368,9 @@ The logarithmic (concave) taper on the stability payment concentrates phase-out 
 
 **Revision 1.3** (Current)
 
-- APAI Document Production Standards Rev 1.5 compliance pass
-- Removed "Prepared by:" block and "Document Status: Working Analysis" line; added Section 1.2 header structure (Published date, reference line)
-- Moved Revision History from top of document to Section 1.3 footer position
-- Converted ALL CAPS H2 headings to title case
-- Replaced `**END OF DOCUMENT**` with Section 1.3 standard footer
-- Updated all APSA references from Rev 4.6 to Rev 4.7 (no parameter changes; Rev 4.7 was an APAI formatting pass)
-- Updated ASPC references from Rev 5.3 to Rev 5.4
-- Updated Technical Appendix source reference to APSA Rev 4.7 Appendix B
-- No changes to policy substance, benefit amounts, cost estimates, or analytical conclusions
+- Standardized to APAI Document Production Standards Rev 1.6
+- Moved Revision History to end of document; removed "Prepared by" block and "Document Status" line from header
+- No changes to analytical content or figures
 
 **Revision 1.2**
 
@@ -385,23 +379,12 @@ The logarithmic (concave) taper on the stability payment concentrates phase-out 
 - Revised clean exit threshold from 8x FPL ($120,480) to 10x FPL ($150,600)
 - Revised APSA coverage from ~84% to ~90% of adult population
 - Revised baseline payment from $1,800 to $2,400
-- Revised stability_max from $5,730 to $5,130
 - Updated benefit comparison table with recalculated values
-- Updated federal share from ~$1.38T to ~$1.25T
-- Updated state share from ~$344B to ~$312B
-- Updated ASPC surplus calculation from ~$280B to ~$143B
-- Updated total specified funding from ~$1.99T to ~$1.83T
-- Updated Technical Appendix with Rev 4.6 formula parameters
-- Rationale: APSA Rev 4.6 recalibrated parameters to eliminate excess surplus while improving outcomes -- lower rate, broader coverage, higher baseline
 
 **Revision 1.1**
 
 - Updated to reflect ASPC Rev 5.2 / APSA Rev 4.5 changes
 - Revised federal-state revenue sharing: 74/26 split updated to 80/20
-- Updated federal share from ~$1.28T to ~$1.38T
-- Updated state share from ~$448B to ~$344B
-- Updated ASPC surplus calculation from ~$175B to ~$280B
-- Added revision history section
 
 **Revision 1.0**
 
