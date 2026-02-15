@@ -617,7 +617,7 @@ If any provision of this Act, or the application thereof to any person or circum
 ## Revision History
 
 **Revision 2.5** (Current)
-- Brought all documents into compliance with APAI Document Production Standards Rev 1.4
+- Brought into compliance with APAI Document Production Standards Rev 1.6
 - Removed acronym from H1 title
 - Moved Revision History from top to bottom
 - Removed "Prepared by" block and "Draft -- Working Document" from header

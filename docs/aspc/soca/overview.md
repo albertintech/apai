@@ -53,7 +53,7 @@ The Act represents an architectural choice to build child benefit policy on a fo
 ## Revision History
 
 **Revision 2.5** (Current)
-- Initial publication as Overview document per APAI Document Production Standards
+- Initial publication as Overview document per APAI Document Production Standards Rev 1.6
 - Content derived from Rev 2.5 of the legislative text
 
 ---

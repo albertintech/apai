@@ -253,7 +253,7 @@ The alternative is the status quo -- periodic expansions followed by expirations
 ## Revision History
 
 **Revision 2.5** (Current)
-- Brought into compliance with APAI Document Production Standards Rev 1.4
+- Brought into compliance with APAI Document Production Standards Rev 1.6
 - Updated header structure, footer, and revision history placement
 
 **Revision 2.4**
