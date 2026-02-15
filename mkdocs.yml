@@ -122,15 +122,15 @@ nav:
                             - Implementation Timeline: aspc/apna/APNA-Rev-3-6-Implementation-Timeline.md
                             - Constituency Impact Analysis: aspc/apna/APNA-Rev-3-6-Constituency-Impact-Analysis.md
                 - Secure Our Children Act:
-                      - Introduction: aspc/soca/SOCA-Rev-2-5-Introduction.md
-                      - Overview: aspc/soca/SOCA-Rev-2-5-Overview.md
-                      - Legislative Text: aspc/soca/SOCA-Rev-2-5-Secure-Our-Children-Act.md
-                      - Policy Rationale: aspc/soca/SOCA-Rev-2-5-Policy-Rationale.md
-                      - Reference Materials:
-                            - Implementation Timeline: aspc/soca/SOCA-Rev-2-5-Implementation-Timeline.md
-                            - Constituency Impact Analysis: aspc/soca/SOCA-Rev-2-5-Constituency-Impact-Analysis.md
+                     - Introduction: aspc/soca/introduction.md
+                     - Overview: aspc/soca/overview.md
+                     - Legislative Text: aspc/soca/legislative-text.md
+                     - Policy Rationale: aspc/soca/policy-rationale.md
+                     - Reference Materials:
+                           - Implementation Timeline: aspc/soca/implementation-timeline.md
+                           - Constituency Impact Analysis: aspc/soca/constituency-impact-analysis.md
                 - Comparative Analysis:
-                      - ASPC vs. EDAA: aspc/comparative-analysis-edaa.md
+                    - ASPC vs. EDAA: aspc/comparative-analysis-edaa.md
 
 markdown_extensions:
     - toc:
