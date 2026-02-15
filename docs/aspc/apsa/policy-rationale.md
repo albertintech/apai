@@ -4,7 +4,7 @@
 
 ### Published February 2026
 
-Based on Rev 4.7 of the American Prosperity and Stability Act
+Based on Rev 4.8 of the American Prosperity and Stability Act
 
 ---
 
@@ -314,7 +314,12 @@ This is not compromise -- it is optimization.
 
 ## Revision History
 
-**Revision 4.7** (Current)
+**Revision 4.8** (Current)
+- Renamed file from `APSA-Rev-4-7-Policy-Rationale.md` to `policy-rationale.md` per APAI Document Production Standards Rev 1.6 Section 1.1
+- Updated reference line to APSA Rev 4.8
+- No changes to policy substance, design rationale, or analytical content
+
+**Revision 4.7**
 - Aligned document structure to APAI Document Production Standards Rev 1.5
 - Updated header from legislative-text format to supporting document format (Published date, reference line)
 - Changed subtitle from "Policy Rationale and Commentary" to "Policy Rationale" per Section 2.3 naming

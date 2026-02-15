@@ -2,7 +2,7 @@
 
 ## Establishing a Secure Economic Foundation for Every American
 
-### Revision 4.7
+### Revision 4.8
 
 ---
 
@@ -1135,7 +1135,11 @@ The following implementation topics are comprehensively addressed by companion a
 
 ## Revision History
 
-**Revision 4.7** (Current)
+**Revision 4.8** (Current)
+- Renamed file from `APSA-Rev-4-7-American-Prosperity-and-Stability-Act.md` to `legislative-text.md` per APAI Document Production Standards Rev 1.6 Section 1.1 (published filenames use standardized names with no acronyms or version numbers)
+- No changes to policy substance, benefit amounts, or formula mechanics
+
+**Revision 4.7**
 - Aligned document structure to APAI Document Production Standards Rev 1.4
 - Removed embedded Executive Summary from legislative text (now a separate supporting document)
 - Moved Revision History from top of document to end per Section 1.3

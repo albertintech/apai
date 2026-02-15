@@ -4,7 +4,7 @@
 
 ### Published February 2026
 
-Based on Rev 4.7 of the American Prosperity and Stability Act
+Based on Rev 4.8 of the American Prosperity and Stability Act
 
 ---
 
@@ -287,7 +287,12 @@ The Act creates both concentrated benefits (clear winners who will mobilize in s
 
 ## Revision History
 
-**Revision 4.7** (Current)
+**Revision 4.8** (Current)
+- Renamed file from `APSA-Rev-4-7-Constituency-Impact-Analysis.md` to `constituency-impact-analysis.md` per APAI Document Production Standards Rev 1.6 Section 1.1
+- Updated reference line to APSA Rev 4.8
+- No changes to policy substance, benefit amounts, coverage figures, or constituency analysis
+
+**Revision 4.7**
 - Aligned document structure to APAI Document Production Standards Rev 1.5
 - Updated header from legislative-text format to supporting document format (Published date, reference line)
 - Moved Revision History from top of document to end per Section 1.3

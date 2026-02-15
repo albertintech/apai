@@ -4,7 +4,7 @@
 
 ### Published February 2026
 
-Based on Rev 4.7 of the American Prosperity and Stability Act
+Based on Rev 4.8 of the American Prosperity and Stability Act
 
 ---
 
@@ -16,7 +16,7 @@ This instability is not simply an economic problem. It shapes family formation d
 
 ## Solution Architecture
 
-The Act creates a single integrated system with two components that reinforce each other. The American Prosperity Stability Payment (APSP) provides monthly income to eligible adults. The American Prosperity Contribution (APC) funds the system through a broad contribution on domestic consumption. Together they form a stability feedback loop: the APC generates predictable revenue; the APSP translates that revenue into household financial security; stable households generate stable consumer demand; stable demand sustains APC revenue.
+The American Prosperity and Stability Act (APSA), hereafter referred to as "the Act," creates a single integrated system with two components that reinforce each other. The American Prosperity Stability Payment (APSP) provides monthly income to eligible adults. The American Prosperity Contribution (APC) funds the system through a broad contribution on domestic consumption. Together they form a stability feedback loop: the APC generates predictable revenue; the APSP translates that revenue into household financial security; stable households generate stable consumer demand; stable demand sustains APC revenue.
 
 The design reflects several deliberate choices. The system is funded through consumption rather than income, avoiding disincentives to work, hiring, or wage growth. Benefits are calculated on an individual basis, ensuring marriage neutrality. All thresholds are anchored to Federal Poverty Level multiples, enabling automatic indexing without annual Congressional action. And a Bridge Period funding mechanism delivers benefits within months of enactment rather than requiring years of APC phase-in before anyone receives a payment.
 
@@ -52,7 +52,13 @@ The American Prosperity and Stability Act establishes economic infrastructure ra
 
 ## Revision History
 
-**Revision 4.6** (Current)
+**Revision 1.1** (Current)
+- Renamed file from `APSA-Rev-4-7-Overview.md` to `overview.md` per APAI Document Production Standards Rev 1.6 Section 1.1
+- Updated reference line to APSA Rev 4.8
+- Added self-reference establishment per Section 1.7 ("hereafter referred to as 'the Act'")
+- No changes to policy substance or analytical content
+
+**Revision 1.0**
 - Initial publication based on APSA Rev 4.7
 
 ---

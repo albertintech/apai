@@ -4,7 +4,7 @@
 
 ### Published February 2026
 
-Based on Rev 4.7 of the American Prosperity and Stability Act
+Based on Rev 4.8 of the American Prosperity and Stability Act
 
 ---
 
@@ -154,8 +154,13 @@ The costs of inaction are not hypothetical. They are measured in the current dat
 
 ## Revision History
 
-**Revision 4.7** (Current)
-- Initial publication
+**Revision 1.1** (Current)
+- Renamed file from `APSA-Rev-4-7-Future-State-Analysis.md` to `future-state-analysis.md` per APAI Document Production Standards Rev 1.6 Section 1.1
+- Updated reference line to APSA Rev 4.8
+- No changes to analytical content
+
+**Revision 1.0**
+- Initial publication based on APSA Rev 4.7
 
 ---
 

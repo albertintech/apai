@@ -1,10 +1,10 @@
 # American Prosperity and Stability Act
 
-## Detailed Implementation Timeline
+## Implementation Timeline
 
 ### Published February 2026
 
-Based on Rev 4.7 of the American Prosperity and Stability Act
+Based on Rev 4.8 of the American Prosperity and Stability Act
 
 ---
 
@@ -476,15 +476,22 @@ States receiving APC revenue share must publish an annual State APC Revenue Repo
 
 ## Revision History
 
-**Revision 4.7** (Current)
+**Revision 4.8** (Current)
+- Consolidated the separate "Implementation Timeline" and "Detailed Implementation Timeline" documents into a single Implementation Timeline per APAI Document Production Standards Rev 1.6 Section 3.3
+- Renamed file to `implementation-timeline.md` per Section 1.1 (published filenames use standardized names with no acronyms or version numbers)
+- Updated reference line to APSA Rev 4.8
+- Corrected arrow notation in Rev 4.6 revision history entry for encoding safety
+- No changes to timeline content, sequencing, resource estimates, or success criteria
+
+**Revision 4.7**
 - Updated reference line to APSA Rev 4.7
 - No substantive content changes
 
 **Revision 4.6**
-- Renamed from "Implementation Architecture" to "Detailed Implementation Timeline" per APAI Document Production Standards alignment
+- Renamed from "Implementation Architecture" to "Implementation Timeline" per APAI Document Production Standards alignment
 - Updated header and footer structure to APAI standards
 - Updated to reflect APSA Rev 4.6 statutory changes
-- Revised phase-in timeline: APC rates updated to 6% --> 9% --> 12% (from 7% --> 10% --> 13.25%)
+- Revised phase-in timeline: APC rates updated to 6% to 9% to 12% (from 7% to 10% to 13.25%)
 - Revised maximum monthly benefits during phase-in: ~$371 (Launch), ~$495 (Expansion), ~$628 (Full)
 - Updated revenue figures: ~$1.56T gross, ~$1.25T federal, ~$312B state
 - Updated automatic indexing thresholds: Clean exit now 10x FPL (~$150,600)

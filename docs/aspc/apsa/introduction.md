@@ -4,7 +4,7 @@
 
 ### Published February 2026
 
-Based on Rev 4.7 of the American Prosperity and Stability Act
+Based on Rev 4.8 of the American Prosperity and Stability Act
 
 ---
 
@@ -28,7 +28,7 @@ APSA creates two integrated mechanisms. The American Prosperity Stability Paymen
 
 ## Documentation
 
-See the full legislative text and policy rationale for complete details. Supporting documents include an overview, implementation timeline, and constituency impact analysis.
+See the full legislative text and policy rationale for complete details. Supporting documents include an overview, implementation timeline, future state analysis, and constituency impact analysis.
 
 ---
 
