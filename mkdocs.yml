@@ -5,145 +5,145 @@ copyright: "&copy; 2026 Albert Ramos | American Policy Architecture Institute"
 site_url: https://policyarchitecture.org
 
 theme:
-  name: material
-  palette:
-    # Light Mode
-    - scheme: default
-      primary: indigo
-      accent: amber
-      toggle:
-        icon: material/brightness-7
-        name: Switch to dark mode
-    # Dark Mode
-    - scheme: slate
-      primary: indigo
-      accent: amber
-      toggle:
-        icon: material/brightness-4
-        name: Switch to light mode
-  features:
-    - navigation.sections
-    - search.highlight
+    name: material
+    palette:
+        # Light Mode
+        - scheme: default
+          primary: indigo
+          accent: amber
+          toggle:
+              icon: material/brightness-7
+              name: Switch to dark mode
+        # Dark Mode
+        - scheme: slate
+          primary: indigo
+          accent: amber
+          toggle:
+              icon: material/brightness-4
+              name: Switch to light mode
+    features:
+        - navigation.sections
+        - search.highlight
 
 extra_css:
-  - stylesheets/extra.css
+    - stylesheets/extra.css
 
 nav:
-  - Home: index.md
+    - Home: index.md
 
-  - Congress & Elections:
-      - Congressional Modernization Framework:
-          - Introduction: congress/cmf/introduction.md
-          - Integration Analysis: congress/cmf/integration-analysis.md
-          - Federal Elections Modernization Act:
-              - Introduction: congress/cmf/fema/introduction.md
-              - Overview: congress/cmf/fema/overview.md
-              - Legislative Text: congress/cmf/fema/legislative-text.md
-              - Policy Rationale: congress/cmf/fema/policy-rationale.md
-              - Reference Materials:
-                  - What Changes For Voters: congress/cmf/fema/what-changes-for-voters.md
-                  - Sample Ballot (Multi-Member District): congress/cmf/fema/sample-mmd-ballot-12-candidates.md
-                  - Sample Ballot (Single-Member District): congress/cmf/fema/sample-smd-ballot-9-candidates.md
-                  - House Member Guide: congress/cmf/fema/house-member-guide.md
-                  - Voting Methods Explainer: congress/cmf/fema/voting-methods-technical-explainer.md
-                  - FCAO Explainer: congress/cmf/fema/fcao-explainer.md
-                  - Constitutional Authority Memorandum: congress/cmf/fema/constitutional-authority-technical-memorandum.md
-                  - Constitutional Boundaries of PR: congress/cmf/fema/constitutional-boundaries-of-proportional-representation.md
-          - Office of Congressional Procedure Act:
-              - Introduction: congress/cmf/ocp/introduction.md
-              - Overview: congress/cmf/ocp/overview.md
-              - Legislative Text: congress/cmf/ocp/legislative-text.md
-              - Policy Rationale: congress/cmf/ocp/policy-rationale.md
-              - Reference Materials:
-                  - Constitutional Analysis: congress/cmf/ocp/constitutional-analysis.md
-      - Congressional Capacity Commission Act:
-          - Introduction: congress/ccc/introduction.md
-          - Overview: congress/ccc/overview.md
-          - Legislative Text: congress/ccc/legislative-text.md
-          - Policy Rationale: congress/ccc/policy-rationale.md
-          - Reference Materials:
-              - Implementation Timeline: congress/ccc/implementation-timeline.md
-      - Candidate Verification and Transparency Act:
-          - Introduction: congress/cvta/introduction.md
-          - Overview: congress/cvta/overview.md
-          - Legislative Text: congress/cvta/legislative-text.md
-          - Policy Rationale: congress/cvta/policy-rationale.md
-          - Reference Materials:
-              - Implementation Timeline: congress/cvta/implementation-timeline.md
+    - Congress & Elections:
+          - Congressional Modernization Framework:
+                - Introduction: congress/cmf/introduction.md
+                - Integration Analysis: congress/cmf/integration-analysis.md
+                - Federal Elections Modernization Act:
+                      - Introduction: congress/cmf/fema/introduction.md
+                      - Overview: congress/cmf/fema/overview.md
+                      - Legislative Text: congress/cmf/fema/legislative-text.md
+                      - Policy Rationale: congress/cmf/fema/policy-rationale.md
+                      - Reference Materials:
+                            - What Changes For Voters: congress/cmf/fema/what-changes-for-voters.md
+                            - Sample Ballot (Multi-Member District): congress/cmf/fema/sample-mmd-ballot-12-candidates.md
+                            - Sample Ballot (Single-Member District): congress/cmf/fema/sample-smd-ballot-9-candidates.md
+                            - House Member Guide: congress/cmf/fema/house-member-guide.md
+                            - Voting Methods Explainer: congress/cmf/fema/voting-methods-technical-explainer.md
+                            - FCAO Explainer: congress/cmf/fema/fcao-explainer.md
+                            - Constitutional Authority Memorandum: congress/cmf/fema/constitutional-authority-technical-memorandum.md
+                            - Constitutional Boundaries of PR: congress/cmf/fema/constitutional-boundaries-of-proportional-representation.md
+                - Office of Congressional Procedure Act:
+                      - Introduction: congress/cmf/ocp/introduction.md
+                      - Overview: congress/cmf/ocp/overview.md
+                      - Legislative Text: congress/cmf/ocp/legislative-text.md
+                      - Policy Rationale: congress/cmf/ocp/policy-rationale.md
+                      - Reference Materials:
+                            - Constitutional Analysis: congress/cmf/ocp/constitutional-analysis.md
+          - Congressional Capacity Commission Act:
+                - Introduction: congress/ccc/introduction.md
+                - Overview: congress/ccc/overview.md
+                - Legislative Text: congress/ccc/legislative-text.md
+                - Policy Rationale: congress/ccc/policy-rationale.md
+                - Reference Materials:
+                      - Implementation Timeline: congress/ccc/implementation-timeline.md
+          - Candidate Verification and Transparency Act:
+                - Introduction: congress/cvta/introduction.md
+                - Overview: congress/cvta/overview.md
+                - Legislative Text: congress/cvta/legislative-text.md
+                - Policy Rationale: congress/cvta/policy-rationale.md
+                - Reference Materials:
+                      - Implementation Timeline: congress/cvta/implementation-timeline.md
 
-  - Executive Branch:
-      - Civil Service Accountability Act:
-          - Introduction: executive/csaa/introduction.md
-          - Future State Analysis: executive/csaa/future-state-analysis.md
-          - Overview: executive/csaa/overview.md
-          - Legislative Text: executive/csaa/legislative-text.md
-          - Policy Rationale: executive/csaa/policy-rationale.md
-          - Reference Materials:
-              - International Comparative Analysis: executive/csaa/international-comparison.md
-              - Constitutional and Legal Analysis: executive/csaa/constitutional-analysis.md
-              - Economic Analysis: executive/csaa/economic-analysis.md
-              - CMF Interaction Analysis: executive/csaa/laying-the-groundwork.md
+    - Executive Branch:
+          - Civil Service Accountability Act:
+                - Introduction: executive/csaa/introduction.md
+                - Future State Analysis: executive/csaa/future-state-analysis.md
+                - Overview: executive/csaa/overview.md
+                - Legislative Text: executive/csaa/legislative-text.md
+                - Policy Rationale: executive/csaa/policy-rationale.md
+                - Reference Materials:
+                      - International Comparative Analysis: executive/csaa/international-comparison.md
+                      - Constitutional and Legal Analysis: executive/csaa/constitutional-analysis.md
+                      - Economic Analysis: executive/csaa/economic-analysis.md
+                      - CMF Interaction Analysis: executive/csaa/laying-the-groundwork.md
 
-  - Federal Judiciary:
-      - Federal Judicial Balance and Accountability Act:
-          - Introduction: judiciary/fjbaa/introduction.md
-          - Overview: judiciary/fjbaa/overview.md
-          - Legislative Text: judiciary/fjbaa/legislative-text.md
-          - Circuit Maps: judiciary/fjbaa/circuit-maps.md
-          - Policy Rationale: judiciary/fjbaa/policy-rationale.md
-          - Reference Materials:
-              - Legal Analysis: judiciary/fjbaa/legal-analysis.md
-              - Foundational Principles: judiciary/fjbaa/foundational-principles.md
-              - Implementation Timeline: judiciary/fjbaa/implementation-timeline.md
+    - Federal Judiciary:
+          - Federal Judicial Balance and Accountability Act:
+                - Introduction: judiciary/fjbaa/introduction.md
+                - Overview: judiciary/fjbaa/overview.md
+                - Legislative Text: judiciary/fjbaa/legislative-text.md
+                - Circuit Maps: judiciary/fjbaa/circuit-maps.md
+                - Policy Rationale: judiciary/fjbaa/policy-rationale.md
+                - Reference Materials:
+                      - Legal Analysis: judiciary/fjbaa/legal-analysis.md
+                      - Foundational Principles: judiciary/fjbaa/foundational-principles.md
+                      - Implementation Timeline: judiciary/fjbaa/implementation-timeline.md
 
-  - Economic Stability & Security:
-      - American Shared Prosperity Compact:
-          - Introduction: aspc/introduction.md
-          - Overview: aspc/overview.md
-          - Integration and Sequencing Guide: aspc/integration-and-sequencing-guide.md
-          - FAQ: aspc/frequently-asked-questions.md
-          - American Prosperity and Stability Act:
-              - Introduction: aspc/apsa/APSA-Rev-4-7-Introduction.md
-              - Overview: aspc/apsa/APSA-Rev-4-7-Overview.md
-              - Legislative Text: aspc/apsa/APSA-Rev-4-7-American-Prosperity-and-Stability-Act.md
-              - Policy Rationale: aspc/apsa/APSA-Rev-4-7-Policy-Rationale.md
-              - Reference Materials:
-                  - Future State Analysis: aspc/apsa/APSA-Rev-4-7-Future-State-Analysis.md
-                  - Implementation Timeline: aspc/apsa/APSA-Rev-4-7-Implementation-Timeline.md
-                  - Detailed Implementation Timeline: aspc/apsa/APSA-Rev-4-7-Detailed-Implementation-Timeline.md
-                  - Constituency Impact Analysis: aspc/apsa/APSA-Rev-4-7-Constituency-Impact-Analysis.md
-          - American Payment Network Act:
-              - Introduction: aspc/apna/APNA-Rev-3-6-Introduction.md
-              - Overview: aspc/apna/APNA-Rev-3-6-Overview.md
-              - Legislative Text: aspc/apna/APNA-Rev-3-6-American-Payment-Network-Act.md
-              - Policy Rationale: aspc/apna/APNA-Rev-3-6-Policy-Rationale.md
-              - Reference Materials:
-                  - Future State Analysis: aspc/apna/APNA-Rev-3-6-Future-State-Analysis.md
-                  - Implementation Timeline: aspc/apna/APNA-Rev-3-6-Implementation-Timeline.md
-                  - Constituency Impact Analysis: aspc/apna/APNA-Rev-3-6-Constituency-Impact-Analysis.md
-          - Secure Our Children Act:
-              - Introduction: aspc/soca/SOCA-Rev-2-5-Introduction.md
-              - Overview: aspc/soca/SOCA-Rev-2-5-Overview.md
-              - Legislative Text: aspc/soca/SOCA-Rev-2-5-Secure-Our-Children-Act.md
-              - Policy Rationale: aspc/soca/SOCA-Rev-2-5-Policy-Rationale.md
-              - Reference Materials:
-                  - Implementation Timeline: aspc/soca/SOCA-Rev-2-5-Implementation-Timeline.md
-                  - Constituency Impact Analysis: aspc/soca/SOCA-Rev-2-5-Constituency-Impact-Analysis.md
-          - Comparative Analysis:
-              - ASPC vs. EDAA: aspc/ASPC-Rev-5-4-vs-EDAA-Comparative-Analysis.md
+    - Economic Stability & Security:
+          - American Shared Prosperity Compact:
+                - Introduction: aspc/introduction.md
+                - Overview: aspc/overview.md
+                - Integration and Sequencing Guide: aspc/integration-and-sequencing-guide.md
+                - FAQ: aspc/frequently-asked-questions.md
+                - American Prosperity and Stability Act:
+                      - Introduction: aspc/apsa/APSA-Rev-4-7-Introduction.md
+                      - Overview: aspc/apsa/APSA-Rev-4-7-Overview.md
+                      - Legislative Text: aspc/apsa/APSA-Rev-4-7-American-Prosperity-and-Stability-Act.md
+                      - Policy Rationale: aspc/apsa/APSA-Rev-4-7-Policy-Rationale.md
+                      - Reference Materials:
+                            - Future State Analysis: aspc/apsa/APSA-Rev-4-7-Future-State-Analysis.md
+                            - Implementation Timeline: aspc/apsa/APSA-Rev-4-7-Implementation-Timeline.md
+                            - Detailed Implementation Timeline: aspc/apsa/APSA-Rev-4-7-Detailed-Implementation-Timeline.md
+                            - Constituency Impact Analysis: aspc/apsa/APSA-Rev-4-7-Constituency-Impact-Analysis.md
+                - American Payment Network Act:
+                      - Introduction: aspc/apna/APNA-Rev-3-6-Introduction.md
+                      - Overview: aspc/apna/APNA-Rev-3-6-Overview.md
+                      - Legislative Text: aspc/apna/APNA-Rev-3-6-American-Payment-Network-Act.md
+                      - Policy Rationale: aspc/apna/APNA-Rev-3-6-Policy-Rationale.md
+                      - Reference Materials:
+                            - Future State Analysis: aspc/apna/APNA-Rev-3-6-Future-State-Analysis.md
+                            - Implementation Timeline: aspc/apna/APNA-Rev-3-6-Implementation-Timeline.md
+                            - Constituency Impact Analysis: aspc/apna/APNA-Rev-3-6-Constituency-Impact-Analysis.md
+                - Secure Our Children Act:
+                      - Introduction: aspc/soca/SOCA-Rev-2-5-Introduction.md
+                      - Overview: aspc/soca/SOCA-Rev-2-5-Overview.md
+                      - Legislative Text: aspc/soca/SOCA-Rev-2-5-Secure-Our-Children-Act.md
+                      - Policy Rationale: aspc/soca/SOCA-Rev-2-5-Policy-Rationale.md
+                      - Reference Materials:
+                            - Implementation Timeline: aspc/soca/SOCA-Rev-2-5-Implementation-Timeline.md
+                            - Constituency Impact Analysis: aspc/soca/SOCA-Rev-2-5-Constituency-Impact-Analysis.md
+                - Comparative Analysis:
+                      - ASPC vs. EDAA: aspc/comparative-analysis-edaa.md
 
 markdown_extensions:
-  - toc:
-      permalink: true
-      toc_depth: 4
-  - tables
-  - admonition
-  - def_list
+    - toc:
+          permalink: true
+          toc_depth: 4
+    - tables
+    - admonition
+    - def_list
 
 plugins:
-  - search
+    - search
 
 extra:
-  analytics:
-    provider: google
-    property: G-TQH8Q7DDKZ
+    analytics:
+        provider: google
+        property: G-TQH8Q7DDKZ
