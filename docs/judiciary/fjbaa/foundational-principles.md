@@ -4,7 +4,7 @@
 
 ### Published February 2026
 
-Based on Rev 2.2 of the Federal Judicial Balance and Accountability Act
+Based on Rev 2.3 of the Federal Judicial Balance and Accountability Act
 
 ---
 
@@ -34,7 +34,7 @@ The distribution of power and opportunity within the judicial system should foll
 
 **Current failure:** Some presidents appoint four justices; others appoint none -- based entirely on when sitting justices happen to die or retire. The Chief Justice position goes to whomever a president selects when a vacancy happens to occur, potentially concentrating power in one individual for decades. Justices face impossible choices about retirement timing based on partisan calculations.
 
-**The Act's response:** Regular appointment schedules give each presidential term exactly five opportunities at steady state. Shared Co-Chief Justice leadership ensures every justice who completes a full term serves as Co-Chief Justice during their capstone years. The three-phase career structure applies equally to all justices appointed under the Act. Slate-based nomination with BLOC STAR voting replaces the binary confirmation model, transforming the Senate's role from adversarial gatekeeping into collaborative selection.
+**The Act's response:** Regular appointment schedules give each presidential term exactly five opportunities at steady state. Shared Co-Chief Justice leadership ensures every justice who completes a full term serves as Co-Chief Justice during their capstone years. The three-phase career structure applies equally to all justices appointed under the Act. Slate-based nomination with Bloc STAR voting replaces the binary confirmation model, transforming the Senate's role from adversarial gatekeeping into collaborative selection.
 
 ### Balance
 
@@ -161,10 +161,14 @@ The Act's claim to legitimacy rests on this foundation. It does not seek to achi
 
 ## Revision History
 
-**Revision 2.2** (Current)
+**Revision 2.3** (Current)
+- Updated reference line to reflect FJBAA Rev 2.3
+- No substantive changes (Rev 2.3 amendments to Ethics Review Panel vacancy rotation exclusions, en banc appellate review, and Bridge Panel trigger do not affect foundational principles analysis)
+
+**Revision 2.2**
 - Updated reference line to reflect FJBAA Rev 2.2; updated publication date to February 2026
 - Updated Equality principle: replaced "decennial rebalancing" with five-year compliance assessment cycle, district-level building blocks, and tiered response framework
-- Updated Fairness principle: replaced "each presidential term exactly two opportunities" with five appointments per term at steady state; replaced "automatic Chief Justice rotation" with shared Co-Chief Justice leadership; added slate-based nomination with BLOC STAR voting
+- Updated Fairness principle: replaced "each presidential term exactly two opportunities" with five appointments per term at steady state; replaced "automatic Chief Justice rotation" with shared Co-Chief Justice leadership; added slate-based nomination with Bloc STAR voting
 - Updated Balance principle: replaced "Chief Justice rotation limits any individual's tenure in that role to two years" with shared Co-Chief Justice leadership model; added vacancy coverage and appointment equalization
 - Updated Predictability principle: replaced "decennial circuit rebalancing" with five-year compliance assessment cycle; added slate-based nomination as anti-obstruction mechanism
 - Updated Diffusion of Power principle: replaced "automatic Chief Justice rotation" with shared Co-Chief Justice leadership distributing administrative power among multiple peers simultaneously; added Judicial Conference role in administrative continuity

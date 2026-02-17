@@ -4,7 +4,7 @@
 
 ### Published February 2026
 
-Based on Rev 2.2 of the Federal Judicial Balance and Accountability Act (FJBAA), hereafter "the Act"
+Based on Rev 2.3 of the Federal Judicial Balance and Accountability Act (FJBAA), hereafter "the Act"
 
 ---
 
@@ -94,6 +94,18 @@ The moving average effect does not eliminate ideological change on the Court. It
 
 This is not ideological stasis. It is ideological responsiveness filtered through the stabilizing mechanism of staggered terms. The Court reflects the nation's evolving constitutional preferences with a reasonable lag -- close enough to be democratically accountable, distant enough to prevent the Court from becoming a mirror of momentary electoral passion.
 
+### What the Moving Average Does Not Claim
+
+The moving average effect should not be confused with a claim that the Court will -- or should -- be ideologically "balanced" in any particular sense. Some commentators treat partisan balance on the Court as an inherent good, measuring dysfunction by whether one party controls a supermajority of seats.[1] This framing rests on normative assumptions that the Act's designers do not share and that have no constitutional grounding.
+
+There is no constitutional mandate for partisan balance. The Constitution does not contemplate political parties. If the electorate elects presidents of one party for three or four consecutive terms, the Act's appointment architecture will produce a Court that reflects that sustained preference -- heavily weighted toward one party's judicial philosophy. Under metrics like those proposed by Chilton et al., such a Court might register as "extremely imbalanced." Under the Act's design principles, it is functioning exactly as intended. The composition tracks democratic outcomes. That is the commitment. What the composition looks like at any given moment is the electorate's business, not the designer's.
+
+The distinction matters because designing *for* balance within constitutional constraints may not even be coherent. The Appointments Clause vests nomination power exclusively in the President -- a single actor whose selections will naturally reflect a particular judicial philosophy. The constitutional rule is, on its face, a rule *for* ideological clustering: one person selects, and the Senate may only accept or reject. The Act mitigates the most arbitrary consequences of this structure by equalizing appointment opportunities across presidential terms -- but it does so on the principle of *fairness*, not balance. Every president gets the same number of appointments. What those appointments produce ideologically depends on whom the voters elect. Constitutional systems that distribute appointment authority across multiple democratic organs -- Germany's Federal Constitutional Court, where the Bundestag and Bundesrat each select half the members -- can plausibly pursue compositional balance as a design goal. The U.S. Constitution forecloses that approach. Within the constraints Article II imposes, the most principled ambition is not balance but democratic proportionality: a Court whose composition reflects the accumulated choices of recent electorates, whatever those choices happen to be.
+
+Similarly, some commentators raise "doctrinal instability" as a cost of more responsive appointment systems -- the concern that more frequent shifts in the Court's ideological center will produce jurisprudential whiplash. But stability of *what*? Doctrine produced by a Court whose composition was an actuarial accident does not carry the same normative weight as doctrine produced by a Court whose composition reflects sustained democratic choice. If doctrinal stability is to constrain institutional design, the case must be made and defended against competing values -- democratic responsiveness, predictability, fairness across presidential terms, accountability. The Act's designers made their foundational principles explicit and defended each. Doctrinal stability was not among them -- not because it is valueless, but because it was not demonstrated to outweigh the principles that were chosen.
+
+The moving average is a description of how the appointment architecture behaves, not a prescription for what it should produce. It prevents *clustering disconnected from democratic input*. It does not prevent -- and is not designed to prevent -- a Court that leans decisively in one direction because the voters leaned that way first.
+
 ---
 
 ## The Lesson of Emergent Design
@@ -102,9 +114,9 @@ The moving average effect was not a design target of the Act. It was discovered 
 
 This sequence matters for two reasons.
 
-First, it demonstrates intellectual honesty. The Act does not claim to have engineered ideological balance. It claims to have built from foundational principles and discovered that ideological balance emerged as a structural consequence. The distinction matters because it places the reform on firmer ground than any proposal that begins with a desired ideological outcome and works backward to justify a structure.
+First, it demonstrates intellectual honesty. The Act does not claim to have engineered a particular ideological distribution. It claims to have built from foundational principles and discovered that democratic proportionality -- a Court whose composition tracks the accumulated preferences of recent electorates -- emerged as a structural consequence. The distinction matters because it places the reform on firmer ground than any proposal that begins with a desired ideological outcome and works backward to justify a structure.
 
-Second, it illustrates a broader principle of institutional design. Structures built from sound first principles tend to produce beneficial properties beyond those explicitly targeted. This is not coincidence. Principles like equality, fairness, and predictability are deeply interrelated. A system that honors one tends to honor others. A system designed for population equity that also produces ideological balance is not experiencing a lucky accident -- it is demonstrating the coherence of well-chosen principles.
+Second, it illustrates a broader principle of institutional design. Structures built from sound first principles tend to produce beneficial properties beyond those explicitly targeted. This is not coincidence. Principles like equality, fairness, and predictability are deeply interrelated. A system that honors one tends to honor others. A system designed for population equity that also produces democratic proportionality in judicial composition is not experiencing a lucky accident -- it is demonstrating the coherence of well-chosen principles.
 
 The Act's designers did not set out to create a moving average. They set out to create a judiciary that honored foundational commitments to equality, fairness, and predictability. The moving average is what those commitments look like when translated into an appointment schedule. It is the structural expression of principles that, individually, say nothing about ideology -- but that, collectively, prevent any single ideology from capturing the institution.
 
@@ -122,9 +134,26 @@ The lesson extends beyond judicial reform. It suggests that the most durable ins
 
 ---
 
+## Notes
+
+[1] Adam Chilton, Daniel Epps, Kyle Rozema & Maya Sen, "Designing Supreme Court Term Limits," 95 *Southern California Law Review* 1 (2021). Available at https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3788497. Chilton et al. define "extreme ideological imbalance" as a period where 75% or more of justices were appointed by presidents of the same party and find that the current system has been in this state for 60% of the time since 1937. Their simulation framework provides the most rigorous empirical methodology to date for evaluating term-limits proposals. For a comprehensive evaluation of the Act against the Chilton framework, see the companion document, *Evaluation Against the Chilton et al. Design Framework*.
+
+---
+
 ## Revision History
 
-**Revision 1.0** (Current)
+**Revision 1.2** (Current)
+- Updated reference line to reflect FJBAA Rev 2.3
+- Added "What the Moving Average Does Not Claim" section distinguishing democratic proportionality from ideological balance; challenged normative assumptions underlying Chilton et al. "extreme imbalance" metric; analyzed Appointments Clause structural constraints on balance; added German Federal Constitutional Court comparison; addressed doctrinal stability as competing value requiring justification
+- Revised "The Lesson of Emergent Design" section: replaced "ideological balance" language with "democratic proportionality" to align with the Act's principled-design framing
+- Added Notes section with Chilton et al. citation and cross-reference to companion evaluation document
+- Corrected "Bloc STAR" capitalization throughout
+
+**Revision 1.1**
+- Updated reference line to reflect FJBAA Rev 2.3
+- No substantive changes (Rev 2.3 amendments do not affect emergent benefits analysis)
+
+**Revision 1.0**
 - Initial publication
 
 ---

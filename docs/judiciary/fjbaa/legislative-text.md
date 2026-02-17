@@ -2,7 +2,7 @@
 
 ## A Bill to Modernize the Federal Judiciary, Establish Population-Based Judicial Circuits, Align Supreme Court Composition with Circuit Organization, and Ensure Balanced Representation
 
-### Revision 2.2
+### Revision 2.3
 
 ---
 
@@ -100,7 +100,7 @@ In this Act:
 
 9. **"Judicial Inspector General"** means the independent officer established under Section 504 to receive complaints and conduct investigations into alleged ethical violations;
 
-10. **"Bridge Panel"** means retired Chief Judges of United States Courts of Appeals who serve on the Ethics Review Panel during the transition period as provided in Section 508;
+10. **"Bridge Panel"** means retired Chief Judges of United States Courts of Appeals who serve on the Ethics Review Panel or the en banc appellate body under Section 507 when insufficient Senior Justices are available, as provided in Section 508;
 
 11. **"Qualifying documentation"** means works of substantial legal analysis that satisfy the requirements of Section 302;
 
@@ -114,7 +114,7 @@ In this Act:
 
 16. **"Nomination slate"** means the group of nominees submitted by the President to the Senate for selection to fill one or more available justice positions under Section 202;
 
-17. **"BLOC STAR voting"** means the scored voting method established under Section 202(b) in which each senator assigns a score to each nominee, aggregate scores are tabulated, and the highest-scoring nominees are selected subject to automatic runoff procedures;
+17. **"Bloc STAR voting"** means the scored voting method established under Section 202(b) in which each senator assigns a score to each nominee, aggregate scores are tabulated, and the highest-scoring nominees are selected subject to automatic runoff procedures;
 
 18. **"Carryover nominee"** means a nominee who appeared on a prior nomination slate within five years of the original submission date and who is included on a subsequent slate at presidential discretion under Section 202(f).
 
@@ -242,7 +242,7 @@ The Court shall expand gradually according to the following timeline:
 
 5. Nothing in this section shall be construed to limit the President's authority under Article II to include any person of the President's choosing on a nomination slate.
 
-#### (b) Senate Selection by BLOC STAR Voting
+#### (b) Senate Selection by Bloc STAR Voting
 
 1. The Senate shall select justices from the nomination slate using the following scored voting procedure:
 
@@ -264,7 +264,7 @@ The Court shall expand gradually according to the following timeline:
 
 #### (c) Slate Rejection
 
-1. In lieu of conducting the BLOC STAR voting procedure under subsection (b), the Senate may reject a nomination slate in its entirety;
+1. In lieu of conducting the Bloc STAR voting procedure under subsection (b), the Senate may reject a nomination slate in its entirety;
 
 2. The threshold and procedures for entire-slate rejection shall be determined by the Senate under its constitutional authority to determine the rules of its proceedings;
 
@@ -304,7 +304,7 @@ The Administrative Office of the United States Courts shall maintain and publish
 
 #### (g) Senate Consideration Timeline
 
-The Senate shall act on a nomination slate -- either by conducting the BLOC STAR voting procedure under subsection (b) or by rejecting the slate under subsection (c) -- within one hundred twenty (120) days of receiving the slate.
+The Senate shall act on a nomination slate -- either by conducting the Bloc STAR voting procedure under subsection (b) or by rejecting the slate under subsection (c) -- within one hundred twenty (120) days of receiving the slate.
 
 #### (h) Predictable Appointment Schedule
 
@@ -646,9 +646,9 @@ No hearings shall commence sooner than twenty-one (21) days after the Senate Jud
 
 4. No nominee shall be subject to more than one callback session.
 
-#### (e) BLOC STAR Vote
+#### (e) Bloc STAR Vote
 
-Following completion of hearings, the Senate shall conduct the BLOC STAR voting procedure established in Section 202(b) within the consideration timeline established in Section 202(g).
+Following completion of hearings, the Senate shall conduct the Bloc STAR voting procedure established in Section 202(b) within the consideration timeline established in Section 202(g).
 
 ### Section 306. Slate Rejection and Resubmission
 
@@ -692,9 +692,9 @@ Beginning on the effective date:
 
 All provisions of Title III apply immediately to any nomination submitted after the effective date of this Act.
 
-#### (e) Slate Nomination and BLOC STAR Voting
+#### (e) Slate Nomination and Bloc STAR Voting
 
-The slate nomination process established in Section 202(a) and the BLOC STAR voting procedure established in Section 202(b) shall apply to all appointments under this Act, including expansion appointments under Section 201(c)(1). For expansion appointments filling a single position, the nomination slate shall contain no fewer than two (2) and no more than three (3) nominees.
+The slate nomination process established in Section 202(a) and the Bloc STAR voting procedure established in Section 202(b) shall apply to all appointments under this Act, including expansion appointments under Section 201(c)(1). For expansion appointments filling a single position, the nomination slate shall contain no fewer than two (2) and no more than three (3) nominees.
 
 ### Section 402. Fairness and Balance Provisions
 
@@ -842,7 +842,9 @@ There is established an Ethics Review Panel consisting of five Senior Justices t
 
 2. If fewer than five Senior Justices are available, the Bridge Panel mechanism established in Section 508 shall apply;
 
-3. No Senior Justice may participate in a matter involving a complaint against a Justice with whom they previously served on the Court in active service, except that this recusal requirement shall be waived if application would reduce the Panel below three members.
+3. No Senior Justice may participate in a matter involving a complaint against a Justice with whom they previously served on the Court in active service, except that this recusal requirement shall be waived if application would reduce the Panel below three members;
+
+4. No Senior Justice currently assigned to a vacancy coverage rotation under Section 205 shall be eligible to serve on the Ethics Review Panel for the duration of that rotation assignment. A Senior Justice whose rotation assignment concludes during the pendency of a matter before the Ethics Review Panel shall not join the Panel for that matter. If application of this subsection and subsection (3) together reduces available Senior Justices below five, the Bridge Panel mechanism established in Section 508 shall apply to fill the remaining positions.
 
 #### (c) Authority
 
@@ -988,7 +990,7 @@ Mandatory Early Transition may be imposed only upon a finding, by 4/5 supermajor
 
 #### (a) Right of Appeal
 
-A Justice sanctioned by the Ethics Review Panel may appeal the decision to an en banc panel consisting of all Senior Justices not serving on the Ethics Review Panel that issued the decision.
+A Justice sanctioned by the Ethics Review Panel may appeal the decision to an en banc panel consisting of all Senior Justices not serving on the Ethics Review Panel that issued the decision and not currently assigned to a vacancy coverage rotation under Section 205. If the en banc panel would consist of fewer than three Senior Justices after application of this exclusion, the Bridge Panel mechanism established in Section 508 shall supply additional members to reach a minimum of three.
 
 #### (b) Standard of Review
 
@@ -1006,7 +1008,7 @@ The decision of the en banc panel shall be final and not subject to further judi
 
 #### (a) Transition Period
 
-During any period in which fewer than five Senior Justices are available to serve on the Ethics Review Panel, the remaining positions shall be filled by retired Chief Judges of United States Courts of Appeals, selected by the Judicial Conference of the United States.
+During any period in which fewer than five Senior Justices are available to serve on the Ethics Review Panel -- whether by reason of insufficient Senior Justices during the transition period, vacancy coverage rotation assignments under Section 205, recusals under Section 503(b)(3), or any combination thereof -- the remaining positions shall be filled by retired Chief Judges of United States Courts of Appeals, selected by the Judicial Conference of the United States. The Bridge Panel mechanism shall also apply to supply additional members to the en banc appellate body under Section 507(a) when that body would otherwise consist of fewer than three members.
 
 #### (b) Qualifications
 
@@ -1046,7 +1048,13 @@ Nothing in this Title shall be construed to immunize any person from criminal li
 
 ## Revision History
 
-**Revision 2.2** (Current)
+**Revision 2.3** (Current)
+- Added Section 503(b)(4): Senior Justices currently assigned to vacancy coverage rotation under Section 205 are ineligible for Ethics Review Panel service during the rotation assignment; Bridge Panel fills resulting shortfalls
+- Amended Section 507(a) to exclude Senior Justices on vacancy coverage rotation from en banc appellate review, with Bridge Panel backstop at a three-member minimum
+- Amended Section 508(a) to broaden Bridge Panel trigger beyond transition period to include vacancy rotation exclusions, recusals, and combinations thereof; extended Bridge Panel coverage to en banc appellate body
+- Conforming amendment to Definition 10 to reflect expanded Bridge Panel scope beyond transition period
+
+**Revision 2.2**
 - Amended Section 101 heading from "Establishment of Fifteen Judicial Circuits" to "Establishment of Population-Based Judicial Circuits" to avoid embedding a specific circuit count in the section heading
 - Replaced hard-coded date "Beginning January 1, 2027" in Section 101(a) with enactment-relative framing, consistent with Rev 2.2 dating conventions
 - Replaced Section 101(b)(3) whole-state constraint ("Ensure no State is divided between circuits") with district-level building block language permitting division along existing federal judicial district boundaries where population equity requires it; incorporates findings from district-level circuit modeling exercise (February 2026)
@@ -1057,9 +1065,9 @@ Nothing in this Title shall be construed to immunize any person from criminal li
 - Converted all hard-coded dates to enactment-relative language: Section 401(a), Section 401(b), Section 401(c)(1), and Section 403(a)
 
 **Revision 2.1**
-- Replaced single-nominee confirmation model with slate-based nomination and BLOC STAR voting selection process (Section 202(a)-(c))
+- Replaced single-nominee confirmation model with slate-based nomination and Bloc STAR voting selection process (Section 202(a)-(c))
 - Slate sizing: minimum n x 2, maximum n x 2.5 rounded up, where n equals available positions
-- BLOC STAR voting: senators score each nominee 0-5, public scoring, aggregate tabulation, automatic runoff for ties (Section 202(b))
+- Bloc STAR voting: senators score each nominee 0-5, public scoring, aggregate tabulation, automatic runoff for ties (Section 202(b))
 - Senate retains authority to reject entire slate; threshold determined by Senate rules (Section 202(c))
 - Added carryover nominee mechanism: nominees from prior slates eligible for 5 years from original submission, with truncated hearing process (Section 202(f))
 - Reduced documentation requirement from 50 works to 10 self-selected works of substantial legal analysis (Section 302(a))
@@ -1069,11 +1077,11 @@ Nothing in this Title shall be construed to immunize any person from criminal li
 - Added Section 306: Slate Rejection and Resubmission procedures, including nominee exclusion from immediately subsequent slate and safety valve for repeated rejections
 - Added Finding 15 (slate-based process rationale) and Finding 16 (scored voting methods)
 - Added Purpose 12 (replacing binary confirmation with slate-based selection)
-- Added Definitions 16-18: Nomination slate, BLOC STAR voting, Carryover nominee
+- Added Definitions 16-18: Nomination slate, Bloc STAR voting, Carryover nominee
 - Added Section 301(5): Congressional finding on documentation calibrated for multi-nominee evaluation
 - Updated Section 201(c)(3) to reference five appointments per presidential term
 - Updated Section 202(h) (renumbered from 202(c)): corrected "exactly two" to "five" appointment opportunities per presidential term
-- Added Section 401(e): explicit applicability of slate nomination and BLOC STAR voting to all appointments including expansion phase
+- Added Section 401(e): explicit applicability of slate nomination and Bloc STAR voting to all appointments including expansion phase
 - Updated Section 402(a)(2) to reference five appointment opportunities beginning Year 21
 - Updated Section 404(4) appropriations language to include slate evaluation processes
 - Cross-reference updates throughout: Section 202(c) references updated to 202(h) where applicable; Section 205(a) and (f)(2) updated for renumbered subsections

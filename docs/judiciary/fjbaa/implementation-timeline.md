@@ -4,7 +4,7 @@
 
 ### Published February 2026
 
-Based on Rev 2.2 of the Federal Judicial Balance and Accountability Act
+Based on Rev 2.3 of the Federal Judicial Balance and Accountability Act
 
 ---
 
@@ -21,7 +21,7 @@ The phased approach serves critical purposes: it spreads appointment opportuniti
 | Phase Two: Court Expansion | Years 1-11 | Full 15-member Court achieved by Year 11 |
 | Phase Three: Three-Phase Career Structure | Year 11+ | Co-Chief Justice service begins Year 11; regular replacement begins Year 13 |
 | Vacancy Coverage and Appointment Equalization | Year 1+ | Vacancy coverage roster active upon first Senior Justice; equalization begins Year 21 |
-| Ethics Infrastructure | Enactment through Year 15+ | IG appointed within one year of enactment; Bridge Panel active until approximately Year 15 |
+| Ethics Infrastructure | Enactment through Year 15+ | IG appointed within one year of enactment; Bridge Panel active as primary supplement until approximately Year 15, available as permanent backstop thereafter |
 | Legacy Opt-In | Enactment+ | Slot schedule published upon enactment; elections open immediately |
 
 ---
@@ -30,10 +30,10 @@ The phased approach serves critical purposes: it spreads appointment opportuniti
 
 ### Immediate Upon Enactment
 
-**Transparency requirements and slate-based nomination take effect.** All provisions of Title III apply immediately to any Supreme Court justice nominated after the effective date. The slate-based nomination process (Section 202(a)) and BLOC STAR voting procedure (Section 202(b)) apply to all appointments under the Act, including expansion appointments. This includes:
+**Transparency requirements and slate-based nomination take effect.** All provisions of Title III apply immediately to any Supreme Court justice nominated after the effective date. The slate-based nomination process (Section 202(a)) and Bloc STAR voting procedure (Section 202(b)) apply to all appointments under the Act, including expansion appointments. This includes:
 
 - Slate nomination requirement (minimum 2 nominees per position, maximum 2.5 per position rounded up; 2-3 nominees for single-position expansion appointments)
-- BLOC STAR voting procedure (senators score each nominee 0-5, aggregate scores determine selection)
+- Bloc STAR voting procedure (senators score each nominee 0-5, aggregate scores determine selection)
 - Slate rejection authority (threshold determined by Senate rules)
 - Carryover nominee provisions (5-year eligibility, abbreviated hearings)
 - Documentation requirements (10 self-selected works of substantial legal analysis per nominee)
@@ -44,7 +44,7 @@ The phased approach serves critical purposes: it spreads appointment opportuniti
 - Senate Judiciary Committee completeness determination (14 days)
 - 21-day public review period before hearings commence
 - One full day of hearings per nominee (half-day for carryover nominees)
-- 120-day Senate consideration timeline (BLOC STAR vote or slate rejection)
+- 120-day Senate consideration timeline (Bloc STAR vote or slate rejection)
 
 **Ethics provisions take effect.** The Code of Conduct for United States Judges becomes binding on all Supreme Court justices. Mandatory recusal documentation requirements (Section 502) apply immediately to all justices.
 
@@ -75,7 +75,7 @@ The phased approach serves critical purposes: it spreads appointment opportuniti
 - Committee submits three candidates to the Ethics Review Panel (or Bridge Panel if Panel not yet constituted)
 - Panel selects Inspector General for ten-year non-renewable term
 
-**Bridge Panel constituted (if needed).** If fewer than five Senior Justices are available:
+**Bridge Panel constituted (if needed).** If fewer than five Senior Justices are available -- whether by reason of insufficient Senior Justices during the transition period, vacancy coverage rotation assignments, recusals, or any combination thereof:
 
 - Administrative Office maintains roster of eligible retired circuit chief judges (15+ years Article III service)
 - Clerk of the Supreme Court conducts public lottery to select Bridge Panel members
@@ -101,7 +101,7 @@ The phased approach serves critical purposes: it spreads appointment opportuniti
 
 ### Year 1 of the Appointment Schedule
 
-**Court expansion begins.** The President submits the first nomination slate (2-3 nominees) and the Senate selects via BLOC STAR voting. Year 1 falls in the first year of the presidential term following enactment, ensuring:
+**Court expansion begins.** The President submits the first nomination slate (2-3 nominees) and the Senate selects via Bloc STAR voting. Year 1 falls in the first year of the presidential term following enactment, ensuring:
 
 - The preparatory phase (circuit reorganization, ethics infrastructure) is complete or well underway
 - The appointing president and Senate have received a fresh electoral mandate
@@ -125,11 +125,12 @@ The phased approach serves critical purposes: it spreads appointment opportuniti
 - The appointment equalization mechanism (Section 202(d)) ensures each presidential term includes exactly five appointment opportunities once steady state is reached (Year 21)
 - The vacancy coverage roster begins receiving expansion-appointed Senior Justices
 
-**Transition period for Title V ends (approximately).** When five justices appointed under the expansion schedule have transitioned to Senior Justice status, the Bridge Panel mechanism is no longer needed:
+**Transition period for Title V ends (approximately).** When five justices appointed under the expansion schedule have transitioned to Senior Justice status, the Bridge Panel is no longer needed as routine supplement:
 
-- Ethics Review Panel consists entirely of Senior Justices
-- En Banc Senior Body has sufficient membership for full appellate review
+- Ethics Review Panel consists predominantly of Senior Justices under normal conditions
+- En banc appellate body has sufficient membership for full appellate review under normal conditions
 - Bridge Panel members complete service on any pending matters
+- Bridge Panel mechanism remains available as permanent backstop for vacancy rotation exclusions, recusals, or other temporary depletions of the Senior Justice pool
 
 ---
 
@@ -208,7 +209,7 @@ Court expansion proceeds gradually with one additional Associate Justice appoint
 
 **Distributed appointment opportunities.** Expansion appointments are distributed across at least three different presidential terms. No single president receives more than two expansion appointments unless they serve multiple terms.
 
-**Transparency requirements and slate process apply throughout.** Every expansion appointment uses the slate-based process: the President submits a nomination slate (2-3 nominees for single-position expansion appointments), and the Senate selects via BLOC STAR voting. Each nominee must satisfy Title III requirements: 10 self-selected works of substantial legal analysis across six qualifying pathways, subject matter diversity, mandatory nominee statements, and 120-day Senate consideration timeline. Carryover nominees from prior slates may appear on subsequent expansion slates for up to five years from original documentation submission, with abbreviated half-day hearings.
+**Transparency requirements and slate process apply throughout.** Every expansion appointment uses the slate-based process: the President submits a nomination slate (2-3 nominees for single-position expansion appointments), and the Senate selects via Bloc STAR voting. Each nominee must satisfy Title III requirements: 10 self-selected works of substantial legal analysis across six qualifying pathways, subject matter diversity, mandatory nominee statements, and 120-day Senate consideration timeline. Carryover nominees from prior slates may appear on subsequent expansion slates for up to five years from original documentation submission, with abbreviated half-day hearings.
 
 **Existing justices unaffected by career structure.** Justices serving before the Act's effective date continue in active service. They are not subject to the three-phase career structure unless they elect opt-in under Section 403(d). Legacy Associate Justices who file opt-in elections are assigned to available Co-Chief Justice slots and transition according to their assigned schedule.
 
@@ -248,12 +249,12 @@ Beginning eleven years after the first expansion appointment, the three-phase ca
 | Year 15 | 2nd Senior Justice from expansion | Two expansion-appointed Senior Justices available |
 | Year 17 | 3rd Senior Justice from expansion | Three expansion-appointed Senior Justices available |
 | Year 19 | 4th Senior Justice from expansion | Four expansion-appointed Senior Justices available |
-| Year 21 | 5th Senior Justice from expansion; Transition period ends | Five expansion-appointed Senior Justices available; Bridge Panel no longer needed for Panel quorum |
-| Year 23+ | Steady state | Ethics Review Panel consists entirely of Senior Justices |
+| Year 21 | 5th Senior Justice from expansion; Transition period ends | Five expansion-appointed Senior Justices available; Bridge Panel no longer needed as routine supplement |
+| Year 23+ | Steady state | Ethics Review Panel consists predominantly of Senior Justices; Bridge Panel available as backstop for vacancy rotation exclusions and recusals |
 
 ### Steady-State Characteristics
 
-**Predictable presidential opportunities.** Beginning in Year 21 of the Appointment Schedule, each four-year presidential term includes exactly five appointment opportunities. The appointment equalization mechanism (Section 202(d)) ensures this even distribution by redistributing appointments when the biennial schedule produces asymmetric clustering. The President submits nomination slates with the appropriate number of nominees (minimum two per position, maximum 2.5 per position rounded up), and the Senate selects via BLOC STAR voting.
+**Predictable presidential opportunities.** Beginning in Year 21 of the Appointment Schedule, each four-year presidential term includes exactly five appointment opportunities. The appointment equalization mechanism (Section 202(d)) ensures this even distribution by redistributing appointments when the biennial schedule produces asymmetric clustering. The President submits nomination slates with the appropriate number of nominees (minimum two per position, maximum 2.5 per position rounded up), and the Senate selects via Bloc STAR voting.
 
 **Three-phase career structure.** Each justice serves through three distinct phases:
 
@@ -299,7 +300,7 @@ Certain provisions must occur in sequence; others may proceed in parallel.
 
 7. **Inspector General appointment before full ethics operations.** While the Code of Conduct becomes binding immediately, investigation and adjudication of complaints requires the Inspector General to be appointed and the Ethics Review Panel (or Bridge Panel) to be constituted.
 
-8. **Expansion-appointed Senior Justices must accumulate before Bridge Panel can retire.** The transition period for Title V ends only when five justices appointed under the expansion schedule have reached Senior Justice status, ensuring the Ethics Review Panel can function without Bridge Panel supplementation.
+8. **Expansion-appointed Senior Justices must accumulate before Bridge Panel can transition to backstop role.** The transition period for Title V ends only when five justices appointed under the expansion schedule have reached Senior Justice status, enabling the Ethics Review Panel to function without routine Bridge Panel supplementation. The Bridge Panel mechanism remains permanently available thereafter for temporary depletions caused by vacancy rotation exclusions, recusals, or combinations thereof.
 
 ### Parallel Tracks
 
@@ -341,7 +342,7 @@ Certain provisions must occur in sequence; others may proceed in parallel.
 - Determine completeness of nomination documentation for each nominee on a slate within 14 days
 - Make all documentation publicly available within 72 hours of receipt
 - Conduct hearings after 21-day public review period (one day per nominee; half-day for carryover nominees)
-- Facilitate BLOC STAR voting or slate rejection within 120 days of completeness determination
+- Facilitate Bloc STAR voting or slate rejection within 120 days of completeness determination
 - Process increased nomination volume during expansion phase (multiple nominees per slate)
 
 ### Office of the Judicial Inspector General
@@ -438,7 +439,7 @@ Circuit judges serving when reorganization takes effect:
 - No disruption to ongoing proceedings
 - Appeals filed after circuit reorganization takes effect proceed to the appropriate regional circuit
 
-### Bridge Panel Transition
+### Bridge Panel Transition and Permanent Backstop
 
 During the transition period (until five expansion-appointed justices reach Senior Justice status):
 
@@ -447,6 +448,13 @@ During the transition period (until five expansion-appointed justices reach Seni
 - Bridge Panel members have full powers for Title V purposes
 - Bridge Panel members may not participate in matters under other Titles of the Act
 - Justices who voluntarily elect Senior Justice status may serve on Ethics Review Panel (with recusal for matters involving former colleagues)
+
+After the transition period, the Bridge Panel mechanism remains available as a permanent backstop:
+
+- Senior Justices currently assigned to vacancy coverage rotation are excluded from both the Ethics Review Panel and en banc appellate review
+- If vacancy rotation exclusions, recusals, or combinations thereof reduce available Senior Justices below five (for the Panel) or below three (for en banc review), the Bridge Panel fills remaining positions
+- A Senior Justice whose rotation assignment concludes during a pending matter does not join the Panel or en banc body for that matter
+- The Administrative Office continues to maintain the roster of eligible retired circuit chief judges
 
 ### Inspector General Transition
 
@@ -473,13 +481,13 @@ During the transition period (until five expansion-appointed justices reach Seni
 - **Vacancy coverage by lottery:** Random lottery per October Term for vacancy assignments; no additional presidential appointments
 - **60-day opt-in assignment notification:** Administrative Office notifies electing justices within 60 days
 - **Slate nomination requirement:** Minimum 2 nominees per position, maximum 2.5 per position rounded up; 2-3 nominees for single-position expansion appointments
-- **BLOC STAR voting:** Senators score each nominee 0-5; aggregate scores determine selection
+- **Bloc STAR voting:** Senators score each nominee 0-5; aggregate scores determine selection
 - **Slate rejection resubmission:** President must submit new slate within 30 days; rejected nominees excluded from immediately subsequent slate
 - **Carryover eligibility:** 5 years from original documentation submission; abbreviated half-day hearings
 - **10-work documentation requirement:** Self-selected works ensuring curated evaluable record
 - **21-day public review period:** Minimum time after completeness certification before hearings commence
 - **14-day completeness determination:** Senate Judiciary Committee deadline
-- **120-day Senate consideration:** Prevents indefinite obstruction; applies to BLOC STAR vote or slate rejection
+- **120-day Senate consideration:** Prevents indefinite obstruction; applies to Bloc STAR vote or slate rejection
 - **One-year deadline for first Inspector General:** Ensures ethics infrastructure operational early
 - **180-day deadline for Panel rules of procedure:** Ensures adjudication capacity once Panel constituted
 - **60-day preliminary review deadline:** Ensures timely processing of complaints
@@ -512,14 +520,14 @@ During the transition period (until five expansion-appointed justices reach Seni
 | Circuit boundary development complete | Within 180 days of enactment |
 | First Inspector General appointed; Bridge Panel available | Within one year of enactment |
 | Circuit reorganization effective | First January 1 at least 24 months after enactment |
-| First expansion appointment (slate-based nomination with BLOC STAR voting) | Year 1 of the Appointment Schedule |
+| First expansion appointment (slate-based nomination with Bloc STAR voting) | Year 1 of the Appointment Schedule |
 | Second expansion appointment | Year 3 |
 | Third expansion appointment | Year 5 |
 | Fourth expansion appointment | Year 7 |
 | Fifth expansion appointment | Year 9 |
 | Sixth expansion appointment; full composition achieved; Co-Chief Justice service begins; first Inspector General term expires (if appointed within one year of enactment) | Year 11 |
 | Regular replacement schedule begins; first expansion-appointed Senior Justices; vacancy coverage roster begins receiving expansion appointees | Year 13 |
-| Fifth expansion-appointed Senior Justice; Bridge Panel transition ends; appointment equalization approaching steady state | Year 21 |
+| Fifth expansion-appointed Senior Justice; Bridge Panel transitions to backstop role; appointment equalization approaching steady state | Year 21 |
 | Predictable appointments (5 per presidential term), shared Co-Chief Justice leadership, vacancy coverage, ethics enforcement, and structured compliance assessments continue indefinitely | Year 23+ |
 
 ---
@@ -532,7 +540,17 @@ If the Act is enacted during the presidential term beginning in January 2029, Ye
 
 ## Revision History
 
-**Revision 2.2** (Current)
+**Revision 2.3** (Current)
+- Updated reference line to reflect FJBAA Rev 2.3
+- Updated summary table: Ethics Infrastructure row reflects Bridge Panel as permanent backstop beyond transition period
+- Updated Bridge Panel constitution trigger to enumerate all circumstances (transition period, vacancy rotation exclusions, recusals, combinations)
+- Updated transition period ending description: "predominantly" replaces "entirely" for Senior Justice composition; added permanent backstop language
+- Updated Year 21 and Year 23+ milestone table rows to reflect Bridge Panel backstop role
+- Updated sequential dependency 8: "transition to backstop role" replaces "retire"
+- Renamed "Bridge Panel Transition" section to "Bridge Panel Transition and Permanent Backstop"; added post-transition subsection describing vacancy rotation exclusion from Ethics Review Panel and en banc review, Bridge Panel backstop for temporary depletions, mid-proceeding stability rule, and ongoing roster maintenance
+- Updated Summary Timeline Year 21 milestone
+
+**Revision 2.2**
 - Restructured entire document to eliminate hard-coded calendar dates in favor of enactment-relative and Appointment Schedule-relative milestones
 - Separated timeline into two temporal anchors: "Upon Enactment" (triggers preparatory work) and "Year 1 of the Appointment Schedule" (begins expansion cycle, anchored to first year of the presidential term following enactment)
 - Replaced "Phase One: Circuit Reorganization (2026-2028)" with "Preparatory Phase: Enactment Through Year 1" to reflect flexible timing
@@ -557,15 +575,15 @@ If the Act is enacted during the presidential term beginning in January 2029, Ye
 
 **Revision 2.1**
 - Updated reference line to reflect FJBAA Rev 2.1
-- Updated "Immediate Upon Enactment" section to include slate-based nomination process (Section 202(a)) and BLOC STAR voting (Section 202(b)) as immediately effective for all appointments
+- Updated "Immediate Upon Enactment" section to include slate-based nomination process (Section 202(a)) and Bloc STAR voting (Section 202(b)) as immediately effective for all appointments
 - Updated documentation requirements: 50 works changed to 10 self-selected works; 5,000-word philosophy statement changed to 2,000 words; 45-day deliberation period changed to 21-day public review period
 - Added slate sizing parameters: minimum 2 per position, maximum 2.5 rounded up; 2-3 for single-position expansion appointments
 - Added carryover nominee provisions: 5-year eligibility, abbreviated half-day hearings
 - Updated Phase One Q1 to include slate-based nomination process
-- Updated Phase Two first expansion appointment to reference slate process and BLOC STAR voting
+- Updated Phase Two first expansion appointment to reference slate process and Bloc STAR voting
 - Updated Expansion Phase Characteristics for slate-based process throughout expansion
-- Updated Senate Judiciary Committee responsibilities for slate evaluation (one day per nominee, half-day for carryover nominees, BLOC STAR facilitation)
-- Updated Firm Requirements: added slate nomination, BLOC STAR voting, slate rejection resubmission, carryover eligibility, updated documentation from 50 to 10 works, updated deliberation from 45 to 21 days
+- Updated Senate Judiciary Committee responsibilities for slate evaluation (one day per nominee, half-day for carryover nominees, Bloc STAR facilitation)
+- Updated Firm Requirements: added slate nomination, Bloc STAR voting, slate rejection resubmission, carryover eligibility, updated documentation from 50 to 10 works, updated deliberation from 45 to 21 days
 - Updated Flexible Elements: added slate composition, slate rejection threshold, carryover nominee inclusion
 - Updated Steady-State Characteristics for slate-based selection process
 - Updated Parallel Tracks to include slate process as independent parallel track
