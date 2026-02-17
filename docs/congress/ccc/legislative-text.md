@@ -6366,6 +6366,8 @@ The findings and purposes of this Act are set forth in Section 2 (Findings) and 
 - 30 comprehensive Findings
 - Full implementation provisions
 
+> 📄 [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/ccc/legislative-text.md) (opens on GitHub -- click the ⬇ download button)
+
 ---
 
 *Prepared by Albert Ramos for The American Policy Architecture Institute*

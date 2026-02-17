@@ -56,6 +56,8 @@ The Act operates within established constitutional authority:
 
 See the full legislative text and policy rationale for comprehensive details.
 
+> 📄 [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/fema/introduction.md) (opens on GitHub -- click the ⬇ download button)
+
 ---
 
 *Prepared by Albert Ramos for The American Policy Architecture Institute*

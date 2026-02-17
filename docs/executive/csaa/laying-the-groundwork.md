@@ -210,6 +210,8 @@ The CSAA without the CMF is ambitious reform in a hostile environment. The CSAA 
 - Provision-by-provision analysis of CMF impact on CSAA effectiveness
 - Strategic sequencing recommendations for parallel advocacy
 
+> 📄 [Download this document](https://github.com/albertintech/apai/blob/main/docs/executive/csaa/laying-the-groundwork.md) (opens on GitHub -- click the ⬇ download button)
+
 ---
 
 *Prepared by Albert Ramos for The American Policy Architecture Institute*

@@ -269,6 +269,8 @@ The question is not whether taxpayers can afford CSAA. The question is whether t
 - Initial standalone document extracted from CSAA Policy Rationale Part 6
 - Consolidates economic cost-benefit analysis into single reference document
 
+> 📄 [Download this document](https://github.com/albertintech/apai/blob/main/docs/executive/csaa/economic-analysis.md) (opens on GitHub -- click the ⬇ download button)
+
 ---
 
 *Prepared by Albert Ramos for The American Policy Architecture Institute*

@@ -190,6 +190,8 @@ You vote honestly. The system handles the rest.
 
 - Initial voter-focused explainer document
 
+> 📄 [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/fema/what-changes-for-voters.md) (opens on GitHub -- click the ⬇ download button)
+
 ---
 
 *Prepared by Albert Ramos for The American Policy Architecture Institute*

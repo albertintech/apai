@@ -88,6 +88,8 @@ The Act represents a structural intervention at the procedural substrate where l
 - Includes Section 505B Supreme Court nomination consideration (added in Rev 1.2)
 - Reflects Section 505B(i) yielding clause and Section 806(d) revision from Rev 1.3
 
+> 📄 [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/ocp/overview.md) (opens on GitHub -- click the ⬇ download button)
+
 ---
 
 *Prepared by Albert Ramos for The American Policy Architecture Institute*

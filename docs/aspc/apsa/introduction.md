@@ -30,6 +30,8 @@ APSA creates two integrated mechanisms. The American Prosperity Stability Paymen
 
 See the full legislative text and policy rationale for complete details. Supporting documents include an overview, implementation timeline, future state analysis, and constituency impact analysis.
 
+> 📄 [Download this document](https://github.com/albertintech/apai/blob/main/docs/aspc/apsa/introduction.md) (opens on GitHub -- click the ⬇ download button)
+
 ---
 
 *Prepared by Albert Ramos for The American Policy Architecture Institute*

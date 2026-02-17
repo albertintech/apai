@@ -132,6 +132,8 @@ The question FCAO answers is simple: does this candidate understand how the job 
 - Initial version explaining FCAO purpose, structure, and operation
 - Based on CMA Rev 4.0
 
+> 📄 [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/fema/fcao-explainer.md) (opens on GitHub -- click the ⬇ download button)
+
 ---
 
 *Prepared by Albert Ramos for The American Policy Architecture Institute*

@@ -1209,6 +1209,8 @@ The following implementation topics are comprehensively addressed by companion a
 - Replaced "Sea and Wave" metaphor with "baseline payment" and "income-adjusted stability payment"
 - Rationale: "Stability Payment" accurately describes the program's purpose without inviting ideological debates
 
+> 📄 [Download this document](https://github.com/albertintech/apai/blob/main/docs/aspc/apsa/legislative-text.md) (opens on GitHub -- click the ⬇ download button)
+
 ---
 
 *Prepared by Albert Ramos for The American Policy Architecture Institute*

@@ -97,6 +97,8 @@ The alternative to building this infrastructure is continued reliance on fragmen
 - Content drawn from ASPC Executive Summary Publication (January 2026) and ASPC Rev 5.3 Executive Summary, updated to reflect APSA Rev 4.7 and current component act revisions
 - SOCA child benefit amounts aligned to SOCA Rev 2.4 legislative text ($3,600/$3,000 age-differentiated structure)
 
+> 📄 [Download this document](https://github.com/albertintech/apai/blob/main/docs/aspc/overview.md) (opens on GitHub -- click the ⬇ download button)
+
 ---
 
 *Prepared by Albert Ramos for The American Policy Architecture Institute*

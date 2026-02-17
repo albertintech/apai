@@ -429,6 +429,8 @@ The Constitution grants Congress broad power to regulate the manner of federal e
 - Explained how CMA's design navigates each constitutional constraint
 - Companion document to CMA Constitutional Authority Technical Memorandum
 
+> 📄 [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/fema/constitutional-boundaries-of-proportional-representation.md) (opens on GitHub -- click the ⬇ download button)
+
 ---
 
 *Prepared by Albert Ramos for The American Policy Architecture Institute*

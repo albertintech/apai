@@ -189,6 +189,8 @@ The FIT Act and NLVTA serve as companion legislation providing upstream fairness
 - Added H1 title and revision history for documentation standards compliance
 - Added attribution block
 
+> 📄 [Download this document](https://github.com/albertintech/apai/blob/main/docs/aspc/apna/policy-rationale.md) (opens on GitHub -- click the ⬇ download button)
+
 ---
 
 *Prepared by Albert Ramos for The American Policy Architecture Institute*

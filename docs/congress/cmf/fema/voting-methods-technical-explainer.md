@@ -542,6 +542,8 @@ The total weight spent in each round equals Q (the quota), ensuring that each el
 - Glossary of technical terms
 - Mathematical specification appendix
 
+> 📄 [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/fema/voting-methods-technical-explainer.md) (opens on GitHub -- click the ⬇ download button)
+
 ---
 
 *Prepared by Albert Ramos for The American Policy Architecture Institute*

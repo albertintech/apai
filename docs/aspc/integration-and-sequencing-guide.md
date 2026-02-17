@@ -742,6 +742,8 @@ That flexibility is the point.
 
 - Initial comprehensive strategic framework document
 
+> 📄 [Download this document](https://github.com/albertintech/apai/blob/main/docs/aspc/integration-and-sequencing-guide.md) (opens on GitHub -- click the ⬇ download button)
+
 ---
 
 *Prepared by Albert Ramos for The American Policy Architecture Institute*

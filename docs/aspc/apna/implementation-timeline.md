@@ -528,6 +528,8 @@ All resource requirements funded from American Payment Network Fund, not annual 
 - Incorporated Fund establishment, borrowing drawdown, and revenue activation into dependency chain and critical path
 - Updated success criteria with financial metrics (Fund balance, revenue by source, debt service progress)
 
+> 📄 [Download this document](https://github.com/albertintech/apai/blob/main/docs/aspc/apna/implementation-timeline.md) (opens on GitHub -- click the ⬇ download button)
+
 ---
 
 *Prepared by Albert Ramos for The American Policy Architecture Institute*

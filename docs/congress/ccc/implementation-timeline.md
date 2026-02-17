@@ -554,6 +554,8 @@ All six authority domains become active with **binding Determination** authority
 **Revision 1.0**
 - Initial publication as Implementation Guide
 
+> 📄 [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/ccc/implementation-timeline.md) (opens on GitHub -- click the ⬇ download button)
+
 ---
 
 *Prepared by Albert Ramos for The American Policy Architecture Institute*

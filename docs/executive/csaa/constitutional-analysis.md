@@ -326,6 +326,8 @@ Constitutional challenges are likely. The CSAA is designed to withstand them -- 
 - Extracted from CSAA Policy Rationale Rev 1.1 Part 5
 - Consolidated constitutional and legal analysis into standalone reference document
 
+> 📄 [Download this document](https://github.com/albertintech/apai/blob/main/docs/executive/csaa/constitutional-analysis.md) (opens on GitHub -- click the ⬇ download button)
+
 ---
 
 *Prepared by Albert Ramos for The American Policy Architecture Institute*

@@ -385,6 +385,8 @@ For inquiries, contact The American Policy Architecture Institute.
 - Initial FAQ document
 - Based on ASPC Rev 5.1 / APSA Rev 4.4 parameters
 
+> 📄 [Download this document](https://github.com/albertintech/apai/blob/main/docs/aspc/frequently-asked-questions.md) (opens on GitHub -- click the ⬇ download button)
+
 ---
 
 *Prepared by Albert Ramos for The American Policy Architecture Institute*

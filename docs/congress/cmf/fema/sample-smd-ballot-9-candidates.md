@@ -329,6 +329,8 @@ Turn ballot over for additional races →
 
 *This is a mock ballot created for educational purposes to demonstrate STAR Voting in general elections for single-member districts, Joint Endorsement Lists, and Federal Candidate Assessment Office (FCAO) examination requirements as proposed in the Federal Elections Modernization Act (FEMA).*
 
+> 📄 [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/fema/sample-smd-ballot-9-candidates.md) (opens on GitHub -- click the ⬇ download button)
+
 ---
 
 Prepared by:  

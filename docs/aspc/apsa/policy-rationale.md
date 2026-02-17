@@ -365,6 +365,8 @@ This is not compromise -- it is optimization.
 - Expanded rationale document to incorporate technical details from distribution modeling and benefit structure design
 - Corrected economic precarity framing to use accurate data
 
+> 📄 [Download this document](https://github.com/albertintech/apai/blob/main/docs/aspc/apsa/policy-rationale.md) (opens on GitHub -- click the ⬇ download button)
+
 ---
 
 *Prepared by Albert Ramos for The American Policy Architecture Institute*

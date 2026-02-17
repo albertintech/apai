@@ -932,6 +932,8 @@ Supreme Court interpretation confirms this grants Congress plenary power over fe
 - Constitutional authority discussion
 - Comparative evidence and implementation analysis
 
+> 📄 [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/fema/policy-rationale.md) (opens on GitHub -- click the ⬇ download button)
+
 ---
 
 *Prepared by Albert Ramos for The American Policy Architecture Institute*

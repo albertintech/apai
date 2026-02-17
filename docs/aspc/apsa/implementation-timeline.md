@@ -516,6 +516,8 @@ States receiving APC revenue share must publish an annual State APC Revenue Repo
 - Updated program interaction provisions (SSI/TANF permanent disregard)
 - Incorporated AEPA consolidation
 
+> 📄 [Download this document](https://github.com/albertintech/apai/blob/main/docs/aspc/apsa/implementation-timeline.md) (opens on GitHub -- click the ⬇ download button)
+
 ---
 
 *Prepared by Albert Ramos for The American Policy Architecture Institute*

@@ -130,6 +130,8 @@ This is not about enriching incumbents. This is about ensuring the legislative b
 **Revision 1.0**
 - Initial publication as Executive Summary (~6,500 words)
 
+> 📄 [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/ccc/overview.md) (opens on GitHub -- click the ⬇ download button)
+
 ---
 
 *Prepared by Albert Ramos for The American Policy Architecture Institute*

@@ -806,6 +806,8 @@ In the event of reduced authority, the Agency shall continue to maintain and pub
 - Initial draft of Introduction and Titles I through X in APA house style.
 - Establishes Agency purpose, findings, structure, and operational framework.
 
+> 📄 [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cvta/legislative-text.md) (opens on GitHub -- click the ⬇ download button)
+
 ---
 
 *Prepared by Albert Ramos for The American Policy Architecture Institute*

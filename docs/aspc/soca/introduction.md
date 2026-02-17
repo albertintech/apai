@@ -32,6 +32,8 @@ SOCA is funded entirely through the Child Security Contribution -- a dedicated, 
 
 See the full legislative text, policy rationale, and overview for complete details on provisions, design choices, and implementation timeline.
 
+> 📄 [Download this document](https://github.com/albertintech/apai/blob/main/docs/aspc/soca/introduction.md) (opens on GitHub -- click the ⬇ download button)
+
 ---
 
 *Prepared by Albert Ramos for The American Policy Architecture Institute*

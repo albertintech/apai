@@ -162,6 +162,8 @@ The costs of inaction are not hypothetical. They are measured in the current dat
 **Revision 1.0**
 - Initial publication based on APSA Rev 4.7
 
+> 📄 [Download this document](https://github.com/albertintech/apai/blob/main/docs/aspc/apsa/future-state-analysis.md) (opens on GitHub -- click the ⬇ download button)
+
 ---
 
 *Prepared by Albert Ramos for The American Policy Architecture Institute*

@@ -398,6 +398,8 @@ The self-capitalizing funding model (Section 8) ensures that taxpayer cost is mi
 - Updated fiscal concerns section with borrowing threshold notification details
 - Added emergency operational authority (government shutdown resilience) to stakeholder messaging
 
+> 📄 [Download this document](https://github.com/albertintech/apai/blob/main/docs/aspc/apna/constituency-impact-analysis.md) (opens on GitHub -- click the ⬇ download button)
+
 ---
 
 *Prepared by Albert Ramos for The American Policy Architecture Institute*

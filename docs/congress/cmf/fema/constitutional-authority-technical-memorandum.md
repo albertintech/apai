@@ -571,6 +571,8 @@ Delegation Doctrine:
 - Added Voting Rights Act considerations for multi-member districts.
 - Expanded judicial review strategy section.
 
+> 📄 [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/fema/constitutional-authority-technical-memorandum.md) (opens on GitHub -- click the ⬇ download button)
+
 ---
 
 *Prepared by Albert Ramos for The American Policy Architecture Institute*

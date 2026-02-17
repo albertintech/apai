@@ -81,6 +81,8 @@ The Act treats democratic modernization as infrastructure maintenance rather tha
 - Replaces prior CMA-era Executive Summary and Legislative Overview documents
 - Written to APAI Document Production Standards Section 3.1 (Overview) specification
 
+> 📄 [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/fema/overview.md) (opens on GitHub -- click the ⬇ download button)
+
 ---
 
 *Prepared by Albert Ramos for The American Policy Architecture Institute*

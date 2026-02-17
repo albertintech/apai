@@ -291,6 +291,8 @@ This timeline assumes enactment in a non-presidential election year. Actual impl
 **Revision 1.0**
 - Initial publication based on CVTA Rev 1.2
 
+> 📄 [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cvta/implementation-timeline.md) (opens on GitHub -- click the ⬇ download button)
+
 ---
 
 *Prepared by Albert Ramos for The American Policy Architecture Institute*

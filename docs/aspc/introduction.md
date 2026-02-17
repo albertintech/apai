@@ -26,6 +26,8 @@ The three acts cover economic security across the full lifecycle: payment infras
 
 See the Overview for a substantive summary of provisions and implementation approach. Full legislative text, policy rationales, and supporting analyses are available for each component act.
 
+> 📄 [Download this document](https://github.com/albertintech/apai/blob/main/docs/aspc/introduction.md) (opens on GitHub -- click the ⬇ download button)
+
 ---
 
 *Prepared by Albert Ramos for The American Policy Architecture Institute*

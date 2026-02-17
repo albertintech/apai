@@ -36,6 +36,8 @@ The Act is explicitly informational rather than regulatory. Verification finding
 
 The full legislative text contains detailed provisions across ten titles. The Policy Rationale document explains the reasoning behind major design choices.
 
+> 📄 [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cvta/introduction.md) (opens on GitHub -- click the ⬇ download button)
+
 ---
 
 *Prepared by Albert Ramos for The American Policy Architecture Institute*

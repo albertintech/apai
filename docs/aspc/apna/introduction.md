@@ -34,6 +34,8 @@ APNA serves as the foundational infrastructure for the broader American Shared P
 
 See the full legislative text and policy rationale for complete details. Supporting documents include an implementation timeline and constituency impact analysis.
 
+> 📄 [Download this document](https://github.com/albertintech/apai/blob/main/docs/aspc/apna/introduction.md) (opens on GitHub -- click the ⬇ download button)
+
 ---
 
 *Prepared by Albert Ramos for The American Policy Architecture Institute*

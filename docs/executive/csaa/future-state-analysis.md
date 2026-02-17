@@ -159,6 +159,8 @@ The question before policymakers is not whether the nation can afford to profess
 - Summary comparison table covering 20 dimensions
 - All data drawn from CSAA Rev 1.3 documentation suite (Economic Analysis, Policy Rationale, Legislative Text, International Comparison, Overview)
 
+> 📄 [Download this document](https://github.com/albertintech/apai/blob/main/docs/executive/csaa/future-state-analysis.md) (opens on GitHub -- click the ⬇ download button)
+
 ---
 
 *Prepared by Albert Ramos for The American Policy Architecture Institute*

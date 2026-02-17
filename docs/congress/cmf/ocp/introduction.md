@@ -60,6 +60,8 @@ The OCP operates under Article I, Section 5, which provides that each House may 
 
 See the full legislative text (OCP Act) and policy rationale for complete details on structure, phased implementation, and design choices.
 
+> 📄 [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/ocp/introduction.md) (opens on GitHub -- click the ⬇ download button)
+
 ---
 
 *Prepared by Albert Ramos for The American Policy Architecture Institute*

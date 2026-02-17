@@ -325,6 +325,8 @@ The alternative is continued decay: frozen compensation, departing expertise, ob
 **Revision 1.0**
 - Initial publication as Coalition Policy Rationale
 
+> 📄 [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/ccc/policy-rationale.md) (opens on GitHub -- click the ⬇ download button)
+
 ---
 
 *Prepared by Albert Ramos for The American Policy Architecture Institute*

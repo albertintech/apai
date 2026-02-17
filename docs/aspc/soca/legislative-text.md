@@ -688,6 +688,8 @@ If any provision of this Act, or the application thereof to any person or circum
 - Coordinates with APSA to prevent benefit clawbacks
 - Includes safe harbor provisions for overpayment reconciliation
 
+> 📄 [Download this document](https://github.com/albertintech/apai/blob/main/docs/aspc/soca/legislative-text.md) (opens on GitHub -- click the ⬇ download button)
+
 ---
 
 *Prepared by Albert Ramos for The American Policy Architecture Institute*
