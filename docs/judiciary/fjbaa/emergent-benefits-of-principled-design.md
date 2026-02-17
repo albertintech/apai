@@ -156,6 +156,8 @@ The lesson extends beyond judicial reform. It suggests that the most durable ins
 **Revision 1.0**
 - Initial publication
 
+> 📄 [Download this document](https://github.com/albertintech/apai/blob/main/docs/judiciary/fjbaa/emergent-benefits-of-principled-design.md) (opens on GitHub -- click the ⬇ download button)
+
 ---
 
 *Prepared by Albert Ramos for The American Policy Architecture Institute*

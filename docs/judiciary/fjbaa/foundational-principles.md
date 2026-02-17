@@ -187,6 +187,8 @@ The Act's claim to legitimacy rests on this foundation. It does not seek to achi
 **Revision 1.5**
 - Initial publication based on FJBAA Rev 1.5
 
+> 📄 [Download this document](https://github.com/albertintech/apai/blob/main/docs/judiciary/fjbaa/foundational-principles.md) (opens on GitHub -- click the ⬇ download button)
+
 ---
 
 *Prepared by Albert Ramos for The American Policy Architecture Institute*

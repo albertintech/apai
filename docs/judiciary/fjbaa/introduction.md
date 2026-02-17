@@ -30,6 +30,8 @@ FJBAA addresses these structural problems through integrated reforms: circuit re
 
 The full legislative text provides complete statutory language for all provisions. Separate documents provide the Policy Rationale explaining design choices, Legal Analysis examining constitutional questions, Implementation Timeline detailing the phased rollout, and Overview summarizing the complete reform architecture.
 
+> 📄 [Download this document](https://github.com/albertintech/apai/blob/main/docs/judiciary/fjbaa/introduction.md) (opens on GitHub -- click the ⬇ download button)
+
 ---
 
 *Prepared by Albert Ramos for The American Policy Architecture Institute*

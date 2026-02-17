@@ -287,6 +287,8 @@ Oliver, Philip D. "Systematic Justice: A Proposed Constitutional Amendment to Es
 - Assessment of Act features beyond the Chilton framework: principled Court sizing, transparency requirements, ethics enforcement, Co-Chief Justice leadership, and circuit reorganization
 - Identification of areas requiring further empirical modeling
 
+> 📄 [Download this document](https://github.com/albertintech/apai/blob/main/docs/judiciary/fjbaa/chilton-framework-evaluation.md) (opens on GitHub -- click the ⬇ download button)
+
 ---
 
 *Prepared by Albert Ramos for The American Policy Architecture Institute*
