@@ -4,7 +4,7 @@
 
 ### Published February 2026
 
-Based on Rev 2.3 of the Federal Judicial Balance and Accountability Act
+Based on Rev 2.2 of the Federal Judicial Balance and Accountability Act
 
 ---
 
@@ -530,23 +530,15 @@ The Act establishes an independent Judicial Inspector General with a ten-year no
 
 **Removal for cause standard.** The IG may be removed for "inefficiency, neglect of duty, malfeasance in office, or incapacity." This tracks the standard that has applied to various federal officers with for-cause removal protection. The unanimous vote requirement provides additional protection but does not eliminate removal authority -- it ensures that removal reflects consensus rather than factional displeasure with inconvenient investigations.
 
-### Bridge Panel
+### Bridge Panel During Transition
 
-The Act's Bridge Panel -- retired circuit chief judges selected by lottery to serve on the Ethics Review Panel or en banc appellate body when insufficient Senior Justices are available -- raises no significant constitutional concerns.
+The Act's Bridge Panel -- retired circuit chief judges selected by lottery to serve on the Ethics Review Panel during the transition period -- raises no significant constitutional concerns.
 
-**Retired judges may perform judicial functions.** Retired Article III judges routinely sit by designation on federal courts. The Bridge Panel extends this practice, using retired chief judges to perform a quasi-judicial function (ethics adjudication) when the Senior Justice pool is depleted by transition-period scarcity, vacancy coverage rotation exclusions, recusals, or combinations thereof.
+**Retired judges may perform judicial functions.** Retired Article III judges routinely sit by designation on federal courts. The Bridge Panel extends this practice, using retired chief judges to perform a quasi-judicial function (ethics adjudication) until sufficient Senior Justices are available.
 
 **Lottery selection prevents manipulation.** Random selection from a defined pool (retired circuit chief judges with at least fifteen years of Article III service) ensures that no actor can stack the Bridge Panel. This protects against both partisan manipulation and concerns about captured enforcement.
 
-**Structural role.** The Bridge Panel serves its most extensive role during the transition period, before five expansion-appointed justices have reached Senior Justice status. After the transition period, it remains available as a backstop for temporary depletions -- primarily when vacancy rotation exclusions or recusals reduce the Senior Justice pool below the required thresholds. This permanent-backstop role raises no additional constitutional concerns beyond those applicable during the transition, because the mechanism and selection method are identical; only the trigger differs.
-
-### Vacancy Rotation Exclusion
-
-The Act excludes Senior Justices currently assigned to vacancy coverage rotation from both the Ethics Review Panel and en banc appellate review. This exclusion is constitutionally sound and structurally necessary.
-
-**Independence rationale.** A Senior Justice on vacancy coverage rotation exercises "all powers and duties of an Associate Justice" -- functionally a colleague of the respondent rather than a removed peer. Requiring adjudicator independence from the respondent's working environment is a basic due process principle that Congress may implement through structural design.
-
-**No Article III concern.** The exclusion does not affect judicial tenure, compensation, or status. It regulates which judicial duties a Senior Justice performs during a specific period, consistent with Congress's authority to organize and assign judicial functions. The excluded Senior Justice retains all Article III protections and resumes Panel eligibility when the rotation concludes (for future matters, not pending ones, to prevent mid-proceeding disruption).
+**Temporary mechanism.** The Bridge Panel operates only during the transition period, ending when five justices appointed under the Act have reached Senior Justice status. This limited duration further reduces any constitutional concern.
 
 ### Due Process Requirements
 
@@ -650,12 +642,7 @@ The ultimate constitutional assessment will depend on how courts balance textual
 
 ## Revision History
 
-**Revision 2.3** (Current)
-- Updated reference line to reflect FJBAA Rev 2.3
-- Renamed "Bridge Panel During Transition" subsection to "Bridge Panel" and rewrote to reflect expanded trigger beyond transition period; replaced "Temporary mechanism" paragraph with "Structural role" paragraph analyzing permanent-backstop function for vacancy rotation exclusions, recusals, and combinations
-- Added new "Vacancy Rotation Exclusion" subsection analyzing constitutional soundness and structural necessity of excluding Senior Justices on vacancy coverage rotation from Ethics Review Panel and en banc appellate review; covers independence rationale and absence of Article III concern
-
-**Revision 2.2**
+**Revision 2.2** (Current)
 - Updated reference line to reflect FJBAA Rev 2.2
 - Rewrote Circuit Reorganization "Population-Based Boundaries" subsection: added district-level building block analysis explaining constitutional significance of using federal judicial districts (creatures of federal statute, not state sovereignty) as circuit construction units; added preference-with-exception structure for state unity; referenced district-level modeling results
 - Replaced "Decennial Rebalancing" subsection with two new subsections: "Compliance Assessment and Boundary Adjustment" analyzing constitutional basis for five-year assessment cycle, tiered response framework, and delegation to Administrative Office; "Circuit Count Adjustment" analyzing mechanism for future circuit count expansion, congressional action requirement, and principled derivation methodology

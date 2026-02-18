@@ -112,7 +112,7 @@ This is where the Act makes its most significant contribution relative to the ex
 
 Chilton et al. demonstrate empirically that sixty-two to seventy-five percent of Court vacancies under the five major proposals would arise during divided government. They conclude that some method for handling Senate impasse is necessary if term-limits reform is to accomplish its goals. Yet none of the five proposals they evaluate provides a structurally adequate solution. The Khanna Bill's 120-day automatic seating provision addresses inaction but, as the authors note, would not prevent the Senate from simply voting down nominees. The other proposals either lack impasse provisions entirely or propose mechanisms the authors themselves characterize as inadequate.
 
-The Act replaces the binary single-nominee confirmation model entirely with slate-based nomination and BLOC STAR voting (Section 202). Rather than submitting one nominee for an up-or-down vote -- a structure that concentrates maximum leverage in the Senate's ability to reject -- the President submits a slate of multiple qualified candidates, and the Senate selects from among them using a scored voting procedure in which each senator assigns each nominee a score from 0 to 5.
+The Act replaces the binary single-nominee confirmation model entirely with slate-based nomination and Bloc STAR voting (Section 202). Rather than submitting one nominee for an up-or-down vote -- a structure that concentrates maximum leverage in the Senate's ability to reject -- the President submits a slate of multiple qualified candidates, and the Senate selects from among them using a scored voting procedure in which each senator assigns each nominee a score from 0 to 5.
 
 This transformation addresses the structural vulnerability at its source rather than bolting on remedial provisions. Several features warrant emphasis in the Chilton context.
 
@@ -120,11 +120,11 @@ First, the slate structure transforms the Senate's incentive from adversarial ga
 
 Second, the Senate retains constitutional authority to reject an entire slate, but the architecture makes this strategically irrational. Rejection triggers presidential resubmission within thirty days with excluded nominees, gaining the Senate nothing while consuming political capital. The Policy Rationale describes this as an "ornamental gun" -- the authority is preserved but rendered structurally irrational to exercise. This is a fundamentally different approach from the Khanna Bill's automatic seating, which circumvents the Senate's constitutional role, or the penalty mechanisms other proposals suggest, which raise the constitutional concerns Chilton et al. identify.
 
-Third, the 120-day mandatory consideration timeline (Section 202(g)) applies to the BLOC STAR vote or slate rejection, not to a traditional confirmation vote. This is a hybrid model: Congress mandates that the Senate act within 120 days (analogous to budget reconciliation timelines and War Powers Resolution consideration periods), but leaves internal procedural mechanics to Senate rules. The Act thus threads the constitutional needle between mandating that the Senate act and dictating how it organizes itself to do so.
+Third, the 120-day mandatory consideration timeline (Section 202(g)) applies to the Bloc STAR vote or slate rejection, not to a traditional confirmation vote. This is a hybrid model: Congress mandates that the Senate act within 120 days (analogous to budget reconciliation timelines and War Powers Resolution consideration periods), but leaves internal procedural mechanics to Senate rules. The Act thus threads the constitutional needle between mandating that the Senate act and dictating how it organizes itself to do so.
 
-The Chilton authors candidly acknowledge that the Senate impasse problem remained unsolved: "these solutions are only a couple of possibilities; no doubt there are others." The slate-based BLOC STAR mechanism is one such "other" -- a structural innovation that the framework's authors anticipated was needed but had not yet been proposed.
+The Chilton authors candidly acknowledge that the Senate impasse problem remained unsolved: "these solutions are only a couple of possibilities; no doubt there are others." The slate-based Bloc STAR mechanism is one such "other" -- a structural innovation that the framework's authors anticipated was needed but had not yet been proposed.
 
-**Assessment:** The Act provides the most structurally complete response to the Senate impasse problem in the literature. The Chilton framework identifies this as one of the most critical design gaps across all existing proposals. The slate-based BLOC STAR mechanism addresses the problem through incentive transformation rather than enforcement or circumvention, a structural approach consistent with the Act's broader design philosophy of preferring structures over norms. This is the Act's single strongest advantage relative to every proposal Chilton et al. evaluate.
+**Assessment:** The Act provides the most structurally complete response to the Senate impasse problem in the literature. The Chilton framework identifies this as one of the most critical design gaps across all existing proposals. The slate-based Bloc STAR mechanism addresses the problem through incentive transformation rather than enforcement or circumvention, a structural approach consistent with the Act's broader design philosophy of preferring structures over norms. This is the Act's single strongest advantage relative to every proposal Chilton et al. evaluate.
 
 ### 8. Chief Justices
 
@@ -222,7 +222,7 @@ The following table positions the Act against the Chilton framework alongside th
 | Legacy Justices | Retain life tenure | Retain life tenure | Retain life tenure | Retain but managed | Retain with voluntary opt-in |
 | Unexpected Vacancies | Senior status | Remainder of term | Wait-on-deck | Senior fill-in | Senior lottery rotation |
 | Senior Justice Role | Limited | Not applicable until transition | Wait-on-deck | Limited | Three-phase career with ethics, vacancy coverage |
-| Senate Impasse | None | None | None | 120-day auto-seat | Slate-based BLOC STAR voting |
+| Senate Impasse | None | None | None | 120-day auto-seat | Slate-based Bloc STAR voting |
 | Chief Justice | Not specified | Not specified | Not specified | Not specified | Shared Co-Chief Justice |
 | Enactment Method | Statute | Statute | Statute | Statute | Statute |
 
@@ -238,13 +238,13 @@ The Act's principal vulnerability under the Chilton framework is the twelve-year
 
 The Chilton simulation methodology could be adapted to model the Act's specific parameters -- fifteen seats, twelve-year terms, biennial appointments with equalization, expansion-based transition -- and produce the same compositional and ideological balance analyses the authors generate for the five proposals they evaluate. Such modeling would provide empirical evidence on several questions this evaluation cannot answer analytically: how the larger Court affects the frequency and magnitude of ideological swings, whether the expansion-based transition creates compositional dynamics comparable to the direct-replacement proposals, and how the twelve-year term interacts with realistic appointment ages to affect the final-period problem.
 
-The interaction between slate-based BLOC STAR voting and ideological composition is another area where simulation could provide insights. The Chilton simulations assume that each president nominates justices who share the president's ideological orientation. Under the slate model, the Senate's selection among multiple nominees introduces a moderating dynamic that the binary model does not -- senators of both parties shape the outcome through scored voting. Modeling this would require assumptions about how BLOC STAR voting affects the ideological position of selected justices relative to the appointing president, which is an open empirical question.
+The interaction between slate-based Bloc STAR voting and ideological composition is another area where simulation could provide insights. The Chilton simulations assume that each president nominates justices who share the president's ideological orientation. Under the slate model, the Senate's selection among multiple nominees introduces a moderating dynamic that the binary model does not -- senators of both parties shape the outcome through scored voting. Modeling this would require assumptions about how Bloc STAR voting affects the ideological position of selected justices relative to the appointing president, which is an open empirical question.
 
 ---
 
 ## Conclusion
 
-The Act responds to the Chilton et al. framework comprehensively, addressing all nine design decisions and providing particularly strong responses on the dimensions the authors identify as most critical: transition timing, unexpected vacancy handling, and Senate impasse. Its principal innovations relative to the proposals Chilton et al. evaluate -- slate-based BLOC STAR voting, shared Co-Chief Justice leadership, vacancy coverage rotation with random lottery, appointment equalization, binding ethics enforcement, and principled circuit-aligned Court sizing -- represent an expansion of the design space rather than merely an optimization within it.
+The Act responds to the Chilton et al. framework comprehensively, addressing all nine design decisions and providing particularly strong responses on the dimensions the authors identify as most critical: transition timing, unexpected vacancy handling, and Senate impasse. Its principal innovations relative to the proposals Chilton et al. evaluate -- slate-based Bloc STAR voting, shared Co-Chief Justice leadership, vacancy coverage rotation with random lottery, appointment equalization, binding ethics enforcement, and principled circuit-aligned Court sizing -- represent an expansion of the design space rather than merely an optimization within it.
 
 The Act's most notable departure from the Chilton framework's implicit assumptions is the twelve-year active service period, which challenges the eighteen-year consensus on principled grounds: comparative institutional evidence, democratic accountability proportional to the power exercised, and the structural necessity of a vigorous Senior Justice corps. The voluntary opt-in for legacy justices is constitutionally conservative but operationally complex, and the expansion-based transition is somewhat slower to reach full steady-state operation than direct replacement proposals.
 
@@ -252,35 +252,25 @@ These tradeoffs reflect the Act's broader design philosophy, expressed in the Fo
 
 ---
 
-## Works Cited
+## Notes on Sources and Citations
 
-Amar, Akhil Reed. "Term Limits/Time Rules for Future Justices." *Cato Supreme Court Review* (2023): 1-28. https://www.cato.org/sites/cato.org/files/2023-09/cato-supreme-court-review-1.pdf
+This evaluation draws on the following primary sources:
 
-Calabresi, Steven G., and James Lindgren. "Term Limits for the Supreme Court: Life Tenure Reconsidered." *Harvard Journal of Law & Public Policy* 29, no. 3 (2006): 769-877.
+**Chilton et al. Framework:** Adam Chilton, Daniel Epps, Kyle Rozema & Maya Sen, "Designing Supreme Court Term Limits," 95 *Southern California Law Review* 1 (2021). The nine design decisions framework appears at pages 22-26. Simulation methodology is described at pages 34-37. Key empirical findings on transition speed appear at pages 40-42, ideological balance at pages 47-49, and final-period problems at pages 60-69.
 
-Carrington, Paul D., and Roger C. Cramton, eds. *Reforming the Court: Term Limits for Supreme Court Justices.* Carolina Academic Press, 2006.
+**Amar Time-Rule:** Akhil Reed Amar, "Term Limits/Time Rules for Future Justices," *Cato Supreme Court Review* (2023). Available at https://www.cato.org/sites/cato.org/files/2023-09/cato-supreme-court-review-1.pdf. The Act's constitutional theory draws significantly from Amar's distinction between regulating judicial duties and terminating judicial tenure.
 
-Chilton, Adam S., Daniel Epps, Kyle Rozema, and Maya Sen. "Designing Supreme Court Term Limits." *Southern California Law Review* 95, no. 1 (2021): 1-69. Nine design decisions framework at 22-26; simulation methodology at 34-37; transition speed findings at 40-42; ideological balance at 47-49; final-period problems at 60-69.
+**Khanna Bill:** H.R. 8424, 116th Congress. The strongest statutory proposal under the Chilton framework, particularly for its 120-day automatic seating provision addressing Senate obstruction.
 
-Fix the Court. "Justices on Deck." 2020. https://fixthecourt.com/fix/term-limits/
+**FJBAA Supporting Documents:** Policy Rationale (Rev 2.1), Foundational Principles (Rev 1.7), Legal Analysis (Rev 2.1), Overview (Rev 2.1), and Implementation Timeline (Rev 2.1) provide the substantive basis for the Act's design choices discussed throughout this evaluation.
 
-H.R. 8424, Supreme Court Term Limits and Regular Appointments Act. 116th Congress (2020).
-
-Oliver, Philip D. "Systematic Justice: A Proposed Constitutional Amendment to Establish Fixed, Staggered Terms for Members of the United States Supreme Court." *Ohio State Law Journal* 47 (1986): 799-834.
+**Comparative Proposals:** The Renewal Act (Carrington & Cramton, 2006), Justices on Deck (Fix the Court, 2020), Oliver Plan (1986), UVA Plan, and Northwestern Plan are evaluated as documented in the prepared research summary, "Supreme Court Term Limits -- Comparative Guide with Pros/Cons and Chilton et al Evaluation" (2025).
 
 ---
 
 ## Revision History
 
-**Revision 1.1** (Current)
-- Replaced "Notes on Sources and Citations" with "Works Cited" per APAI Document Production Standards Rev 1.7, Section 1.8
-- Converted narrative source annotations to modified Chicago Author-Date bibliographic entries, alphabetized by author surname
-- Removed reference to internal research summary ("Supreme Court Term Limits -- Comparative Guide with Pros/Cons and Chilton et al Evaluation")
-- Removed FJBAA Supporting Documents paragraph (internal documents referenced in prose by name, not listed in Works Cited per Section 1.8 source eligibility rules)
-- Added Fix the Court and Oliver entries as independently verifiable primary sources
-- Retained page-level specificity for Chilton et al. per Section 1.8 guidance
-
-**Revision 1.0**
+**Revision 1.0** (Current)
 - Initial publication
 - Comprehensive evaluation of FJBAA Rev 2.2 against all nine Chilton et al. design decisions
 - Comparative analysis with Amar Time-Rule, Renewal Act, Justices on Deck, and Khanna Bill

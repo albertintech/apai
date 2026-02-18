@@ -4,7 +4,7 @@
 
 ### Published February 2026
 
-Based on Rev 2.3 of the Federal Judicial Balance and Accountability Act
+Based on Rev 2.2 of the Federal Judicial Balance and Accountability Act
 
 ---
 
@@ -21,7 +21,7 @@ The phased approach serves critical purposes: it spreads appointment opportuniti
 | Phase Two: Court Expansion | Years 1-11 | Full 15-member Court achieved by Year 11 |
 | Phase Three: Three-Phase Career Structure | Year 11+ | Co-Chief Justice service begins Year 11; regular replacement begins Year 13 |
 | Vacancy Coverage and Appointment Equalization | Year 1+ | Vacancy coverage roster active upon first Senior Justice; equalization begins Year 21 |
-| Ethics Infrastructure | Enactment through Year 15+ | IG appointed within one year of enactment; Bridge Panel active as primary supplement until approximately Year 15, available as permanent backstop thereafter |
+| Ethics Infrastructure | Enactment through Year 15+ | IG appointed within one year of enactment; Bridge Panel active until approximately Year 15 |
 | Legacy Opt-In | Enactment+ | Slot schedule published upon enactment; elections open immediately |
 
 ---
@@ -75,7 +75,7 @@ The phased approach serves critical purposes: it spreads appointment opportuniti
 - Committee submits three candidates to the Ethics Review Panel (or Bridge Panel if Panel not yet constituted)
 - Panel selects Inspector General for ten-year non-renewable term
 
-**Bridge Panel constituted (if needed).** If fewer than five Senior Justices are available -- whether by reason of insufficient Senior Justices during the transition period, vacancy coverage rotation assignments, recusals, or any combination thereof:
+**Bridge Panel constituted (if needed).** If fewer than five Senior Justices are available:
 
 - Administrative Office maintains roster of eligible retired circuit chief judges (15+ years Article III service)
 - Clerk of the Supreme Court conducts public lottery to select Bridge Panel members
@@ -125,12 +125,11 @@ The phased approach serves critical purposes: it spreads appointment opportuniti
 - The appointment equalization mechanism (Section 202(d)) ensures each presidential term includes exactly five appointment opportunities once steady state is reached (Year 21)
 - The vacancy coverage roster begins receiving expansion-appointed Senior Justices
 
-**Transition period for Title V ends (approximately).** When five justices appointed under the expansion schedule have transitioned to Senior Justice status, the Bridge Panel is no longer needed as routine supplement:
+**Transition period for Title V ends (approximately).** When five justices appointed under the expansion schedule have transitioned to Senior Justice status, the Bridge Panel mechanism is no longer needed:
 
-- Ethics Review Panel consists predominantly of Senior Justices under normal conditions
-- En banc appellate body has sufficient membership for full appellate review under normal conditions
+- Ethics Review Panel consists entirely of Senior Justices
+- En Banc Senior Body has sufficient membership for full appellate review
 - Bridge Panel members complete service on any pending matters
-- Bridge Panel mechanism remains available as permanent backstop for vacancy rotation exclusions, recusals, or other temporary depletions of the Senior Justice pool
 
 ---
 
@@ -249,8 +248,8 @@ Beginning eleven years after the first expansion appointment, the three-phase ca
 | Year 15 | 2nd Senior Justice from expansion | Two expansion-appointed Senior Justices available |
 | Year 17 | 3rd Senior Justice from expansion | Three expansion-appointed Senior Justices available |
 | Year 19 | 4th Senior Justice from expansion | Four expansion-appointed Senior Justices available |
-| Year 21 | 5th Senior Justice from expansion; Transition period ends | Five expansion-appointed Senior Justices available; Bridge Panel no longer needed as routine supplement |
-| Year 23+ | Steady state | Ethics Review Panel consists predominantly of Senior Justices; Bridge Panel available as backstop for vacancy rotation exclusions and recusals |
+| Year 21 | 5th Senior Justice from expansion; Transition period ends | Five expansion-appointed Senior Justices available; Bridge Panel no longer needed for Panel quorum |
+| Year 23+ | Steady state | Ethics Review Panel consists entirely of Senior Justices |
 
 ### Steady-State Characteristics
 
@@ -300,7 +299,7 @@ Certain provisions must occur in sequence; others may proceed in parallel.
 
 7. **Inspector General appointment before full ethics operations.** While the Code of Conduct becomes binding immediately, investigation and adjudication of complaints requires the Inspector General to be appointed and the Ethics Review Panel (or Bridge Panel) to be constituted.
 
-8. **Expansion-appointed Senior Justices must accumulate before Bridge Panel can transition to backstop role.** The transition period for Title V ends only when five justices appointed under the expansion schedule have reached Senior Justice status, enabling the Ethics Review Panel to function without routine Bridge Panel supplementation. The Bridge Panel mechanism remains permanently available thereafter for temporary depletions caused by vacancy rotation exclusions, recusals, or combinations thereof.
+8. **Expansion-appointed Senior Justices must accumulate before Bridge Panel can retire.** The transition period for Title V ends only when five justices appointed under the expansion schedule have reached Senior Justice status, ensuring the Ethics Review Panel can function without Bridge Panel supplementation.
 
 ### Parallel Tracks
 
@@ -439,7 +438,7 @@ Circuit judges serving when reorganization takes effect:
 - No disruption to ongoing proceedings
 - Appeals filed after circuit reorganization takes effect proceed to the appropriate regional circuit
 
-### Bridge Panel Transition and Permanent Backstop
+### Bridge Panel Transition
 
 During the transition period (until five expansion-appointed justices reach Senior Justice status):
 
@@ -448,13 +447,6 @@ During the transition period (until five expansion-appointed justices reach Seni
 - Bridge Panel members have full powers for Title V purposes
 - Bridge Panel members may not participate in matters under other Titles of the Act
 - Justices who voluntarily elect Senior Justice status may serve on Ethics Review Panel (with recusal for matters involving former colleagues)
-
-After the transition period, the Bridge Panel mechanism remains available as a permanent backstop:
-
-- Senior Justices currently assigned to vacancy coverage rotation are excluded from both the Ethics Review Panel and en banc appellate review
-- If vacancy rotation exclusions, recusals, or combinations thereof reduce available Senior Justices below five (for the Panel) or below three (for en banc review), the Bridge Panel fills remaining positions
-- A Senior Justice whose rotation assignment concludes during a pending matter does not join the Panel or en banc body for that matter
-- The Administrative Office continues to maintain the roster of eligible retired circuit chief judges
 
 ### Inspector General Transition
 
@@ -527,7 +519,7 @@ After the transition period, the Bridge Panel mechanism remains available as a p
 | Fifth expansion appointment | Year 9 |
 | Sixth expansion appointment; full composition achieved; Co-Chief Justice service begins; first Inspector General term expires (if appointed within one year of enactment) | Year 11 |
 | Regular replacement schedule begins; first expansion-appointed Senior Justices; vacancy coverage roster begins receiving expansion appointees | Year 13 |
-| Fifth expansion-appointed Senior Justice; Bridge Panel transitions to backstop role; appointment equalization approaching steady state | Year 21 |
+| Fifth expansion-appointed Senior Justice; Bridge Panel transition ends; appointment equalization approaching steady state | Year 21 |
 | Predictable appointments (5 per presidential term), shared Co-Chief Justice leadership, vacancy coverage, ethics enforcement, and structured compliance assessments continue indefinitely | Year 23+ |
 
 ---
@@ -540,17 +532,7 @@ If the Act is enacted during the presidential term beginning in January 2029, Ye
 
 ## Revision History
 
-**Revision 2.3** (Current)
-- Updated reference line to reflect FJBAA Rev 2.3
-- Updated summary table: Ethics Infrastructure row reflects Bridge Panel as permanent backstop beyond transition period
-- Updated Bridge Panel constitution trigger to enumerate all circumstances (transition period, vacancy rotation exclusions, recusals, combinations)
-- Updated transition period ending description: "predominantly" replaces "entirely" for Senior Justice composition; added permanent backstop language
-- Updated Year 21 and Year 23+ milestone table rows to reflect Bridge Panel backstop role
-- Updated sequential dependency 8: "transition to backstop role" replaces "retire"
-- Renamed "Bridge Panel Transition" section to "Bridge Panel Transition and Permanent Backstop"; added post-transition subsection describing vacancy rotation exclusion from Ethics Review Panel and en banc review, Bridge Panel backstop for temporary depletions, mid-proceeding stability rule, and ongoing roster maintenance
-- Updated Summary Timeline Year 21 milestone
-
-**Revision 2.2**
+**Revision 2.2** (Current)
 - Restructured entire document to eliminate hard-coded calendar dates in favor of enactment-relative and Appointment Schedule-relative milestones
 - Separated timeline into two temporal anchors: "Upon Enactment" (triggers preparatory work) and "Year 1 of the Appointment Schedule" (begins expansion cycle, anchored to first year of the presidential term following enactment)
 - Replaced "Phase One: Circuit Reorganization (2026-2028)" with "Preparatory Phase: Enactment Through Year 1" to reflect flexible timing

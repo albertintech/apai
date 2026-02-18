@@ -4,7 +4,7 @@
 
 ### Published February 2026
 
-Based on Rev 2.3 of the Federal Judicial Balance and Accountability Act
+Based on Rev 2.2 of the Federal Judicial Balance and Accountability Act
 
 ---
 
@@ -161,11 +161,7 @@ The Act's claim to legitimacy rests on this foundation. It does not seek to achi
 
 ## Revision History
 
-**Revision 2.3** (Current)
-- Updated reference line to reflect FJBAA Rev 2.3
-- No substantive changes (Rev 2.3 amendments to Ethics Review Panel vacancy rotation exclusions, en banc appellate review, and Bridge Panel trigger do not affect foundational principles analysis)
-
-**Revision 2.2**
+**Revision 2.2** (Current)
 - Updated reference line to reflect FJBAA Rev 2.2; updated publication date to February 2026
 - Updated Equality principle: replaced "decennial rebalancing" with five-year compliance assessment cycle, district-level building blocks, and tiered response framework
 - Updated Fairness principle: replaced "each presidential term exactly two opportunities" with five appointments per term at steady state; replaced "automatic Chief Justice rotation" with shared Co-Chief Justice leadership; added slate-based nomination with Bloc STAR voting
