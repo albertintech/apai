@@ -1,0 +1,117 @@
+/* Increase table font size for readability */
+.md-typeset table {
+    font-size: 0.9rem;
+}
+
+/* Optional: slightly larger header text */
+.md-typeset table th {
+    font-size: 0.95rem;
+}
+
+/* =============================================================
+   APAI Navigation Category Header Enhancements
+   =============================================================
+
+   These are modular options for making nav section labels
+   (e.g., "Congress & Elections", "Executive Branch") stand out
+   from the clickable nav items beneath them.
+
+   HOW TO USE:
+   - Copy one block at a time into your docs/stylesheets/extra.css
+   - Preview locally with: python3 -m mkdocs serve
+   - Options can be combined (e.g., #2 + #3 works well together)
+   - Adjust values to taste
+
+   TARGET: .md-nav__item--section > .md-nav__link
+   This selector targets the top-level section labels in the nav
+   without affecting the clickable document links beneath them.
+   ============================================================= */
+
+
+/* -------------------------------------------------------------
+   OPTION 1: Left accent border
+   Adds a thin colored bar on the left edge of category headers.
+   ------------------------------------------------------------- */
+
+
+.md-nav__item--section>.md-nav__link {
+    border-left: 3px solid var(--md-primary-fg-color);
+    padding-left: 0.6rem;
+}
+
+
+
+/* -------------------------------------------------------------
+   OPTION 2: Increased spacing above categories
+   Adds breathing room between nav groups.
+   ------------------------------------------------------------- */
+
+
+.md-nav__item--section {
+    margin-top: 1.2rem;
+}
+
+.md-nav__item--section:first-child {
+    margin-top: 0;
+}
+
+
+
+/* -------------------------------------------------------------
+   OPTION 3: Uppercase + letter-spacing
+   Makes category headers look like distinct labels rather than
+   links. Pairs well with Option 2.
+   ------------------------------------------------------------- */
+
+/*
+.md-nav__item--section > .md-nav__link {
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-size: 0.65rem;
+}
+*/
+
+
+/* -------------------------------------------------------------
+   OPTION 4: Faint horizontal divider above categories
+   Adds a subtle top border to separate groups.
+   ------------------------------------------------------------- */
+
+
+.md-nav__item--section {
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+    padding-top: 0.8rem;
+    margin-top: 0.8rem;
+}
+
+.md-nav__item--section:first-child {
+    border-top: none;
+    padding-top: 0;
+    margin-top: 0;
+}
+
+
+
+/* -------------------------------------------------------------
+   OPTION 5: Combined -- spacing + uppercase + accent border
+   The "full treatment" if you want maximum distinction.
+   Combines Options 1, 2, and 3.
+   ------------------------------------------------------------- */
+
+/*
+.md-nav__item--section {
+    margin-top: 1.2rem;
+}
+
+.md-nav__item--section:first-child {
+    margin-top: 0;
+}
+
+.md-nav__item--section > .md-nav__link {
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-size: 0.65rem;
+    border-left: 3px solid var(--md-primary-fg-color);
+    padding-left: 0.6rem;
+}
+*/

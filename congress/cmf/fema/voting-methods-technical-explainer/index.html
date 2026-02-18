@@ -1,0 +1,5555 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="A portfolio of civic systems maintenance proposals">
+      
+      
+        <meta name="author" content="Albert Ramos">
+      
+      
+        <link rel="canonical" href="https://policyarchitecture.org/congress/cmf/fema/voting-methods-technical-explainer/">
+      
+      
+        <link rel="prev" href="../house-member-guide/">
+      
+      
+        <link rel="next" href="../fcao-explainer/">
+      
+      
+        
+      
+      
+      <link rel="icon" href="../../../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.2">
+    
+    
+      
+        <title>Voting Methods Explainer - American Policy Architecture Institute</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../../assets/stylesheets/main.484c7ddc.min.css">
+      
+        
+        <link rel="stylesheet" href="../../../../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../../../stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("../../../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+  
+
+
+  
+  
+
+<script id="__analytics">function __md_analytics(){function e(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],e("js",new Date),e("config","G-TQH8Q7DDKZ"),document.addEventListener("DOMContentLoaded",(function(){document.forms.search&&document.forms.search.query.addEventListener("blur",(function(){this.value&&e("event","search",{search_term:this.value})}));document$.subscribe((function(){var t=document.forms.feedback;if(void 0!==t)for(var a of t.querySelectorAll("[type=submit]"))a.addEventListener("click",(function(a){a.preventDefault();var n=document.location.pathname,d=this.getAttribute("data-md-value");e("event","feedback",{page:n,data:d}),t.firstElementChild.disabled=!0;var r=t.querySelector(".md-feedback__note [data-md-value='"+d+"']");r&&(r.hidden=!1)})),t.hidden=!1})),location$.subscribe((function(t){e("config","G-TQH8Q7DDKZ",{page_path:t.pathname})}))}));var t=document.createElement("script");t.async=!0,t.src="https://www.googletagmanager.com/gtag/js?id=G-TQH8Q7DDKZ",document.getElementById("__analytics").insertAdjacentElement("afterEnd",t)}</script>
+  
+    <script>"undefined"!=typeof __md_analytics&&__md_analytics()</script>
+  
+
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="amber">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#federal-elections-modernization-act" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../../../.." title="American Policy Architecture Institute" class="md-header__button md-logo" aria-label="American Policy Architecture Institute" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            American Policy Architecture Institute
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Voting Methods Explainer
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="amber"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="indigo" data-md-color-accent="amber"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12s-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../../../.." title="American Policy Architecture Institute" class="md-nav__button md-logo" aria-label="American Policy Architecture Institute" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    American Policy Architecture Institute
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Home
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Congress & Elections
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Congress & Elections
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_1" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_2_1" id="__nav_2_1_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Congressional Modernization Framework
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_1_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_2_1">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Congressional Modernization Framework
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../introduction/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Introduction
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../integration-analysis/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Integration Analysis
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_1_3" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_2_1_3" id="__nav_2_1_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Federal Elections Modernization Act
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_2_1_3_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_2_1_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Federal Elections Modernization Act
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../introduction/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Introduction
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../overview/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Overview
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../legislative-text/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Legislative Text
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../policy-rationale/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Policy Rationale
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_1_3_5" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_2_1_3_5" id="__nav_2_1_3_5_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Reference Materials
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="4" aria-labelledby="__nav_2_1_3_5_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_2_1_3_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Reference Materials
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../what-changes-for-voters/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    What Changes For Voters
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../sample-mmd-ballot-12-candidates/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Sample Ballot (Multi-Member District)
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../sample-smd-ballot-9-candidates/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Sample Ballot (Single-Member District)
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../house-member-guide/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    House Member Guide
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Voting Methods Explainer
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Voting Methods Explainer
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#star-voting-and-allocated-score-a-technical-explainer" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        STAR Voting and Allocated Score: A Technical Explainer
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="STAR Voting and Allocated Score: A Technical Explainer">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#published-february-2026" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Published February 2026
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#purpose" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Purpose
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#part-i-star-voting" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Part I: STAR Voting
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Part I: STAR Voting">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#how-you-vote" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        How You Vote
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#how-votes-are-counted" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        How Votes Are Counted
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#why-two-steps" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Why Two Steps?
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#worked-example-a-senate-election" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Worked Example: A Senate Election
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#part-ii-allocated-score" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Part II: Allocated Score
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Part II: Allocated Score">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#why-elect-more-than-one-representative" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Why Elect More Than One Representative?
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#how-you-vote_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        How You Vote
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#the-big-idea-ballot-weight" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        The Big Idea: Ballot Weight
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#how-votes-are-counted_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        How Votes Are Counted
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#how-much-weight-gets-spent" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        How Much Weight Gets Spent?
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#worked-example-a-three-seat-house-district" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Worked Example: A Three-Seat House District
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Worked Example: A Three-Seat House District">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#round-1-filling-the-first-seat" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Round 1: Filling the First Seat
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#round-2-filling-the-second-seat" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Round 2: Filling the Second Seat
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#round-3-filling-the-third-seat" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Round 3: Filling the Third Seat
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#what-the-final-result-tells-us" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        What the Final Result Tells Us
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#part-iii-how-star-and-allocated-score-fit-together" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Part III: How STAR and Allocated Score Fit Together
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Part III: How STAR and Allocated Score Fit Together">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#same-ballot-different-counting" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Same Ballot, Different Counting
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#what-stays-the-same-what-changes" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        What Stays the Same, What Changes
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#who-manages-the-system" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Who Manages the System?
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#part-iv-common-questions" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Part IV: Common Questions
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#appendix-a-mathematical-specification" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Appendix A: Mathematical Specification
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Appendix A: Mathematical Specification">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#a1-star-voting-single-winner" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        A.1 STAR Voting (Single-Winner)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#a2-allocated-score-multi-winner" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        A.2 Allocated Score (Multi-Winner)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#a3-notation-summary" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        A.3 Notation Summary
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#glossary" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Glossary
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#revision-history" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Revision History
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../fcao-explainer/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    FCAO Explainer
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../constitutional-authority-technical-memorandum/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Constitutional Authority Memorandum
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../constitutional-boundaries-of-proportional-representation/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Constitutional Boundaries of PR
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_1_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_1_4" id="__nav_2_1_4_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Office of Congressional Procedure Act
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_2_1_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_1_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Office of Congressional Procedure Act
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ocp/introduction/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Introduction
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ocp/overview/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Overview
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ocp/legislative-text/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Legislative Text
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ocp/policy-rationale/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Policy Rationale
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_1_4_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_1_4_5" id="__nav_2_1_4_5_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Reference Materials
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="4" aria-labelledby="__nav_2_1_4_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_1_4_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Reference Materials
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ocp/constitutional-analysis/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Constitutional Analysis
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_2" id="__nav_2_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Congressional Capacity Commission Act
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Congressional Capacity Commission Act
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../ccc/introduction/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Introduction
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../ccc/overview/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Overview
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../ccc/legislative-text/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Legislative Text
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../ccc/policy-rationale/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Policy Rationale
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_2_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_2_5" id="__nav_2_2_5_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Reference Materials
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_2_2_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_2_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Reference Materials
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../ccc/implementation-timeline/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Implementation Timeline
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_3" id="__nav_2_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Candidate Verification and Transparency Act
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Candidate Verification and Transparency Act
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../cvta/introduction/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Introduction
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../cvta/overview/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Overview
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../cvta/legislative-text/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Legislative Text
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../cvta/policy-rationale/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Policy Rationale
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_3_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_3_5" id="__nav_2_3_5_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Reference Materials
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_2_3_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_3_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Reference Materials
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../cvta/implementation-timeline/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Implementation Timeline
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Executive Branch
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Executive Branch
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_1" id="__nav_3_1_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Civil Service Accountability Act
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_1">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Civil Service Accountability Act
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../executive/csaa/introduction/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Introduction
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../executive/csaa/future-state-analysis/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Future State Analysis
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../executive/csaa/overview/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Overview
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../executive/csaa/legislative-text/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Legislative Text
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../executive/csaa/policy-rationale/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Policy Rationale
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_1_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_1_6" id="__nav_3_1_6_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Reference Materials
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_3_1_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_1_6">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Reference Materials
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../executive/csaa/international-comparison/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    International Comparative Analysis
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../executive/csaa/constitutional-analysis/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Constitutional and Legal Analysis
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../executive/csaa/economic-analysis/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Economic Analysis
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../executive/csaa/laying-the-groundwork/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    CMF Interaction Analysis
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Federal Judiciary
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Federal Judiciary
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_4_1" id="__nav_4_1_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Federal Judicial Balance and Accountability Act
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_1">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Federal Judicial Balance and Accountability Act
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../judiciary/fjbaa/introduction/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Introduction
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../judiciary/fjbaa/overview/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Overview
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../judiciary/fjbaa/legislative-text/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Legislative Text
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../judiciary/fjbaa/circuit-maps/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Circuit Maps
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../judiciary/fjbaa/policy-rationale/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Policy Rationale
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_1_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_4_1_6" id="__nav_4_1_6_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Reference Materials
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_4_1_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_1_6">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Reference Materials
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../judiciary/fjbaa/legal-analysis/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Legal Analysis
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../judiciary/fjbaa/foundational-principles/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Foundational Principles
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../judiciary/fjbaa/implementation-timeline/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Implementation Timeline
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../judiciary/fjbaa/emergent-benefits-of-principled-design/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Emergent Benefits of Principled Design
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_1_7" >
+        
+          
+          <label class="md-nav__link" for="__nav_4_1_7" id="__nav_4_1_7_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Position Papers
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_4_1_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_1_7">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Position Papers
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../judiciary/fjbaa/chilton-framework-evaluation/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Evaluation Against the Chilton Framework
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../judiciary/fjbaa/the-case-for-twelve-years/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    The Case for Twelve-Year Active Service
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Economic Stability & Security
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Economic Stability & Security
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_5_1" id="__nav_5_1_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    American Shared Prosperity Compact
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_5_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5_1">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    American Shared Prosperity Compact
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../aspc/introduction/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Introduction
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../aspc/overview/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Overview
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../aspc/integration-and-sequencing-guide/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Integration and Sequencing Guide
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../aspc/frequently-asked-questions/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    FAQ
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_1_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5_1_5" id="__nav_5_1_5_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    American Prosperity and Stability Act
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_5_1_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5_1_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    American Prosperity and Stability Act
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../aspc/apsa/introduction/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Introduction
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../aspc/apsa/overview/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Overview
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../aspc/apsa/legislative-text/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Legislative Text
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../aspc/apsa/policy-rationale/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Policy Rationale
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_1_5_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5_1_5_5" id="__nav_5_1_5_5_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Reference Materials
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="4" aria-labelledby="__nav_5_1_5_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5_1_5_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Reference Materials
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../aspc/apsa/future-state-analysis/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Future State Analysis
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../aspc/apsa/implementation-timeline/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Implementation Timeline
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../aspc/apsa/constituency-impact-analysis/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Constituency Impact Analysis
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_1_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_5_1_6" id="__nav_5_1_6_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    American Payment Network Act
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_5_1_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5_1_6">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    American Payment Network Act
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../aspc/apna/introduction/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Introduction
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../aspc/apna/overview/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Overview
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../aspc/apna/legislative-text/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Legislative Text
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../aspc/apna/policy-rationale/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Policy Rationale
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_1_6_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5_1_6_5" id="__nav_5_1_6_5_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Reference Materials
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="4" aria-labelledby="__nav_5_1_6_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5_1_6_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Reference Materials
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../aspc/apna/future-state-analysis/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Future State Analysis
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../aspc/apna/implementation-timeline/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Implementation Timeline
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../aspc/apna/constituency-impact-analysis/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Constituency Impact Analysis
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_1_7" >
+        
+          
+          <label class="md-nav__link" for="__nav_5_1_7" id="__nav_5_1_7_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Secure Our Children Act
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_5_1_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5_1_7">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Secure Our Children Act
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../aspc/soca/introduction/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Introduction
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../aspc/soca/overview/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Overview
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../aspc/soca/legislative-text/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Legislative Text
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../aspc/soca/policy-rationale/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Policy Rationale
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_1_7_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5_1_7_5" id="__nav_5_1_7_5_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Reference Materials
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="4" aria-labelledby="__nav_5_1_7_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5_1_7_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Reference Materials
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../aspc/soca/implementation-timeline/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Implementation Timeline
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../aspc/soca/constituency-impact-analysis/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Constituency Impact Analysis
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_1_8" >
+        
+          
+          <label class="md-nav__link" for="__nav_5_1_8" id="__nav_5_1_8_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Comparative Analysis
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_5_1_8_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5_1_8">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Comparative Analysis
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../aspc/comparative-analysis-edaa/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    ASPC vs. EDAA
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#star-voting-and-allocated-score-a-technical-explainer" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        STAR Voting and Allocated Score: A Technical Explainer
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="STAR Voting and Allocated Score: A Technical Explainer">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#published-february-2026" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Published February 2026
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#purpose" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Purpose
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#part-i-star-voting" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Part I: STAR Voting
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Part I: STAR Voting">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#how-you-vote" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        How You Vote
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#how-votes-are-counted" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        How Votes Are Counted
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#why-two-steps" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Why Two Steps?
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#worked-example-a-senate-election" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Worked Example: A Senate Election
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#part-ii-allocated-score" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Part II: Allocated Score
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Part II: Allocated Score">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#why-elect-more-than-one-representative" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Why Elect More Than One Representative?
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#how-you-vote_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        How You Vote
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#the-big-idea-ballot-weight" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        The Big Idea: Ballot Weight
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#how-votes-are-counted_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        How Votes Are Counted
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#how-much-weight-gets-spent" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        How Much Weight Gets Spent?
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#worked-example-a-three-seat-house-district" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Worked Example: A Three-Seat House District
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Worked Example: A Three-Seat House District">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#round-1-filling-the-first-seat" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Round 1: Filling the First Seat
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#round-2-filling-the-second-seat" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Round 2: Filling the Second Seat
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#round-3-filling-the-third-seat" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Round 3: Filling the Third Seat
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#what-the-final-result-tells-us" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        What the Final Result Tells Us
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#part-iii-how-star-and-allocated-score-fit-together" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Part III: How STAR and Allocated Score Fit Together
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Part III: How STAR and Allocated Score Fit Together">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#same-ballot-different-counting" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Same Ballot, Different Counting
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#what-stays-the-same-what-changes" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        What Stays the Same, What Changes
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#who-manages-the-system" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Who Manages the System?
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#part-iv-common-questions" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Part IV: Common Questions
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#appendix-a-mathematical-specification" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Appendix A: Mathematical Specification
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Appendix A: Mathematical Specification">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#a1-star-voting-single-winner" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        A.1 STAR Voting (Single-Winner)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#a2-allocated-score-multi-winner" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        A.2 Allocated Score (Multi-Winner)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#a3-notation-summary" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        A.3 Notation Summary
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#glossary" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Glossary
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#revision-history" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Revision History
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<h1 id="federal-elections-modernization-act">Federal Elections Modernization Act<a class="headerlink" href="#federal-elections-modernization-act" title="Permanent link">&para;</a></h1>
+<h2 id="star-voting-and-allocated-score-a-technical-explainer">STAR Voting and Allocated Score: A Technical Explainer<a class="headerlink" href="#star-voting-and-allocated-score-a-technical-explainer" title="Permanent link">&para;</a></h2>
+<h3 id="published-february-2026">Published February 2026<a class="headerlink" href="#published-february-2026" title="Permanent link">&para;</a></h3>
+<p>Based on Rev 5.0 of the Federal Elections Modernization Act</p>
+<hr />
+<h2 id="purpose">Purpose<a class="headerlink" href="#purpose" title="Permanent link">&para;</a></h2>
+<p>This document explains how votes are counted under the Federal Elections Modernization Act (FEMA), hereafter referred to as "the Act." It covers both voting methods used in federal elections:</p>
+<ol>
+<li><strong>STAR Voting</strong> -- used when one person is being elected (President, Senate, and some House races).</li>
+<li><strong>Allocated Score</strong> -- used when multiple people are being elected from the same district (most House races).</li>
+</ol>
+<p><strong>This document is written for voters.</strong> It assumes no background in math, political science, or election administration. Every step of both counting methods is explained in plain language with worked examples you can follow and verify yourself. A glossary of technical terms is included at the end.</p>
+<p>Both methods use the same ballot. You score candidates from 0 to 5 stars. What changes between single-winner and multi-winner elections is how those scores are added up to determine who wins. This document shows you exactly how that works, with nothing hidden.</p>
+<hr />
+<h2 id="part-i-star-voting">Part I: STAR Voting<a class="headerlink" href="#part-i-star-voting" title="Permanent link">&para;</a></h2>
+<p>STAR stands for <strong>Score Then Automatic Runoff</strong>. It is used whenever an election is choosing one winner -- for President, for Senate, or for House districts that elect fewer than three Representatives.</p>
+<h3 id="how-you-vote">How You Vote<a class="headerlink" href="#how-you-vote" title="Permanent link">&para;</a></h3>
+<p>You receive a ballot listing all the candidates. Next to each name is a rating scale from 0 to 5 stars.</p>
+<ul>
+<li><strong>5 stars</strong> means you strongly support this candidate.</li>
+<li><strong>0 stars</strong> means you do not support this candidate at all.</li>
+<li><strong>1 through 4 stars</strong> lets you show different levels of support in between.</li>
+</ul>
+<p>You can score as many or as few candidates as you want. You can give the same score to more than one candidate. If you leave a candidate blank, they receive 0 stars from your ballot.</p>
+<p>There are no rankings, no party lists, and no requirement to rate every candidate. Your only task is: score each candidate based on how much you support them.</p>
+<h3 id="how-votes-are-counted">How Votes Are Counted<a class="headerlink" href="#how-votes-are-counted" title="Permanent link">&para;</a></h3>
+<p>STAR voting counts your ballot in two steps. Each step answers a different question.</p>
+<p><strong>Step 1: The Scoring Round</strong></p>
+<p>Every score from every voter is added up. Each candidate gets a total score -- the sum of all the ratings they received from all voters. The two candidates with the highest total scores move on to the next step. They become the <strong>finalists</strong>.</p>
+<p>This step answers the question: <em>Which two candidates have the most overall support?</em></p>
+<p><strong>Step 2: The Automatic Runoff</strong></p>
+<p>Now every ballot is looked at one more time. For each voter, the system checks: which of the two finalists did you give a higher score? Your full vote goes to that finalist. The finalist who is preferred by more voters wins the election.</p>
+<p>This step answers the question: <em>Between the top two, which one do more voters actually prefer?</em></p>
+<h3 id="why-two-steps">Why Two Steps?<a class="headerlink" href="#why-two-steps" title="Permanent link">&para;</a></h3>
+<p>Each step catches something the other one would miss.</p>
+<p>The scoring round makes sure that the finalists are candidates with broad support. A candidate who is loved by a small group but unknown or disliked by everyone else will not score high enough overall to become a finalist.</p>
+<p>The automatic runoff makes sure the winner is preferred by a majority. It is possible for one candidate to have a higher total score but still lose the head-to-head comparison. The runoff catches this and ensures the winner is the one more voters prefer when it comes down to two.</p>
+<p>Together, the two steps identify the candidate who has both wide support and majority preference.</p>
+<h3 id="worked-example-a-senate-election">Worked Example: A Senate Election<a class="headerlink" href="#worked-example-a-senate-election" title="Permanent link">&para;</a></h3>
+<p>Imagine a Senate election with five candidates and 100 voters.</p>
+<p><strong>The Candidates:</strong></p>
+<ul>
+<li>Rivera</li>
+<li>Okafor</li>
+<li>Walsh</li>
+<li>Tanaka</li>
+<li>Fischer</li>
+</ul>
+<p><strong>Step 1: The Scoring Round</strong></p>
+<p>After all 100 voters have turned in their ballots, election officials count how many voters gave each candidate each score. The results are shown in the table below.</p>
+<p><strong>Table 1: How Voters Scored Each Candidate</strong></p>
+<table>
+<thead>
+<tr>
+<th>Candidate</th>
+<th style="text-align: center;">0 Stars</th>
+<th style="text-align: center;">1 Star</th>
+<th style="text-align: center;">2 Stars</th>
+<th style="text-align: center;">3 Stars</th>
+<th style="text-align: center;">4 Stars</th>
+<th style="text-align: center;">5 Stars</th>
+<th style="text-align: center;">Total Voters</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Rivera</td>
+<td style="text-align: center;">20</td>
+<td style="text-align: center;">20</td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">25</td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">35</td>
+<td style="text-align: center;">100</td>
+</tr>
+<tr>
+<td>Okafor</td>
+<td style="text-align: center;">30</td>
+<td style="text-align: center;">20</td>
+<td style="text-align: center;">10</td>
+<td style="text-align: center;">5</td>
+<td style="text-align: center;">20</td>
+<td style="text-align: center;">15</td>
+<td style="text-align: center;">100</td>
+</tr>
+<tr>
+<td>Walsh</td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">35</td>
+<td style="text-align: center;">20</td>
+<td style="text-align: center;">20</td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">25</td>
+<td style="text-align: center;">100</td>
+</tr>
+<tr>
+<td>Tanaka</td>
+<td style="text-align: center;">40</td>
+<td style="text-align: center;">10</td>
+<td style="text-align: center;">10</td>
+<td style="text-align: center;">5</td>
+<td style="text-align: center;">15</td>
+<td style="text-align: center;">20</td>
+<td style="text-align: center;">100</td>
+</tr>
+<tr>
+<td>Fischer</td>
+<td style="text-align: center;">40</td>
+<td style="text-align: center;">20</td>
+<td style="text-align: center;">5</td>
+<td style="text-align: center;">10</td>
+<td style="text-align: center;">5</td>
+<td style="text-align: center;">20</td>
+<td style="text-align: center;">100</td>
+</tr>
+</tbody>
+</table>
+<p><strong>How to read this table:</strong> Each row is one candidate. Each column shows how many voters gave that candidate that score. Take Rivera's row: 20 voters gave Rivera 0 stars, 20 voters gave Rivera 1 star, 0 voters gave Rivera 2 stars, 25 voters gave Rivera 3 stars, 0 voters gave Rivera 4 stars, and 35 voters gave Rivera 5 stars. Since every voter scored every candidate, each row adds up to 100.</p>
+<p>Now we calculate each candidate's total score. This is pure addition -- we are adding up every score every voter gave. The table below uses multiplication as a shorthand to make this manageable. Instead of writing out "1 + 1 + 1 + 1..." twenty times, we write "20 times 1 equals 20." The result is the same.</p>
+<p><strong>Table 2: Score Calculation</strong></p>
+<table>
+<thead>
+<tr>
+<th>Candidate</th>
+<th style="text-align: center;">x0</th>
+<th style="text-align: center;">x1</th>
+<th style="text-align: center;">x2</th>
+<th style="text-align: center;">x3</th>
+<th style="text-align: center;">x4</th>
+<th style="text-align: center;">x5</th>
+<th style="text-align: center;">Total Score</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Rivera</td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">20</td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">75</td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">175</td>
+<td style="text-align: center;"><strong>270</strong></td>
+</tr>
+<tr>
+<td>Okafor</td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">20</td>
+<td style="text-align: center;">20</td>
+<td style="text-align: center;">15</td>
+<td style="text-align: center;">80</td>
+<td style="text-align: center;">75</td>
+<td style="text-align: center;"><strong>210</strong></td>
+</tr>
+<tr>
+<td>Walsh</td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">35</td>
+<td style="text-align: center;">40</td>
+<td style="text-align: center;">60</td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">125</td>
+<td style="text-align: center;"><strong>260</strong></td>
+</tr>
+<tr>
+<td>Tanaka</td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">10</td>
+<td style="text-align: center;">20</td>
+<td style="text-align: center;">15</td>
+<td style="text-align: center;">60</td>
+<td style="text-align: center;">100</td>
+<td style="text-align: center;"><strong>205</strong></td>
+</tr>
+<tr>
+<td>Fischer</td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">20</td>
+<td style="text-align: center;">10</td>
+<td style="text-align: center;">30</td>
+<td style="text-align: center;">20</td>
+<td style="text-align: center;">100</td>
+<td style="text-align: center;"><strong>180</strong></td>
+</tr>
+</tbody>
+</table>
+<p><strong>How to read this table:</strong> This table takes the voter counts from Table 1 and turns them into scores. Take Rivera's row again:</p>
+<ul>
+<li>Rivera received 20 scores of 0. That is 20 times 0, which equals a subtotal of <strong>0</strong>.</li>
+<li>Rivera received 20 scores of 1. That is 20 times 1, which equals a subtotal of <strong>20</strong>.</li>
+<li>Rivera received 0 scores of 2. Subtotal: <strong>0</strong>.</li>
+<li>Rivera received 25 scores of 3. That is 25 times 3, which equals a subtotal of <strong>75</strong>.</li>
+<li>Rivera received 0 scores of 4. Subtotal: <strong>0</strong>.</li>
+<li>Rivera received 35 scores of 5. That is 35 times 5, which equals a subtotal of <strong>175</strong>.</li>
+</ul>
+<p>Adding up all of Rivera's subtotals: 0 + 20 + 0 + 75 + 0 + 175 = <strong>270</strong>. That is Rivera's total score.</p>
+<p>The same calculation applies to every candidate. The two candidates with the highest total scores -- <strong>Rivera (270)</strong> and <strong>Walsh (260)</strong> -- become the finalists and advance to the automatic runoff.</p>
+<p><strong>Step 2: The Automatic Runoff</strong></p>
+<p>Now every ballot is looked at one more time. For each voter, the system asks a simple question: which finalist did you score higher, Rivera or Walsh? Your full vote goes to that finalist.</p>
+<table>
+<thead>
+<tr>
+<th>Preference</th>
+<th style="text-align: center;">Voters</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Scored Rivera higher than Walsh</td>
+<td style="text-align: center;">35</td>
+</tr>
+<tr>
+<td>Scored Walsh higher than Rivera</td>
+<td style="text-align: center;">65</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Walsh wins, 65 to 35.</strong></p>
+<p><strong>What does this tell us?</strong></p>
+<p>Look back at Table 1. Rivera had the most 5-star ratings of any candidate (35 voters gave Rivera the top score). But Rivera also had 20 voters at 0 stars -- one in five voters gave Rivera the lowest possible rating. Rivera had passionate supporters but also real opposition.</p>
+<p>Walsh, on the other hand, had zero voters at 0 stars. Nobody strongly opposed Walsh. Walsh's support was spread across the upper score levels -- 25 voters at 5 stars, 20 at 3 stars, 20 at 2 stars, and 35 at 1 star. That broad, cross-cutting support produced the second-highest total score in the scoring round and a decisive majority in the runoff.</p>
+<p>The scoring round identified the two candidates with the most overall support. The runoff then determined which of those two the majority of voters actually preferred. Rivera's passionate base was not enough to overcome Walsh's wider appeal.</p>
+<p>Under the old system where you pick just one candidate, five candidates would split the vote badly -- someone could win with as little as 21% support while 79% of voters preferred someone else. STAR voting lets you honestly score all five candidates, and the two-step process makes sure the winner has both broad support and majority preference.</p>
+<hr />
+<h2 id="part-ii-allocated-score">Part II: Allocated Score<a class="headerlink" href="#part-ii-allocated-score" title="Permanent link">&para;</a></h2>
+<p>Allocated Score is used when a district is electing more than one Representative at the same time. Under the Act, most House districts elect between 3 and 7 Representatives. Allocated Score is how those multiple seats get filled fairly.</p>
+<p>You may also see this method called <strong>STAR-PR</strong> (STAR Proportional Representation). Both names refer to the same thing.</p>
+<h3 id="why-elect-more-than-one-representative">Why Elect More Than One Representative?<a class="headerlink" href="#why-elect-more-than-one-representative" title="Permanent link">&para;</a></h3>
+<p>When a district elects only one person, the winner takes the whole seat and everyone who voted for someone else gets nothing. If a district is 60% one party and 40% the other, the 40% will likely never win that seat. Their votes are effectively wasted, election after election.</p>
+<p>Multi-member districts fix this. A district that elects 5 Representatives can give roughly 3 seats to the 60% and 2 seats to the 40%. Voters across the political spectrum get representation in proportion to their numbers. That is what "proportional representation" means: your share of the seats reflects your share of the voters.</p>
+<p>Allocated Score is the method that makes this proportional allocation happen.</p>
+<h3 id="how-you-vote_1">How You Vote<a class="headerlink" href="#how-you-vote_1" title="Permanent link">&para;</a></h3>
+<p>Exactly the same as STAR voting. You score each candidate from 0 to 5 stars. The ballot looks the same. Your task is the same. The only difference is that the district is electing multiple winners instead of one.</p>
+<h3 id="the-big-idea-ballot-weight">The Big Idea: Ballot Weight<a class="headerlink" href="#the-big-idea-ballot-weight" title="Permanent link">&para;</a></h3>
+<p>To understand Allocated Score, you need one new concept: <strong>ballot weight</strong>.</p>
+<p>Think of your ballot as having a battery. When the election starts, your battery is fully charged -- your ballot has a weight of 1, meaning it counts at full strength.</p>
+<p>When a candidate you supported wins a seat, some of your battery gets used up. Your ballot weight goes down, because you have already gotten some of what you wanted -- one of your preferred candidates is now elected. This means your ballot has less influence on the remaining seats.</p>
+<p>Meanwhile, voters whose preferred candidates have not won yet still have full batteries. Their ballots now carry more weight in deciding who fills the next seat.</p>
+<p>This is what makes the outcome fair and proportional. Once a group of voters has elected their preferred candidate, they step back and make room for other voters' preferences to be heard. No single group can sweep all the seats, because their ballot weight gets spent as their candidates win.</p>
+<h3 id="how-votes-are-counted_1">How Votes Are Counted<a class="headerlink" href="#how-votes-are-counted_1" title="Permanent link">&para;</a></h3>
+<p>Allocated Score fills one seat at a time through a series of rounds. Here is what happens in each round:</p>
+<p><strong>1. Add up the scores.</strong> For each candidate who has not already won a seat, add up all the scores they received -- but now each score is multiplied by that ballot's current weight. In the first round, all ballot weights are 1, so this is just simple addition like in STAR voting. In later rounds, some ballots will weigh less because those voters already helped elect someone.</p>
+<p><strong>2. The highest-scoring candidate wins the next seat.</strong></p>
+<p><strong>3. Reduce ballot weights.</strong> Every ballot that gave the winning candidate a score above 0 has its weight reduced. The more you supported the winner, the more your weight goes down. Ballots that gave the winner 0 stars are not affected at all.</p>
+<p><strong>4. Repeat</strong> until all seats are filled.</p>
+<h3 id="how-much-weight-gets-spent">How Much Weight Gets Spent?<a class="headerlink" href="#how-much-weight-gets-spent" title="Permanent link">&para;</a></h3>
+<p>Before the first round, a number called the <strong>quota</strong> is calculated. The quota is the total number of voters divided by the number of seats. In an election with 30 voters filling 3 seats, the quota is 30 divided by 3, which equals 10.</p>
+<p>The quota represents the "cost" of one seat. In each round, a total of exactly 10 units of ballot weight (in our example) gets spent across all the ballots that supported the winning candidate. How much each individual ballot pays depends on how strongly that ballot supported the winner compared to everyone else who supported the winner.</p>
+<p>If you gave the winner 5 stars and most other supporters gave 3 stars, you pay a bigger share of the cost. If you only gave the winner 1 star, you pay a smaller share. This is fair: voters who got more of what they wanted give up more of their remaining influence.</p>
+<h3 id="worked-example-a-three-seat-house-district">Worked Example: A Three-Seat House District<a class="headerlink" href="#worked-example-a-three-seat-house-district" title="Permanent link">&para;</a></h3>
+<p>Let's walk through a full example. This district has 30 voters electing 3 Representatives from a field of 6 candidates.</p>
+<p><strong>The quota is 30 voters / 3 seats = 10.</strong></p>
+<p><strong>The Candidates:</strong></p>
+<ul>
+<li>Lin</li>
+<li>Garcia</li>
+<li>Kim</li>
+<li>Murphy</li>
+<li>Patel</li>
+<li>Brooks</li>
+</ul>
+<p><strong>The Voters:</strong></p>
+<p>The 30 voters fall into three groups based on their scoring patterns. In real elections, voter preferences are far more varied and complex -- we use groups here only to keep the example small enough to follow by hand. The math works the same regardless of whether voters fall into neat groups or each voter scores differently.</p>
+<table>
+<thead>
+<tr>
+<th>Voter Group</th>
+<th style="text-align: center;">Number of Voters</th>
+<th style="text-align: center;">Lin</th>
+<th style="text-align: center;">Garcia</th>
+<th style="text-align: center;">Kim</th>
+<th style="text-align: center;">Murphy</th>
+<th style="text-align: center;">Patel</th>
+<th style="text-align: center;">Brooks</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Group 1</td>
+<td style="text-align: center;">15</td>
+<td style="text-align: center;">5</td>
+<td style="text-align: center;">4</td>
+<td style="text-align: center;">2</td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">1</td>
+</tr>
+<tr>
+<td>Group 2</td>
+<td style="text-align: center;">10</td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">5</td>
+<td style="text-align: center;">4</td>
+<td style="text-align: center;">0</td>
+</tr>
+<tr>
+<td>Group 3</td>
+<td style="text-align: center;">5</td>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">2</td>
+<td style="text-align: center;">5</td>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">3</td>
+</tr>
+</tbody>
+</table>
+<p><strong>How to read this table:</strong> Each row is a group of voters who scored the candidates the same way. The 15 voters in Group 1 each gave Lin 5 stars, Garcia 4 stars, Kim 2 stars, Murphy 0 stars, Patel 0 stars, and Brooks 1 star. The 10 voters in Group 2 each gave Lin 0 stars, Garcia 0 stars, Kim 1 star, Murphy 5 stars, Patel 4 stars, and Brooks 0 stars. And so on for Group 3.</p>
+<p>Now let's fill the three seats.</p>
+<h4 id="round-1-filling-the-first-seat">Round 1: Filling the First Seat<a class="headerlink" href="#round-1-filling-the-first-seat" title="Permanent link">&para;</a></h4>
+<p>All 30 ballots start with a weight of 1 (full strength). We add up each candidate's scores across all ballots.</p>
+<p><strong>Table 3: Round 1 Score Calculation</strong></p>
+<table>
+<thead>
+<tr>
+<th>Candidate</th>
+<th style="text-align: center;">From Group 1 (15 voters)</th>
+<th style="text-align: center;">From Group 2 (10 voters)</th>
+<th style="text-align: center;">From Group 3 (5 voters)</th>
+<th style="text-align: center;">Total Score</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Lin</td>
+<td style="text-align: center;">15 x 5 = 75</td>
+<td style="text-align: center;">10 x 0 = 0</td>
+<td style="text-align: center;">5 x 1 = 5</td>
+<td style="text-align: center;"><strong>80</strong></td>
+</tr>
+<tr>
+<td>Garcia</td>
+<td style="text-align: center;">15 x 4 = 60</td>
+<td style="text-align: center;">10 x 0 = 0</td>
+<td style="text-align: center;">5 x 2 = 10</td>
+<td style="text-align: center;"><strong>70</strong></td>
+</tr>
+<tr>
+<td>Kim</td>
+<td style="text-align: center;">15 x 2 = 30</td>
+<td style="text-align: center;">10 x 1 = 10</td>
+<td style="text-align: center;">5 x 5 = 25</td>
+<td style="text-align: center;"><strong>65</strong></td>
+</tr>
+<tr>
+<td>Murphy</td>
+<td style="text-align: center;">15 x 0 = 0</td>
+<td style="text-align: center;">10 x 5 = 50</td>
+<td style="text-align: center;">5 x 1 = 5</td>
+<td style="text-align: center;"><strong>55</strong></td>
+</tr>
+<tr>
+<td>Patel</td>
+<td style="text-align: center;">15 x 0 = 0</td>
+<td style="text-align: center;">10 x 4 = 40</td>
+<td style="text-align: center;">5 x 0 = 0</td>
+<td style="text-align: center;"><strong>40</strong></td>
+</tr>
+<tr>
+<td>Brooks</td>
+<td style="text-align: center;">15 x 1 = 15</td>
+<td style="text-align: center;">10 x 0 = 0</td>
+<td style="text-align: center;">5 x 3 = 15</td>
+<td style="text-align: center;"><strong>30</strong></td>
+</tr>
+</tbody>
+</table>
+<p><strong>How to read this table:</strong> Take Lin's row. The 15 voters in Group 1 each gave Lin 5 stars, so their contribution is 15 times 5, which equals 75. The 10 voters in Group 2 each gave Lin 0 stars, so their contribution is 0. The 5 voters in Group 3 each gave Lin 1 star, so their contribution is 5 times 1, which equals 5. Add those up: 75 + 0 + 5 = 80. That is Lin's total score.</p>
+<p><strong>Lin wins the first seat</strong> with a total score of 80.</p>
+<p><strong>Now we reduce ballot weights.</strong> Lin's total score was 80, and the quota is 10. Every ballot that gave Lin a score above 0 will have its weight reduced. The reduction depends on how much each ballot contributed to Lin's total compared to the full total of 80.</p>
+<p>Here is how the weight reduction works for each group:</p>
+<p><strong>Group 1 voters</strong> (15 voters, each gave Lin 5 stars):</p>
+<ul>
+<li>Each ballot's contribution to Lin: weight (1.0) times score (5) = 5.0</li>
+<li>Share of Lin's total: 5.0 out of 80 = 0.0625 per ballot</li>
+<li>Weight spent per ballot: quota (10) times 0.0625 = 0.625</li>
+<li>New ballot weight: 1.0 minus 0.625 = <strong>0.375</strong></li>
+</ul>
+<p>These voters gave Lin their strongest support, so they pay the most. Their ballots now count at about a third of full strength.</p>
+<p><strong>Group 2 voters</strong> (10 voters, each gave Lin 0 stars):</p>
+<ul>
+<li>These voters gave Lin nothing, so they contributed nothing to Lin's election.</li>
+<li>Weight spent: 0</li>
+<li>New ballot weight: <strong>1.000</strong> (unchanged)</li>
+</ul>
+<p>These voters did not help elect Lin, so their ballots stay at full strength. This is the key to proportionality -- they still have their full voice for the next seat.</p>
+<p><strong>Group 3 voters</strong> (5 voters, each gave Lin 1 star):</p>
+<ul>
+<li>Each ballot's contribution to Lin: weight (1.0) times score (1) = 1.0</li>
+<li>Share of Lin's total: 1.0 out of 80 = 0.0125 per ballot</li>
+<li>Weight spent per ballot: quota (10) times 0.0125 = 0.125</li>
+<li>New ballot weight: 1.0 minus 0.125 = <strong>0.875</strong></li>
+</ul>
+<p>These voters gave Lin only mild support, so they pay only a small amount. Their ballots are still nearly full strength.</p>
+<p><strong>Summary after Round 1:</strong></p>
+<table>
+<thead>
+<tr>
+<th>Voter Group</th>
+<th style="text-align: center;">Voters</th>
+<th style="text-align: center;">New Ballot Weight</th>
+<th>Why</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Group 1</td>
+<td style="text-align: center;">15</td>
+<td style="text-align: center;">0.375</td>
+<td>Gave Lin 5 stars -- paid the most</td>
+</tr>
+<tr>
+<td>Group 2</td>
+<td style="text-align: center;">10</td>
+<td style="text-align: center;">1.000</td>
+<td>Gave Lin 0 stars -- unaffected</td>
+</tr>
+<tr>
+<td>Group 3</td>
+<td style="text-align: center;">5</td>
+<td style="text-align: center;">0.875</td>
+<td>Gave Lin 1 star -- paid a little</td>
+</tr>
+</tbody>
+</table>
+<h4 id="round-2-filling-the-second-seat">Round 2: Filling the Second Seat<a class="headerlink" href="#round-2-filling-the-second-seat" title="Permanent link">&para;</a></h4>
+<p>Now we recalculate scores, but this time each ballot's score is multiplied by its current weight. Lin is removed from the candidate list since Lin already has a seat.</p>
+<p><strong>Table 4: Round 2 Weighted Score Calculation</strong></p>
+<table>
+<thead>
+<tr>
+<th>Candidate</th>
+<th style="text-align: center;">Group 1 (15 voters x 0.375)</th>
+<th style="text-align: center;">Group 2 (10 voters x 1.0)</th>
+<th style="text-align: center;">Group 3 (5 voters x 0.875)</th>
+<th style="text-align: center;">Weighted Total</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Garcia</td>
+<td style="text-align: center;">15 x 0.375 x 4 = 22.5</td>
+<td style="text-align: center;">10 x 1.0 x 0 = 0</td>
+<td style="text-align: center;">5 x 0.875 x 2 = 8.8</td>
+<td style="text-align: center;"><strong>31.3</strong></td>
+</tr>
+<tr>
+<td>Kim</td>
+<td style="text-align: center;">15 x 0.375 x 2 = 11.3</td>
+<td style="text-align: center;">10 x 1.0 x 1 = 10.0</td>
+<td style="text-align: center;">5 x 0.875 x 5 = 21.9</td>
+<td style="text-align: center;"><strong>43.1</strong></td>
+</tr>
+<tr>
+<td>Murphy</td>
+<td style="text-align: center;">15 x 0.375 x 0 = 0</td>
+<td style="text-align: center;">10 x 1.0 x 5 = 50.0</td>
+<td style="text-align: center;">5 x 0.875 x 1 = 4.4</td>
+<td style="text-align: center;"><strong>54.4</strong></td>
+</tr>
+<tr>
+<td>Patel</td>
+<td style="text-align: center;">15 x 0.375 x 0 = 0</td>
+<td style="text-align: center;">10 x 1.0 x 4 = 40.0</td>
+<td style="text-align: center;">5 x 0.875 x 0 = 0</td>
+<td style="text-align: center;"><strong>40.0</strong></td>
+</tr>
+<tr>
+<td>Brooks</td>
+<td style="text-align: center;">15 x 0.375 x 1 = 5.6</td>
+<td style="text-align: center;">10 x 1.0 x 0 = 0</td>
+<td style="text-align: center;">5 x 0.875 x 3 = 13.1</td>
+<td style="text-align: center;"><strong>18.8</strong></td>
+</tr>
+</tbody>
+</table>
+<p><strong>How to read this table:</strong> The calculation now has three parts multiplied together: the number of voters, their current ballot weight, and their score for the candidate. Take Murphy's row. Group 1 (15 voters, weight 0.375) gave Murphy 0 stars: 15 times 0.375 times 0 equals 0. Group 2 (10 voters, weight 1.0) gave Murphy 5 stars: 10 times 1.0 times 5 equals 50. Group 3 (5 voters, weight 0.875) gave Murphy 1 star: 5 times 0.875 times 1 equals 4.4. Add those up: 0 + 50 + 4.4 = 54.4.</p>
+<p><strong>Murphy wins the second seat</strong> with a weighted total of 54.4.</p>
+<p>Notice what happened: Group 2's voters still had full ballot weight (1.0) because they gave Lin 0 stars in Round 1. That full-strength weight, combined with their strong support for Murphy (5 stars), made Murphy the clear winner this round. The system worked as designed -- voters who had not yet been represented got to drive this decision.</p>
+<p><strong>Reducing ballot weights again:</strong> Murphy's weighted total was 54.4, and the quota is still 10.</p>
+<table>
+<thead>
+<tr>
+<th>Voter Group</th>
+<th style="text-align: center;">Murphy Score</th>
+<th style="text-align: center;">Previous Weight</th>
+<th style="text-align: center;">Weight Spent</th>
+<th style="text-align: center;">New Weight</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Group 1</td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">0.375</td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;"><strong>0.375</strong></td>
+</tr>
+<tr>
+<td>Group 2</td>
+<td style="text-align: center;">5</td>
+<td style="text-align: center;">1.000</td>
+<td style="text-align: center;">0.919</td>
+<td style="text-align: center;"><strong>0.081</strong></td>
+</tr>
+<tr>
+<td>Group 3</td>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">0.875</td>
+<td style="text-align: center;">0.161</td>
+<td style="text-align: center;"><strong>0.714</strong></td>
+</tr>
+</tbody>
+</table>
+<p>Group 2 voters gave Murphy 5 stars and have now spent almost all their ballot weight (down to 0.081). They have elected their candidate and have very little influence remaining -- which is fair, because they have already been represented.</p>
+<h4 id="round-3-filling-the-third-seat">Round 3: Filling the Third Seat<a class="headerlink" href="#round-3-filling-the-third-seat" title="Permanent link">&para;</a></h4>
+<p>Recalculate scores one more time with the latest ballot weights. Both Lin and Murphy are removed.</p>
+<p><strong>Table 5: Round 3 Weighted Score Calculation</strong></p>
+<table>
+<thead>
+<tr>
+<th>Candidate</th>
+<th style="text-align: center;">Group 1 (15 x 0.375)</th>
+<th style="text-align: center;">Group 2 (10 x 0.081)</th>
+<th style="text-align: center;">Group 3 (5 x 0.714)</th>
+<th style="text-align: center;">Weighted Total</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Garcia</td>
+<td style="text-align: center;">15 x 0.375 x 4 = 22.5</td>
+<td style="text-align: center;">10 x 0.081 x 0 = 0</td>
+<td style="text-align: center;">5 x 0.714 x 2 = 7.1</td>
+<td style="text-align: center;"><strong>29.6</strong></td>
+</tr>
+<tr>
+<td>Kim</td>
+<td style="text-align: center;">15 x 0.375 x 2 = 11.3</td>
+<td style="text-align: center;">10 x 0.081 x 1 = 0.8</td>
+<td style="text-align: center;">5 x 0.714 x 5 = 17.9</td>
+<td style="text-align: center;"><strong>29.9</strong></td>
+</tr>
+<tr>
+<td>Patel</td>
+<td style="text-align: center;">15 x 0.375 x 0 = 0</td>
+<td style="text-align: center;">10 x 0.081 x 4 = 3.2</td>
+<td style="text-align: center;">5 x 0.714 x 0 = 0</td>
+<td style="text-align: center;"><strong>3.2</strong></td>
+</tr>
+<tr>
+<td>Brooks</td>
+<td style="text-align: center;">15 x 0.375 x 1 = 5.6</td>
+<td style="text-align: center;">10 x 0.081 x 0 = 0</td>
+<td style="text-align: center;">5 x 0.714 x 3 = 10.7</td>
+<td style="text-align: center;"><strong>16.3</strong></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Kim wins the third and final seat</strong> with a weighted total of 29.9.</p>
+<p>This was close -- Garcia finished at 29.6, just behind Kim. What made the difference? Kim had support from all three voter groups. Group 1 contributed 11.3, Group 2 contributed 0.8, and Group 3 contributed 17.9. Garcia had more from Group 1 (22.5) and Group 3 (7.1) but nothing from Group 2. Kim's broader appeal, drawing from every part of the electorate, was enough to edge out Garcia's stronger but narrower support.</p>
+<h4 id="what-the-final-result-tells-us">What the Final Result Tells Us<a class="headerlink" href="#what-the-final-result-tells-us" title="Permanent link">&para;</a></h4>
+<table>
+<thead>
+<tr>
+<th>Seat</th>
+<th>Winner</th>
+<th>Elected By</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Lin</td>
+<td>Primarily Group 1 voters (who gave Lin 5 stars)</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Murphy</td>
+<td>Primarily Group 2 voters (who gave Murphy 5 stars)</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Kim</td>
+<td>A mix of all three groups</td>
+</tr>
+</tbody>
+</table>
+<p>Now compare each group's share of voters to their share of representation:</p>
+<table>
+<thead>
+<tr>
+<th>Voter Group</th>
+<th style="text-align: center;">Voters</th>
+<th style="text-align: center;">Share of Electorate</th>
+<th style="text-align: center;">Seats Won</th>
+<th style="text-align: center;">Share of Seats</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Group 1</td>
+<td style="text-align: center;">15</td>
+<td style="text-align: center;">50%</td>
+<td style="text-align: center;">1 (Lin)</td>
+<td style="text-align: center;">33%</td>
+</tr>
+<tr>
+<td>Group 2</td>
+<td style="text-align: center;">10</td>
+<td style="text-align: center;">33%</td>
+<td style="text-align: center;">1 (Murphy)</td>
+<td style="text-align: center;">33%</td>
+</tr>
+<tr>
+<td>Group 3</td>
+<td style="text-align: center;">5</td>
+<td style="text-align: center;">17%</td>
+<td style="text-align: center;">1 (Kim)</td>
+<td style="text-align: center;">33%</td>
+</tr>
+</tbody>
+</table>
+<p>With only three seats to fill, perfect proportionality is not possible -- you cannot divide three seats into exact 50/33/17 portions. Group 1 is somewhat underrepresented and Group 3 somewhat overrepresented. This is a mathematical limitation of small numbers, not a flaw in the method. As district size increases (the Act allows up to 7 seats per district), proportional accuracy improves.</p>
+<p>The important point is that every group of voters received representation. In a traditional single-winner election, only one group would win and the other two would get nothing. Here, all three groups elected someone who reflects their preferences.</p>
+<p>And nobody had to vote strategically. Every voter simply scored each candidate honestly. The ballot weight mechanism handled the rest.</p>
+<hr />
+<h2 id="part-iii-how-star-and-allocated-score-fit-together">Part III: How STAR and Allocated Score Fit Together<a class="headerlink" href="#part-iii-how-star-and-allocated-score-fit-together" title="Permanent link">&para;</a></h2>
+<h3 id="same-ballot-different-counting">Same Ballot, Different Counting<a class="headerlink" href="#same-ballot-different-counting" title="Permanent link">&para;</a></h3>
+<p>The Act's voting methods are designed so that you do the same thing on every federal race: score each candidate from 0 to 5 stars. Whether you are voting for President, Senator, or Representative, the ballot looks the same and your task is the same.</p>
+<p>What changes is behind the scenes. For single-winner races, your scores are counted using STAR voting's two-step process (scoring round, then automatic runoff). For multi-winner House races, your scores are counted using Allocated Score's round-by-round allocation with ballot weight.</p>
+<p>This consistency is intentional. There is only one skill to learn. If you know how to rate things on a 5-star scale -- and most people already do, from restaurant and product reviews -- you know how to vote under the Act.</p>
+<h3 id="what-stays-the-same-what-changes">What Stays the Same, What Changes<a class="headerlink" href="#what-stays-the-same-what-changes" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Feature</th>
+<th>STAR (One Winner)</th>
+<th>Allocated Score (Multiple Winners)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>What you do</td>
+<td>Score candidates 0-5 stars</td>
+<td>Score candidates 0-5 stars</td>
+</tr>
+<tr>
+<td>Number of winners</td>
+<td>1</td>
+<td>3 to 7</td>
+</tr>
+<tr>
+<td>How winners are determined</td>
+<td>Highest scores, then head-to-head runoff</td>
+<td>Highest weighted scores, round by round</td>
+</tr>
+<tr>
+<td>Ballot weight</td>
+<td>Not applicable</td>
+<td>Reduced as your preferred candidates win</td>
+</tr>
+<tr>
+<td>Proportionality</td>
+<td>Not applicable (one winner)</td>
+<td>Seat shares reflect voter shares</td>
+</tr>
+</tbody>
+</table>
+<h3 id="who-manages-the-system">Who Manages the System?<a class="headerlink" href="#who-manages-the-system" title="Permanent link">&para;</a></h3>
+<p>The Act creates the <strong>Electoral Science Office (ESO)</strong>, a permanent technical agency responsible for maintaining and improving the voting methods over time. The ESO operates within a three-tier protection framework that matches each element's level of protection to its significance.</p>
+<p>Some things are <strong>statutory principles</strong> -- the democratic commitments that define how the voting system must work: the 0-5 star scoring scale, the requirement that all voters are treated equally, and the proportional outcome requirement for multi-winner elections. These can only be changed by an Act of Congress.</p>
+<p>Other things are <strong>protected design elements</strong> -- core design choices like the specific scoring range and the structure of the automatic runoff. The ESO can study these and propose improvements, but changes require Congress to affirmatively approve them.</p>
+<p>Finally, there are <strong>adjustable technical parameters</strong> -- implementation details like the exact formula used to calculate the quota, or the precise rules for breaking ties. The ESO can adjust these through a structured public process that includes supermajority Commission approval, public comment, and Congressional review. This allows the system to benefit from new research without requiring a new law every time a small improvement is identified.</p>
+<p>The key point for voters: the parts of the system you interact with directly -- the ballot, the scoring scale, and the fundamental rules of how winners are determined -- receive the highest levels of protection. Technical details that operate behind the scenes can be refined by experts, but only through transparent processes with Congressional oversight.</p>
+<hr />
+<h2 id="part-iv-common-questions">Part IV: Common Questions<a class="headerlink" href="#part-iv-common-questions" title="Permanent link">&para;</a></h2>
+<p><strong>Why not ranked-choice voting?</strong></p>
+<p>Ranked-choice voting asks you to rank candidates in order: 1st, 2nd, 3rd, and so on. STAR voting asks you to score candidates on a scale. The key differences: STAR lets you give equal scores to candidates you support equally, which ranking does not. STAR's counting process is simpler and more transparent -- there are no complicated multi-round elimination sequences where candidates are knocked out one at a time. And STAR guarantees that giving a candidate a higher score always helps that candidate, which some ranked-choice systems do not.</p>
+<p><strong>Why not party lists?</strong></p>
+<p>Some countries use a system where you vote for a political party, and the party decides which specific people fill the seats they win. The Act does not use this approach. Under Allocated Score, you score individual candidates by name. Representatives win seats because voters rated them highly -- not because a party put them on a list. You always know exactly who you are voting for.</p>
+<p><strong>What if there is a tie?</strong></p>
+<p>In STAR voting, if two candidates tie for the second finalist spot, the tie is broken by comparing those two candidates head-to-head (which one did more voters prefer). If the tie persists in the runoff, state law determines how to break it -- typically by a public random drawing.</p>
+<p>In Allocated Score, ties in weighted score totals are resolved through procedures set by state law, following guidance from the Electoral Science Office. All tie-breaking methods must be neutral and publicly verifiable.</p>
+<p><strong>Can I vote if I only know a few candidates?</strong></p>
+<p>Yes. Score the candidates you know. Any candidate you leave blank receives 0 stars from your ballot. You do not need to research every candidate to participate.</p>
+<p><strong>Does scoring other candidates hurt my favorite?</strong></p>
+<p>No. Every candidate's score is added up independently. Giving your second-favorite candidate 4 stars does not take anything away from the 5 stars you gave your favorite. In the STAR runoff, only your preference between the two finalists matters. In Allocated Score, the ballot weight system ensures that your influence is spent proportionally, not taken away arbitrarily.</p>
+<p><strong>Will this be confusing?</strong></p>
+<p>Most voters find scoring easier than ranking. You already rate restaurants, movies, products, and apps on star scales. This works the same way. The counting process is more complex than "most votes wins," but the counting is done by election officials and computers -- your only job is to score the candidates honestly.</p>
+<hr />
+<h2 id="appendix-a-mathematical-specification">Appendix A: Mathematical Specification<a class="headerlink" href="#appendix-a-mathematical-specification" title="Permanent link">&para;</a></h2>
+<p>This appendix provides formal definitions for readers who want the precise mathematics. These specifications represent the reference implementation; specific parameters are subject to ESO modification within the graduated protection framework established by the Act.</p>
+<h3 id="a1-star-voting-single-winner">A.1 STAR Voting (Single-Winner)<a class="headerlink" href="#a1-star-voting-single-winner" title="Permanent link">&para;</a></h3>
+<p><strong>Inputs:</strong> A set of ballots B, where each ballot b assigns a score s(b, c) in {0, 1, 2, 3, 4, 5} to each candidate c.</p>
+<p><strong>Scoring Round:</strong></p>
+<p>For each candidate c, compute the total score:</p>
+<blockquote>
+<p>S(c) = sum of s(b, c) for all ballots b in B</p>
+</blockquote>
+<p>The two candidates with the highest total scores, c1 and c2, advance as finalists. If more than two candidates tie for the highest total score, tie-breaking procedures apply.</p>
+<p><strong>Automatic Runoff:</strong></p>
+<p>For each ballot b, compare s(b, c1) and s(b, c2):</p>
+<ul>
+<li>If s(b, c1) &gt; s(b, c2), ballot b votes for c1.</li>
+<li>If s(b, c2) &gt; s(b, c1), ballot b votes for c2.</li>
+<li>If s(b, c1) = s(b, c2), ballot b is exhausted (no runoff preference expressed).</li>
+</ul>
+<p>The finalist with more runoff votes wins. If tied, tie-breaking procedures apply.</p>
+<h3 id="a2-allocated-score-multi-winner">A.2 Allocated Score (Multi-Winner)<a class="headerlink" href="#a2-allocated-score-multi-winner" title="Permanent link">&para;</a></h3>
+<p><strong>Inputs:</strong> A set of ballots B, each with initial weight w(b) = 1. A set of candidates C. A number of seats to fill, k.</p>
+<p><strong>Quota Calculation:</strong></p>
+<blockquote>
+<p>Q = |B| / k</p>
+</blockquote>
+<p>where |B| is the number of valid ballots. (The specific quota formula -- Hare, Droop, or other -- is an adjustable technical parameter maintained by the ESO within the graduated protection framework.)</p>
+<p><strong>Allocation Round (repeated k times):</strong></p>
+<p><strong>Step 1.</strong> For each remaining candidate c, compute the weighted score:</p>
+<blockquote>
+<p>WS(c) = sum of w(b) x s(b, c) for all ballots b in B</p>
+</blockquote>
+<p><strong>Step 2.</strong> Elect the candidate c<em> with the highest WS(c</em>).</p>
+<p><strong>Step 3.</strong> For each ballot b where s(b, c*) &gt; 0, reduce the ballot weight:</p>
+<blockquote>
+<p>spend(b) = Q x [w(b) x s(b, c<em>)] / WS(c</em>)</p>
+<p>w(b) = w(b) - spend(b)</p>
+</blockquote>
+<p>Ballots that gave the elected candidate a score of 0 are unaffected.</p>
+<p><strong>Step 4.</strong> Remove c* from the set of remaining candidates. Repeat from Step 1.</p>
+<p><strong>Properties:</strong></p>
+<p>The total weight spent in each round equals Q (the quota), ensuring that each elected candidate "costs" an equal share of the electorate's total voting power. Ballot weight reductions are proportional to each ballot's contribution to the elected candidate's total, ensuring that voters who gave stronger support to an elected candidate have more weight spent than those who gave weaker support.</p>
+<h3 id="a3-notation-summary">A.3 Notation Summary<a class="headerlink" href="#a3-notation-summary" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Symbol</th>
+<th>Meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>B</td>
+<td>Set of all valid ballots</td>
+</tr>
+<tr>
+<td>b</td>
+<td>A single ballot</td>
+</tr>
+<tr>
+<td>C</td>
+<td>Set of all candidates</td>
+</tr>
+<tr>
+<td>c</td>
+<td>A single candidate</td>
+</tr>
+<tr>
+<td>k</td>
+<td>Number of seats to fill</td>
+</tr>
+<tr>
+<td>s(b, c)</td>
+<td>Score assigned by ballot b to candidate c (0-5)</td>
+</tr>
+<tr>
+<td>w(b)</td>
+<td>Current weight of ballot b (starts at 1)</td>
+</tr>
+<tr>
+<td>Q</td>
+<td>Quota (ballots per seat)</td>
+</tr>
+<tr>
+<td>S(c)</td>
+<td>Total score for candidate c (unweighted)</td>
+</tr>
+<tr>
+<td>WS(c)</td>
+<td>Weighted score for candidate c</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="glossary">Glossary<a class="headerlink" href="#glossary" title="Permanent link">&para;</a></h2>
+<p><strong>Allocated Score.</strong> The method used to count votes in multi-winner elections under the Act. Voters score candidates 0-5 stars, and seats are filled one at a time with ballot weights adjusted after each round. Also called STAR-PR.</p>
+<p><strong>Automatic runoff.</strong> The second step of STAR voting. After the two highest-scoring candidates are identified, every ballot is checked to see which of the two the voter preferred. The one preferred by more voters wins. No separate runoff election is held -- it happens automatically using the scores already on your ballot.</p>
+<p><strong>Ballot weight.</strong> A number that represents how much influence your ballot still has. It starts at 1 (full influence). As candidates you supported win seats, your ballot weight decreases, reflecting that you have already received some representation.</p>
+<p><strong>Deterministic.</strong> Means the same ballots always produce the same result. There is no randomness in the counting process (except for tie-breaking in rare cases). Anyone can recount the ballots and get the identical outcome.</p>
+<p><strong>District magnitude.</strong> The number of seats elected from a single district. A single-member district has a magnitude of 1. Under the Act, multi-member House districts have a magnitude between 3 and 7.</p>
+<p><strong>Electoral Science Office (ESO).</strong> A permanent federal agency created by the Act to maintain, evaluate, and refine the technical details of the voting methods. The ESO operates within a three-tier graduated protection framework: statutory principles require an Act of Congress to change, protected design elements require affirmative Congressional approval, and adjustable technical parameters can be refined by the ESO through a structured public process with Congressional oversight.</p>
+<p><strong>Finalist.</strong> In STAR voting, one of the two candidates who received the highest total scores and advance to the automatic runoff.</p>
+<p><strong>Monotonicity.</strong> A property meaning that giving a candidate a higher score can never hurt that candidate. If you increase your score for a candidate, it can only help them or make no difference -- it can never backfire and cause them to lose.</p>
+<p><strong>Multi-member district.</strong> A district that elects more than one Representative. Under the Act, most House districts elect between 3 and 7 Representatives.</p>
+<p><strong>Proportional representation.</strong> A system where the share of seats won by different groups of voters roughly matches those groups' share of the electorate. If 40% of voters prefer one set of candidates, they win roughly 40% of the seats.</p>
+<p><strong>Quota.</strong> The amount of ballot weight needed to fill one seat. Calculated by dividing the total number of voters by the number of seats. In an election with 100 voters and 5 seats, the quota is 20.</p>
+<p><strong>Scoring round.</strong> The first step of STAR voting. Every score from every voter is added up. The two candidates with the highest total scores become the finalists.</p>
+<p><strong>Single-member district.</strong> A district that elects one Representative.</p>
+<p><strong>STAR voting.</strong> Score Then Automatic Runoff. The method used for single-winner elections under the Act. Voters score candidates 0-5, the two highest-scoring candidates become finalists, and the finalist preferred by more voters wins.</p>
+<p><strong>STAR-PR.</strong> Another name for Allocated Score. The "PR" stands for Proportional Representation.</p>
+<p><strong>Weighted score.</strong> A candidate's score after ballot weights are applied. Calculated by multiplying each ballot's score for that candidate by that ballot's current weight, then adding up the results.</p>
+<hr />
+<h2 id="revision-history">Revision History<a class="headerlink" href="#revision-history" title="Permanent link">&para;</a></h2>
+<p><strong>Revision 2.0</strong> (Current)</p>
+<ul>
+<li>Updated from CMA Rev 4.2 to FEMA Rev 5.0</li>
+<li>Rebranded all references from "Congressional Modernization Act (CMA)" to "Federal Elections Modernization Act (FEMA)"</li>
+<li>Applied APAI self-reference conventions: full name established once in Purpose section, "the Act" used for all subsequent references</li>
+<li>Updated "Who Manages the System?" section to reflect three-tier graduated protection framework (statutory principles, protected design elements, adjustable technical parameters), replacing prior binary framing</li>
+<li>Updated ESO glossary entry to reflect three-tier framework</li>
+<li>Updated Appendix A quota description to reference graduated protection framework</li>
+<li>No changes to voting method descriptions, worked examples, or mathematical specifications</li>
+</ul>
+<p><strong>Revision 1.0</strong></p>
+<ul>
+<li>Initial publication</li>
+<li>Unified explainer covering STAR voting and Allocated Score</li>
+<li>Written for a general voter audience</li>
+<li>Includes worked examples for both single-winner and multi-winner elections</li>
+<li>Glossary of technical terms</li>
+<li>Mathematical specification appendix</li>
+</ul>
+<blockquote>
+<p>📄 <a href="https://github.com/albertintech/apai/blob/main/docs/congress/cmf/fema/voting-methods-technical-explainer.md">Download this document</a> (opens on GitHub -- click the ⬇ download button)</p>
+</blockquote>
+<hr />
+<p><em>Prepared by Albert Ramos for The American Policy Architecture Institute</em></p>
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      &copy; 2026 Albert Ramos | American Policy Architecture Institute
+    </div>
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "../../../..", "features": ["navigation.sections", "search.highlight"], "search": "../../../../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../../../../assets/javascripts/bundle.79ae519e.min.js"></script>
+      
+    
+  </body>
+</html>
