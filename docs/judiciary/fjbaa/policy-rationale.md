@@ -375,12 +375,14 @@ The reform is deliberately focused on structural problems -- circuit imbalance, 
 ## Revision History
 
 **Revision 2.4** (Current)
+
 - Updated reference line to reflect FJBAA Rev 2.3
 - Added seventh enumerated benefit of the three-phase career structure: nominee dignity and the elimination of actuarial selection bias
 - New paragraph explains how life tenure incentivizes presidential selection of younger nominees as a proxy for longevity, systematically devaluing experienced jurists; the Act's fixed twelve-year active service period neutralizes this calculus entirely
 - Grounded in existing statutory authority: Finding 12 ("clarity, dignity, and predictability") and Purpose 10 ("dignified three-phase career structure")
 
 **Revision 2.3**
+
 - Updated reference line to reflect FJBAA Rev 2.3
 - Rewrote Bridge Panel rationale to reflect expanded scope: Bridge Panel now serves both a transitional role (supplementing initially undersized Senior Justice pool) and a permanent backstop role (filling gaps from vacancy coverage rotation assignments, recusals, and combinations thereof)
 - Added rationale for Section 503(b)(4) vacancy rotation exclusion: Senior Justices performing active-service duties on the vacancy coverage roster are functionally serving alongside the justices the Ethics Review Panel oversees, requiring structural separation
@@ -388,6 +390,7 @@ The reform is deliberately focused on structural problems -- circuit imbalance, 
 - Updated "Weaponization of ethics enforcement" concern to reflect expanded Bridge Panel scope, vacancy rotation exclusion from both Ethics Review Panel and en banc body, and dual-role conflict prevention
 
 **Revision 2.2**
+
 - Updated reference line to reflect FJBAA Rev 2.2
 - Expanded Title I Provision Rationale from a single paragraph into a comprehensive discussion with three italic-lead-in subsections:
   - *District-level building blocks*: explains the shift from whole-state to district-level constraints, 67% vs. 93% compliance comparison, federal judicial districts as creatures of federal statute, preference-with-exception structure, and limited state divisions under current data
@@ -397,6 +400,7 @@ The reform is deliberately focused on structural problems -- circuit imbalance, 
 - Removed "Decennial rebalancing maintains equality as populations shift" from Title I opening paragraph (superseded by expanded compliance assessment discussion)
 
 **Revision 2.1**
+
 - Updated reference line to reflect FJBAA Rev 2.1
 - Added "Senate obstruction as a structural vulnerability" as seventh dysfunction in Problem Analysis, drawing on Chilton, Epps, Rozema & Sen (2021)
 - Added binary single-nominee confirmation to Alternatives Considered as rejected alternative, with Chilton et al. empirical analysis
@@ -421,6 +425,7 @@ The reform is deliberately focused on structural problems -- circuit imbalance, 
 - Updated publication date to February 2026
 
 **Revision 2.0**
+
 - Updated reference line to reflect FJBAA Rev 2.0
 - Updated all "Chief Justice" references to "Co-Chief Justice" throughout to reflect Rev 1.9 shared leadership model
 - Revised Design Philosophy to describe shared Co-Chief Justice leadership rather than sequential rotation
@@ -445,6 +450,7 @@ The reform is deliberately focused on structural problems -- circuit imbalance, 
 - Updated publication date to February 2026
 
 **Revision 1.7**
+
 - Updated reference line to reflect FJBAA Rev 1.7
 - Incorporated SCOTUS-specific Section 371 precedent material throughout
 - Added paragraph to Alternatives Considered documenting that the duty-versus-tenure distinction is already operationalized in existing law for Supreme Court justices (Clark, Souter, O'Connor, Breyer)
@@ -453,6 +459,7 @@ The reform is deliberately focused on structural problems -- circuit imbalance, 
 - Added "Why focus on the Supreme Court?" to Addressing Concerns, arguing that the Act imports existing lower court practices (ethics rules, discipline mechanisms, chief judge rotation, senior status) to the Supreme Court rather than imposing institutional novelty
 
 **Revision 1.6**
+
 - Updated to reflect FJBAA Rev 1.6
 - Revised Design Philosophy to discuss shift from credential-based to evidence-based transparency approach
 - Added credential-based qualification requirements to Alternatives Considered as rejected alternative
@@ -473,6 +480,7 @@ The reform is deliberately focused on structural problems -- circuit imbalance, 
 - Updated publication date to February 2025
 
 **Revision 1.5**
+
 - Updated to reflect FJBAA Rev 1.5
 - Added "Absence of enforceable ethical standards" as sixth dysfunction in Problem Analysis
 - Added voluntary ethics codes and congressional ethics oversight to Alternatives Considered
@@ -490,6 +498,7 @@ The reform is deliberately focused on structural problems -- circuit imbalance, 
 - Updated What the Act Does Not Do to note that justices cannot be punished for judicial opinions
 
 **Revision 1.4**
+
 - Updated to reflect FJBAA Rev 1.4
 - Revised Alternatives Considered to correctly characterize Amar's proposal as statutory "time rules" rather than constitutional "term limits"
 - Acknowledged FJBAA's adoption of Amar's constitutional framework (duty vs. tenure distinction)
@@ -503,6 +512,7 @@ The reform is deliberately focused on structural problems -- circuit imbalance, 
 - Added critique of "Roberts Court" naming phenomenon as symptom of excessive personalization
 
 **Revision 1.3**
+
 - Updated to reflect FJBAA Rev 1.3
 - Added three-phase career structure terminology throughout (Associate Justice, Chief Justice, Senior Justice)
 - Added "National anxiety over justice health and longevity" as fifth dysfunction in Problem Analysis
@@ -515,6 +525,7 @@ The reform is deliberately focused on structural problems -- circuit imbalance, 
 - Applied self-reference convention per APAI Document Production Standards Section 1.7
 
 **Revision 1.2**
+
 - Updated to reflect FJBAA Rev 1.2
 - Added Chief Justice power concentration to Design Philosophy
 - Added concentration of power in Chief Justice as fourth dysfunction in Problem Analysis
@@ -525,6 +536,7 @@ The reform is deliberately focused on structural problems -- circuit imbalance, 
 - Updated What FJBAA Does Not Do to include Chief Justice concentration among structural problems addressed
 
 **Revision 1.1**
+
 - Initial publication based on FJBAA Rev 1.1
 
 > Ã°Å¸â€œâ€ž [Download this document](https://github.com/albertintech/apai/blob/main/docs/judiciary/fjbaa/policy-rationale.md) (opens on GitHub -- click the Ã¢Â¬â€¡ download button)

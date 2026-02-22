@@ -1,0 +1,998 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Justice Appointment Schedule</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;700&family=Instrument+Serif:ital@0;1&display=swap');
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+  background: #0a0a0c;
+  color: #e8e4df;
+  font-family: 'JetBrains Mono', monospace;
+  min-height: 100vh;
+}
+
+.page {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 40px 24px 60px;
+}
+
+/* === HEADER === */
+header {
+  margin-bottom: 36px;
+  border-bottom: 1px solid #2a2a2e;
+  padding-bottom: 28px;
+}
+
+header h1 {
+  font-family: 'Instrument Serif', serif;
+  font-size: 2.2rem;
+  font-weight: 400;
+  letter-spacing: -0.5px;
+  color: #f0ece6;
+  margin-bottom: 8px;
+}
+
+header .subtitle {
+  font-size: 0.72rem;
+  color: #6a6a70;
+  text-transform: uppercase;
+  letter-spacing: 2.5px;
+  margin-bottom: 6px;
+}
+
+header .ref {
+  font-size: 0.68rem;
+  color: #4a4a50;
+  letter-spacing: 1px;
+}
+
+/* === SCORE BAR === */
+.score-bar {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin: 0 0 28px;
+  padding: 16px 20px;
+  background: #111114;
+  border: 1px solid #1e1e22;
+  border-radius: 3px;
+  flex-wrap: wrap;
+}
+
+.score-bar .metric {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.score-bar .metric .val {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #c8f06a;
+}
+
+.score-bar .metric .val.warm { color: #e8a04c; }
+.score-bar .metric .val.cool { color: #6ab4e8; }
+
+.score-bar .metric .label {
+  font-size: 0.58rem;
+  color: #6a6a70;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+.score-bar .sep {
+  width: 1px;
+  height: 36px;
+  background: #2a2a2e;
+}
+
+/* === LEGEND === */
+.legend-section {
+  margin-bottom: 28px;
+}
+
+.legend-title {
+  font-size: 0.65rem;
+  color: #6a6a70;
+  text-transform: uppercase;
+  letter-spacing: 2.5px;
+  margin-bottom: 12px;
+}
+
+.legend-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.legend-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 6px 12px;
+  background: #111114;
+  border: 1px solid #1a1a1e;
+  border-radius: 2px;
+  font-size: 0.65rem;
+  color: #8a8a90;
+  letter-spacing: 0.5px;
+}
+
+.legend-swatch {
+  width: 14px;
+  height: 14px;
+  border-radius: 2px;
+  flex-shrink: 0;
+}
+
+/* === SCHEDULE CONTAINER === */
+.schedule-section {
+  margin: 0 0 32px;
+  position: relative;
+}
+
+.section-title {
+  font-size: 0.65rem;
+  color: #6a6a70;
+  text-transform: uppercase;
+  letter-spacing: 2.5px;
+  margin-bottom: 16px;
+}
+
+.schedule-wrapper {
+  position: relative;
+  background: #0e0e11;
+  border: 1px solid #1a1a1e;
+  border-radius: 3px;
+  overflow: hidden;
+}
+
+.schedule-wrapper::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background: 
+    repeating-linear-gradient(0deg, transparent, transparent 19px, #151518 19px, #151518 20px),
+    repeating-linear-gradient(90deg, transparent, transparent 19px, #151518 19px, #151518 20px);
+  opacity: 0.2;
+  pointer-events: none;
+  z-index: 0;
+}
+
+.scroll-container {
+  display: flex;
+  overflow-x: auto;
+  position: relative;
+  z-index: 1;
+  scrollbar-width: thin;
+  scrollbar-color: #3a3a3e #111114;
+}
+
+.scroll-container::-webkit-scrollbar {
+  height: 8px;
+}
+.scroll-container::-webkit-scrollbar-track {
+  background: #111114;
+}
+.scroll-container::-webkit-scrollbar-thumb {
+  background: #3a3a3e;
+  border-radius: 4px;
+}
+.scroll-container::-webkit-scrollbar-thumb:hover {
+  background: #4a4a4e;
+}
+
+/* Fixed left labels column */
+.labels-column {
+  position: sticky;
+  left: 0;
+  z-index: 10;
+  background: #0e0e11;
+  border-right: 1px solid #2a2a2e;
+  flex-shrink: 0;
+  min-width: 120px;
+}
+
+.labels-column::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  right: -12px;
+  bottom: 0;
+  width: 12px;
+  background: linear-gradient(to right, rgba(14,14,17,0.9), transparent);
+  pointer-events: none;
+  z-index: 11;
+}
+
+.label-cell {
+  height: 32px;
+  display: flex;
+  align-items: center;
+  padding: 0 12px;
+  font-size: 0.62rem;
+  color: #8a8a90;
+  letter-spacing: 0.5px;
+  white-space: nowrap;
+  border-bottom: 1px solid #1a1a1e;
+}
+
+.label-cell.header {
+  height: 24px;
+  font-size: 0.55rem;
+  color: #4a4a50;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+.label-cell.header.primary {
+  color: #6a6a70;
+}
+
+.label-cell.separator {
+  height: 12px;
+  background: #0a0a0c;
+  border-bottom: 1px solid #2a2a2e;
+}
+
+.label-cell.summary {
+  height: 28px;
+  font-size: 0.58rem;
+  color: #6a6a70;
+}
+
+.label-cell.legacy-name {
+  color: #5a5a60;
+  font-style: italic;
+}
+
+.label-cell.expansion-name {
+  color: #8a8a90;
+  font-weight: 500;
+}
+
+.label-cell.phase-label {
+  height: 24px;
+  font-size: 0.52rem;
+  color: #4a4a50;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+}
+
+/* Scrollable grid */
+.grid-area {
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.grid-row {
+  display: flex;
+  height: 32px;
+  border-bottom: 1px solid #1a1a1e;
+}
+
+.grid-row.header {
+  height: 24px;
+}
+
+.grid-row.separator {
+  height: 12px;
+  background: #0a0a0c;
+  border-bottom: 1px solid #2a2a2e;
+}
+
+.grid-row.summary {
+  height: 28px;
+}
+
+.grid-row.phase-label {
+  height: 24px;
+}
+
+.grid-cell {
+  width: 54px;
+  min-width: 54px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.6rem;
+  font-weight: 400;
+  position: relative;
+  transition: filter 0.15s;
+}
+
+.grid-cell:hover {
+  filter: brightness(1.3);
+}
+
+/* Presidential term banding */
+.grid-cell.term-even {
+  background: rgba(255,255,255,0.012);
+}
+
+/* Header cells */
+.grid-cell.year-header {
+  font-size: 0.58rem;
+  color: #6a6a70;
+  font-weight: 500;
+  letter-spacing: 0.5px;
+}
+
+.grid-cell.cal-header {
+  font-size: 0.5rem;
+  color: #8a8a90;
+  letter-spacing: 0.5px;
+}
+
+.grid-cell.year-header.appt-year {
+  color: #8a8a90;
+}
+
+/* Cell states */
+.grid-cell.empty {
+  /* nothing */
+}
+
+.grid-cell.legacy {
+  color: #2e2e32;
+  font-size: 0.5rem;
+  font-weight: 300;
+}
+
+.grid-cell.appointment {
+  background: #c8f06a;
+  color: #0a0a0c;
+  font-weight: 700;
+  font-size: 0.65rem;
+  border-radius: 1px;
+  box-shadow: 0 0 8px rgba(200,240,106,0.2);
+}
+
+.grid-cell.associate {
+  background: rgba(78, 148, 112, 0.2);
+  color: rgba(140, 210, 170, 0.7);
+  font-size: 0.55rem;
+}
+
+.grid-cell.cochief {
+  background: rgba(232, 160, 76, 0.25);
+  color: rgba(232, 180, 110, 0.85);
+  font-weight: 600;
+  font-size: 0.6rem;
+}
+
+/* Summary cells */
+.grid-cell.summary-cell {
+  font-size: 0.6rem;
+  color: #6a6a70;
+  font-weight: 500;
+}
+
+.grid-cell.sr-pool-cell {
+  font-size: 0.6rem;
+  font-weight: 500;
+}
+
+.grid-cell.sr-pool-cell .pool-bar {
+  position: absolute;
+  bottom: 2px;
+  left: 4px;
+  right: 4px;
+  background: rgba(106, 180, 232, 0.3);
+  border-radius: 1px;
+  transition: height 0.3s ease;
+}
+
+.grid-cell.sr-pool-cell .pool-val {
+  position: relative;
+  z-index: 1;
+  color: #6ab4e8;
+  font-weight: 600;
+  font-size: 0.58rem;
+}
+
+.grid-cell.raw-cell {
+  font-size: 0.55rem;
+  color: #4a4a50;
+}
+
+.grid-cell.granted-cell {
+  font-size: 0.6rem;
+  color: #8a8a90;
+  font-weight: 500;
+}
+
+.grid-cell.granted-cell.borrowed {
+  color: #c8f06a;
+  font-weight: 700;
+}
+
+.grid-cell.granted-cell.lent {
+  color: #e8a04c;
+}
+
+.grid-cell.term-total-cell {
+  font-size: 0.7rem;
+  font-weight: 700;
+}
+
+.grid-cell.term-total-cell.steady { color: #c8f06a; }
+.grid-cell.term-total-cell.transitional { color: #6a6a70; }
+
+.grid-cell.phase-cell {
+  font-size: 0.48rem;
+  color: #3a3a40;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  white-space: nowrap;
+  justify-content: flex-start;
+  padding-left: 4px;
+}
+
+/* Phase bracket indicators */
+.phase-bracket {
+  position: absolute;
+  top: 0;
+  height: 2px;
+}
+.phase-bracket.expansion { background: #4a4a50; }
+.phase-bracket.four-per { background: #6a6a70; }
+.phase-bracket.five-per { background: #c8f06a; }
+
+/* Term boundary markers */
+.grid-cell.term-start {
+  border-left: 1px solid #2a2a2e;
+}
+
+/* Scroll hint */
+.scroll-hint {
+  text-align: center;
+  margin-top: 12px;
+  font-size: 0.58rem;
+  color: #3a3a40;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  animation: pulse 2.5s ease-in-out infinite;
+}
+
+@keyframes pulse {
+  0%, 100% { opacity: 0.4; }
+  50% { opacity: 0.8; }
+}
+
+.scroll-hint .arrow {
+  display: inline-block;
+  margin: 0 4px;
+}
+
+/* Notes section */
+.notes-section {
+  margin-top: 32px;
+  padding-top: 24px;
+  border-top: 1px solid #1e1e22;
+}
+
+.notes-section p {
+  font-size: 0.62rem;
+  color: #4a4a50;
+  line-height: 1.7;
+  max-width: 800px;
+  margin-bottom: 8px;
+  letter-spacing: 0.3px;
+}
+
+.notes-section .note-label {
+  color: #6a6a70;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  font-size: 0.55rem;
+}
+
+/* Tooltip */
+.tooltip {
+  position: fixed;
+  background: #1a1a1e;
+  border: 1px solid #2a2a2e;
+  border-radius: 3px;
+  padding: 8px 12px;
+  font-size: 0.6rem;
+  color: #c8c4bf;
+  pointer-events: none;
+  z-index: 100;
+  opacity: 0;
+  transition: opacity 0.15s;
+  max-width: 240px;
+  line-height: 1.5;
+  letter-spacing: 0.3px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.5);
+}
+
+.tooltip.visible {
+  opacity: 1;
+}
+
+.tooltip .tt-seat {
+  color: #e8e4df;
+  font-weight: 600;
+  margin-bottom: 2px;
+}
+
+.tooltip .tt-phase {
+  font-weight: 500;
+}
+
+.tooltip .tt-phase.appt { color: #c8f06a; }
+.tooltip .tt-phase.aj { color: #8cd2aa; }
+.tooltip .tt-phase.cj { color: #e8b46e; }
+.tooltip .tt-phase.legacy { color: #5a5a60; }
+
+.tooltip .tt-year {
+  color: #5a5a60;
+  font-size: 0.52rem;
+  margin-top: 2px;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .page { padding: 20px 12px 40px; }
+  header h1 { font-size: 1.6rem; }
+  .score-bar { gap: 12px; padding: 12px 14px; }
+  .score-bar .metric .val { font-size: 1.2rem; }
+  .labels-column { min-width: 90px; }
+  .label-cell { font-size: 0.55rem; padding: 0 8px; }
+  .grid-cell { width: 42px; min-width: 42px; }
+}
+</style>
+</head>
+<body>
+
+<div class="page">
+  <header>
+    <div class="subtitle">Federal Judicial Balance &amp; Accountability Act</div>
+    <h1>Justice Appointment Schedule</h1>
+    <div class="ref">FJBAA Rev 2.3 &middot; Act Years 1&ndash;40 &middot; Illustrative Calendar: 2033&ndash;2072</div>
+  </header>
+
+  <div class="score-bar">
+    <div class="metric">
+      <div class="val">15</div>
+      <div class="label">Active Justices</div>
+    </div>
+    <div class="sep"></div>
+    <div class="metric">
+      <div class="val warm">12</div>
+      <div class="label">Year Active Term</div>
+    </div>
+    <div class="sep"></div>
+    <div class="metric">
+      <div class="val">5</div>
+      <div class="label">Per Term (Steady State)</div>
+    </div>
+    <div class="sep"></div>
+    <div class="metric">
+      <div class="val cool">22</div>
+      <div class="label">Sr Justice Pool (Yr 40)</div>
+    </div>
+  </div>
+
+  <div class="legend-section">
+    <div class="legend-title">Career Phases</div>
+    <div class="legend-row">
+      <div class="legend-item">
+        <div class="legend-swatch" style="background:#c8f06a;"></div>
+        Appointment (Year 1)
+      </div>
+      <div class="legend-item">
+        <div class="legend-swatch" style="background:rgba(78,148,112,0.4);"></div>
+        Associate Justice (Yrs 2&ndash;10)
+      </div>
+      <div class="legend-item">
+        <div class="legend-swatch" style="background:rgba(232,160,76,0.45);"></div>
+        Co-Chief Justice (Yrs 11&ndash;12)
+      </div>
+      <div class="legend-item">
+        <div class="legend-swatch" style="background:#1c1c20; border:1px solid #2a2a2e;"></div>
+        Legacy Active
+      </div>
+      <div class="legend-item">
+        <div class="legend-swatch" style="background:rgba(106,180,232,0.4);"></div>
+        Senior Justice Pool
+      </div>
+      <div class="legend-item">
+        <div class="legend-swatch" style="background:#c8f06a; position:relative;"><span style="position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);font-size:7px;color:#0a0a0c;font-weight:700;">↕</span></div>
+        Equalization (Borrow)
+      </div>
+    </div>
+  </div>
+
+  <div class="schedule-section">
+    <div class="section-title">Appointment Schedule &middot; Scroll →</div>
+    <div class="schedule-wrapper">
+      <div class="scroll-container" id="scheduleScroll">
+        <div class="labels-column" id="labelsCol"></div>
+        <div class="grid-area" id="gridArea"></div>
+      </div>
+    </div>
+    <div class="scroll-hint">
+      <span class="arrow">←</span> scroll horizontally to explore <span class="arrow">→</span>
+    </div>
+  </div>
+
+  <div class="notes-section">
+    <p><span class="note-label">Appointment years</span> &mdash; Appointments occur in odd-numbered Act Years only. Each cycle: Associate Justice (years 1&ndash;10), Co-Chief Justice (years 11&ndash;12), then Senior Justice.</p>
+    <p><span class="note-label">Equalization</span> &mdash; Where "Seats Granted" differs from "Raw Seats," the borrowing mechanism shifts one appointment between adjacent terms to maintain exactly five per presidential term at steady state.</p>
+    <p><span class="note-label">Senior Justice Pool</span> &mdash; Justices transitioning to Senior status accumulate as a growing institutional resource: vacancy coverage, Ethics Review Panel service, circuit sitting. Actual pool size will vary with retirement and mortality; values shown assume all justices serve through transition.</p>
+    <p><span class="note-label">Legacy justices</span> &mdash; Nine sitting justices retain all existing rights under Section 403(b): continue serving indefinitely under pre-Act tenure, voluntarily elect Senior Justice status at any time, or &mdash; for the eight Legacy Associate Justices &mdash; opt in to the career structure under Section 403(d) by claiming an available Co-Chief Justice slot, serving a two-year capstone, and transitioning to Senior Justice. The Legacy Chief Justice is governed separately by Section 204(c). Opt-in timing shown is illustrative.</p>
+    <p><span class="note-label">Calendar dates</span> &mdash; The illustrative 20XX row assumes enactment during the 2029&ndash;2032 presidential term, placing Year 1 in 2033. All internal scheduling is date-independent.</p>
+  </div>
+</div>
+
+<div class="tooltip" id="tooltip"></div>
+
+<script>
+// ===== DATA FROM SPREADSHEET =====
+const ACT_YEARS = Array.from({length: 40}, (_, i) => i + 1);
+const CAL_YEARS = Array.from({length: 40}, (_, i) => i + 33); // 20XX format
+
+const LEGACY_NAMES = ['Barrett', 'Jackson', 'Gorsuch', 'Kavanaugh', 'Kagan', 'Sotomayor', 'Roberts (CJ)', 'Alito', 'Thomas'];
+const EXPANSION_NAMES = ['Seat 10', 'Seat 11', 'Seat 12', 'Seat 13', 'Seat 14', 'Seat 15'];
+
+// Raw cell values: [Act Year 1 .. Act Year 40]
+// Legacy justices show age until opt-in, then career phase (1-12)
+const SEAT_DATA = [
+  // Barrett
+  [61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,1,2,3,4,5,6,7,8,9,10,11,12],
+  // Jackson
+  [63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,1,2,3,4,5,6,7,8,9,10,11,12,1,2],
+  // Gorsuch
+  [66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,1,2,3,4,5,6,7,8,9,10,11,12,1,2,3,4],
+  // Kavanaugh
+  [68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,1,2,3,4,5,6,7,8,9,10,11,12,1,2,3,4,5,6],
+  // Kagan
+  [73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,1,2,3,4,5,6,7,8,9,10,11,12,1,2,3,4,5,6,7,8],
+  // Sotomayor
+  [79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,1,2,3,4,5,6,7,8,9,10,11,12,1,2,3,4,5,6,7,8,9,10],
+  // Roberts (CJ)
+  [78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,1,2,3,4,5,6,7,8,9,10,11,12,1,2,3,4,5,6,7,8,9,10,11,12],
+  // Alito
+  [83,84,85,86,87,88,89,90,91,92,93,94,95,96,1,2,3,4,5,6,7,8,9,10,11,12,1,2,3,4,5,6,7,8,9,10,11,12,1,2],
+  // Thomas
+  [85,86,87,88,89,90,91,92,93,94,95,96,1,2,3,4,5,6,7,8,9,10,11,12,1,2,3,4,5,6,7,8,9,10,11,12,1,2,3,4],
+  // Seat 10
+  [null,null,null,null,null,null,null,null,null,null,1,2,3,4,5,6,7,8,9,10,11,12,1,2,3,4,5,6,7,8,9,10,11,12,1,2,3,4,5,6],
+  // Seat 11
+  [null,null,null,null,null,null,null,null,1,2,3,4,5,6,7,8,9,10,11,12,1,2,3,4,5,6,7,8,9,10,11,12,1,2,3,4,5,6,7,8],
+  // Seat 12
+  [null,null,null,null,null,null,1,2,3,4,5,6,7,8,9,10,11,12,1,2,3,4,5,6,7,8,9,10,11,12,1,2,3,4,5,6,7,8,9,10],
+  // Seat 13
+  [null,null,null,null,1,2,3,4,5,6,7,8,9,10,11,12,1,2,3,4,5,6,7,8,9,10,11,12,1,2,3,4,5,6,7,8,9,10,11,12],
+  // Seat 14
+  [null,null,1,2,3,4,5,6,7,8,9,10,11,12,1,2,3,4,5,6,7,8,9,10,11,12,1,2,3,4,5,6,7,8,9,10,11,12,1,2],
+  // Seat 15
+  [1,2,3,4,5,6,7,8,9,10,11,12,1,2,3,4,5,6,7,8,9,10,11,12,1,2,3,4,5,6,7,8,9,10,11,12,1,2,3,4]
+];
+
+// Sr Justice Pool (only on odd years where transitions happen)
+const SR_POOL = [null,null,null,null,null,null,null,null,null,null,null,null,1,null,2,null,3,null,4,null,5,null,6,null,8,null,9,null,10,null,12,null,12,null,13,null,16,null,19,null];
+
+const RAW_SEATS = [1,null,1,null,1,null,1,null,1,null,1,null,2,null,2,null,2,null,2,null,2,null,2,null,3,null,3,null,3,null,2,null,2,null,2,null,3,null,3,null];
+const SEATS_GRANTED = [1,null,1,null,1,null,1,null,1,null,1,null,2,null,2,null,2,null,2,null,2,null,3,null,2,null,3,null,3,null,2,null,2,null,3,null,2,null,3,null];
+const TERM_TOTALS = [2,null,null,null,2,null,null,null,2,null,null,null,4,null,null,null,4,null,null,null,5,null,null,null,5,null,null,null,5,null,null,null,5,null,null,null,5,null,null,null];
+
+// Max Sr Pool for bar scaling
+const MAX_SR_POOL = 22;
+
+// ===== HELPER FUNCTIONS =====
+
+function getTermIndex(actYear) {
+  // Presidential terms: 1-4, 5-8, 9-12, etc.
+  return Math.floor((actYear - 1) / 4);
+}
+
+function isTermEven(actYear) {
+  return getTermIndex(actYear) % 2 === 1;
+}
+
+function isTermStart(actYear) {
+  return (actYear - 1) % 4 === 0;
+}
+
+function isAppointmentYear(actYear) {
+  return actYear % 2 === 1;
+}
+
+function getCellState(seatIdx, colIdx) {
+  const val = SEAT_DATA[seatIdx][colIdx];
+  if (val === null) return 'empty';
+  
+  // Check if this is a legacy seat (0-8)
+  if (seatIdx < 9) {
+    // Legacy: high numbers are ages, low numbers (1-12) are career phase
+    if (val > 12) return 'legacy';
+    // It's a career phase number
+    if (val === 1) {
+      // Check if previous was legacy (age) or 12 (cycle reset) or null
+      const prev = colIdx > 0 ? SEAT_DATA[seatIdx][colIdx - 1] : null;
+      if (prev === null || prev > 12 || prev === 12) return 'appointment';
+      return 'appointment'; // safety
+    }
+    if (val >= 2 && val <= 10) return 'associate';
+    if (val >= 11 && val <= 12) return 'cochief';
+  } else {
+    // Expansion seat
+    if (val === 1) {
+      const prev = colIdx > 0 ? SEAT_DATA[seatIdx][colIdx - 1] : null;
+      if (prev === null || prev === 12) return 'appointment';
+      return 'appointment';
+    }
+    if (val >= 2 && val <= 10) return 'associate';
+    if (val >= 11 && val <= 12) return 'cochief';
+  }
+  return 'empty';
+}
+
+function getPhaseLabel(state) {
+  switch(state) {
+    case 'appointment': return 'Appointment';
+    case 'associate': return 'Associate Justice';
+    case 'cochief': return 'Co-Chief Justice';
+    case 'legacy': return 'Legacy Active';
+    default: return '';
+  }
+}
+
+function getSeatDisplayName(idx) {
+  if (idx < 9) return LEGACY_NAMES[idx];
+  return EXPANSION_NAMES[idx - 9];
+}
+
+// ===== BUILD THE GRID =====
+
+function buildSchedule() {
+  const labelsCol = document.getElementById('labelsCol');
+  const gridArea = document.getElementById('gridArea');
+  
+  // -- HEADER ROW 1: Act Years --
+  addLabelCell(labelsCol, 'Act Year', 'header primary');
+  const yearRow = addGridRow(gridArea, 'header');
+  for (let c = 0; c < 40; c++) {
+    const cell = addGridCell(yearRow, ACT_YEARS[c], 'year-header' + (isAppointmentYear(ACT_YEARS[c]) ? ' appt-year' : ''), c);
+  }
+  
+  // -- HEADER ROW 2: Calendar Years --
+  addLabelCell(labelsCol, '20XX', 'header');
+  const calRow = addGridRow(gridArea, 'header');
+  for (let c = 0; c < 40; c++) {
+    addGridCell(calRow, CAL_YEARS[c], 'cal-header', c);
+  }
+  
+  // -- SEPARATOR: Legacy section --
+  addLabelCell(labelsCol, '', 'separator');
+  addGridRow(gridArea, 'separator');
+  
+  // -- LEGACY JUSTICE ROWS (0-8) --
+  for (let s = 0; s < 9; s++) {
+    addLabelCell(labelsCol, LEGACY_NAMES[s], 'legacy-name');
+    const row = addGridRow(gridArea, '');
+    for (let c = 0; c < 40; c++) {
+      const state = getCellState(s, c);
+      const val = SEAT_DATA[s][c];
+      let displayVal = '';
+      if (state === 'legacy') {
+        displayVal = ''; // blank for legacy, tooltip shows age
+      } else if (state !== 'empty') {
+        displayVal = val;
+      }
+      const cell = addGridCell(row, displayVal, state, c);
+      cell.dataset.seat = s;
+      cell.dataset.col = c;
+    }
+  }
+  
+  // -- SEPARATOR: Expansion section --
+  addLabelCell(labelsCol, '', 'separator');
+  addGridRow(gridArea, 'separator');
+  
+  // -- EXPANSION SEAT ROWS (9-14) --
+  for (let s = 9; s < 15; s++) {
+    addLabelCell(labelsCol, EXPANSION_NAMES[s - 9], 'expansion-name');
+    const row = addGridRow(gridArea, '');
+    for (let c = 0; c < 40; c++) {
+      const state = getCellState(s, c);
+      const val = SEAT_DATA[s][c];
+      let displayVal = (state !== 'empty') ? val : '';
+      const cell = addGridCell(row, displayVal, state, c);
+      cell.dataset.seat = s;
+      cell.dataset.col = c;
+    }
+  }
+  
+  // -- SEPARATOR --
+  addLabelCell(labelsCol, '', 'separator');
+  addGridRow(gridArea, 'separator');
+  
+  // -- SR JUSTICE POOL ROW --
+  addLabelCell(labelsCol, 'Sr Justice Pool', 'summary');
+  const srRow = addGridRow(gridArea, 'summary');
+  for (let c = 0; c < 40; c++) {
+    const val = SR_POOL[c];
+    const cell = document.createElement('div');
+    cell.className = 'grid-cell sr-pool-cell' + termClass(c);
+    if (val !== null) {
+      const barH = Math.max(2, (val / MAX_SR_POOL) * 22);
+      cell.innerHTML = `<div class="pool-bar" style="height:${barH}px"></div><span class="pool-val">${val}</span>`;
+    }
+    srRow.appendChild(cell);
+  }
+  
+  // -- RAW SEATS ROW --
+  addLabelCell(labelsCol, 'Raw Seats', 'summary');
+  const rawRow = addGridRow(gridArea, 'summary');
+  for (let c = 0; c < 40; c++) {
+    const val = RAW_SEATS[c];
+    const cell = addGridCell(rawRow, val !== null ? val : '', 'raw-cell', c);
+  }
+  
+  // -- SEATS GRANTED ROW --
+  addLabelCell(labelsCol, 'Seats Granted', 'summary');
+  const grantedRow = addGridRow(gridArea, 'summary');
+  for (let c = 0; c < 40; c++) {
+    const raw = RAW_SEATS[c];
+    const granted = SEATS_GRANTED[c];
+    let cls = 'granted-cell';
+    if (raw !== null && granted !== null) {
+      if (granted > raw) cls += ' borrowed';
+      else if (granted < raw) cls += ' lent';
+    }
+    addGridCell(grantedRow, granted !== null ? granted : '', cls, c);
+  }
+  
+  // -- PER-TERM TOTALS ROW --
+  addLabelCell(labelsCol, 'Per Term', 'summary');
+  const termRow = addGridRow(gridArea, 'summary');
+  for (let c = 0; c < 40; c++) {
+    const val = TERM_TOTALS[c];
+    let cls = 'term-total-cell';
+    if (val !== null) {
+      cls += val >= 5 ? ' steady' : ' transitional';
+    }
+    // Term totals span 4 columns visually — show only on first year of term
+    addGridCell(termRow, val !== null ? val : '', cls, c);
+  }
+  
+  // -- PHASE LABELS ROW --
+  addLabelCell(labelsCol, 'Schedule Phase', 'phase-label');
+  const phaseRow = addGridRow(gridArea, 'phase-label');
+  // Phase spans: Expansion (1-12), 4/term (13-20), 5/term (21+)
+  for (let c = 0; c < 40; c++) {
+    let label = '';
+    if (c === 0) label = 'Expansion';
+    else if (c === 12) label = '4 per term';
+    else if (c === 20) label = '5 per term →';
+    const cell = addGridCell(phaseRow, label, 'phase-cell', c);
+  }
+}
+
+function termClass(colIdx) {
+  let cls = '';
+  if (isTermEven(ACT_YEARS[colIdx])) cls += ' term-even';
+  if (isTermStart(ACT_YEARS[colIdx])) cls += ' term-start';
+  return cls;
+}
+
+function addLabelCell(parent, text, className) {
+  const div = document.createElement('div');
+  div.className = 'label-cell' + (className ? ' ' + className : '');
+  div.textContent = text;
+  parent.appendChild(div);
+  return div;
+}
+
+function addGridRow(parent, className) {
+  const div = document.createElement('div');
+  div.className = 'grid-row' + (className ? ' ' + className : '');
+  parent.appendChild(div);
+  return div;
+}
+
+function addGridCell(parent, text, className, colIdx) {
+  const div = document.createElement('div');
+  div.className = 'grid-cell' + (className ? ' ' + className : '') + termClass(colIdx);
+  if (text !== '' && text !== null && text !== undefined) {
+    div.textContent = text;
+  }
+  parent.appendChild(div);
+  return div;
+}
+
+// ===== TOOLTIP =====
+
+function initTooltip() {
+  const tooltip = document.getElementById('tooltip');
+  const scrollContainer = document.getElementById('scheduleScroll');
+  
+  scrollContainer.addEventListener('mouseover', (e) => {
+    const cell = e.target.closest('.grid-cell');
+    if (!cell || cell.dataset.seat === undefined) return;
+    
+    const seatIdx = parseInt(cell.dataset.seat);
+    const colIdx = parseInt(cell.dataset.col);
+    const state = getCellState(seatIdx, colIdx);
+    const val = SEAT_DATA[seatIdx][colIdx];
+    const actYear = ACT_YEARS[colIdx];
+    const calYear = CAL_YEARS[colIdx];
+    const seatName = getSeatDisplayName(seatIdx);
+    const termNum = getTermIndex(actYear) + 1;
+    
+    let phaseText = getPhaseLabel(state);
+    let phaseClass = '';
+    let detail = '';
+    
+    switch(state) {
+      case 'appointment':
+        phaseClass = 'appt';
+        detail = `New appointment — Year 1 of 12`;
+        break;
+      case 'associate':
+        phaseClass = 'aj';
+        detail = `Year ${val} of active service`;
+        break;
+      case 'cochief':
+        phaseClass = 'cj';
+        detail = `Year ${val} — ${val === 11 ? 'first' : 'second'} year as Co-Chief Justice`;
+        break;
+      case 'legacy':
+        phaseClass = 'legacy';
+        detail = `Age ${val} — serving under pre-Act tenure`;
+        break;
+      case 'empty':
+        tooltip.classList.remove('visible');
+        return;
+    }
+    
+    tooltip.innerHTML = `
+      <div class="tt-seat">${seatName}</div>
+      <div class="tt-phase ${phaseClass}">${phaseText}</div>
+      <div style="color:#8a8a90;margin-top:2px;">${detail}</div>
+      <div class="tt-year">Act Year ${actYear} · 20${calYear} · Presidential Term ${termNum}</div>
+    `;
+    
+    const rect = cell.getBoundingClientRect();
+    tooltip.style.left = (rect.right + 8) + 'px';
+    tooltip.style.top = (rect.top - 4) + 'px';
+    
+    // Keep tooltip on screen
+    const ttRect = tooltip.getBoundingClientRect();
+    if (ttRect.right > window.innerWidth - 12) {
+      tooltip.style.left = (rect.left - ttRect.width - 8) + 'px';
+    }
+    if (ttRect.bottom > window.innerHeight - 12) {
+      tooltip.style.top = (window.innerHeight - ttRect.height - 12) + 'px';
+    }
+    
+    tooltip.classList.add('visible');
+  });
+  
+  scrollContainer.addEventListener('mouseout', (e) => {
+    const cell = e.target.closest('.grid-cell');
+    if (cell) {
+      tooltip.classList.remove('visible');
+    }
+  });
+}
+
+// ===== INIT =====
+buildSchedule();
+initTooltip();
+</script>
+</body>
+</html>
