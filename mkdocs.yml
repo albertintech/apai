@@ -100,6 +100,12 @@ nav:
                       - Evaluation Against the Chilton Framework: judiciary/fjbaa/chilton-framework-evaluation.md
                       - The Case for Twelve-Year Active Service: judiciary/fjbaa/the-case-for-twelve-years.md
 
+    - Justice & Law Enforcement:
+          - Federal Law Enforcement Council Act:
+                - Introduction: justice/fleca/introduction.md
+                - Legislative Text: justice/fleca/legislative-text.md
+                - Policy Rationale: justice/fleca/policy-rationale.md
+
     - Economic Stability & Security:
           - American Shared Prosperity Compact:
                 - Introduction: aspc/introduction.md
