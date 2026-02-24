@@ -269,7 +269,7 @@ For detailed analysis beyond this Policy Rationale, see:
 - Formatted per APAI Document Production Manual standards
 - References extracted companion documents (International Comparison, Constitutional Analysis, Economic Analysis)
 
-> 📄 [Download this document](https://github.com/albertintech/apai/blob/main/docs/executive/csaa/policy-rationale.md) (opens on GitHub -- click the ⬇ download button)
+> 📄 [Download this document](https://github.com/albertintech/apai/blob/main/docs/civil-service/csaa/policy-rationale.md) (opens on GitHub -- click the ⬇ download button)
 
 ---
 

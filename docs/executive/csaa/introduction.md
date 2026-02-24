@@ -38,7 +38,7 @@ The CSAA addresses these problems by applying the same principles that make Amer
 
 The full legislative text provides complete statutory language. Supporting documents include Policy Rationale, International Comparative Analysis, Constitutional and Legal Analysis, and Economic Analysis.
 
-> 📄 [Download this document](https://github.com/albertintech/apai/blob/main/docs/executive/csaa/introduction.md) (opens on GitHub -- click the ⬇ download button)
+> 📄 [Download this document](https://github.com/albertintech/apai/blob/main/docs/civil-service/csaa/introduction.md) (opens on GitHub -- click the ⬇ download button)
 
 ---
 

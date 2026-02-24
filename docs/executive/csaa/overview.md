@@ -172,7 +172,7 @@ For detailed analysis, see companion documents: *CSAA International Comparative 
 - Covers all nine Titles with substantive summaries
 - Includes implementation timeline and projected outcomes
 
-> 📄 [Download this document](https://github.com/albertintech/apai/blob/main/docs/executive/csaa/overview.md) (opens on GitHub -- click the ⬇ download button)
+> 📄 [Download this document](https://github.com/albertintech/apai/blob/main/docs/civil-service/csaa/overview.md) (opens on GitHub -- click the ⬇ download button)
 
 ---
 

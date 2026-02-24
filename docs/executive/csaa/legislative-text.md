@@ -2250,7 +2250,7 @@ Just as Americans trust career military officers to defend the nation under civi
 - Defines for-cause removal standards within constitutional constraints
 - Establishes merit-based hiring and promotion systems
 
-> 📄 [Download this document](https://github.com/albertintech/apai/blob/main/docs/executive/csaa/legislative-text.md) (opens on GitHub -- click the ⬇ download button)
+> 📄 [Download this document](https://github.com/albertintech/apai/blob/main/docs/civil-service/csaa/legislative-text.md) (opens on GitHub -- click the ⬇ download button)
 
 ---
 
