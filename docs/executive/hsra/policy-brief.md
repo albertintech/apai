@@ -12,7 +12,7 @@ Based on Rev 0.2 of the Homeland Security Restoration Act
 
 ### The Design Failure
 
-The Department of Homeland Security (DHS) was not designed. It was assembled. The Homeland Security Restoration Act (HSRA), hereafter referred to as "the Act," treats DHS not as a failed merger to be reversed but as a concentration of coercive, informational, and operational power that must be fragmented to restore institutional friction and constitutional accountability.
+The Department of Homeland Security (DHS) was not designed - it was assembled. The Homeland Security Restoration Act (HSRA), hereafter referred to as "the Act," treats DHS not as a failed merger to be reversed but as a concentration of coercive, informational, and operational power that must be fragmented to restore institutional friction and constitutional accountability.
 
 In the months following September 11, 2001, Congress consolidated 22 agencies from across the federal government into a single new Cabinet department under the Homeland Security Act of 2002. The consolidation logic was simple: agencies with any connection to "homeland security" should report to a single Secretary who could coordinate their efforts. This logic was intuitively appealing and structurally catastrophic.
 
