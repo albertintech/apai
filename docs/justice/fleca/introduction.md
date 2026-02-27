@@ -18,6 +18,8 @@ The Act preserves presidential authority within constitutional bounds. The Presi
 
 ## Key Components
 
+- **General Provisions (Title I)** -- Establishes the Act's short title, congressional findings, statement of purpose, and definitions used throughout the statutory framework.
+
 - **Federal Law Enforcement Council (Title II)** -- Seven members with staggered fourteen-year terms, calendar-fixed biennial appointments, terminal appointment, partisan balance requirements, for-cause removal protections, rotating chair, and tiered vacancy coverage.
 
 - **Nomination Transparency and Documentation (Title III)** -- Dual-track system requiring nominees to submit either an existing record of legal analysis or a supervised assessment, plus a prosecutorial philosophy statement, across six defined subject matter areas.
