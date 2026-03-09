@@ -2,9 +2,7 @@
 
 ## Policy Brief
 
-### Revision 0.2 -- March 2026
-
-Based on Rev 0.1 of the Homeland Security Restoration Act
+### Published March 2026
 
 ---
 
@@ -218,6 +216,7 @@ Political will is the binding constraint. The policy case for decomposition is s
 
 ---
 
+<!--
 ## Revision History
 
 **Revision 0.2** (Current)
@@ -236,6 +235,7 @@ Political will is the binding constraint. The policy case for decomposition is s
 - Decomposition matrix based on APAI internal risk assessment, Cabinet Loyalism analysis, and Structural Sketch
 - Incorporates adversarial architecture principles and proportional structural protection calibration
 - Companion document: DHS Decomposition Matrix (detailed agency-by-agency reassignment table)
+-->
 
 ---
 
