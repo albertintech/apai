@@ -235,8 +235,9 @@ Political will is the binding constraint. The policy case for decomposition is s
 - Decomposition matrix based on APAI internal risk assessment, Cabinet Loyalism analysis, and Structural Sketch
 - Incorporates adversarial architecture principles and proportional structural protection calibration
 - Companion document: DHS Decomposition Matrix (detailed agency-by-agency reassignment table)
--->
+
 
 ---
+-->
 
 *Prepared by Albert Ramos for The American Policy Architecture Institute*
