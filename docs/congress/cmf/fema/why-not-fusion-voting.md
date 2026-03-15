@@ -10,44 +10,13 @@ Fusion voting -- also called cross-endorsement or multiple party nomination -- h
 
 This paper argues that fusion voting, while not without modest historical merit, is a workaround that accepts the disease while treating one symptom. It is structurally dependent on the very electoral system it claims to improve and incapable of producing the multiparty governance its advocates promise. More importantly, substantial reform energy directed at fusion represents an opportunity cost -- resources that could instead support integrated electoral architecture changes that address the root causes of American democratic dysfunction.
 
-The Federal Elections Modernization Act (FEMA), hereafter referred to as "the Act," provides that integrated architecture: STAR voting, multi-member districts with proportional representation, House expansion, and Joint Endorsement Lists -- reforms that render fusion voting not merely unnecessary, but structurally irrelevant.
+The Federal Elections Modernization Act (FEMA), hereafter referred to as "the Act," provides that integrated architecture: STAR voting, multi-member districts with proportional representation, algorithmically neutral districting, House expansion, and Joint Endorsement Lists -- reforms that render fusion voting not merely unnecessary, but structurally irrelevant.
 
 ---
 
 ## What Fusion Voting Is
 
 Under traditional (disaggregated) fusion voting, a candidate may receive the nomination of more than one political party and appear on the ballot multiple times -- once per nominating party. Votes cast on each party line are tallied separately, then aggregated to produce the candidate's total. If Claire Farmer receives 46% on the Democratic line and 4.8% on the Common Sense Party line, she wins with 50.8%, and her margin of victory is visibly attributable to the minor party.
-
-To understand what fusion changes, consider the difference between a standard plurality ballot and a fusion ballot for the same race:
-
-**Standard Plurality Ballot (43 states + DC):**
-
-```text
-U.S. HOUSE OF REPRESENTATIVES - District 7
-                                                      Mark
-Candidate             Party                           One
----------------------------------------------------------------
-Claire Farmer         Democratic                       ○
-Alex Miller           Republican                       ○
-Amy Garcia            Green                            ○
-Peter Conway          Libertarian                      ○
-```
-
-**Fusion Ballot (New York-style, disaggregated):**
-
-```text
-U.S. HOUSE OF REPRESENTATIVES - District 7
-                                                      Mark
-Candidate             Party                           One
----------------------------------------------------------------
-Claire Farmer         Democratic                       ○
-Alex Miller           Republican                       ○
-Claire Farmer         Common Sense                     ○
-Amy Garcia            Green                            ○
-Peter Conway          Libertarian                      ○
-```
-
-Under the standard ballot, a voter who supports the Common Sense Party but prefers Farmer over Miller must vote for Farmer on the Democratic line -- registering support for the Democratic Party rather than the Common Sense Party. Under the fusion ballot, the same voter can vote for Farmer on the Common Sense line, contributing to her total while making the minor party's support visible and measurable. In both cases, the voter picks one candidate, and the candidate with the most total votes wins.
 
 This practice was once universal in the United States. Prior to the adoption of the Australian ballot in the 1880s and 1890s, parties printed their own ballots, and cross-nomination required no state permission. Beginning in the late 1890s, major parties -- particularly Republicans in the North and Democrats in the South -- used their newly acquired control over state-printed ballots to ban fusion, explicitly to eliminate the coalition threats that Populist, labor, and multiracial fusion tickets posed to their dominance.
 
@@ -113,15 +82,23 @@ The Act provides an alternative approach that addresses the root causes of the d
 
 ### STAR Voting Eliminates the Spoiler Problem Entirely
 
-STAR voting replaces plurality voting for all federal elections. Voters score candidates 0-5 stars; the two highest-scoring candidates advance to an automatic runoff determined by voter preference. This eliminates vote-splitting, removes the strategic incentive to vote for the "lesser evil," and enables honest preference expression across the full candidate field. (For a detailed treatment of STAR voting mechanics and how they compare to other voting methods, see the [Voting Methods Technical Explainer](https://policyarchitecture.org/congress/cmf/fema/voting-methods-technical-explainer/).)
+STAR voting replaces plurality voting for all federal elections. Voters score candidates 0-5 stars; the two highest-scoring candidates advance to an automatic runoff determined by voter preference. This eliminates vote-splitting, removes the strategic incentive to vote for the "lesser evil," and enables honest preference expression across the full candidate field.
 
 Where fusion gives minor-party voters a way to support a major-party candidate while signaling minor-party affiliation, STAR voting makes the signal unnecessary. Voters can score their preferred minor-party candidate a 5 and a tolerable major-party candidate a 3 without any risk that their honest preference will produce a perverse outcome. The scoring mechanism does what fusion attempts through ballot mechanics -- it lets voters express nuanced preferences -- but it does so mathematically rather than through institutional workarounds.
 
 ### Proportional Representation Gives Minor Parties Actual Seats
 
-The Act transitions House elections from single-member to multi-member districts (3-7 seats) using STAR Proportional Representation (STAR-PR). Under this system, 20% voter support yields roughly 20% of seats. Minor parties do not need endorsement leverage or bargaining chips -- they have representatives who vote on legislation. (For how these components depend on each other, see the [Act's Overview](https://policyarchitecture.org/congress/cmf/fema/overview/).)
+Beginning at the First FEMA Election, all qualifying states elect Representatives from multi-member districts (3-7 seats) using STAR Proportional Representation (STAR-PR). Under this system, 20% voter support yields roughly 20% of seats. Minor parties do not need endorsement leverage or bargaining chips -- they have representatives who vote on legislation.
 
 This is the difference between influence and power. Fusion gives minor parties influence: the ability to signal, to negotiate, to hope that their measurable vote share will be rewarded with policy concessions. Proportional representation gives them power: actual seats, actual votes, actual participation in the legislative process. No amount of ballot-line leverage can substitute for having members of Congress who answer to your voters.
+
+### Algorithmically Neutral Districting Eliminates the Boundaries Problem Fusion Ignores
+
+Fusion voting operates inside gerrymandered districts and accepts the boundary distortions that make those districts uncompetitive. A minor party's 4.8% endorsement leverage means nothing if the district was drawn to produce a 20-point partisan margin -- the major-party candidate wins regardless, and the minor party's bargaining position evaporates.
+
+The Act mandates algorithmically neutral, deterministic districting for all states electing two or more Representatives. The Electoral Science Office certifies the algorithm, which operates without reference to racial, ethnic, linguistic, partisan, or incumbent-residence data and produces publicly verifiable outputs. Shortest splitline serves as the statutory default pending ESO certification. No human draws a line. No partisan actor touches a boundary.
+
+This addresses a dimension of electoral dysfunction that fusion cannot even conceptually reach. Fusion is a ballot-level intervention -- it changes how votes are counted within a district but has no mechanism for addressing whether the district itself was drawn to predetermine the outcome. Algorithmically neutral districting eliminates the manipulation at its source, and proportional representation ensures that even imperfect boundaries cannot distort representation, because communities do not need to be packed into a single district to win seats. The combination removes two layers of structural dysfunction that fusion leaves entirely intact.
 
 ### House Expansion Creates the Mathematical Space for Proportionality
 
@@ -129,36 +106,19 @@ The Act grows the House from 435 to approximately 720 members over 14 years usin
 
 ### Joint Endorsement Lists Capture Fusion's Informational Benefit Without Its Baggage
 
-Title II of the Act establishes Joint Endorsement Lists: each candidate appears once on the ballot with up to three party endorsements displayed alongside their name. Compare the following to the fusion ballot shown earlier:
+Title II of the Act establishes Joint Endorsement Lists: each candidate appears once on the ballot with up to three party endorsements displayed alongside their name.
 
-**Joint Endorsement List Ballot (under the Act, with STAR voting):**
+Example ballot format: Sarah Chen | Registered: Democratic | Endorsed by: Democratic, Working Families, Green
 
-```text
-U.S. HOUSE OF REPRESENTATIVES - District 7
-Score each candidate from 0 (worst) to 5 (best).
-
-                                                        FCAO
-Candidate            Party        Endorsements          Exam    Rating
----------------------------------------------------------------------------
-Sarah Martinez       Democratic   Dem, Working Fam      88%     0  1  2  3  4  5
-James Chen           Republican   Republican            92%     0  1  2  3  4  5
-Patricia O'Brien     Democratic   Dem, Working Fam,     83%     0  1  2  3  4  5
-                                  Green
-Jennifer Kim         Independent  Independent           95%     0  1  2  3  4  5
-Michael Torres       Republican   (none)                77%     0  1  2  3  4  5
-```
-
-Each candidate appears once. Coalition relationships are visible at a glance -- O'Brien's three endorsements show broad progressive coalition support, while Torres's lack of endorsement signals internal party conflict. The voter scores all candidates rather than picking one, and the [FCAO examination](https://policyarchitecture.org/congress/cmf/fema/fcao-explainer/) result provides an additional informational layer. No vote aggregation across party lines occurs, no ballot line exists as a tradeable asset, and no vote-threshold dependency ties minor parties to major-party nominees. (For a full walkthrough of the voter experience under the Act, see [What Changes for Voters](https://policyarchitecture.org/congress/cmf/fema/what-changes-for-voters/).)
-
-This provides every informational benefit that fusion's advocates claim -- voters see which parties support which candidates, coalition structures are transparent, minor parties gain visibility through endorsement power -- without the structural problems fusion creates.
+This provides every informational benefit that fusion's advocates claim -- voters see which parties support which candidates, coalition structures are transparent, minor parties gain visibility through endorsement power -- without the structural problems fusion creates. There is no vote aggregation across party lines, no multiple ballot lines for the same candidate, no asset (the ballot line) that can be converted into patronage, and no dependency relationship created by vote-threshold requirements for maintaining party status.
 
 Joint Endorsement Lists are explicitly distinguishable from fusion under existing constitutional doctrine. *Timmons v. Twin Cities Area New Party* addressed state authority to prohibit fusion -- multiple party nominations with vote aggregation. The Act's system displays endorsements, not nominations; candidates appear once, not multiple times; and the provision operates under federal Elections Clause authority rather than as a state-law challenge.
 
 ### The Integrated System Makes Fusion Irrelevant
 
-The Act's reforms are not a menu of independent options. They are an integrated system that must launch together. STAR voting eliminates spoiler effects. Multi-member districts translate preferences into proportional outcomes. House expansion creates seats for proportional representation to fill. Joint Endorsement Lists make coalition structures transparent. If any major component launches without the others, the result is dysfunction at a different scale rather than genuine modernization. (For a full 12-candidate example of how all these components appear on a single ballot, see the [Sample Multi-Member District Ballot](https://policyarchitecture.org/congress/cmf/fema/sample-mmd-ballot-12-candidates/).)
+The Act's reforms are not a menu of independent options. They are an integrated system that must launch together. STAR voting eliminates spoiler effects. Multi-member districts translate preferences into proportional outcomes. Algorithmically neutral districting ensures those districts are drawn without human discretion or partisan manipulation. House expansion creates seats for proportional representation to fill. Joint Endorsement Lists make coalition structures transparent. If any major component launches without the others, the result is dysfunction at a different scale rather than genuine modernization.
 
-This integrated approach is why fusion becomes not merely unnecessary but structurally irrelevant under the Act. Every problem fusion was designed to solve -- spoiler effects, minor party invisibility, coalition opacity -- is addressed directly by components of the Act that operate at the correct level of the electoral architecture. Fusion patches the ballot. The Act rewrites the operating system.
+This integrated approach is why fusion becomes not merely unnecessary but structurally irrelevant under the Act. Every problem fusion was designed to solve -- spoiler effects, minor party invisibility, coalition opacity -- is addressed directly by components of the Act that operate at the correct level of the electoral architecture. And the problems fusion cannot even reach -- gerrymandered boundaries, human discretion in map-drawing, the geometric distortions of winner-take-all -- are addressed by components fusion has no mechanism to replicate. Fusion patches the ballot. The Act rewrites the operating system.
 
 ---
 
@@ -178,9 +138,9 @@ It is worth noting that the scholarly literature itself reflects this gap. A sys
 
 Fusion voting is a historically interesting, modestly beneficial workaround for problems created by America's winner-take-all, single-member-district electoral system. Its advocates are correct that it was unjustly suppressed, that its suppression served partisan interests rather than democratic values, and that its restoration would provide marginal improvements in minor party viability within the existing framework.
 
-But marginal improvement within a broken framework is not reform. Fusion cannot break Duverger's law. It cannot produce proportional representation. It cannot give minor parties legislative seats. It cannot eliminate the spoiler problem -- it can only create a workaround that allows voters to navigate around it. And it consumes scarce reform resources that could be directed toward structural changes that address root causes rather than symptoms.
+But marginal improvement within a broken framework is not reform. Fusion cannot break Duverger's law. It cannot produce proportional representation. It cannot give minor parties legislative seats. It cannot eliminate the spoiler problem -- it can only create a workaround that allows voters to navigate around it. It cannot address gerrymandering or the human discretion embedded in boundary-drawing -- it operates inside whatever districts it finds. And it consumes scarce reform resources that could be directed toward structural changes that address root causes rather than symptoms.
 
-The Federal Elections Modernization Act offers those structural changes: STAR voting to eliminate vote-splitting, multi-member districts with proportional representation to give every voter's preference proportional weight, House expansion to create the mathematical space for proportionality, and Joint Endorsement Lists to provide coalition transparency without fusion's institutional baggage. Together, these reforms produce a system in which fusion voting has nothing to do -- because the problems it was designed to solve no longer exist.
+The Federal Elections Modernization Act offers those structural changes: STAR voting to eliminate vote-splitting, multi-member districts with proportional representation to give every voter's preference proportional weight, algorithmically neutral districting to eliminate human discretion from boundary placement, House expansion to create the mathematical space for proportionality, and Joint Endorsement Lists to provide coalition transparency without fusion's institutional baggage. Together, these reforms produce a system in which fusion voting has nothing to do -- because the problems it was designed to solve no longer exist.
 
 The question for the reform community is not "why not fusion voting?" in isolation. It is: given finite resources and political capital, do we invest in making the broken system slightly more tolerable, or do we invest in replacing it?
 
@@ -202,7 +162,7 @@ Pope, James Gray. "Fusion, Timmons v. Twin Cities Area New Party, and the Future
 
 Pocasangre, Oscar, and Maresa Strano. "What We Know About Fusion Voting." New America, July 2024.
 
-Ramos, Albert E. *Federal Elections Modernization Act, Rev 5.0*. The American Policy Architecture Institute, February 2026.
+Ramos, Albert E. *Federal Elections Modernization Act, Rev 5.2*. The American Policy Architecture Institute, February 2026.
 
 Rogers, Joel, and Maresa Strano. "More Than Semantics: Distinguishing Dual Labeling from Traditional Fusion Voting." *Ballot Access News*, September 16, 2023.
 
@@ -219,7 +179,18 @@ Tamas, Bernard. "Does Fusion Undermine American Third Parties? An Analysis of Ho
 <!--
 ## Revision History
 
-**Revision 1.1** (Current)
+**Revision 1.2** (Current)
+- Updated opening paragraph reform list to include algorithmically neutral districting
+- Revised Proportional Representation subsection in Affirmative Case: replaced "transitions House elections from single-member to multi-member districts" with explicit single implementation language ("Beginning at the First FEMA Election, all qualifying states elect Representatives from multi-member districts")
+- Added new Affirmative Case subsection: "Algorithmically Neutral Districting Eliminates the Boundaries Problem Fusion Ignores" -- fusion operates inside gerrymandered districts and has no mechanism to address boundary manipulation; algorithmic districting eliminates human discretion from map-drawing; proportional representation ensures even imperfect boundaries cannot distort representation
+- Updated integrated system summary to include algorithmically neutral districting
+- Updated closing paragraph of Affirmative Case to address gerrymandering as a dimension of dysfunction fusion cannot reach
+- Updated Conclusion to include gerrymandering and boundary-drawing among fusion's limitations and algorithmically neutral districting among the Act's structural changes
+- Updated Works Cited: Ramos 2026 reference updated from Rev 5.0 to Rev 5.2
+- Added "Revision history available in the raw file." note per DPS Rev 2.3, Section 1.3
+- Added download link per DPS Section 1.9
+
+**Revision 1.1**
 - Expanded Works Cited with six additional scholarly sources: Tamas 2017 (empirical critique of fusion's effects on third-party viability), Pope 1998 (law review analysis of minor-party autonomy concerns under fusion), Scarrow 1986 (foundational political science treatment linking anti-fusion laws to Duverger's Law), Soyer 2021 (definitive history of the Liberal Party of New York documenting patronage pathology), Chamberlain 2012 (empirical study of fusion as candidate-centered rather than party-centered reform), and Pocasangre and Strano 2024 (comprehensive literature review identifying gaps in comparative analysis)
 - Added paragraph on comparative literature gap in the Opportunity Cost section
 - Sources identified through systematic literature review of fusion voting scholarship
@@ -229,8 +200,12 @@ Tamas, Bernard. "Does Fusion Undermine American Third Parties? An Analysis of Ho
 - Evaluates fusion voting against integrated electoral architecture proposed in the Federal Elections Modernization Act
 - Draws on Brennan Center primer, Center for Ballot Freedom materials, Rogers & Strano analysis, rangevoting.org criticism, and comparative international evidence
 - Classified as Position Paper per APAI Document Production Standards Rev 2.1
+-->
+
+*Revision history available in the raw file.*
+
+> [Download this document](https://github.com/albertintech/apai/blob/main/docs/electoral/cmf/fema/why-not-fusion-voting.md) (opens on GitHub -- click the download button)
 
 ---
--->
 
 *Prepared by Albert Ramos for The American Policy Architecture Institute*
