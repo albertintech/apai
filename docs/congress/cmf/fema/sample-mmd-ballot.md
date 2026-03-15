@@ -2,7 +2,7 @@
 
 ## CONGRESSIONAL DISTRICT 3 (Multi-Member)
 
-### General Election - November 5, 2030
+### General Election - November 2, 2032
 
 ---
 
