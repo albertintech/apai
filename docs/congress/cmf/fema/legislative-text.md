@@ -1,8 +1,8 @@
-# THE FEDERAL ELECTIONS MODERNIZATION ACT (FEMA)
+# THE FEDERAL ELECTIONS MODERNIZATION ACT
 
 ## An Electoral and Congressional Modernization Framework for a Stronger Republic
 
-### Revision 5.0
+### Revision 5.2
 
 ---
 
@@ -74,19 +74,16 @@ Congress finds that:
 
 Congress finds that:
 
-21. Electoral reforms create transitional challenges for incumbents whose careers were built under winner-take-all rules. Providing reasonable transition protections and compensation adjustments aligns incumbent incentives with reform goals and removes barriers to passage.
+21. Electoral reforms create transitional challenges for incumbents whose careers were built under winner-take-all rules. Compensation adjustments that recognize the value of legislative experience and align incumbent incentives with reform goals remove barriers to passage. Proportional representation through STAR-PR substantially lowers the effective threshold for winning a seat, ensuring that incumbents with meaningful constituent support face reduced -- not increased -- electoral risk under multi-member districts.
 
 22. The reforms in this Act are designed as an integrated system where each component reinforces the others. Ballot access reform (Title I) enables party competition. Party recognition standards (Title II) provide structure for Joint Endorsement Lists. House expansion (Title III) creates seats for proportional representation. Multi-member districts with STAR-PR (Title IV) operationalize proportionality. Non-qualifying federal office examinations (Title V) provide transparency without creating barriers. Compensation, transition, and implementation mechanisms (Title VI) align incentives to make passage politically viable. Enforcement and reporting requirements (Title VII) ensure implementation. General provisions (Title VIII) resolve technical implementation details.
 
 23. These reforms address root causes rather than symptoms. While campaign finance reform, redistricting commissions, and term limits treat symptoms of uncompetitive elections, this Act restructures the fundamental electoral architecture to restore competition and proportional representation.
 
-24. Implementing STAR voting universally for all federal elections -- both for single-winner contests (President, Senate, single-member House districts) and proportional contests (multi-member House districts via STAR-PR) -- creates consistent voter experience across all federal races, enables institutional learning and expertise development in election administration, and simplifies voter education by maintaining the same ballot marking method (score-then-preference) regardless of office or district structure.
+24. Implementing STAR voting universally for all federal elections -- both for single-winner contests (President, Senate, and House elections in states with fewer than three Representatives) and proportional contests (multi-member House districts via STAR-PR) -- creates consistent voter experience across all federal races, enables institutional learning and expertise development in election administration, and simplifies voter education by maintaining the same ballot marking method (score-then-preference) regardless of office or district structure.
 
 ---
 
----
-
-**END OF FINDINGS**
 ## TITLE I: FEDERAL BALLOT ACCESS STANDARDS
 
 ### Section 101. Federal Ballot Access Standards
@@ -172,7 +169,7 @@ This Title supersedes any conflicting state constitutional provisions, statutes,
 
 #### (a) Regulatory Authority
 
-The Federal Election Commission shall, within 180 days of enactment, promulate regulations implementing this Title, including:
+The Federal Election Commission shall, within 180 days of enactment, promulgate regulations implementing this Title, including:
 
 1. Standards for electronic signature collection systems;
 2. Procedures for resolving ballot access disputes;
@@ -212,9 +209,7 @@ This Title takes effect 24 months after the date of enactment, applying to all f
 
 ---
 
-**END OF TITLE I**
-
-**Note:** FCAO examination requirements (formerly Sections 109-112) have been reorganized as Title V: Non-Qualifying Federal Office Examinations. Candidates must satisfy both Title I ballot access requirements AND Title V examination requirements to achieve ballot access.
+## TITLE II: FEDERAL PARTY RECOGNITION AND JOINT ENDORSEMENT LISTS
 
 ### Section 201. Federal Party Recognition Standards
 
@@ -316,8 +311,7 @@ This Title takes effect 24 months after the date of enactment, applying to all f
 
 ---
 
-**END OF TITLE II**
-
+## TITLE III: HOUSE EXPANSION
 
 ### Section 301. House Expansion Schedule
 
@@ -404,8 +398,10 @@ There are authorized to be appropriated such sums as necessary to provide enhanc
 States shall redistrict following each House expansion to accommodate increased representation, using:
 
 1. Population data from the most recent decennial census;
-2. Standards established in Title IV for multi-member districts (if applicable); and
-3. Traditional redistricting principles for single-member districts (if applicable).
+2. Multi-member district standards established in Title IV, Section 403; and
+3. The districting algorithm certified by the Electoral Science Office under Title IV, Section 409.
+
+States with one Representative are exempt from redistricting requirements, as at-large representation involves no internal district boundary. States with two Representatives shall redistrict using the certified algorithm to determine the boundary between two single-member districts.
 
 ### Section 305. Compliance and Oversight
 
@@ -419,8 +415,7 @@ Any qualified voter may bring suit in federal district court to challenge redist
 
 ---
 
-**END OF TITLE III**
-
+## TITLE IV: MULTI-MEMBER DISTRICTS, ALGORITHMIC DISTRICTING, AND STAR VOTING
 
 ### Section 401. Single-Member District Mandate Repeal
 
@@ -428,85 +423,98 @@ The requirement in 2 U.S.C. Section 2c that Representatives be elected from sing
 
 ### Section 402. Multi-Member District Implementation
 
-#### (a) Gradual Phase-In Schedule
+#### (a) Single Implementation
 
-States shall transition to multi-member congressional districts according to the following schedule:
-
-**Transition Cycle 1**: The First FEMA Election
-
-- States may elect up to 25% of Representatives from multi-member districts
-
-**Transition Cycle 2**: Second congressional election following Transition Cycle 1
-
-- States may elect up to 50% of Representatives from multi-member districts
-
-**Transition Cycle 3**: Third congressional election following Transition Cycle 1
-
-- States may elect up to 75% of Representatives from multi-member districts
-
-**Transition Cycle 4**: Fourth congressional election following Transition Cycle 1
-
-- States may elect up to 90% of Representatives from multi-member districts
-
-**Full Implementation**: Fifth congressional election following Transition Cycle 1
-
-- States shall elect 100% of Representatives from multi-member districts (except as provided in subsection (e))
+Beginning with the First FEMA Election, all qualifying states shall elect Representatives exclusively from multi-member congressional districts as provided in this Title. There shall be no graduated phase-in; multi-member districts take effect simultaneously with House expansion under Title III and STAR voting under Section 404.
 
 #### (b) District Magnitude Requirements
 
-Multi-member congressional districts shall:
+Multi-member congressional districts shall elect between three (3) and seven (7) Representatives per district.
 
-1. Elect between 3 and 7 Representatives per district;
-2. Contain substantially equal population across districts within each state;
-3. Comply with Voting Rights Act and constitutional one-person-one-vote requirements;
-4. Maintain geographic contiguity and, where practicable, respect county and municipal boundaries; and
-5. Not be drawn to favor or disfavor any political party or incumbent.
+#### (c) Population Equality
 
-#### (c) Incumbent Protection During Transition
+Districts within each state shall contain substantially equal population, consistent with Voting Rights Act and constitutional one-person-one-vote requirements.
 
-During Transition Cycles 1-4, incumbent Representatives may choose to:
+#### (d) Small State Application
 
-1. Remain in current single-member districts if they continue to exist; or
-2. Compete in newly created multi-member districts.
+**(1) Single-Representative States**
 
-No incumbent shall be required to compete in multi-member districts until Full Implementation.
+States with one Representative are exempt from both multi-member district requirements and algorithmic districting requirements. Such states shall elect their Representative at-large using single-winner STAR voting as specified in Section 404(e).
 
-#### (d) Limited Single-Member District Retention
+**(2) Two-Representative States**
 
-Following Full Implementation, states may retain single-member districts only for:
+States with two Representatives are exempt from multi-member district requirements and shall elect Representatives from two single-member districts using single-winner STAR voting as specified in Section 404(e). District boundaries for two-Representative states shall be determined by the certified districting algorithm under Section 403.
 
-1. Geographically isolated areas (e.g., Alaska's remote regions, Hawaii's islands) where multi-member districts would create unreasonable geographic burdens; or
-2. States with fewer than three Representatives total.
+### Section 403. Algorithmic Districting
 
-Such exceptions require Department of Justice approval with demonstration that multi-member districts would substantially impair effective representation.
+#### (a) Algorithmic Neutrality Requirement
 
-#### (e) Small State Application
+All congressional district boundaries shall be determined by algorithmically neutral, deterministic methods that eliminate human discretion from boundary placement. This requirement applies to all states electing two or more Representatives, regardless of whether the state elects Representatives from multi-member districts or single-member districts. No congressional district boundary shall be drawn by any method that permits or requires subjective judgment regarding the placement of boundary lines.
 
-States with fewer than three Representatives are exempt from multi-member district requirements and shall use single-winner STAR voting as specified in Section 404(e).
+States with one Representative are exempt from this requirement, as at-large representation involves no internal district boundary.
 
-### Section 403. Districting Criteria
+#### (b) Certified Districting Algorithm
 
-#### (a) Required Standards
+The Electoral Science Office shall certify a districting algorithm meeting the requirements of this section. The certified algorithm shall:
 
-States drawing multi-member congressional districts shall:
+1. Accept as inputs only the number of seats to be allocated, the geographic boundaries of the state, and census population data at the smallest available geographic unit;
+2. Produce district boundaries that are deterministic -- identical inputs shall produce identical outputs in every application;
+3. Require no parameters, thresholds, or weightings that involve subjective judgment;
+4. Be publicly documented such that any person with access to the input data can independently verify the output;
+5. Produce geographically contiguous districts of substantially equal population; and
+6. Be capable of application to both multi-member and single-member districting configurations.
 
-1. Ensure substantial population equality across districts;
-2. Maintain Voting Rights Act compliance;
-3. Preserve communities of interest where practicable;
-4. Respect county and municipal boundaries where consistent with other requirements; and
-5. Maintain geographic contiguity.
+For states with two Representatives, the algorithm shall divide the state into two districts of substantially equal population.
 
-#### (b) Prohibited Criteria
+#### (c) District Magnitude Allocation
 
-States may not draw multi-member districts to:
+The certified algorithm shall allocate district magnitudes within each state according to the following principles:
 
-1. Discriminate based on race, ethnicity, language minority status, or political party membership;
-2. Dilute minority voting strength in violation of the Voting Rights Act; or
-3. Favor or disfavor any political party or incumbent.
+1. All seats within a state shall be allocated to multi-member districts of three (3) to seven (7) seats;
+2. The algorithm shall select the configuration in which all districts share a single uniform magnitude, if such a configuration exists within the range specified in paragraph (1); and
+3. Where multiple uniform-magnitude configurations exist, the algorithm shall select the configuration whose uniform magnitude appears earliest in the following preference ordering: five (5), six (6), four (4), seven (7), three (3).
 
-#### (c) Independent Redistricting Commissions
+Where no uniform-magnitude configuration exists, the algorithm shall maximize the number of seats assigned to districts at the highest-priority magnitude available under the preference ordering, then assign remaining seats to districts at the next-priority magnitude that produces a valid configuration. This process continues through the preference ordering until all seats are allocated.
 
-States are encouraged but not required to establish independent redistricting commissions. Redistricting procedures remain within state authority subject to federal standards.
+The district magnitude preference ordering is an adjustable parameter under Section 409(e)(1). In the absence of modification by the Electoral Science Office, the ordering specified in paragraph (3) shall apply.
+
+This subsection applies to states with three or more Representatives. For states with two Representatives, district magnitude is fixed at one Representative per district and no magnitude allocation determination is required.
+
+#### (d) Algorithm as Adjustable Parameter
+
+The specific districting algorithm is an adjustable parameter under Section 409(e). The Electoral Science Office may propose replacement or modification of the certified algorithm through the process established in Section 409(h)(2), subject to the boundary conditions specified in subsection (f) of this section and Section 409(e)(2).
+
+#### (e) Voting Rights Act Compliance
+
+District configurations produced by the certified algorithm shall comply with the Voting Rights Act of 1965, as amended. The Department of Justice shall review algorithmically generated district maps following each redistricting cycle pursuant to Section 305.
+
+If the Department of Justice determines that an algorithmically generated configuration violates the Voting Rights Act, the Electoral Science Office shall, in coordination with the Department of Justice, apply the minimum boundary adjustment necessary to achieve compliance while preserving the algorithmic neutrality of the remainder of the state's district configuration. Safeguards governing this process are specified in Section 410(d).
+
+#### (f) Boundary Conditions for Districting Algorithm
+
+Any districting algorithm certified or modified under this section must:
+
+1. Produce districts of substantially equal population consistent with constitutional one-person-one-vote requirements;
+2. Produce geographically contiguous districts;
+3. Operate without reference to racial, ethnic, linguistic, partisan, or incumbent-residence data;
+4. Be fully deterministic and publicly verifiable;
+5. Not require subjective parameter selection by any human actor; and
+6. Be implementable using publicly available census geographic data.
+
+#### (g) Initial Algorithm Certification
+
+The Electoral Science Office shall certify an initial districting algorithm within 18 months of enactment. If the ESO has not certified an algorithm by the deadline established in this subsection, the shortest splitline method -- defined as recursive division of a state's geography along the shortest straight line that divides the remaining population into proportions matching the remaining seat allocation -- shall serve as the default algorithm until the ESO certifies a replacement.
+
+#### (h) Transparency and Public Access
+
+The Electoral Science Office shall publish:
+
+1. The full specification of the certified algorithm;
+2. All input data used in each redistricting application;
+3. The resulting district maps for each state; and
+4. Verification tools enabling independent replication of results.
+
+All publications under this subsection shall be made available not fewer than 12 months before the election to which they apply.
 
 ### Section 404. STAR Voting Method
 
@@ -620,9 +628,8 @@ For elections with single winner:
 This single-winner procedure applies to:
 
 1. All Senate elections;
-2. All Presidential elections;
-3. House elections in single-member districts; and
-4. House elections in districts electing one or two Representatives.
+2. All Presidential elections; and
+3. House elections in states with fewer than three Representatives, as provided in Section 402(d).
 
 #### (f) Multi-Member District Election Procedures
 
@@ -638,7 +645,7 @@ Multi-member districts using STAR-PR achieve optimal democratic outcomes when al
 
 **(3) Implementation Timeline**
 
-This subsection takes effect upon multi-member district implementation in each state according to Section 402(a) schedule.
+This subsection takes effect at the First FEMA Election.
 
 #### (g) STAR-PR for Multi-Member House Districts
 
@@ -741,15 +748,9 @@ Ballots shall comply with accessibility requirements for voters with disabilitie
 
 The FEC shall publish model ballot designs demonstrating compliance with this section within 12 months of enactment.
 
-### Section 406. Transition Protection for Incumbents
+### Section 406. Transition Protection
 
-During transition to multi-member districts (Transition Cycles 1-4):
-
-1. Incumbents may choose to remain in single-member districts where they exist;
-2. Multiple incumbents may compete in same multi-member district without penalty;
-3. No incumbent shall lose ballot access or face disadvantage due to redistricting;
-4. Incumbents receive transition protection as specified in Title VI; and
-5. States shall minimize incumbent-versus-incumbent contests during transition where practicable.
+[Reserved]
 
 ### Section 407. FEC Certification and Oversight
 
@@ -779,11 +780,12 @@ If states face genuine technical obstacles to timely STAR-PR implementation, the
 
 #### (b) Equipment Availability
 
-The FEC shall work with voting equipment vendors to ensure certified STAR-PR systems are commercially available at least 18 months before Transition Cycle 1.
+The FEC shall work with voting equipment vendors to ensure certified STAR-PR systems are commercially available at least 18 months before the First FEMA Election.
 
 #### (c) Voter Education
 
 The FEC shall coordinate with states to ensure comprehensive voter education campaigns precede STAR voting implementation.
+
 
 ### Section 409. Electoral Science Office and Voting Method Technical Review
 
@@ -796,8 +798,10 @@ There is established as an independent agency in the executive branch the Electo
 1. Ongoing evaluation of voting method performance under this Act;
 2. Research into improvements to vote tabulation and seat allocation procedures;
 3. Development and validation of proposed technical modifications;
-4. Coordination with academic institutions, election administrators, and international experts; and
-5. Public education regarding voting method mechanics and outcomes.
+4. Coordination with academic institutions, election administrators, and international experts;
+5. Public education regarding voting method mechanics and outcomes;
+6. Certification, evaluation, and maintenance of the districting algorithm required by Section 403; and
+7. Publication of algorithmically generated district maps and verification tools following each redistricting cycle.
 
 **(2) Independence**
 
@@ -862,10 +866,14 @@ an Act of Congress amending this Title.
    candidates;
 3. **Equal voter treatment**: All voters' ballots shall carry equal initial
    weight, and no voter's ballot shall be given greater or lesser influence
-   based on party affiliation, geography, or any other characteristic; and
+   based on party affiliation, geography, or any other characteristic;
 4. **Proportional outcome requirement**: For multi-member districts, seat
    allocation shall produce proportional representation reflecting the
-   distribution of voter support across candidates.
+   distribution of voter support across candidates; and
+5. **Algorithmic districting neutrality**: Congressional district boundaries
+   shall be determined by algorithmically neutral, deterministic methods that
+   eliminate human discretion from boundary placement, as specified in
+   Section 403(a).
 
 **(2) Rationale**
 
@@ -885,10 +893,13 @@ affirmative Congressional approval as specified in subsection (h)(1).
 
 1. **Score range**: Voters shall score candidates using a 0-5 star scale;
 2. **Unscored treatment**: Candidates left unscored shall be treated as
-   receiving 0 stars; and
+   receiving 0 stars;
 3. **Single-winner STAR structure**: For single-winner contests, the two
    highest-scoring candidates shall advance to an automatic runoff determined
-   by voter preferences.
+   by voter preferences; and
+4. **District magnitude range**: Multi-member congressional districts shall
+   elect between three (3) and seven (7) Representatives, as specified in
+   Section 402(b).
 
 **(2) Rationale**
 
@@ -920,10 +931,22 @@ ongoing research.
 4. **Tie-breaking procedures**: Methods for resolving ties at any stage of
    tabulation, provided such methods remain neutral and publicly verifiable;
 5. **Rounding and remainder handling**: Procedures for handling fractional
-   allocations and distributing remainder seats; and
+   allocations and distributing remainder seats;
 6. **Audit and verification protocols**: Technical specifications for
    post-election audits and result verification, provided such protocols do
-   not reduce auditability.
+   not reduce auditability;
+7. **Districting algorithm**: The specific algorithm used to determine
+   congressional district boundaries within each state, subject to the
+   boundary conditions specified in Section 403(f) and subsection (e)(2) of
+   this section;
+8. **District magnitude allocation method**: The district magnitude preference
+   ordering and the method for allocating magnitudes among districts within a
+   state under Section 403(c), subject to the constraint that all districts
+   fall within the magnitude range specified as a protected design element
+   under subsection (d)(1); and
+9. **VRA compliance adjustment procedure**: The method by which the ESO, in
+   coordination with the Department of Justice, applies minimum boundary
+   adjustments to achieve Voting Rights Act compliance under Section 403(e).
 
 **(2) Boundary Conditions**
 
@@ -936,9 +959,13 @@ Any modification to adjustable parameters must:
 4. Not create opportunities for strategic manipulation not present in current
    specifications;
 5. Not disadvantage any political party, candidate, or voter bloc relative to
-   current specifications; and
+   current specifications;
 6. Be implementable using existing certified voting equipment or equipment
-   certifiable within 18 months.
+   certifiable within 18 months;
+7. Not introduce human discretion into district boundary placement or district
+   magnitude allocation; and
+8. Satisfy the boundary conditions for districting algorithms specified in
+   Section 403(f).
 
 #### (f) Decennial Technical Review
 
@@ -1164,17 +1191,22 @@ The FEC and ESO shall enter into a memorandum of understanding governing:
 
 #### (k) Authorization of Appropriations
 
-**(1) Initial Funding**
+**(1) Establishment Funding**
 
 There are authorized to be appropriated to the Electoral Science Office:
 
-1. $15 million for the first fiscal year after enactment for establishment and initial operations;
-2. $10 million for each of the subsequent two fiscal years; and
-3. $8 million annually thereafter, adjusted for inflation.
+1. $15 million for the first fiscal year after enactment for establishment and initial operations; and
+2. $10 million for each of the second and third fiscal years after enactment.
+
+Establishment funding under this paragraph is in addition to, and not in lieu of, the mandatory minimum appropriation established under Section 410(c).
 
 **(2) Decennial Review Supplemental**
 
-There are authorized to be appropriated such additional sums as necessary to conduct decennial technical reviews, not to exceed $5 million per review cycle.
+There are authorized to be appropriated such additional sums as necessary to conduct decennial technical reviews under Section 409(f), not to exceed $5 million per review cycle.
+
+**(3) Ongoing Funding**
+
+Beginning with the fourth fiscal year after enactment, ongoing funding for the Electoral Science Office shall be provided through the mandatory minimum appropriation established under Section 410(c). Congress may appropriate sums in excess of the mandatory minimum for any fiscal year.
 
 #### (l) Effective Date
 
@@ -1190,9 +1222,197 @@ The ESO's authority to conduct technical reviews and propose modifications shall
 
 The first mandatory decennial review shall commence following certification of the first decennial census completed after the Second FEMA Election.
 
----
 
-**END OF TITLE IV**
+### Section 410. Independence Protections for Districting Functions
+
+#### (a) Executive Independence
+
+**(1) Non-Interference**
+
+The Electoral Science Office shall not be subject to executive orders, presidential memoranda, presidential directives, or directives from the Office of Management and Budget with respect to:
+
+1. Certification, evaluation, or modification of the districting algorithm under Section 403;
+2. Generation, publication, or modification of congressional district maps;
+3. Allocation of district magnitudes within any state;
+4. Voting Rights Act compliance adjustments under Section 403(e); or
+5. Any technical review of the districting algorithm under Section 409.
+
+**(2) Prohibited Communications**
+
+No officer or employee of the Executive Office of the President, including the White House Office, the Office of Management and Budget, and any office or council within the Executive Office, shall communicate to any Commissioner or ESO employee any preference, instruction, suggestion, or request regarding:
+
+1. The selection, certification, or modification of the districting algorithm;
+2. The placement of any district boundary in any state;
+3. The magnitude assigned to any district; or
+4. The outcome of any Voting Rights Act compliance review under Section 403(e).
+
+This prohibition does not apply to communications by the President or designee in the course of exercising appointment authority under Section 409(b)(1), nor to testimony before Congress, nor to publicly filed comments during notice-and-comment proceedings under Section 409(h).
+
+**(3) Reporting of Prohibited Communications**
+
+Any Commissioner or ESO employee who receives a communication prohibited under paragraph (2) shall:
+
+1. Refuse to act upon the communication;
+2. Document the communication in writing, including the identity of the communicating party, the date, and the substance of the communication;
+3. Report the communication to the ESO Commission Chairperson within 48 hours; and
+4. Report the communication to the Government Accountability Office within 7 days.
+
+The ESO Commission shall include a summary of all reported prohibited communications in its annual report to Congress under Section 409(i)(3).
+
+#### (b) Commissioner Removal Protections
+
+**(1) Enhanced Standard During Redistricting Cycles**
+
+During any active redistricting cycle -- defined as the period beginning on the date of certification of decennial census results or the date on which a House expansion triggers redistricting under Title III, and ending on the date of the first general election conducted under the resulting district maps -- no Commissioner may be removed from office except upon:
+
+1. Conviction of a felony in a court of competent jurisdiction;
+2. Formal adjudication of incapacity by a court of competent jurisdiction; or
+3. Resignation.
+
+**(2) Standard Outside Redistricting Cycles**
+
+Outside active redistricting cycles, the removal standard specified in Section 409(b)(4) applies.
+
+**(3) Vacancy During Redistricting Cycle**
+
+If a vacancy occurs during an active redistricting cycle, the appointing authority shall fill the vacancy within 90 days. If the appointing authority fails to fill the vacancy within 90 days, the remaining Commissioners shall continue to exercise all powers of the Commission, and quorum requirements shall be adjusted proportionally, provided that no fewer than four (4) Commissioners constitute a quorum.
+
+**(4) Prohibition on Recess Appointments**
+
+Commissioners shall not be appointed through recess appointment. All appointments shall follow the process established in Section 409(b)(1) and require Senate confirmation for Presidential appointees. Appointments by legislative and judicial appointing authorities shall be effective upon formal notification to the Commission.
+
+#### (c) Fiscal Independence
+
+**(1) Mandatory Minimum Appropriation**
+
+Beginning with the fourth fiscal year after enactment, and for each fiscal year thereafter, the Electoral Science Office shall receive an annual appropriation of not less than $8 million, adjusted annually for inflation using the Employment Cost Index. This mandatory minimum shall not be subject to sequestration, rescission, or deferral. For the first three fiscal years after enactment, funding is provided under Section 409(k)(1).
+
+**(2) Redistricting Cycle Supplemental**
+
+In any fiscal year during which an active redistricting cycle is underway, the mandatory minimum appropriation under paragraph (1) shall increase by $5 million to ensure adequate resources for algorithm application, map generation, public verification, and Voting Rights Act compliance review. This supplemental is in addition to the decennial review supplemental authorized under Section 409(k)(2).
+
+**(3) Independent Disbursement**
+
+All funds appropriated to the Electoral Science Office -- whether under this section or Section 409(k) -- shall be disbursed directly to the Electoral Science Office by the Treasury Department without requiring approval, clearance, or review by the Office of Management and Budget. The Comptroller General shall audit ESO expenditures annually and report findings to the congressional committees of jurisdiction.
+
+**(4) Supplemental Appropriations**
+
+Nothing in this section prohibits Congress from appropriating sums in excess of the mandatory minimum for any fiscal year. Any supplemental appropriations shall be subject to the independent disbursement requirement of paragraph (3).
+
+#### (d) Voting Rights Act Compliance Safeguards
+
+**(1) Specificity Requirement**
+
+Any objection by the Department of Justice to an algorithmically generated district map under Section 403(e) shall be accompanied by a written determination that identifies:
+
+1. The specific provision of the Voting Rights Act of 1965, as amended, that the map is alleged to violate;
+2. The specific racial, ethnic, or language minority group whose rights are alleged to be impaired;
+3. The specific geographic area within the state where the violation is alleged to occur;
+4. The specific factual basis for the alleged violation, including demographic data, electoral history, and any other evidence supporting the determination; and
+5. The specific relief sought, described with sufficient particularity to enable the ESO to calculate the minimum boundary adjustment necessary.
+
+Generalized objections, objections lacking geographic specificity, or objections unsupported by factual findings shall have no legal effect and shall not require ESO response.
+
+**(2) Minimum Adjustment Principle**
+
+Any boundary adjustment made by the ESO in response to a Department of Justice objection under Section 403(e) shall be the minimum adjustment necessary to cure the identified violation. "Minimum adjustment" means the adjustment that reassigns the fewest census blocks from one district to another while curing the identified violation. The ESO shall not adjust boundaries beyond the geographic area identified in the Department of Justice objection.
+
+**(3) Dual Publication**
+
+Following any Voting Rights Act compliance adjustment, the ESO shall publish simultaneously:
+
+1. The original algorithmically generated map for the affected state;
+2. The adjusted map incorporating the compliance modification;
+3. A boundary-by-boundary accounting of every change, identifying each census block reassigned and the justification for the reassignment; and
+4. A quantitative assessment of the adjustment's impact on district population equality and district magnitude allocation.
+
+**(4) Expedited Judicial Review**
+
+Any qualified voter, recognized political party, or state may challenge a Department of Justice objection under Section 403(e), or the sufficiency of the ESO's compliance adjustment, before a three-judge panel of the United States District Court for the District of Columbia. The three-judge panel shall be convened pursuant to 28 U.S.C. Section 2284. The panel shall:
+
+1. Conduct proceedings on an expedited basis, with initial hearing within 30 days of filing;
+2. Apply de novo review to the Department of Justice's factual determination of a Voting Rights Act violation;
+3. Apply arbitrary-and-capricious review to the ESO's minimum adjustment determination; and
+4. Issue a final order within 90 days of filing.
+
+Appeal from the three-judge panel shall lie directly to the Supreme Court of the United States.
+
+**(5) Standing**
+
+Standing to bring an action under paragraph (4) shall extend to:
+
+1. Any qualified voter residing in the affected state;
+2. Any political party that received at least 1% of the vote in the affected state in the most recent federal election;
+3. The state, acting through its Attorney General; and
+4. The Electoral Science Office, if the ESO determines that a Department of Justice objection does not meet the specificity requirements of paragraph (1).
+
+#### (e) Algorithm Integrity Protections
+
+**(1) Source Code Publication**
+
+The full source code and mathematical specification of the certified districting algorithm shall be published in the Federal Register and maintained on the ESO's public website. Any modification to the algorithm shall be published not fewer than 18 months before the first election to which it applies.
+
+**(2) Independent Verification Requirement**
+
+Prior to certifying any districting algorithm or applying any algorithm to generate district maps, the ESO shall engage not fewer than two independent verification bodies -- drawn from university research laboratories, national standards institutes, or comparable institutions with no financial or political relationship to any party, candidate, or officeholder -- to:
+
+1. Independently implement the algorithm from its published specification;
+2. Apply the independent implementation to the same input data; and
+3. Certify that the independent implementation produces identical district maps.
+
+If independent verification fails, the ESO shall not certify or apply the algorithm until discrepancies are resolved.
+
+**(3) Public Replication**
+
+Any person shall have the right to replicate the algorithm's output using publicly available input data. The ESO shall provide, at no cost:
+
+1. The complete input dataset used in each redistricting application;
+2. The published algorithm specification in machine-readable format;
+3. Reference implementation source code in at least two widely used programming languages; and
+4. Expected output for verification purposes.
+
+**(4) Tamper Detection**
+
+If any district map produced by the ESO differs from the output produced by independent verification or public replication using identical inputs and the published algorithm, the discrepant map shall have no legal effect. The ESO shall investigate the discrepancy, publish findings within 30 days, and regenerate the map using the verified algorithm. The Government Accountability Office shall be notified immediately of any such discrepancy.
+
+#### (f) Anti-Circumvention
+
+**(1) Prohibition on Alternative Districting Authority**
+
+No federal officer, agency, or instrumentality other than the Electoral Science Office shall have authority to draw, propose, certify, or approve congressional district boundaries, except as provided in subsection (d) of this section regarding Voting Rights Act compliance adjustments.
+
+**(2) Prohibition on Conditional Appropriations**
+
+No appropriation to the Electoral Science Office shall be conditioned upon the ESO producing a particular algorithmic output, certifying a particular algorithm, or generating district maps with particular characteristics.
+
+**(3) Prohibition on Structural Reorganization**
+
+The Electoral Science Office shall not be reorganized, consolidated with another agency, placed under the authority of another agency, or subjected to the supervisory authority of any executive branch official below the level of the Commission established under Section 409(b), except by Act of Congress amending this Title.
+
+**(4) Whistleblower Protections**
+
+Any ESO employee or contractor who reports a violation or attempted violation of this section to the Government Accountability Office, the Inspector General of any relevant agency, or any committee of Congress shall be entitled to all protections provided under 5 U.S.C. Section 2302(b)(8) and the Whistleblower Protection Act of 1989, as amended.
+
+#### (g) Self-Executing Default
+
+**(1) Default Algorithm Independence**
+
+The default districting algorithm specified in Section 403(g) shall operate independently of the Electoral Science Office. In any circumstance in which the ESO is unable or fails to certify an algorithm or generate district maps by the deadline required under this Title -- whether due to budgetary incapacity, quorum failure, interference, or any other cause -- the default algorithm shall be applied as follows:
+
+1. The Clerk of the House of Representatives shall apply the default algorithm using census data published by the Bureau of the Census, for all states electing two or more Representatives;
+2. The resulting maps shall be published in the Federal Register and made available for public verification;
+3. The maps shall have the same legal effect as maps generated by the ESO; and
+4. The Government Accountability Office shall investigate and report to Congress on the cause of the ESO's failure within 60 days.
+
+**(2) Mathematical Precision of Default**
+
+The default shortest splitline algorithm, as specified in Section 403(g), shall be defined with sufficient mathematical precision that its application to any given input dataset produces a single deterministic output requiring no exercise of human judgment. The ESO shall publish a complete mathematical specification of the default algorithm within 12 months of enactment.
+
+#### (h) Effective Date
+
+The provisions of this section take effect upon enactment and apply to all districting functions of the Electoral Science Office from the date of ESO establishment.
+
+---
 
 ## TITLE V: NON-QUALIFYING FEDERAL OFFICE EXAMINATIONS
 
@@ -1222,7 +1442,7 @@ The abbreviation "FE" may be used interchangeably with "FCAO Exam" or "FCAO Exam
 FCAO examinations shall be structured with time-based rigor calibrated to office responsibility:
 
 - **House FE**: 2-hour examination
-- **Senate FE**: 4-hour examination  
+- **Senate FE**: 4-hour examination
 - **Presidential FE**: 8-hour examination administered in two 4-hour parts
 
 **(2) Content Requirements**
@@ -2812,14 +3032,14 @@ Notwithstanding the effective date in subsection (a), the establishment of the F
 
 ---
 
-**END OF TITLE V**
+## TITLE VI: COMPENSATION, TRANSITION, AND IMPLEMENTATION
 
-This Title establishes comprehensive compensation and transition mechanisms to align incumbent incentives with democratic reform objectives, addressing the fundamental political economy challenge that electoral reforms require incumbents to vote for changes that may reduce their individual advantages.
+### Section 601. Purpose
 
-Provisions in this Title are divided into:
+This Title establishes compensation and transition mechanisms designed to align incumbent incentives with the reform objectives of this Act. Provisions in this Title take effect on one of two timelines:
 
-1. **Immediate Provisions**: Taking effect upon the Immediate Effective Date (Tier 1)
-2. **First FEMA Election Provisions**: Taking effect at the First FEMA Election (Tier 2)
+1. **Immediate Provisions**: Taking effect upon the Immediate Effective Date; and
+2. **First FEMA Election Provisions**: Taking effect at the First FEMA Election.
 
 ### Section 602. Congressional Compensation Adjustment
 
@@ -2930,26 +3150,9 @@ Allowance may not be used for:
 
 This section takes effect on the Immediate Effective Date.
 
-### Section 605. Transition Protection for Incumbents
+### Section 605. Transition Protection
 
-#### (a) Optional Single-Member District Retention
-
-During the multi-member district transition period (Title IV, Section 402(a), Transition Cycles 1-4), any incumbent Representative may choose to:
-
-1. Remain in their current single-member district if one continues to exist in their region; or
-2. Compete voluntarily in a newly-created multi-member district.
-
-#### (b) No Forced Competition
-
-No incumbent Representative shall be required to compete in a multi-member district before Full Implementation as defined in Title IV, Section 402(a).
-
-#### (c) Redistricting Coordination
-
-States conducting redistricting during the transition period shall make reasonable efforts to maintain single-member districts in areas where incumbents elect to remain in single-member competition.
-
-#### (d) Effective Date
-
-This section takes effect beginning with Transition Cycle 1 as defined in Title IV, Section 402(a).
+[Reserved]
 
 ### Section 606. Public Campaign Matching Funds
 
@@ -2976,7 +3179,7 @@ Participation in this matching fund program is voluntary. Candidates who decline
 
 #### (e) Effective Date
 
-This section takes effect beginning with Transition Cycle 1 as defined in Title IV, Section 402(a).
+This section takes effect beginning with the First FEMA Election.
 
 ### Section 607. Senate-Specific Provisions
 
@@ -2997,10 +3200,9 @@ The following provisions of this Title apply to members of the Senate:
 3. Professional development allowance (Section 604)
 4. Streamlined appointment authority (Section 608)
 
-The following provisions do NOT apply to the Senate:
+The following provision does NOT apply to the Senate:
 
-1. Transition protection (Section 605) -- Not applicable; Senate elections remain in single-member constituencies (states)
-2. Public matching funds (Section 606) -- Not applicable unless Senate separately adopts
+1. Public matching funds (Section 606) -- Not applicable unless Senate separately adopts
 
 #### (d) Effective Date
 
@@ -3088,12 +3290,9 @@ Upon enactment or convening of next Congress after enactment, whichever is later
 - Streamlined appointment authority (Section 608)
 - State election administration funding (Section 609)
 
-#### (b) Conditional Implementation Dates
+#### (b) First FEMA Election
 
-- Transition protection for incumbents (Section 605): Beginning with Transition Cycle 1 as defined in Title IV, Section 402(a)
-- Public matching funds (Section 606): Beginning with Transition Cycle 1 as defined in Title IV, Section 402(a)
-
-Where Transition Cycle 1 is defined in Title IV, Section 402(a).
+- Public campaign matching funds (Section 606): Beginning with the First FEMA Election
 
 #### (c) Effective Date
 
@@ -3105,8 +3304,7 @@ If any provision of this Title is held invalid by a court of competent jurisdict
 
 ---
 
-**END OF TITLE VI**
-
+## TITLE VII: ENFORCEMENT AND REPORTING
 
 ### Section 701. Federal Election Commission Enforcement Authority
 
@@ -3249,10 +3447,6 @@ No member of Congress shall face reduction in salary, benefits, committee assign
 
 ---
 
-**END OF TITLE VII**
-
----
-
 ## TITLE VIII: GENERAL PROVISIONS
 
 ### Section 801. Severability
@@ -3305,10 +3499,6 @@ For purposes of this Act, the following temporal terms are defined:
 
 3. **"Second FEMA Election"**: The first regularly scheduled general election for Congress occurring after the First FEMA Election.
 
-4. **"Transition Cycle 1"**: The First FEMA Election (corresponding to Title IV, Section 402(a)).
-
-5. **"Full Implementation"**: The fifth congressional election following Transition Cycle 1 (corresponding to Title IV, Section 402(a)).
-
 #### (c) Calendar Year References
 
 Where this Act references calendar years (e.g., "January 1 of the election year"), such references shall be construed relative to the applicable election cycle and shall adjust automatically based on when the Act takes effect.
@@ -3333,7 +3523,7 @@ For purposes of this Act, in addition to temporal definitions provided in Sectio
 
 #### (a) Electoral Science Office
 
-"Electoral Science Office" or "ESO" means the independent agency established under Section 409(a) responsible for ongoing evaluation of voting method performance, research into technical improvements, and development of proposed modifications to adjustable parameters.
+"Electoral Science Office" or "ESO" means the independent agency established under Section 409(a) responsible for ongoing evaluation of voting method performance, research into technical improvements, development of proposed modifications to adjustable parameters, and certification, evaluation, and maintenance of the districting algorithm required by Section 403.
 
 #### (b) Statutory Principles
 
@@ -3353,12 +3543,14 @@ in Section 409(h)(1).
 #### (d) Adjustable Parameters
 
 "Adjustable parameters" means the technical specifications of STAR and STAR-PR
-voting methods specified in Section 409(e)(1) that may be modified through the
-technical review process established in Section 409, including quota calculation
-formulas, reweighting methodology, seat allocation sequences, tie-breaking
-procedures, rounding and remainder handling, and audit and verification
-protocols. Modifications to adjustable parameters take effect unless Congress
-enacts a joint resolution of disapproval as specified in Section 409(h)(2).
+voting methods and the districting algorithm specified in Section 409(e)(1) that
+may be modified through the technical review process established in Section 409,
+including quota calculation formulas, reweighting methodology, seat allocation
+sequences, tie-breaking procedures, rounding and remainder handling, audit and
+verification protocols, the districting algorithm, the district magnitude
+allocation method, and the VRA compliance adjustment procedure. Modifications
+to adjustable parameters take effect unless Congress enacts a joint resolution
+of disapproval as specified in Section 409(h)(2).
 
 #### (e) Quota
 
@@ -3374,213 +3566,68 @@ under Section 409(e)(1).
 adjustable parameters proposed by the Electoral Science Office and approved
 through the processes established in Section 409(h).
 
----
+#### (g) Certified Districting Algorithm
 
-**END OF TITLE VIII**
+"Certified districting algorithm" means the specific algorithm certified by the Electoral Science Office under Section 403(b) for determining congressional district boundaries within each state. The districting algorithm is an adjustable parameter under Section 409(e)(1). The default algorithm, in the absence of ESO certification, is the shortest splitline method as defined in Section 403(g).
 
----
+#### (h) Algorithmic Neutrality
 
-## LEGISLATIVE NOTES (Non-Statutory)
+"Algorithmic neutrality" means the property of a districting method that operates without reference to racial, ethnic, linguistic, partisan, or incumbent-residence data, requires no subjective parameter selection by any human actor, and produces deterministic, publicly verifiable outputs from publicly available inputs. Algorithmic neutrality is a statutory principle under Section 409(c)(1).
 
-### Summary of Integration
+#### (i) District Magnitude
 
-This Act integrates five previously separate electoral reforms:
+"District magnitude" means the number of Representatives elected from a single congressional district. Under this Act, district magnitude for qualifying states ranges from three (3) to seven (7) as specified in Section 402(b). The district magnitude range is a protected design element under Section 409(d)(1).
 
-1. **CASA** (Candidate Access and Standards Act) -> Title I
-2. **PREA** (Party Recognition and Endorsement Act) -> Title II
-3. **RARA** (Representative Access Restoration Act) -> Title III
-4. **ERREA** (Electoral Reform and Representation Enhancement Act) -> Title IV
-5. **FCAO** (Federal Candidate Assessment Office) -> Title V
+#### (j) Active Redistricting Cycle
 
-All components work synergistically to restore competitive, representative democracy.
+"Active redistricting cycle" means the period beginning on the date of certification of decennial census results or the date on which a House expansion triggers redistricting under Title III, whichever is applicable, and ending on the date of the first general election conducted under the resulting district maps. During an active redistricting cycle, enhanced independence protections apply to the Electoral Science Office under Section 410(b).
 
-### Key Innovation: Title VI Compensation Mechanisms
+#### (k) Minimum Adjustment
 
-The critical innovation in FEMA is **Title VI: Transition, Compensation, and Implementation**, which addresses the fundamental political economy problem facing electoral reforms: incumbents must vote away their own advantages.
-
-**Tier 1 -- Immediate Provisions** (take effect upon enactment):
-
-- Phased salary increases ($189,200/$199,200 rising to $250,000/$300,000 over 5 years)
-- Enhanced pension formula (2.5% accrual rate vs 1.7%)
-- Professional development allowance (5% of salary: $12,500 House / $15,000 Senate)
-- Senate appointment authority streamlined
-- Election administration funding
-
-**Tier 2 -- First FEMA Election Provisions:**
-
-- Enhanced MRA (35% increase, Title III Section 303)
-- Multi-member district transition begins (Title IV)
-- Public matching funds available (6:1 for donations under $200)
-
-This structure ensures members receive substantial immediate benefits while democratic reforms launch at the First FEMA Election as an integrated system, aligning individual incentives with systemic reform objectives.
-
-### FCAO: Independent Agency Model
-
-**Title V establishes FCAO as a permanent independent agency following the Federal Reserve/SEC model:**
-
-**Political Resilience Structure:**
-- Multi-branch appointment (President, Chief Justice, House Speaker, Senate Majority Leader)
-- Staggered 6-year terms preventing single-faction control
-- Supermajority removal protections (6 of 9 votes required)
-- Independent funding through examination fees
-- Professional expertise requirements and partisan balance
-
-**Institutional Durability:**
-- Once established with this structure, FCAO becomes politically entrenched
-- Like the Fed, independent agencies with multi-branch appointments are rarely dismantled
-- Independent funding insulates from appropriations politics
-- Stakeholder ecosystem (testing industry, state officials, civic groups) resists destabilizing changes
-
-**Non-Qualifying Principle Protection:**
-- Inviolable transparency mandate: no minimum scores required
-- Highest score reporting encourages improvement
-- Automatic invalidity of qualification systems
-- Mandatory preliminary injunctions for violations
-- Congressional enforcement authority with civil and criminal penalties
-
-This permanent structure provides immediate, durable institutional infrastructure comparable to other independent regulatory agencies.
-
-### Cost-Benefit Framework
-
-Title VII, Section 701(d) requires CBO to prepare comprehensive cost estimates including offsetting savings. The findings acknowledge substantial upfront costs while emphasizing long-term savings from:
-
-- Reduced legislative turnover
-- Improved policy consistency
-- Decreased dysfunction and gridlock
-- Diminished revolving-door corruption
-- Enhanced economic growth from functional governance
-
-### Political Viability Strategy
-
-FEMA's structure addresses the "turkey voting for Thanksgiving" problem through:
-
-1. **Immediate, universal benefits** to all incumbents regardless of party
-2. **Gradual implementation** of electoral reforms (phased over multiple election cycles)
-3. **Transition protections** allowing incumbents to adjust to new systems
-4. **Senate protections and enhancements** to secure bicameral support
-5. **Durable provisions** protected by supermajority requirement for repeal
-
-This approach transforms democratic reform from political suicide into rational self-interest, making passage politically feasible while maintaining policy integrity.
-
-### Implementation Timeline Overview
-
-The implementation timeline uses a tiered structure with two key trigger elections:
-
-**Tier 1 -- Immediate upon Enactment:**
-- Title VI (Compensation): Phased salary increases begin immediately
-- Title VII (Enforcement): FEC and DOJ authority established
-- Title VIII (General Provisions): Definitions and administrative framework operative
-- Planning and preparation for electoral reforms begin
-
-**Tier 2 -- First FEMA Election (second general election after enactment, 18-month minimum):**
-- Title I (Ballot Access): Uniform federal standards take effect
-- Title II (Party Recognition): Joint Endorsement Lists implemented
-- Title III (House Expansion): Initial expansion to 510 seats
-- Title IV (Electoral Reform): STAR voting and multi-member district transition begins
-- All electoral reforms launch simultaneously as an integrated system
-
-**Tier 3 -- Second FEMA Election (first general election after First FEMA Election):**
-- Title V (FCAO): Examination requirements take effect
-- Ballots include FCAO score designations for the first time
-
-**Ongoing -- Biennial Expansion:**
-- House increases by 35 seats every two years after First FEMA Election
-- Cube root compliance (~720 seats) achieved approximately 14 years after enactment
-
-**Example Timeline (assuming early 2026 enactment):**
-- 2026: Enactment; Title VI/VII/VIII immediate; preparation begins
-- November 2028: First FEMA Election; Titles I-IV take effect; House expands to 510
-- November 2030: Second FEMA Election; Title V (FCAO) takes effect; House at 545
-- November 2032: House at 580
-- November 2040: Cube root compliance (~720 seats)
-
-This accelerated timeline ensures reform on a human timescale -- members who vote for FEMA will see results during their careers, and voters will experience tangible improvements in representation quality within a single political generation.
-
-### Unified General Election Structure
-
-Revision 1.4 introduced differentiated primary structures (nonpartisan primaries for single-member districts, no primaries for multi-member districts). Revision 4.2 unifies all federal elections under a single general election structure:
-
-**All Federal Offices:** Qualified candidates appear directly on the general election ballot without state-administered primaries. STAR voting's scoring mechanism ensures winners have broad support, making the primary's traditional filtering function redundant.
-
-**Party Autonomy Preserved:** Political parties retain full authority to conduct internal nomination processes -- caucuses, conventions, advisory polls -- at their own expense and independent of state election infrastructure. Joint Endorsement Lists provide a streamlined mechanism for parties to signal preferred candidates to voters.
-
-**Core Principles:**
-- **Let STAR do the work:** The scoring mechanism identifies broadly supported winners from any reasonable candidate field
-- **Consistency of voter experience:** Every federal election works the same way -- show up in November, score candidates, done
-- **Administrative efficiency:** One election instead of two reduces costs, shortens campaign cycles, and maximizes voter participation
-
-### Federal Candidate Assessment Office (FCAO)
-
-Revision 1.4 introduced mandatory examination requirement; Revision 1.6 rebranded to FCAO and enhanced framework; Revision 1.7 established FCAO as permanent independent agency; Revision 1.8 reorganizes FCAO as standalone Title V; Revision 4.0 decouples FCAO launch from other electoral reforms:
-
-**Core Principles:**
-- **Non-qualifying nature:** No minimum score required; candidates scoring 0% may still serve
-- **Office-specific rigor:** Time-based examinations (2/4/8 hours) calibrated to office responsibility
-- **Transparency mechanism:** Scores displayed on ballots as "House/Senate/Presidential FCAO Score"
-- **Professional standards:** Psychometric rigor, unlimited retakes with highest score reporting, year-round availability
-
-**Implementation Timing (Rev 4.0):**
-- **Agency establishment:** Begins immediately upon enactment
-- **Exam development:** Completed 18 months before Second FEMA Election
-- **Administration opens:** 12 months before Second FEMA Election
-- **First FEMA Election:** Candidates exempt; no FCAO scores on ballots
-- **Second FEMA Election:** Full FCAO requirements take effect
-
-This decoupled timeline ensures adequate runway for exam validation and psychometric certification without delaying core electoral reforms.
-
-**Agency Structure:**
-- **9-member Commission** with multi-branch appointments (President, Chief Justice, House Speaker, Senate Majority Leader)
-- **Staggered 6-year terms** with supermajority removal protections
-- **Independent funding** through examination fees after startup period
-- **Professional governance** with psychometric expertise requirements
-
-**Examination Administration:**
-- Contracts with professional testing organizations
-- Nationwide testing center network plus online proctoring
-- Comprehensive accommodations for disabilities
-- Rigorous security protocols
-- Score turnaround within Commission-established timeframes
-
-**Oversight and Accountability:**
-- Annual GAO audits of validity, fairness, and administration
-- Quarterly public Commission meetings
-- Transparent operations with public practice materials
-- Inviolable non-qualifying principle with robust enforcement
-
-**Constitutional Authority:** Elections Clause supports disclosure requirements as part of regulating "manner of holding elections"
-
-FCAO complements ballot access reform by lowering financial barriers while providing voters with objective, professionally-validated competence indicators.
-
-### Relationship to Constitutional Amendment
-
-The constitutional amendment remains a separate, optional enhancement that would:
-
-1. **Modernize qualification requirements** (age/citizenship/residency structure: 5/5, 10/10, 15/15)
-2. **Add public service requirements** for Senate (2,000 hours) and President (2,000 hours)
-3. **Eliminate natural-born citizen requirement** for President
-4. **Optionally constitutionalize examination requirement** with brief language delegating details to Congress
-
-**Current Structure:**
-
-- **FCAO operates via statute** (Title V of FEMA)
-- **Examinations function under Elections Clause authority** as transparency mechanism
-- **Independent agency provides political resilience** without constitutional status
-- **Constitutional amendment would provide maximum protection** but is not necessary for FCAO to operate
-
-**Strategic Approach:**
-
-1. Pass FEMA with FCAO as statutory independent agency
-2. Let examinations prove value over 5-10 years
-3. Build stakeholder support and demonstrate effectiveness
-4. Consider constitutional enshrinement if desired for maximum permanence
-
-The Fed model demonstrates that statutory independent agencies with proper structure can be more durable than many constitutional provisions.
+"Minimum adjustment" means the smallest boundary modification, measured by the number of census blocks reassigned from one district to another, necessary to cure an identified Voting Rights Act violation under Section 403(e). The minimum adjustment principle is specified in Section 410(d)(2).
 
 ---
 
+<!--
 ## Revision History
 
-**Revision 5.0** (Current)
+**Revision 5.2** (Current)
+
+- Compliance review against APAI Document Production Standards Rev 2.3
+- Removed parenthetical acronym from H1 title per standard header examples
+- Added missing Title H2 headings for Titles II, III, IV, VI, and VII
+- Removed non-statutory content from legislative text per Section 2.2 Content Boundaries: END OF markers, editorial notes, Title VI introductory prose, and Legislative Notes section
+- Added Section 601 (Purpose) to Title VI, converting non-statutory introductory prose to statutory language
+- Added descriptive names to reserved section headings (Section 406, Section 605) per Section 2.2 heading conventions
+- Wrapped revision history in HTML comment block per Section 1.4 Rendering Convention
+- Added "Revision history available in the raw file." note per Section 1.3 footer structure
+- Removed double horizontal rule between Findings and Title I
+- Fixed typographical error: "promulate" corrected to "promulgate" in Section 105(a)
+- No substantive policy changes
+
+**Revision 5.1**
+
+- **Section 402 rewritten:** Replaced graduated five-cycle phase-in schedule with single implementation at First FEMA Election; all qualifying states elect Representatives from multi-member districts beginning at the First FEMA Election; small state application split into two tiers (single-Representative states exempt from all districting requirements; two-Representative states exempt from multi-member requirements but subject to algorithmic boundary drawing); geographic isolation exemption eliminated
+- **Section 403 rewritten:** Replaced human-drawn redistricting criteria with algorithmic neutral districting; ESO certifies and maintains districting algorithm; algorithm applies to all states with two or more Representatives; shortest splitline as default pending ESO certification; VRA compliance through minimum boundary adjustment with safeguards in Section 410(d); deterministic magnitude preference ordering for district magnitude allocation
+- **Section 403(c) revised:** Replaced variance-minimization and maximum-deviation-minimization principles with deterministic district magnitude preference ordering (5, 6, 4, 7, 3); ordering resolves all zero-variance configuration ties deterministically; grounded in Carey-Hix (2011) empirical research on representation-accountability tradeoffs and Taagepera-Shugart effective threshold analysis; classified as Tier 3 adjustable parameter
+- **Section 404(e) updated:** Removed single-member district references from single-winner STAR scope; scope now limited to Senate, Presidential, and House elections in states with fewer than three Representatives
+- **Section 404(f)(3) updated:** Replaced 402(a) schedule reference with First FEMA Election
+- **Section 406 deleted:** Removed transition protection for incumbents (marked Reserved)
+- **Section 408(b) updated:** Replaced "Transition Cycle 1" with "First FEMA Election"
+- **Section 409 expanded:** Added ESO responsibility for districting algorithm certification and map publication (409(a)(1)); added algorithmic districting neutrality as Tier 1 statutory principle (409(c)(1)); added district magnitude range as Tier 2 protected design element (409(d)(1)); added districting algorithm, magnitude allocation method, and VRA compliance adjustment as Tier 3 adjustable parameters (409(e)(1)); updated item 8 to reference magnitude preference ordering rather than variance-minimization principle; added boundary conditions for districting algorithms (409(e)(2)); reconciled appropriations (409(k)) with mandatory minimum in Section 410(c)
+- **New Section 410 added:** Independence Protections for Districting Functions; establishes executive non-interference provisions and prohibited communications (410(a)); enhanced commissioner removal protections during redistricting cycles and prohibition on recess appointments (410(b)); mandatory minimum appropriation with sequestration protection and OMB-independent disbursement (410(c)); Voting Rights Act compliance safeguards including specificity requirements, minimum adjustment principle, dual map publication, and expedited three-judge-panel judicial review with direct Supreme Court appeal (410(d)); algorithm integrity protections including source code publication, independent verification, public replication rights, and tamper detection (410(e)); anti-circumvention provisions prohibiting alternative districting authority, conditional appropriations, structural reorganization, and establishing whistleblower protections (410(f)); self-executing default algorithm with Clerk of the House failsafe (410(g))
+- **Section 605 (Title VI) deleted:** Removed transition protection for incumbents (marked Reserved)
+- **Section 606(e) updated:** Replaced "Transition Cycle 1" effective date with "First FEMA Election"
+- **Section 607(c) updated:** Removed Section 605 from Senate non-applicability list
+- **Section 610(b) updated:** Removed Section 605 from implementation timeline; updated Section 606 reference to First FEMA Election; subsection heading updated from "Conditional Implementation Dates" to "First FEMA Election"
+- **Section 804(b) updated:** Removed "Transition Cycle 1" and "Full Implementation" temporal definitions (items 4-5 deleted)
+- **Section 806 expanded:** Added definitions for "certified districting algorithm" (806(g)), "algorithmic neutrality" (806(h)), "district magnitude" (806(i)), "active redistricting cycle" (806(j)), and "minimum adjustment" (806(k)); updated 806(a) and 806(d) to reference districting functions
+- **Finding 21 updated:** Replaced transition protection language with STAR-PR threshold rationale
+- **Finding 24 updated:** Replaced "single-member House districts" with "states with fewer than three Representatives"
+- **Section 304 (Title III) updated:** Replaced conditional redistricting standards with algorithmic districting references; added small state exemption language
+- Substantive policy changes: Eliminates graduated transition in favor of single integrated implementation; eliminates incumbent transition protections; eliminates geographic isolation exemption; mandates algorithmically neutral districting for all states with two or more Representatives; creates comprehensive independence architecture for ESO districting functions; integrates districting into existing three-tier graduated protection architecture; establishes shortest splitline as default algorithm pending ESO certification; provides expedited judicial review of VRA compliance determinations; reconciles ESO establishment and ongoing appropriations; replaces variance-minimization magnitude allocation with deterministic preference ordering eliminating all configuration ambiguity
+
+**Revision 5.0**
 
 - Renamed from "Congressional Modernization Act (CMA)" to "Federal Elections Modernization Act (FEMA)"
 - Updated subtitle from "A Framework for Stable, Effective, and Representative Governance" to "An Electoral and Congressional Modernization Framework for a Stronger Republic"
@@ -3590,7 +3637,7 @@ The Fed model demonstrates that statutory independent agencies with proper struc
 - No substantive policy changes from Rev 4.3
 - Naming change only: Frees "Congressional Modernization Act" for use as umbrella framework encompassing FEMA and companion legislation (Office of Congressional Procedure Act); "Federal Elections Modernization Act" more accurately describes the Act's electoral focus while the subtitle acknowledges the full scope of electoral and congressional reforms
 
-**Revision 4.3** (Previous)
+**Revision 4.3**
 
 - **Section 404(g) rewritten:** Accurate Allocated Score specification replacing
   inaccurate SPAV-derived language; establishes required properties before
@@ -3625,7 +3672,7 @@ The Fed model demonstrates that statutory independent agencies with proper struc
   expert-driven improvement; the word "immutable" retired as no statutory element
   is beyond Congressional amendment
 
-**Revision 4.2** (Previous)
+**Revision 4.2**
 
 - **Unified General Election Structure (UGES):** Establishes single general elections as the universal standard for all federal offices, eliminating state-administered primaries
 - **Section 404(d) replaced:** "Nonpartisan Primary Elections for Single-Member Districts" becomes "Unified General Election Structure" covering all House, Senate, and Presidential elections
@@ -3714,6 +3761,7 @@ The Fed model demonstrates that statutory independent agencies with proper struc
 - All references to "RCEA" changed to "CMA" throughout document
 - Strategic reframing for primary voting audience (members of Congress)
 - No substantive policy changes from Rev 1.9
+
 **Revision 1.9**
 
 - Revised Section 603 to implement phased compensation structure with Senate differential
@@ -3821,8 +3869,9 @@ The Fed model demonstrates that statutory independent agencies with proper struc
   - RECA Rev-1.2: Added Section 404(e) for single/two-member state voting methods
   - RECA Rev-1.0: Initial integrated version combining CASA, PREA, RARA, and ERREA
 - Previous development history available in project archives
+-->
 
-> 📄 [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/fema/legislative-text.md) (opens on GitHub -- click the ⬇ download button)
+*Revision history available in the raw file.*
 
 ---
 
