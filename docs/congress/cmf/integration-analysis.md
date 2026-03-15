@@ -1,10 +1,10 @@
-# From Adversaries to Partners
+# Congressional Modernization Framework
 
-## How the Federal Elections Modernization Act and Office of Congressional Procedure Act Enable Coalition Governance
+## From Adversaries to Partners: How the Federal Elections Modernization Act and Office of Congressional Procedure Act Enable Coalition Governance
 
-### Published February 2026
+### Published March 2026
 
-Based on Rev 5.0 of the Federal Elections Modernization Act and Rev 1.3 of the Office of Congressional Procedure Act
+Based on Rev 5.2 of the Federal Elections Modernization Act and Rev 1.3 of the Office of Congressional Procedure Act
 
 ---
 
@@ -41,6 +41,8 @@ FEMA's electoral reforms produce structural changes essential to coalition forma
 **Multi-member districts with STAR-PR** eliminate the winner-take-all dynamic at the district level. A 3-seat district with proportional allocation ensures that a party with 35% support wins approximately one seat rather than potentially capturing all seats or none. Political minorities gain guaranteed representation proportional to their support.
 
 **STAR voting** eliminates spoiler effects and vote-splitting, enabling honest preference expression. Voters can support their true first choice without "wasting" their vote. This creates viable pathways for third and fourth parties to win seats without requiring voters to abandon major parties.
+
+**Algorithmically neutral districting** removes human discretion from boundary placement entirely. District boundaries are determined by deterministic, publicly verifiable algorithms certified by the Electoral Science Office, with shortest splitline as the default pending ESO certification. No racial, ethnic, partisan, or incumbent-residence data enters the process. This eliminates gerrymandering as a tool for entrenching single-party dominance -- districts cannot be drawn to prevent the proportional outcomes that multi-member representation is designed to produce. Comprehensive independence protections insulate the districting process from political interference, including executive non-interference provisions, enhanced commissioner removal protections during redistricting cycles, mandatory minimum appropriations with sequestration protection, and algorithm integrity safeguards requiring source code publication and independent verification. These protections create institutional architecture parallel to the OCP's tenure-protected procedural staff -- both ensure that the rules governing democratic competition cannot be manipulated by the competitors themselves.
 
 **House expansion** creates more seats for proportional representation to allocate. With 720 representatives in multi-member districts of 3-7 seats, the mathematics of proportionality become more granular and accurate.
 
@@ -86,7 +88,7 @@ This coordination prevents conflict between overlapping procedural regimes while
 
 The optimal sequencing for these reforms:
 
-1. **FEMA passes and begins implementation** -- new electoral systems phase in, compensation provisions take immediate effect
+1. **FEMA passes and begins implementation** -- compensation provisions take immediate effect; electoral infrastructure preparation begins for the First FEMA Election, at which STAR voting, multi-member districts, algorithmically neutral districting, and House expansion launch together
 2. **OCP established in Phase 0** -- builds institutional credibility, develops database, issues advisory opinions
 3. **Multi-party conditions emerge** (FEMA effect) -- third parties win seats, possibly no single majority
 4. **OCP acceleration triggers activate** -- proportional procedural infrastructure acquires authority precisely as coalition governance becomes necessary
@@ -129,7 +131,7 @@ If both proposals are enacted and implemented as designed, the following outcome
 ### Democratic Quality Outcomes
 
 - Votes translate proportionally to representation. Wasted votes decline dramatically; political minorities gain voice proportional to their support.
-- Electoral manipulation loses effectiveness. Gerrymandering cannot eliminate proportional representation in multi-member districts; procedural manipulation cannot silence proportionally allocated factions.
+- Electoral manipulation loses effectiveness. Gerrymandering cannot eliminate proportional representation in multi-member districts; algorithmically neutral districting removes human discretion from boundary placement entirely; procedural manipulation cannot silence proportionally allocated factions.
 - Accountability improves. Voters can assess coalition performance and adjust support accordingly. No faction can blame inability to govern on the other side's obstruction.
 
 ### Incentive Alignment Outcomes
@@ -149,13 +151,29 @@ The most elegant aspect of this reform architecture is its self-reinforcing logi
 
 FEMA creates the multi-party conditions. The OCP provides the infrastructure those conditions require. Each reform makes the other both more necessary and more politically sustainable.
 
+The institutional architecture reinforces this logic at a structural level. FEMA's independence protections for the Electoral Science Office and its districting functions ensure that the electoral rules producing multi-party outcomes cannot be manipulated by incumbents. The OCP's tenure-protected procedural staff ensure that the procedural rules governing multi-party governance cannot be subverted by whoever temporarily holds the gavel. Both acts build professional, insulated institutions that prevent democratic competition from being rigged by the competitors -- one on the electoral side, the other on the procedural side. The parallel architecture means that neither the inputs to Congress (who gets elected) nor the operations of Congress (how they govern) can be captured by a single faction.
+
 This is not utopian aspiration. Every other advanced democracy has procedural infrastructure preventing the abuses Americans accept as normal. Many have proportional allocation systems making coalition governance routine. This architecture simply builds the institutions that make functionality possible -- bringing American legislative procedure into alignment with international best practices.
 
 ---
 
+<!--
 ## Revision History
 
-**Revision 4.0** (Current)
+**Revision 5.0** (Current)
+
+- Updated FEMA reference from Rev 5.0 to Rev 5.2
+- Updated H1/H2 header structure to APAI Document Production Standards Rev 2.3: H1 is now the framework name; former rhetorical title moved to H2 subtitle
+- Added algorithmically neutral districting to "How FEMA Creates Conditions for Coalition Governance" section, including independence protections and parallel institutional architecture with OCP
+- Updated "Optimal Sequencing and Acceleration Triggers" Step 1: replaced "phase in" language with single integrated launch at First FEMA Election
+- Updated "Democratic Quality Outcomes" to reference algorithmically neutral districting
+- Added institutional architecture paragraph to "The Self-Reinforcing Logic" section, describing parallel independence protections across FEMA and OCP
+- Wrapped revision history in HTML comment block per Section 1.4 Rendering Convention
+- Removed emoji characters from download link per Rev 2.3 standards
+- Updated download link path from congress/ to electoral/ per Rev 2.3 directory structure
+- Updated published date
+
+**Revision 4.0**
 
 - Updated OCP reference from Rev 1.1 to Rev 1.3
 - Added Supreme Court nomination consideration deadlines to "How the OCP Provides Infrastructure for Coalition Governance" section, including 60/120-day deadline structure, privileged calendar status mechanism, and coalition governance incentive analysis
@@ -183,8 +201,11 @@ This is not utopian aspiration. Every other advanced democracy has procedural in
 - Initial publication as CMA-OCP Integration Analysis
 - Framework analysis of dual enactment benefits
 - Acceleration trigger timeline comparison
+-->
 
-> 📄 [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/integration-analysis.md) (opens on GitHub -- click the ⬇ download button)
+*Revision history available in the raw file.*
+
+> [Download this document](https://github.com/albertintech/apai/blob/main/docs/electoral/cmf/integration-analysis.md) (opens on GitHub -- click the download button)
 
 ---
 
