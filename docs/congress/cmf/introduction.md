@@ -2,9 +2,9 @@
 
 ## Strengthening How America Elects and Governs for the Next 250 Years
 
-### Published February 2026
+### Published March 2026
 
-Based on Rev 5.0 of the Federal Elections Modernization Act and Rev 1.3 of the Office of Congressional Procedure Act
+Based on Rev 5.2 of the Federal Elections Modernization Act and Rev 1.3 of the Office of Congressional Procedure Act
 
 ---
 
@@ -16,7 +16,7 @@ The CMF is a modular framework, not an omnibus bill. Each act can be introduced,
 
 ## Components
 
-- **Federal Elections Modernization Act (FEMA)** -- Modernizes federal electoral architecture through STAR voting, multi-member districts with proportional representation, House expansion via the cube root rule, uniform ballot access standards, federal party recognition, non-qualifying candidate assessment examinations, and enhanced congressional compensation. Strengthens *who gets elected*.
+- **Federal Elections Modernization Act (FEMA)** -- Modernizes federal electoral architecture through STAR voting, multi-member districts with proportional representation, algorithmically neutral districting, House expansion via the cube root rule, uniform ballot access standards, federal party recognition, non-qualifying candidate assessment examinations, and enhanced congressional compensation. All qualifying states implement the new electoral system at the First FEMA Election. Strengthens *who gets elected*.
 
 - **Office of Congressional Procedure Act (OCP)** -- Establishes professional procedural infrastructure for proportional governance, including proportional floor time allocation, distributed committee leadership, tenure-protected procedural staff, discharge petition reform, Supreme Court nomination consideration deadlines, and phased authority with acceleration triggers responsive to multi-party conditions. Strengthens *how those who are elected govern*.
 
@@ -30,7 +30,7 @@ The OCP includes acceleration triggers that compress its implementation timeline
 
 See the FEMA and OCP legislative texts and their respective policy rationales for detailed provisions. The CMF Integration Analysis provides comprehensive examination of how the two acts interact, their optimal sequencing, and expected outcomes under dual enactment.
 
-> 📄 [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/introduction.md) (opens on GitHub -- click the ⬇ download button)
+> [Download this document](https://github.com/albertintech/apai/blob/main/docs/electoral/cmf/introduction.md) (opens on GitHub -- click the download button)
 
 ---
 
