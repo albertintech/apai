@@ -4,7 +4,7 @@
 
 ### Published February 2026
 
-Based on Rev 5.0 of the Federal Elections Modernization Act
+Based on Rev 5.2 of the Federal Elections Modernization Act
 
 ---
 
@@ -102,7 +102,7 @@ These endorsements reveal coalition relationships that weren't visible under the
 
 ## How Your Vote Counts
 
-In most states, your House district becomes a multi-member district electing 3-5 representatives. Here's how the votes translate into seats:
+In most states, your House district becomes a multi-member district electing 3-7 representatives. Here's how the votes translate into seats:
 
 **The short version:** Candidates with the highest combined support win seats, allocated proportionally. If 40% of your region's voters prefer one party's candidates, that party wins roughly 40% of the seats.
 
@@ -161,10 +161,18 @@ You vote honestly. The system handles the rest.
 
 ---
 
+<!--
 ## Revision History
 
-**Revision 4.0** (Current)
+**Revision 5.0** (Current)
+- Updated reference line from Rev 5.0 to Rev 5.2
+- Corrected district magnitude range from "3-5" to "3-7" in How Your Vote Counts section to match Section 402(b)
+- Wrapped revision history in HTML comment block per DPS Rev 2.3, Section 1.4
+- Added "Revision history available in the raw file." note per DPS Section 1.3
+- Added download link per DPS Section 1.9
+- No changes to voter-facing descriptions, ballot examples, or FAQ content
 
+**Revision 4.0**
 - Updated from CMA Rev 4.2 to FEMA Rev 5.0
 - Rebranded all references from "Congressional Modernization Act (CMA)" to "Federal Elections Modernization Act (FEMA)"
 - Applied APAI self-reference conventions: full name established once in Overview, "the Act" used for all subsequent references
@@ -174,7 +182,6 @@ You vote honestly. The system handles the rest.
 - No changes to voter-facing descriptions, ballot examples, or FAQ content
 
 **Revision 3.0**
-
 - Updated sample ballot to include FCAO Exam scores
 - Added "New Information on Your Ballot" section explaining FCAO and Joint Endorsement Lists
 - Expanded "What's different from today" comparison table
@@ -182,15 +189,16 @@ You vote honestly. The system handles the rest.
 - Updated for CMA Rev 4.2
 
 **Revision 2.0**
-
 - Updated to reflect CMA Rev 4.2 Unified General Election Structure (UGES)
 - Updated "What Stays Familiar" section: all federal elections use single general election (no primaries)
 
 **Revision 1.0**
-
 - Initial voter-focused explainer document
+-->
 
-> 📄 [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/fema/what-changes-for-voters.md) (opens on GitHub -- click the ⬇ download button)
+*Revision history available in the raw file.*
+
+> [Download this document](https://github.com/albertintech/apai/blob/main/docs/electoral/cmf/fema/what-changes-for-voters.md) (opens on GitHub -- click the download button)
 
 ---
 
