@@ -4,7 +4,7 @@
 
 ### Published February 2026
 
-Based on Rev 5.0 of the Federal Elections Modernization Act
+Based on Rev 5.2 of the Federal Elections Modernization Act
 
 ---
 
@@ -330,7 +330,7 @@ This preserves the direct voter-representative accountability relationship the C
 The Act implements proportional representation within each state's allocated seats, not across state lines:
 
 1. **Census determines each state's seat count** (per existing constitutional process)
-2. **Each state divides its seats into multi-member districts** (3-7 seats each where possible)
+2. **The ESO-certified algorithm divides each state's seats into multi-member districts** (3-7 seats each, using algorithmically neutral, deterministic methods that eliminate human discretion from boundary placement)
 3. **Voters within each state choose their state's representatives** (using STAR-PR)
 4. **Proportionality operates within state boundaries** (no cross-state effects)
 
@@ -340,7 +340,8 @@ This respects Article I's apportionment structure while achieving proportional o
 
 The Act acknowledges that proportional representation cannot function constitutionally in states with fewer than three representatives:
 
-- **States with fewer than three representatives** use single-winner STAR voting (Title IV, Section 402(e); Section 404(h))
+- **States with one Representative** are exempt from both multi-member district requirements and algorithmic districting requirements; they elect their Representative at-large using single-winner STAR voting (Title IV, Section 402(d)(1); Section 404(e))
+- **States with two Representatives** are exempt from multi-member district requirements but elect from two single-member districts drawn by the ESO-certified algorithm using single-winner STAR voting (Title IV, Section 402(d)(2); Section 404(e))
 - **No attempt to artificially inflate small state delegations** beyond constitutional entitlement
 - **House expansion** (to approximately 700 to 720 members within approximately 14 years) may naturally give more states 3+ seats as population grows
 - **Proportionality achieved where constitutionally possible** without forcing it where impossible
@@ -410,9 +411,19 @@ The Constitution grants Congress broad power to regulate the manner of federal e
 
 ---
 
+<!--
 ## Revision History
 
-**Revision 2.0** (Current)
+**Revision 3.0** (Current)
+- Updated reference line from Rev 5.0 to Rev 5.2
+- Updated State-by-State Implementation section: replaced "Each state divides its seats into multi-member districts" with ESO-certified algorithmically neutral districting per Rev 5.1 Section 403
+- Updated Small State Accommodation section: split into two tiers matching Rev 5.1 Section 402(d) -- one-Representative states (at-large, exempt from algorithmic districting) and two-Representative states (algorithmically drawn SMDs using single-winner STAR); corrected cross-references from Section 402(e)/404(h) to Section 402(d)(1), 402(d)(2), and 404(e)
+- Wrapped revision history in HTML comment block per DPS Rev 2.3, Section 1.4
+- Added "Revision history available in the raw file." note per DPS Section 1.3
+- Added download link per DPS Section 1.9
+- No changes to constitutional boundary analysis (Scenarios 1-8), design rationale table, candidate-centered distinction, historical precedent, or conclusion
+
+**Revision 2.0**
 - Rebranded from Congressional Modernization Act (CMA) to Federal Elections Modernization Act (FEMA) throughout
 - Applied DPS Section 1.7 self-reference conventions (establish name once, use "the Act" thereafter)
 - Updated header structure to DPS Section 1.2 supporting document format
@@ -428,8 +439,11 @@ The Constitution grants Congress broad power to regulate the manner of federal e
 - Identified eight PR implementation scenarios requiring constitutional amendment
 - Explained how CMA's design navigates each constitutional constraint
 - Companion document to CMA Constitutional Authority Technical Memorandum
+-->
 
-> 📄 [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/fema/constitutional-boundaries-of-proportional-representation.md) (opens on GitHub -- click the ⬇ download button)
+*Revision history available in the raw file.*
+
+> [Download this document](https://github.com/albertintech/apai/blob/main/docs/electoral/cmf/fema/constitutional-boundaries-of-proportional-representation.md) (opens on GitHub -- click the download button)
 
 ---
 
