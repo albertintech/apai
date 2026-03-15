@@ -4,7 +4,7 @@
 
 ### Published February 2026
 
-Based on Rev 5.0 of the Federal Elections Modernization Act
+Based on Rev 5.2 of the Federal Elections Modernization Act
 
 ---
 
@@ -370,9 +370,9 @@ This consistency is intentional. There is only one skill to learn. If you know h
 
 The Act creates the **Electoral Science Office (ESO)**, a permanent technical agency responsible for maintaining and improving the voting methods over time. The ESO operates within a three-tier protection framework that matches each element's level of protection to its significance.
 
-Some things are **statutory principles** -- the democratic commitments that define how the voting system must work: the 0-5 star scoring scale, the requirement that all voters are treated equally, and the proportional outcome requirement for multi-winner elections. These can only be changed by an Act of Congress.
+Some things are **statutory principles** -- the democratic commitments that define how the voting system must work: the requirement that all voters can score all candidates, the requirement that all voters are treated equally, and the proportional outcome requirement for multi-winner elections. These can only be changed by an Act of Congress.
 
-Other things are **protected design elements** -- core design choices like the specific scoring range and the structure of the automatic runoff. The ESO can study these and propose improvements, but changes require Congress to affirmatively approve them.
+Other things are **protected design elements** -- core design choices like the 0-5 star scoring range, the treatment of unscored candidates, and the structure of the automatic runoff. The ESO can study these and propose improvements, but changes require Congress to affirmatively approve them.
 
 Finally, there are **adjustable technical parameters** -- implementation details like the exact formula used to calculate the quota, or the precise rules for breaking ties. The ESO can adjust these through a structured public process that includes supermajority Commission approval, public comment, and Congressional review. This allows the system to benefit from new research without requiring a new law every time a small improvement is identified.
 
@@ -497,7 +497,7 @@ The total weight spent in each round equals Q (the quota), ensuring that each el
 
 **District magnitude.** The number of seats elected from a single district. A single-member district has a magnitude of 1. Under the Act, multi-member House districts have a magnitude between 3 and 7.
 
-**Electoral Science Office (ESO).** A permanent federal agency created by the Act to maintain, evaluate, and refine the technical details of the voting methods. The ESO operates within a three-tier graduated protection framework: statutory principles require an Act of Congress to change, protected design elements require affirmative Congressional approval, and adjustable technical parameters can be refined by the ESO through a structured public process with Congressional oversight.
+**Electoral Science Office (ESO).** A permanent federal agency created by the Act to maintain, evaluate, and refine the technical details of the voting methods, and to certify, evaluate, and maintain the algorithmically neutral districting algorithm used to draw congressional district boundaries. The ESO operates within a three-tier graduated protection framework: statutory principles require an Act of Congress to change, protected design elements require affirmative Congressional approval, and adjustable technical parameters can be refined by the ESO through a structured public process with Congressional oversight.
 
 **Finalist.** In STAR voting, one of the two candidates who received the highest total scores and advance to the automatic runoff.
 
@@ -521,10 +521,20 @@ The total weight spent in each round equals Q (the quota), ensuring that each el
 
 ---
 
+<!--
 ## Revision History
 
-**Revision 2.0** (Current)
+**Revision 3.0** (Current)
+- Updated reference line from Rev 5.0 to Rev 5.2
+- Corrected tier classification in "Who Manages the System?" section: moved 0-5 star scoring range from statutory principles (Tier 1) to protected design elements (Tier 2); replaced with "requirement that all voters can score all candidates" as the Tier 1 principle per Section 409(c)(1) and 409(d)(1)
+- Added "treatment of unscored candidates" to protected design elements description
+- Updated ESO glossary entry to include districting algorithm certification, evaluation, and maintenance responsibilities added in Rev 5.1
+- Wrapped revision history in HTML comment block per DPS Rev 2.3, Section 1.4
+- Added "Revision history available in the raw file." note per DPS Section 1.3
+- Added download link per DPS Section 1.9
+- No changes to voting method descriptions, worked examples, or mathematical specifications
 
+**Revision 2.0**
 - Updated from CMA Rev 4.2 to FEMA Rev 5.0
 - Rebranded all references from "Congressional Modernization Act (CMA)" to "Federal Elections Modernization Act (FEMA)"
 - Applied APAI self-reference conventions: full name established once in Purpose section, "the Act" used for all subsequent references
@@ -534,15 +544,17 @@ The total weight spent in each round equals Q (the quota), ensuring that each el
 - No changes to voting method descriptions, worked examples, or mathematical specifications
 
 **Revision 1.0**
-
 - Initial publication
 - Unified explainer covering STAR voting and Allocated Score
 - Written for a general voter audience
 - Includes worked examples for both single-winner and multi-winner elections
 - Glossary of technical terms
 - Mathematical specification appendix
+-->
 
-> 📄 [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/fema/voting-methods-technical-explainer.md) (opens on GitHub -- click the ⬇ download button)
+*Revision history available in the raw file.*
+
+> [Download this document](https://github.com/albertintech/apai/blob/main/docs/electoral/cmf/fema/voting-methods-technical-explainer.md) (opens on GitHub -- click the download button)
 
 ---
 
