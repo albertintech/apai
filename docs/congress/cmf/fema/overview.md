@@ -2,7 +2,7 @@
 
 ## Overview
 
-### Published February 2026
+### Published March 2026
 
 Based on Rev 5.2 of the Federal Elections Modernization Act
 
