@@ -330,10 +330,8 @@ Turn ballot over for additional races →
 
 *This is a mock ballot created for educational purposes to demonstrate STAR Proportional Representation voting, Joint Endorsement Lists, and Federal Candidate Assessment Office (FCAO) examination requirements as proposed in the Federal Elections Modernization Act (FEMA).*
 
-> 📄 [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/fema/sample-mmd-ballot-12-candidates.md) (opens on GitHub -- click the ⬇ download button)
+> [Download this document](https://github.com/albertintech/apai/blob/main/docs/electoral/cmf/fema/sample-mmd-ballot.md) (opens on GitHub -- click the download button)
 
 ---
 
-Prepared by:  
-Albert E. Ramos  
-Director, The American Policy Architecture Institute
+*Prepared by Albert Ramos for The American Policy Architecture Institute*
