@@ -2,7 +2,7 @@
 
 ## CONGRESSIONAL DISTRICT 1 (Single-Member)
 
-### General Election - November 5, 2030
+### General Election - November 2, 2032
 
 ---
 
@@ -250,7 +250,7 @@ Your ratings for all five candidates will help determine which scenario unfolds 
 
 ## WHAT HAPPENS AFTER THE ELECTION
 
-The winner of this election will represent Congressional District 1 in the U.S. House of Representatives for a two-year term beginning January 3, 2031.
+The winner of this election will represent Congressional District 1 in the U.S. House of Representatives for a two-year term beginning January 3, 2033.
 
 This district is one of two single-member congressional districts in this state. Under the Federal Elections Modernization Act, states with two Representatives elect from two districts drawn by the algorithmically neutral method certified by the Electoral Science Office. Both districts use single-winner STAR voting.
 
@@ -262,6 +262,8 @@ Turn ballot over for additional races →
 ---
 
 *This is a mock ballot created for educational purposes to demonstrate STAR Voting in general elections for single-member districts in states with two Representatives, Joint Endorsement Lists, and Federal Candidate Assessment Office (FCAO) examination requirements as proposed in the Federal Elections Modernization Act (FEMA).*
+
+> [Download this document](https://github.com/albertintech/apai/blob/main/docs/electoral/cmf/fema/sample-smd-ballot.md) (opens on GitHub -- click the download button)
 
 ---
 
