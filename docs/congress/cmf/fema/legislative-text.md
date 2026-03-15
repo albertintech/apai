@@ -3873,6 +3873,8 @@ through the processes established in Section 409(h).
 
 *Revision history available in the raw file.*
 
+> [Download this document](https://github.com/albertintech/apai/blob/main/docs/electoral/cmf/fema/legislative-text.md) (opens on GitHub -- click the download button)
+
 ---
 
 *Prepared by Albert Ramos for The American Policy Architecture Institute*
