@@ -4,7 +4,7 @@
 
 ### Published February 2026
 
-Based on Rev 5.0 of the Federal Elections Modernization Act
+Based on Rev 5.2 of the Federal Elections Modernization Act
 
 ---
 
@@ -98,7 +98,7 @@ That operating system must debut as a unified whole. The First FEMA Election mus
 
 - The first expanded election (510 seats)
 - The first STAR voting election
-- The first multi-member district election (initial 25% rollout)
+- The first multi-member district election (all qualifying states)
 - The first Joint Endorsement Lists election
 
 This produces "the new Congress" -- not "more of the old Congress."
@@ -169,12 +169,6 @@ The filing fee alternative provides efficiency for candidates with resources whi
 **For candidates:** Predictable requirements across all states; no state-by-state navigation burden; electronic signature options reduce logistical complexity; 120-day collection window provides adequate time.
 
 **For the federal system:** Reduced litigation over ballot access disputes; consistent standards prevent arbitrary exclusion; federal grants offset state implementation costs (Title VI, Section 609).
-
-### What This Is Not
-
-This is not federal micromanagement of state elections. States maintain control over petition format and verification procedures (within federal standards), filing deadlines (must provide 120-day window), administrative implementation details, and state/local election ballot access (federal standards apply only to federal offices).
-
-The standardization reduces administrative burden and litigation risk while preserving state flexibility in implementation.
 
 ### Effective Date
 
@@ -324,19 +318,79 @@ STAR Proportional Representation (STAR-PR, also known as Allocated Score) extend
 
 **Example:** Five-seat district using STAR-PR -- candidates appear on ballot, voters score each candidate 0-5 stars, system allocates seats proportionally based on scores. Result: Seat shares reflect vote shares (unlike winner-take-all).
 
+### Single Implementation: All Qualifying States at the First FEMA Election
+
+The Act implements multi-member districts for all qualifying states simultaneously at the First FEMA Election. There is no graduated phase-in, no transition cycles, and no percentage-based rollout schedule.
+
+**Why single implementation is superior to phased rollout:**
+
+**One redistricting, not five.** A phased approach would require states to redraw maps at every new percentage threshold -- redistricting, litigating challenges, training officials, educating voters, then repeating the entire process two years later with a different target and a bigger House. Single implementation means one redistricting, one administrative buildout, one voter education campaign, and one set of legal challenges. States already have to redistrict for the 75-seat expansion. Drawing multi-member districts instead of single-member districts is a different geometry applied to the same process, not an additional process.
+
+**No two-tier Congress.** A phased rollout creates a period where some members serve under the new system and others under the old -- different electoral incentives, different constituency structures, different accountability mechanisms operating in the same chamber simultaneously. Single implementation ensures every qualifying state enters the new system together, producing a unified Congress operating under consistent rules.
+
+**Eliminates gaming incentives.** Under a phased approach, states and incumbents face incentives to delay, manipulate the rollout sequence, or seek exemptions. A clean mandate at the First FEMA Election removes these strategic opportunities. The rules are the same for everyone on the same day.
+
+**STAR-PR's math provides the protection phased rollout was designed to deliver.** The original rationale for graduated implementation was to ease the transition for incumbents. But STAR-PR's low effective threshold -- roughly 14-17% in a five-seat district -- means that any incumbent with meaningful constituent support faces reduced, not increased, electoral risk under multi-member districts. The mathematical protection is stronger than the timeline protection.
+
+### Algorithmically Neutral Districting
+
+The Act mandates that all congressional district boundaries be determined by algorithmically neutral, deterministic methods that eliminate human discretion from boundary placement. The Electoral Science Office certifies and maintains the districting algorithm. Shortest splitline serves as the statutory default pending ESO certification.
+
+**Why algorithmic districting replaces human-drawn maps:**
+
+**Every human who draws a line makes a choice.** Even well-intentioned redistricting commissions exercise subjective judgment about communities of interest, geographic compactness, and boundary placement. That judgment creates opportunities for strategic manipulation and guarantees litigation over whether the judgment was exercised properly. Algorithmic districting eliminates the judgment entirely -- the algorithm processes census data and produces boundaries without reference to racial, ethnic, linguistic, partisan, or incumbent-residence data.
+
+**Proportional representation covers the weakness of blind algorithms.** The traditional objection to algorithmic districting is that algorithms ignore communities of interest. Under winner-take-all rules, this objection has force -- if the algorithm splits a community across two districts, that community loses all representation. Under STAR-PR in multi-member districts, communities don't need to be packed into a single district to win representation. A community constituting 20% of a five-seat district elects roughly one representative regardless of where the boundary falls. The algorithm's blindness to community geography becomes a feature rather than a bug, because proportional representation ensures representation is emergent from voter preferences rather than dependent on boundary placement.
+
+**The combination is mutually reinforcing.** Algorithmic districting eliminates human discretion from boundary-drawing, and STAR-PR eliminates the representational harm that suboptimal boundaries would otherwise cause. Each system covers the other's weakness. Shortest splitline's weakness is that it ignores communities -- but proportional representation means communities don't need to be packed into a single district. STAR-PR's weakness is that someone still has to draw the district lines -- but algorithmic districting makes that a mathematical operation rather than a political one.
+
+### Minority Representation Under Algorithmic Districting
+
+The Act's combination of algorithmic districting and proportional representation offers a stronger protection mechanism for communities of color than the current system of human-drawn majority-minority districts.
+
+**The status quo's track record is poor.** Under single-member plurality, a community of color that constitutes 30% of a region's population receives zero representatives unless a mapmaker deliberately draws a majority-minority district. Even when such districts are created, the community gets exactly one representative while being stripped of influence everywhere else -- a packing dynamic that both parties have historically exploited. Majority-minority districts concentrate minority voters into one seat to bleach the surrounding districts, a practice that serves partisan mapmakers more than the communities it purports to protect.
+
+**Proportional representation solves the underlying problem.** Under STAR-PR in a five-seat district, a community constituting 30% of the population likely elects one and possibly two representatives without any human needing to draw a line on their behalf. The representation is emergent from the math, not dependent on the goodwill or legal obligation of whoever holds the redistricting pen.
+
+**VRA compliance is maintained through targeted safeguards.** If the Department of Justice determines that an algorithmically generated configuration violates the Voting Rights Act, the Electoral Science Office applies the minimum boundary adjustment necessary to achieve compliance while preserving the algorithmic neutrality of the remainder of the state's district configuration. Section 410(d) establishes specificity requirements, the minimum adjustment principle, dual map publication (before and after adjustment), and expedited three-judge-panel judicial review with direct Supreme Court appeal. The VRA exception is the narrowest possible departure from algorithmic neutrality -- the algorithm runs first, DOJ reviews, and only if there is a documented violation does any human touch a boundary.
+
+### Deterministic District Magnitude Allocation
+
+The Act establishes a deterministic preference ordering for district magnitudes: 5, 6, 4, 7, 3. When a state's seat count permits multiple zero-variance configurations, the preference ordering resolves the ambiguity without human discretion.
+
+**Why this ordering:** The preference for five-seat districts reflects empirical research on the representation-accountability tradeoff. Carey and Hix (2011) find that the optimal balance between proportionality and electoral accountability occurs at district magnitudes of approximately 4-8, with diminishing marginal gains in proportionality above magnitude 5 and increasing coordination costs for voters. Taagepera and Shugart's effective threshold analysis shows that five-seat districts produce an effective threshold of approximately 14-17%, low enough to enable meaningful minority representation while high enough to maintain electoral accountability. The ordering favors magnitudes closer to this empirical sweet spot while ensuring all configurations within the 3-7 range remain available.
+
+The preference ordering is classified as a Tier 3 adjustable parameter -- the ESO may modify it based on accumulated implementation evidence, subject to Congressional disapproval authority.
+
 ### Built-In Maintenance: The Electoral Science Office
 
-Just as the Act treats institutional modernization as scheduled maintenance, it also builds in a maintenance mechanism for the voting methods themselves. Section 409 establishes the Electoral Science Office (ESO) as an independent agency responsible for ongoing evaluation of STAR and STAR-PR performance. Electoral science continues to advance, and specifications representing best practices today may benefit from refinement as research progresses and implementation experience accumulates.
+Just as the Act treats institutional modernization as scheduled maintenance, it also builds in a maintenance mechanism for the voting methods and districting processes themselves. Section 409 establishes the Electoral Science Office (ESO) as an independent agency responsible for ongoing evaluation of STAR and STAR-PR performance, as well as certification, evaluation, and maintenance of the districting algorithm.
 
 The ESO operates within a three-tier graduated protection architecture that calibrates the difficulty of changing each element to its significance within the statutory framework:
 
-**Tier 1 -- Statutory Principles:** Normative commitments that define the democratic principles the voting methods must satisfy -- ballot interface consistency, universal scoring permission, equal voter treatment, and the proportional outcome requirement. The ESO has no authority over these elements. Modification requires an Act of Congress. These embody the statute's normative thesis; changing them would represent a fundamental policy reversal, not a technical improvement.
+**Tier 1 -- Statutory Principles:** Normative commitments that define the democratic principles the voting methods must satisfy -- ballot interface consistency, universal scoring permission, equal voter treatment, the proportional outcome requirement, and algorithmic districting neutrality. The ESO has no authority over these elements. Modification requires an Act of Congress. These embody the statute's normative thesis; changing them would represent a fundamental policy reversal, not a technical improvement.
 
-**Tier 2 -- Protected Design Elements:** Core design choices that anchor the voter experience, including the 0-5 star scoring range, unscored candidate treatment, and single-winner STAR structure. The ESO may study these elements and propose modifications, but changes require affirmative Congressional approval via joint resolution. These are well-supported engineering choices rather than normative commitments, but their significance to the voter experience warrants a higher bar than technical parameters.
+**Tier 2 -- Protected Design Elements:** Core design choices that anchor the voter experience and institutional architecture, including the 0-5 star scoring range, unscored candidate treatment, single-winner STAR structure, and the district magnitude range of 3-7. The ESO may study these elements and propose modifications, but changes require affirmative Congressional approval via joint resolution. These are well-supported engineering choices rather than normative commitments, but their significance to the voter experience and electoral structure warrants a higher bar than technical parameters.
 
-**Tier 3 -- Adjustable Technical Parameters:** Implementation details such as quota calculation formulas, reweighting methodology, seat allocation sequence, and tie-breaking procedures. The ESO may modify these through a structured process requiring supermajority Commission approval, public comment, and Congressional review with joint resolution disapproval authority. These are the parameters the ESO is best positioned to evaluate and refine based on empirical evidence.
+**Tier 3 -- Adjustable Technical Parameters:** Implementation details such as quota calculation formulas, reweighting methodology, seat allocation sequence, tie-breaking procedures, the specific districting algorithm, the magnitude allocation method, and VRA compliance adjustment methodology. The ESO may modify these through a structured process requiring supermajority Commission approval, public comment, and Congressional review with joint resolution disapproval authority. These are the parameters the ESO is best positioned to evaluate and refine based on empirical evidence.
 
 This graduated structure enables the nation to benefit from ongoing advances in electoral science without requiring full legislative action for each technical adjustment, while ensuring that protection difficulty scales to each element's significance. The ESO begins establishment immediately upon enactment, gains operational authority at the First FEMA Election, and conducts its first mandatory decennial review after the Second FEMA Election.
+
+### Independence Protections for Districting Functions
+
+Section 410 establishes comprehensive protections ensuring that the ESO's districting functions cannot be captured, starved, or circumvented by hostile political actors:
+
+**Executive non-interference:** No executive branch official may direct, influence, or attempt to influence any districting determination. Commissioners and staff must document and report prohibited contacts to GAO.
+
+**Commissioner removal protections:** During active redistricting cycles, enhanced removal protections prevent politically motivated dismissal of commissioners overseeing map production. Recess appointments to the Commission are prohibited.
+
+**Budget independence:** A mandatory minimum appropriation with sequestration protection and OMB-independent disbursement ensures the ESO cannot be defunded into incapacity. If the ESO is incapacitated for any reason, the Clerk of the House applies the default shortest splitline algorithm directly from census data -- the maps draw themselves.
+
+**Algorithm integrity:** Source code publication, independent verification by two external bodies, public replication rights, and tamper detection ensure that anyone can verify the algorithm produces the maps it claims to produce.
+
+**Anti-circumvention:** No other entity may draw federal maps, no conditional appropriations may be attached to ESO funding, no reorganization may place the ESO under another agency, and whistleblower protections apply to all ESO employees.
+
+Each defense covers a different attack surface. Capturing appointments doesn't help if existing commissioners can't be removed during redistricting. Starving the budget doesn't help if the default algorithm is self-executing. Weaponizing DOJ doesn't help if any voter can obtain expedited three-judge-panel review.
 
 ### The Unified Election Advantage
 
@@ -351,30 +405,6 @@ The Act establishes single general elections as the universal standard for all f
 **Consistency of voter experience:** Every federal election works the same way: show up in November, score candidates, done. No registration games, no low-turnout summer primaries that disproportionately empower activated partisans, no two-election cognitive overhead. A voter moving between states encounters identical federal election procedures.
 
 **Party autonomy preserved:** Parties remain free to conduct internal nomination processes -- caucuses, conventions, straw polls -- on their own time and at their own expense. Joint Endorsement Lists provide a streamlined mechanism for signaling preferred candidates to voters without the overhead of party-run primary infrastructure.
-
-### Phased Implementation Within Accelerated Timeline
-
-Multi-member districts phase in over five election cycles beginning with the First FEMA Election:
-
-- **Transition Cycle 1 (First FEMA Election):** Up to 25% of seats may use multi-member districts
-- **Transition Cycle 2:** Up to 50%
-- **Transition Cycle 3:** Up to 75%
-- **Transition Cycle 4:** Up to 90%
-- **Full Implementation:** 100% (except states with fewer than 3 seats)
-
-**Why phased implementation works:** Proof-of-concept demonstration (early adopters validate approach before nationwide expansion), time for voter education (media coverage creates organic learning), administrative preparation (election officials gain experience gradually), course correction opportunity (if problems emerge, adjustments occur before full implementation), no forced participation (incumbents can remain in single-member districts during transition per Title VI, Section 605).
-
-### What This Is Not
-
-**Not untested foreign import:** STAR voting is American innovation; multi-member districts have 178 years of American precedent.
-
-**Not party-list voting:** Voters choose individual candidates directly, not parties.
-
-**Not delayed reform:** Electoral changes launch at First FEMA Election alongside House expansion -- the integrated package debuts together.
-
-**Not partisan advantage:** Geometry-proof allocation protects both parties from manipulation.
-
-**Not administrative burden:** Primary elimination saves states millions annually; federal grants offset implementation costs.
 
 ---
 
@@ -507,13 +537,15 @@ Even if electoral reforms never occurred, these improvements would deliver gover
 
 ### Why Members Should Support the Act
 
-**Immediate benefits, integrated changes:** Current members receive capacity improvements and compensation increases immediately upon enactment. Electoral reforms launch together at the First FEMA Election as an integrated package. Most current members will have substantial careers before facing full multi-member district implementation.
+**Immediate benefits, integrated changes:** Current members receive capacity improvements and compensation increases immediately upon enactment. Electoral reforms launch together at the First FEMA Election as an integrated package.
+
+**STAR-PR's mathematical protection:** Proportional representation through STAR-PR substantially lowers the effective threshold for winning a seat. In a five-seat district, the effective threshold is approximately 14-17% -- meaning any incumbent with meaningful constituent support faces reduced, not increased, electoral risk under multi-member districts. The math protects incumbents more effectively than any transition timeline could.
 
 **Universal improvements:** Both parties gain from enhanced capacity, better staff retention, improved compensation. Reforms benefit institutional function regardless of party control.
 
-**Risk reduction:** Multi-member districts protect both parties from geometric manipulation. Standardized ballot access reduces litigation exposure. Federal implementation support reduces state administrative burden.
+**Risk reduction:** Multi-member districts with algorithmically neutral boundaries protect both parties from geometric manipulation. Standardized ballot access reduces litigation exposure. Federal implementation support reduces state administrative burden.
 
-**No displacement:** House expansion means no member loses their seat. Phased multi-member adoption provides transition flexibility.
+**No displacement:** House expansion means no member loses their seat. Every current member retains their district through the transition to the new system.
 
 **Political cover:** Comprehensive package provides defensive messaging. Not "Congress giving itself a raise" -- it's "systematic institutional modernization with extensive safeguards and proven methods."
 
@@ -525,7 +557,7 @@ Even if electoral reforms never occurred, these improvements would deliver gover
 
 **Institutional stability:** Systematic maintenance prevents crisis-driven improvisation. Scheduled reforms with safeguards beats emergency changes under pressure.
 
-**Reduced litigation:** Standardized ballot access and geometry-proof districts eliminate recurring legal disputes that consume resources.
+**Reduced litigation:** Standardized ballot access, geometry-proof districts, and algorithmically neutral boundaries eliminate recurring legal disputes that consume resources.
 
 **Market principles:** Enhanced compensation creates competitive market for legislative talent. Current system arbitrarily restricts talent pool.
 
@@ -534,6 +566,8 @@ Even if electoral reforms never occurred, these improvements would deliver gover
 ### Why Progressives Should Support the Act
 
 **Proportional representation:** Multi-member districts ensure voters' preferences translate to representation regardless of where they live.
+
+**Stronger minority representation:** Proportional allocation through STAR-PR provides emergent representation for communities of color without dependence on human mapmakers -- a stronger protection than majority-minority districts within winner-take-all systems.
 
 **Ballot access equality:** Standardized requirements make running for office more accessible regardless of wealth or establishment connections.
 
@@ -553,7 +587,7 @@ Even if electoral reforms never occurred, these improvements would deliver gover
 
 **Voter information:** FCAO scores provide objective competency data reducing reliance on party labels and campaign spending.
 
-**Primary elimination:** Multi-member districts skip primaries entirely, reducing barriers and costs for independent candidates.
+**Primary elimination:** The Unified General Election Structure eliminates state-administered primaries entirely, reducing barriers and costs for independent candidates.
 
 **Systemic change:** Comprehensive reform addresses multiple dysfunction sources simultaneously rather than incremental tinkering.
 
@@ -581,8 +615,9 @@ The First FEMA Election is defined as the second regularly scheduled general ele
 - Ballot access standards take effect (Title I)
 - Party recognition framework operational (Title II)
 - House expands to 510 members (Title III)
-- Multi-member districts begin phasing in at 25% (Title IV)
+- Multi-member districts take effect for all qualifying states (Title IV)
 - STAR voting implemented for all federal elections
+- Algorithmically neutral districting operational
 - ESO operational authority begins
 
 **Tier 3 -- Second FEMA Election:**
@@ -599,13 +634,13 @@ Beginning with the second Congress after initial expansion, House membership inc
 
 ### Why This Architecture Works
 
-**Simultaneous integrated launch:** STAR, MMD, and expansion debut together at the First FEMA Election, producing "the new Congress" rather than "more of the old Congress."
+**Simultaneous integrated launch:** STAR, MMD, algorithmic districting, and expansion debut together at the First FEMA Election, producing "the new Congress" rather than "more of the old Congress."
 
 **Reform on a human timescale:** Cube root compliance in ~14 years means members who vote for the Act see results; voters experience tangible improvements within a political generation.
 
 **Proper FCAO development:** Decoupled timeline prevents exam development from holding up core reforms while ensuring adequate validation.
 
-**Immediate member benefits:** Title VI takes effect upon enactment, honoring the Grand Bargain that makes passage politically viable.
+**Immediate member benefits:** Title VI takes effect upon enactment, honoring the institutional capacity investment that makes passage politically viable.
 
 **Legal clarity:** Defined terms (First FEMA Election, Second FEMA Election) and objective triggers prevent ambiguity and resist litigation.
 
@@ -613,11 +648,9 @@ Beginning with the second Congress after initial expansion, House membership inc
 
 Each expansion provides opportunity for evaluation:
 
-**After First FEMA Election:** Assess initial expansion implementation, STAR voting rollout, multi-member district pilot adoption, voter response.
+**After First FEMA Election:** Assess initial expansion implementation, STAR voting rollout, multi-member district performance, algorithmically generated maps, voter response.
 
 **After biennial increases:** Evaluate constituent service improvements, infrastructure adequacy, operational adjustments.
-
-**After multi-member district phase-in milestones:** Assess voter education effectiveness, administrative functionality, proportional allocation accuracy.
 
 **At cube root stabilization:** Complete evaluation, determine if formula adjustments needed, full implementation assessment.
 
@@ -657,7 +690,7 @@ The Act addresses these vulnerabilities through coordinated reforms:
 
 **Better representation ratios:** House expansion (435 to 510 to ~720) restores representation capacity within 14 years, improving constituent accessibility and service quality.
 
-**Reduced litigation exposure:** Standardized ballot access eliminates fifty-state patchwork, providing predictability and reducing legal disputes.
+**Reduced litigation exposure:** Standardized ballot access eliminates fifty-state patchwork, providing predictability and reducing legal disputes. Algorithmically neutral districting eliminates redistricting litigation by removing human discretion from boundary placement.
 
 **Geometry-proof allocation:** Multi-member districts with proportional representation make redistricting manipulation mathematically ineffective for any party.
 
@@ -687,7 +720,7 @@ The Act requires substantial initial investment:
 
 ### Offsetting Savings and Economic Value
 
-**Administrative efficiency gains:** Primary elimination in multi-member districts saves states millions annually in duplicate election infrastructure; standardized ballot access reduces litigation costs; fewer redistricting challenges reduce legal expenses; better legislative efficiency reduces economic costs of dysfunction.
+**Administrative efficiency gains:** Primary elimination in multi-member districts saves states millions annually in duplicate election infrastructure; standardized ballot access reduces litigation costs; algorithmically neutral districting eliminates redistricting litigation; fewer boundary challenges reduce legal expenses; better legislative efficiency reduces economic costs of dysfunction.
 
 **Talent retention value:** Reduced staff turnover saves institutional knowledge and training costs; better compensation reduces dependence on fundraising, freeing time for governance; enhanced capacity improves policy quality, reducing downstream correction costs.
 
@@ -744,7 +777,7 @@ The Act takes the opposite approach: Fix everything that needs fixing in one coo
 
 **One implementation process** with federal support rather than fifty different state-level experiments.
 
-**Synergistic benefits** where reforms reinforce each other: Multi-member districts work better with proportional voting methods. House expansion enables multi-member districts. Ballot access standardization supports multiparty infrastructure. Enhanced capacity makes all reforms more effective.
+**Synergistic benefits** where reforms reinforce each other: Multi-member districts work better with proportional voting methods. House expansion enables multi-member districts. Ballot access standardization supports multiparty infrastructure. Algorithmically neutral districting eliminates the political distortion that makes every other reform harder. Enhanced capacity makes all reforms more effective.
 
 **Immediate benefits** (compensation, capacity improvements) fund political capital for electoral reforms that launch together at the First FEMA Election.
 
@@ -803,7 +836,8 @@ The Act doesn't ask Congress to vote for uncertain future changes. It provides:
 - Ballot access standardization
 - Party recognition and Joint Endorsement Lists
 - House expansion to 510 members
-- Multi-member districts and STAR-PR
+- Multi-member districts with STAR-PR for all qualifying states
+- Algorithmically neutral districting
 - All components debut simultaneously as unified system
 
 **Continued modernization (biennial increases):**
@@ -834,6 +868,7 @@ The Act provides framework for systematic modernization:
 - Proven methods from American historical precedent
 - Clear constitutional authority validated by Supreme Court
 - Simultaneous integrated launch preventing "more of the same"
+- Algorithmically neutral districting eliminating human discretion from boundary placement
 - Multiple safeguards protecting against overreach
 - Universal benefits aligning incentives with outcomes
 - Results within 14 years -- three presidential terms
@@ -854,15 +889,39 @@ Supreme Court interpretation confirms this grants Congress plenary power over fe
 
 **Multi-Member District Authority:** Supreme Court has explicitly validated multi-member districts in Whitcomb v. Chavis (1971) and White v. Regester (1973). Historical precedent: Multi-member districts used continuously from 1789 through 1967.
 
+**Algorithmic Districting Authority:** Congressional authority to prescribe the "Manner" of elections encompasses the method by which district boundaries are determined. Mandating a neutral algorithm rather than human-drawn boundaries falls squarely within Elections Clause authority. No constitutional provision requires that district lines be drawn by human judgment.
+
 **FCAO Non-Qualifying Structure:** Avoids U.S. Term Limits concerns because examinations are disclosure requirements under Elections Clause authority, not additional qualifications for office. No minimum score required; 0% scorers can run and serve.
 
 (Full constitutional analysis available in separate technical memorandum)
 
 ---
 
+<!--
 ## Revision History
 
-**Revision 5.0** (Current)
+**Revision 5.2** (Current)
+- Updated reference line from Rev 5.0 to Rev 5.2
+- Replaced "Phased Implementation Within Accelerated Timeline" subsection (former Section VI) with "Single Implementation" rationale: all qualifying states at the First FEMA Election; eliminated five-cycle phase-in schedule (25%/50%/75%/90%/100%), transition cycle references, and Section 605 incumbent protection references
+- Added "Algorithmically Neutral Districting" subsection explaining ESO-certified algorithms, shortest splitline default, mutual reinforcement with STAR-PR, and elimination of human discretion from boundary placement
+- Added "Minority Representation Under Algorithmic Districting" subsection: VRA compliance through minimum boundary adjustment, proportional representation as stronger protection mechanism than majority-minority districts, Section 410(d) safeguards
+- Added "Deterministic District Magnitude Allocation" subsection: preference ordering (5, 6, 4, 7, 3), Carey-Hix empirical basis, Tier 3 classification
+- Added "Independence Protections for Districting Functions" subsection: Section 410 executive non-interference, commissioner removal protections, budget independence, algorithm integrity, anti-circumvention, self-executing default
+- Expanded ESO discussion to include districting algorithm certification, map generation, and algorithm integrity responsibilities alongside voting method evaluation
+- Updated three-tier graduated protection architecture to include algorithmic districting neutrality (Tier 1), district magnitude range (Tier 2), and districting algorithm, magnitude allocation method, and VRA compliance adjustment methodology (Tier 3)
+- Revised political economy section (Section IX): replaced phased-timeline incumbent protection argument with STAR-PR effective threshold argument; removed "phased multi-member adoption provides transition flexibility" language; updated "No displacement" argument
+- Updated implementation timeline (Section X, Tier 2): replaced "Multi-member districts begin phasing in at 25%" with "Multi-member districts take effect for all qualifying states"; added "Algorithmically neutral districting operational"
+- Revised assessment checkpoints: replaced phase-in milestone assessments with post-implementation evaluation framework
+- Updated Section XI and XII references to include algorithmically neutral districting benefits (litigation reduction, redistricting elimination)
+- Updated Section XIII synergistic benefits to include algorithmic districting
+- Updated Conclusion (Section XIV) integrated reform launch list to include multi-member districts for all qualifying states and algorithmically neutral districting
+- Updated Appendix A: added Algorithmic Districting Authority paragraph
+- Wrapped revision history in HTML comment block per DPS Rev 2.3, Section 1.4
+- Added "Revision history available in the raw file." note per DPS Section 1.3
+- Added download link per DPS Section 1.9
+- Removed "What This Is Not" subsections from Sections III and VI per established messaging discipline
+
+**Revision 5.0**
 - Renamed from "Congressional Modernization Act (CMA)" to "Federal Elections Modernization Act (FEMA)"
 - Applied self-reference conventions per Document Production Standards Section 1.7; body text uses "the Act" after initial establishment
 - Updated defined terms: "First CMA Election" to "First FEMA Election," "Second CMA Election" to "Second FEMA Election"
@@ -931,8 +990,11 @@ Supreme Court interpretation confirms this grants Congress plenary power over fe
 - Detailed analysis of all eight titles
 - Constitutional authority discussion
 - Comparative evidence and implementation analysis
+-->
 
-> 📄 [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/fema/policy-rationale.md) (opens on GitHub -- click the ⬇ download button)
+*Revision history available in the raw file.*
+
+> [Download this document](https://github.com/albertintech/apai/blob/main/docs/electoral/cmf/fema/policy-rationale.md) (opens on GitHub -- click the download button)
 
 ---
 
