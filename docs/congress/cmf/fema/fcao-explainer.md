@@ -4,7 +4,7 @@
 
 ### Published February 2026
 
-Based on Rev 5.0 of the Federal Elections Modernization Act
+Based on Rev 5.2 of the Federal Elections Modernization Act
 
 ---
 
@@ -116,9 +116,17 @@ The question FCAO answers is simple: does this candidate understand how the job 
 
 ---
 
+<!--
 ## Revision History
 
-**Revision 2.0** (Current)
+**Revision 3.0** (Current)
+- Updated reference line from Rev 5.0 to Rev 5.2
+- Wrapped revision history in HTML comment block per DPS Rev 2.3, Section 1.4
+- Added "Revision history available in the raw file." note per DPS Section 1.3
+- Added download link per DPS Section 1.9
+- No substantive changes; FCAO provisions unaffected by Rev 5.1/5.2 legislative revisions
+
+**Revision 2.0**
 - Rebranded from Congressional Modernization Act (CMA) to Federal Elections Modernization Act (FEMA)
 - Updated header structure to DPS Section 1.2 supporting document format
 - Added Revision History footer per DPS Section 1.3
@@ -131,8 +139,11 @@ The question FCAO answers is simple: does this candidate understand how the job 
 **Revision 1.0**
 - Initial version explaining FCAO purpose, structure, and operation
 - Based on CMA Rev 4.0
+-->
 
-> 📄 [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/fema/fcao-explainer.md) (opens on GitHub -- click the ⬇ download button)
+*Revision history available in the raw file.*
+
+> [Download this document](https://github.com/albertintech/apai/blob/main/docs/electoral/cmf/fema/fcao-explainer.md) (opens on GitHub -- click the download button)
 
 ---
 
