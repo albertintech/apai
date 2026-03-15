@@ -4,13 +4,13 @@
 
 ### Published February 2026
 
-Based on Rev 5.0 of the Federal Elections Modernization Act
+Based on Rev 5.2 of the Federal Elections Modernization Act
 
 ---
 
 ## I. The Question Presented
 
-Can Congress enact the Federal Elections Modernization Act's electoral provisions -- including STAR voting mandates, multi-member districts with proportional representation, unified general elections, Joint Endorsement Lists, and competency transparency requirements -- through ordinary legislation, or do such reforms require constitutional amendment? All subsequent references to the Federal Elections Modernization Act use "the Act."
+Can Congress enact the Federal Elections Modernization Act's electoral provisions -- including STAR voting mandates, multi-member districts with proportional representation, algorithmically neutral districting, unified general elections, Joint Endorsement Lists, and competency transparency requirements -- through ordinary legislation, or do such reforms require constitutional amendment? All subsequent references to the Federal Elections Modernization Act use "the Act."
 
 Some scholars argue that mandating specific voting methods or fundamentally restructuring electoral systems represents such foundational change that only constitutional amendment can authorize it. They worry that statutory reform will face judicial invalidation by a Supreme Court skeptical of major structural changes enacted without supermajority consensus.
 
@@ -186,13 +186,13 @@ The Act's unified election structure preserves party associational rights comple
 
 The Act does not regulate party activity. It regulates the state-administered election -- the mechanism through which public resources are deployed to determine who holds public office. Separating that mechanism from party processes strengthens rather than burdens associational rights.
 
-### C. Multi-Member Districts with STAR-PR (Title IV, Sections 402-403)
+### C. Multi-Member Districts with STAR-PR (Title IV, Section 402)
 
 Constitutional Authority: See Section IV above (historical precedent, 1967 Act repeal authority, Supreme Court validation).
 
 Additional Considerations:
 
-Voting Rights Act Compliance: The Act's proportional representation actually enhances VRA compliance by eliminating the vote dilution concern that motivated both the 1967 Act and the *White v. Regester* challenge. Under STAR-PR, minority communities achieving 15-20% support win proportional representation, no majority can sweep all seats through bloc voting, geographic concentration is no longer required for minority representation, and the mathematical structure prevents dilution regardless of district drawing.
+Voting Rights Act Compliance: The Act's proportional representation actually enhances VRA compliance by eliminating the vote dilution concern that motivated both the 1967 Act and the *White v. Regester* challenge. Under STAR-PR, minority communities achieving 15-20% support win proportional representation, no majority can sweep all seats through bloc voting, geographic concentration is no longer required for minority representation, and the mathematical structure prevents dilution regardless of district drawing. Where the Department of Justice determines that an algorithmically generated district configuration violates the VRA, the ESO applies the minimum boundary adjustment necessary to achieve compliance while preserving algorithmic neutrality for the remainder of the state's configuration (Section 403(e)). Section 410(d) establishes safeguards for this process, including specificity requirements, dual map publication, and expedited three-judge-panel judicial review with direct Supreme Court appeal.
 
 Equal Protection: Multi-member districts with proportional allocation satisfy "one person, one vote" requirements. Each voter casts an equivalent ballot (same scoring range), each vote contributes proportionally to outcomes, district populations are substantially equal, and no voter's ballot has greater or lesser weight.
 
@@ -250,21 +250,47 @@ Constitutional Authority:
 
 4. State flexibility preserved: Title I establishes minimum federal standards while allowing states to provide easier access. States retain authority over state and local election ballot access.
 
-### G. Electoral Science Office Delegation (Title IV, Section 409)
+### G. Electoral Science Office Delegation (Title IV, Sections 409-410)
 
-The Question: Can Congress delegate authority to an independent agency to evaluate and propose modifications to voting method specifications, subject to Congressional review?
+The Question: Can Congress delegate authority to an independent agency to evaluate and propose modifications to voting method specifications and to certify, generate, and maintain the districting algorithm, subject to Congressional review?
 
 Constitutional Authority:
 
 The Electoral Science Office (ESO) operates within a graduated protection architecture that raises distinct delegation doctrine questions for each tier.
 
-1. Tier 1 -- Statutory Principles: The ESO has no authority over normative commitments (ballot interface consistency, universal scoring, equal treatment, proportional outcome requirement). These may be modified only by Act of Congress. No delegation concern arises because no delegation occurs.
+1. Tier 1 -- Statutory Principles: The ESO has no authority over normative commitments (ballot interface consistency, universal scoring, equal treatment, proportional outcome requirement, and algorithmic districting neutrality). These may be modified only by Act of Congress. No delegation concern arises because no delegation occurs.
 
-2. Tier 2 -- Protected Design Elements: The ESO may study and propose modifications to core design choices (0-5 star scoring range, unscored candidate treatment, single-winner STAR structure), but changes require affirmative Congressional approval via joint resolution. This is not delegation of legislative power -- it is a structured recommendation process. Congress retains full decisional authority. The BRAC commission model provides direct precedent: expert bodies propose, Congress disposes through an up-or-down vote.
+2. Tier 2 -- Protected Design Elements: The ESO may study and propose modifications to core design choices (0-5 star scoring range, unscored candidate treatment, single-winner STAR structure, and the district magnitude range of 3-7), but changes require affirmative Congressional approval via joint resolution. This is not delegation of legislative power -- it is a structured recommendation process. Congress retains full decisional authority. The BRAC commission model provides direct precedent: expert bodies propose, Congress disposes through an up-or-down vote.
 
-3. Tier 3 -- Adjustable Technical Parameters: The ESO may modify implementation details (quota formulas, reweighting methodology, tie-breaking procedures) subject to Congressional disapproval via joint resolution. This follows the Congressional Review Act model, in which Congress delegates rulemaking authority but retains a veto. The Supreme Court has upheld Congressional delegation of technical standard-setting to expert agencies when bounded by an intelligible principle. The Act provides extensive boundary conditions (Section 409(e)(2)) requiring that any modification preserve or improve proportionality, maintain or reduce computational complexity, preserve transparency, and not create strategic manipulation opportunities. These boundary conditions constitute an intelligible principle far more specific than those upheld in cases like *Mistretta v. United States* (1989) and *Whitman v. American Trucking Associations* (2001).
+3. Tier 3 -- Adjustable Technical Parameters: The ESO may modify implementation details (quota formulas, reweighting methodology, tie-breaking procedures, the specific districting algorithm, the magnitude allocation method, and VRA compliance adjustment methodology) subject to Congressional disapproval via joint resolution. This follows the Congressional Review Act model, in which Congress delegates rulemaking authority but retains a veto. The Supreme Court has upheld Congressional delegation of technical standard-setting to expert agencies when bounded by an intelligible principle. The Act provides extensive boundary conditions (Section 409(e)(2)) requiring that any modification preserve or improve proportionality, maintain or reduce computational complexity, preserve transparency, and not create strategic manipulation opportunities. For the districting algorithm specifically, Section 403(f) establishes additional boundary conditions: the algorithm must operate without reference to racial, ethnic, linguistic, partisan, or incumbent-residence data, must require no subjective parameter selection, and must produce deterministic, publicly verifiable outputs. These boundary conditions constitute an intelligible principle far more specific than those upheld in cases like *Mistretta v. United States* (1989) and *Whitman v. American Trucking Associations* (2001).
 
-Major Questions Doctrine Considerations: The ESO's Tier 3 authority might face scrutiny under *West Virginia v. EPA* (2022), which requires clear Congressional authorization for agency decisions of major political and economic significance. However, the ESO's authority is distinguishable on multiple grounds. First, Congress explicitly created the ESO for this specific purpose with detailed statutory parameters -- unlike the EPA invoking broad statutory language for novel authority. Second, the modifications are technical, not policy-changing: adjusting a quota formula or tie-breaking procedure within boundary conditions that preserve proportionality is not a "major question" comparable to restructuring an industry. Third, Congressional review is built into every tier, with disapproval authority for Tier 3 and affirmative approval required for Tier 2. Fourth, the graduated protection architecture itself demonstrates clear Congressional intent to delegate precisely this scope of authority -- the statute's specificity is evidence of deliberate authorization, not the kind of ambiguous grant the Major Questions Doctrine targets.
+Districting Delegation Considerations: Delegating the districting function raises distinct questions because district boundaries determine whose votes are aggregated together -- a politically consequential determination. However, the Act's delegation is narrower than it might appear. The ESO does not exercise discretion over boundaries; it certifies an algorithm that produces boundaries deterministically from census data. The algorithm itself must satisfy neutrality requirements that eliminate all subjective judgment. Section 410 establishes comprehensive independence protections -- executive non-interference, commissioner removal protections during redistricting cycles, mandatory minimum appropriations, algorithm integrity safeguards, public replication rights, and a self-executing default algorithm -- ensuring that the ESO's districting function cannot be captured, starved, or circumvented. The delegation is not "draw maps as you see fit" but rather "certify that an algorithm meeting these specific statutory requirements produces these specific outputs from this specific input data." This is closer to delegating the application of a formula than delegating the exercise of discretion.
+
+Major Questions Doctrine Considerations: The ESO's Tier 3 authority might face scrutiny under *West Virginia v. EPA* (2022), which requires clear Congressional authorization for agency decisions of major political and economic significance. However, the ESO's authority is distinguishable on multiple grounds. First, Congress explicitly created the ESO for this specific purpose with detailed statutory parameters -- unlike the EPA invoking broad statutory language for novel authority. Second, the modifications are technical, not policy-changing: adjusting a quota formula, tie-breaking procedure, or districting algorithm within boundary conditions that preserve proportionality and algorithmic neutrality is not a "major question" comparable to restructuring an industry. Third, Congressional review is built into every tier, with disapproval authority for Tier 3 and affirmative approval required for Tier 2. Fourth, the graduated protection architecture itself demonstrates clear Congressional intent to delegate precisely this scope of authority -- the statute's specificity is evidence of deliberate authorization, not the kind of ambiguous grant the Major Questions Doctrine targets.
+
+### H. Algorithmically Neutral Districting (Title IV, Sections 403, 410)
+
+The Question: Can Congress mandate that congressional district boundaries be determined by algorithmically neutral, deterministic methods, displacing state legislatures and redistricting commissions from the boundary-drawing process for federal elections?
+
+Constitutional Authority:
+
+1. "Manner" includes redistricting methodology: *Arizona State Legislature v. Arizona Independent Redistricting Commission* (2015) directly addressed whether redistricting falls within the Elections Clause's scope. The Court upheld Arizona's transfer of redistricting authority from the legislature to an independent commission, affirming that the method of drawing districts is within the regulatory scope of the Elections Clause. If a state can transfer redistricting to a commission by ballot initiative, Congress can mandate a specific redistricting methodology by statute -- the Elections Clause explicitly grants Congress authority to "alter" state regulations.
+
+2. No constitutional right to human-drawn districts: Nothing in the Constitution requires that district boundaries be drawn by human judgment. The Constitution requires that Representatives be apportioned among states by population and that districts contain substantially equal population. How the lines are drawn within those constraints is a regulatory choice, not a constitutional mandate.
+
+3. The power to mandate single-member districts includes the power to mandate the method of drawing them: Congress exercised Elections Clause authority in the 1967 Uniform Congressional District Act to mandate single-member districts. If Congress can mandate the structure (single-member vs. multi-member), Congress can mandate the method by which boundaries within that structure are determined. The power to prescribe the greater includes the power to prescribe the lesser.
+
+4. Algorithmic neutrality strengthens rather than undermines constitutional values: The Equal Protection Clause prohibits intentional racial discrimination in redistricting (*Shaw v. Reno*, 1993). An algorithm that operates without reference to racial, ethnic, or partisan data cannot engage in intentional discrimination by definition. Algorithmically neutral districting eliminates the constitutional risks that human-drawn maps create -- it is more constitutionally conservative, not less, than the status quo.
+
+Potential Objection: "Redistricting is a 'places' question, not a 'manner' question, and the Elections Clause treats them differently."
+
+Response: The Elections Clause grants Congress authority over "times, places and manner." Even if districting methodology were classified under "places" rather than "manner," Congress retains authority to regulate it -- the clause authorizes Congressional regulation of all three dimensions. The exception in the clause ("except as to the Places of chusing Senators") applies only to Senate elections and only to where voting occurs, not to how district boundaries are drawn for House elections. *Arizona State Legislature* did not distinguish between "places" and "manner" in upholding redistricting reform, treating the methodology of boundary-drawing as within the Elections Clause's general regulatory scope.
+
+Potential Objection: "Mandating a specific algorithm is an unprecedented federal intrusion into state sovereignty over redistricting."
+
+Response: The 1967 Uniform Congressional District Act was precisely such an intrusion -- Congress overrode state choices about district structure for all fifty states. Congressional mandates regarding redistricting criteria, population equality requirements, and VRA compliance standards have been enacted and enforced for decades. Mandating the algorithm by which boundaries are determined is a narrower intervention than mandating the structure of the districts themselves, which Congress has already done. Moreover, the Act preserves state administrative role -- states implement the algorithm and conduct elections within the resulting boundaries.
+
+Independence Protections: Section 410 establishes layered protections ensuring the ESO's districting functions cannot be captured or weaponized. These protections -- executive non-interference, commissioner removal safeguards, budget independence, algorithm integrity requirements, anti-circumvention provisions, and a self-executing default -- are designed to survive judicial scrutiny by ensuring no single point of failure can compromise the neutrality of the boundary-drawing process. The self-executing default (shortest splitline applied by the Clerk of the House if the ESO is incapacitated) ensures that maps are always produced, preventing any actor from blocking redistricting through institutional sabotage.
 
 ---
 
@@ -428,7 +454,7 @@ However, the Elections Clause is explicit, not implied -- unlike agency authorit
 
 ### B. Building the Constitutional Record
 
-The Act's careful construction helps it survive judicial review through explicit constitutional findings (Section 2(a)) establishing Congressional awareness of authority and precedent, severability provisions (multiple titles) ensuring maximum preservation if any part is invalidated, phased implementation (~14-year timeline) demonstrating Congress is not imposing radical change overnight, evidence-based design incorporating best practices from electoral science and international experience, and historical grounding restoring American historical practices rather than importing foreign models.
+The Act's careful construction helps it survive judicial review through explicit constitutional findings (Section 2(a)) establishing Congressional awareness of authority and precedent, severability provisions (multiple titles) ensuring maximum preservation if any part is invalidated, simultaneous integrated launch of electoral reforms with incremental House expansion (~14-year timeline to cube root compliance) demonstrating both decisive implementation and measured institutional adaptation, evidence-based design incorporating best practices from electoral science and international experience, and historical grounding restoring American historical practices rather than importing foreign models.
 
 ### C. The Fallback Position
 
@@ -454,12 +480,13 @@ By conceding the stronger case (party lists likely need amendment), the Act make
 
 The Act rests on solid constitutional foundations:
 
-1. Clear textual authority: The Elections Clause grants Congress power to regulate election "manner," which necessarily includes voting methods and vote allocation formulas
-2. Established precedent: Supreme Court cases recognize comprehensive Congressional authority over federal elections
+1. Clear textual authority: The Elections Clause grants Congress power to regulate election "manner," which necessarily includes voting methods, vote allocation formulas, and the methodology by which district boundaries are determined
+2. Established precedent: Supreme Court cases recognize comprehensive Congressional authority over federal elections, including redistricting methodology
 3. Historical practice: Multi-member districts were used for 178 years without constitutional objection
 4. Statutory precedent: The 1967 ban on multi-member districts was enacted by statute, proving such changes don't require amendment
 5. Electoral science support: Modern understanding of electoral systems shows proportional methods better achieve constitutional goals
 6. Candidate-centered design: The Act maintains direct voter choice of individual representatives, satisfying Article I requirements
+7. Algorithmic neutrality: Deterministic districting that operates without reference to racial, ethnic, or partisan data strengthens rather than undermines constitutional values by eliminating the intentional discrimination risk inherent in human-drawn maps
 
 ### B. Amendment Is Unnecessary and Counterproductive
 
@@ -500,6 +527,10 @@ Multi-Member District Precedent:
 - *Whitcomb v. Chavis*, 403 U.S. 124 (1971)
 - *White v. Regester*, 412 U.S. 755 (1973)
 
+Redistricting Authority:
+
+- *Shaw v. Reno*, 509 U.S. 630 (1993)
+
 Equal Protection / One Person One Vote:
 
 - *Reynolds v. Sims*, 377 U.S. 533 (1964)
@@ -534,22 +565,35 @@ Delegation Doctrine:
 | Unified General Elections | Title IV, Section 404(d) | Elections Clause + preemption authority |
 | Multi-Member Districts | Title IV, Section 402 | Historical practice + 1967 Act repeal authority |
 | STAR-PR Allocation | Title IV, Section 404(g) | Elections Clause ("manner") |
+| Algorithmically Neutral Districting | Title IV, Section 403 | Elections Clause ("manner") + *Arizona State Legislature* |
+| ESO Independence Protections | Title IV, Section 410 | Elections Clause + delegation doctrine + structural safeguards |
 | Electoral Science Office | Title IV, Section 409 | Elections Clause + delegation doctrine |
 | Joint Endorsement Lists | Title II | Elections Clause (ballot format) |
 | FCAO Examinations | Title V | Elections Clause (disclosure) + non-qualifying structure |
 | Federal Ballot Access | Title I | Elections Clause ("manner") |
-| Redistricting Standards | Title IV, Section 403 | Elections Clause + VRA authority |
 
 ---
 
+<!--
 ## Revision History
 
 **Revision 3.0** (Current)
-- Aligned document structure with APAI Document Production Standards Rev 1.4
-- Relocated Revision History from header to footer per Section 1.3
-- Removed non-standard header metadata (Prepared by block, Document Status line)
-- Removed non-standard END OF DOCUMENT footer marker
-- No substantive content changes
+- Updated reference line from Rev 5.0 to Rev 5.2
+- Moved revision history from header to footer per DPS Section 1.3
+- Removed "Document Status: Draft -- Working Document" line per DPS Rev 1.6
+- Standardized attribution to DPS italic format
+- Added Section V.H: Algorithmically Neutral Districting constitutional authority analysis covering Elections Clause basis, no constitutional right to human-drawn districts, power to mandate methodology following from power to mandate structure, algorithmic neutrality as constitutionally conservative; addresses "places" vs. "manner" objection and state sovereignty objection; covers Section 410 independence protections
+- Expanded Section V.G: ESO delegation analysis updated to include districting algorithm certification, magnitude allocation, and VRA compliance adjustment as Tier 3 parameters; added Tier 1 algorithmic neutrality and Tier 2 magnitude range; added districting delegation considerations paragraph addressing the distinction between delegating discretion and delegating formula application; updated Major Questions Doctrine analysis to include algorithmic neutrality
+- Updated Section V.C: Corrected section reference from "Sections 402-403" to "Section 402"; expanded VRA compliance discussion to include minimum boundary adjustment mechanism (Section 403(e)) and Section 410(d) safeguards
+- Updated Section I question presented to include algorithmically neutral districting
+- Updated Section X.B: Replaced "phased implementation" characterization with accurate description of simultaneous electoral reform launch with incremental House expansion
+- Updated Section XI.A conclusion: Added algorithmic neutrality as seventh constitutional foundation
+- Added *Shaw v. Reno* (1993) to Appendix A under new Redistricting Authority category
+- Updated Appendix B: Replaced "Redistricting Standards" row with "Algorithmically Neutral Districting" citing *Arizona State Legislature*; added "ESO Independence Protections" row for Section 410
+- Wrapped revision history in HTML comment block per DPS Rev 2.3, Section 1.4
+- Added "Revision history available in the raw file." note per DPS Section 1.3
+- Added download link per DPS Section 1.9
+- Removed "END OF DOCUMENT" marker
 
 **Revision 2.0**
 - Updated all references for Federal Elections Modernization Act (FEMA) Rev 5.0 branding.
@@ -559,6 +603,7 @@ Delegation Doctrine:
 - Removed stale approval voting contingency reference not present in current legislative text.
 - Corrected all section number cross-references to align with FEMA Rev 5.0 statutory text.
 - Fixed encoding artifacts throughout.
+- Aligned header structure with APAI Document Production Standards Rev 1.3.
 
 **Revision 1.0**
 - Initial version adapted from RCEA Constitutional Authority document.
@@ -570,8 +615,11 @@ Delegation Doctrine:
 - Integrated analysis of 1967 Uniform Congressional District Act repeal authority.
 - Added Voting Rights Act considerations for multi-member districts.
 - Expanded judicial review strategy section.
+-->
 
-> 📄 [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/fema/constitutional-authority-technical-memorandum.md) (opens on GitHub -- click the ⬇ download button)
+*Revision history available in the raw file.*
+
+> [Download this document](https://github.com/albertintech/apai/blob/main/docs/electoral/cmf/fema/constitutional-authority-technical-memorandum.md) (opens on GitHub -- click the download button)
 
 ---
 
