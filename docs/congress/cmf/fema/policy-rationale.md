@@ -14,6 +14,8 @@ America's electoral system is running on outdated machinery. Congress operates w
 
 The question isn't whether constitutional machinery needs updating. The question is whether we modernize it methodically with safeguards and tested methods, or wait for crisis-driven improvisation.
 
+The standard for evaluating any reform proposal is not whether it produces a perfect system. Every electoral mechanism introduces strategic frictions and mathematical tradeoffs. The standard is whether a proposal's documented tradeoffs are less damaging than the documented failures of the system it replaces. That comparative standard -- not idealized models of democracy -- governs every design decision in this document.
+
 The Federal Elections Modernization Act (FEMA) is scheduled maintenance -- nothing more, nothing less. All subsequent references to FEMA use "the Act."
 
 The Act delivers this modernization on a human timescale. Rather than defer reform impacts to a distant 25-year horizon, the accelerated implementation architecture achieves cube root compliance within approximately 14 years -- three presidential terms. Members who vote for the Act will see results during their careers. Voters will experience tangible improvements in representation quality within a single political generation.
@@ -288,6 +290,14 @@ Adding 35 seats per Congress sounds like routine institutional housekeeping, not
 
 **Institutional functionality:** Diluted individual obstruction power, more representative sample of national diversity, stronger organizational capacity, better crisis response capability.
 
+### Expanding Proportional Representation's Geographic Reach
+
+House expansion has a secondary benefit that is often overlooked: it directly reduces the number of states excluded from proportional representation. At the current 435 seats, seven states have a single Representative and several more have only two -- all structurally unable to form multi-member districts. At approximately 720 members, population-based apportionment distributes additional seats, shrinking the number of states stuck in the one- and two-seat categories. More states qualify for multi-member districts, and mid-sized states gain higher magnitudes within the 3-7 range, improving proportionality outcomes across the board.
+
+Even in states that remain at one or two seats after full expansion, voters benefit from STAR voting. STAR is an improvement over plurality in any single-winner context: it captures preference intensity, eliminates the spoiler effect, and ensures the winner has broad support rather than merely plurality support. A Wyoming voter under the Act uses the same ballot interface and benefits from the same voting method improvements as a California voter. The proportional representation dimension is unavailable due to constitutional geography, but the voting method dimension is universal.
+
+The geographic inequality is real and irreducible absent a constitutional amendment changing how Representatives are allocated. The honest framing is that an imperfect proportional system covering the vast majority of House seats is superior to a system where every seat is elected winner-take-all.
+
 ---
 
 ## VI. TITLE IV: VOTING METHODS AND DISTRICT STRUCTURES
@@ -312,11 +322,23 @@ Multi-member congressional districts have 178 years of American precedent (1789-
 
 **Critical distinction:** This is not European-style party-list voting. Voters choose individual candidates directly, as they always have. The allocation method simply ensures geometric districting can't distort outcomes regardless of which party controls redistricting.
 
+### The Accountability Question
+
+The instinctive objection to multi-member districts is "who's my representative?" This objection treats the post-1967 single-member district as though it were a founding principle of American representation. It is not. Multi-member congressional districts were the norm from 1789 through 1967. The Uniform Congressional District Act of 1967 mandated single-member districts not because of accountability concerns but to prevent Southern states from using winner-take-all at-large elections to dilute Black voting power after the Voting Rights Act. The "accountability" framing is a post-hoc rationalization that assigns foundational status to a 58-year-old statutory choice made for entirely different reasons.
+
+The substantive version of the concern -- that constituents need a clear point of contact for casework and advocacy -- is addressed by House expansion. At approximately 720 members, Representatives in multi-member districts serve smaller populations per member than current single-member district Representatives do, even though the geographic district is larger. The "who do I call about my pothole?" framing conflates federal representation with municipal service delivery. Federal Representatives are legislators. Potholes, zoning, and local infrastructure are the province of city councils, county boards, and state legislatures.
+
+To the extent that constituent casework has become a dominant House function -- VA claims, Social Security disputes, immigration cases -- this reflects an undersized House where members are spread too thin to legislate effectively, not evidence that single-member districts produce superior service. Under multi-member districts, constituent casework becomes shared and competitive: multiple Representatives serve the same geography, and constituents can approach whichever member is most responsive or most aligned with their concern. This is an improvement over the current monopoly model, where a single unresponsive Representative faces no within-district competition for casework.
+
 ### STAR-PR: Proportional Allocation Without Party Lists
 
 STAR Proportional Representation (STAR-PR, also known as Allocated Score) extends STAR voting to multi-seat districts: Voters score all candidates 0-5 stars, seats allocated proportionally to voter support, sequential allocation ensures proportionality while maintaining candidate-centered voting, 20% voter support yields roughly 20% of seats, geographic manipulation becomes mathematically ineffective.
 
 **Example:** Five-seat district using STAR-PR -- candidates appear on ballot, voters score each candidate 0-5 stars, system allocates seats proportionally based on scores. Result: Seat shares reflect vote shares (unlike winner-take-all).
+
+### The Policy Congruence Case
+
+The mechanical description of proportional allocation -- 20% support yields roughly 20% of seats -- understates the payoff. Comparative research consistently finds that proportional representation systems produce better policy congruence: closer alignment between what voters want and what the legislature produces. This is the core empirical case for proportional representation, and it applies directly to the Act's architecture. When legislative seat shares reflect the actual distribution of voter preferences rather than the geographic distribution of partisan majorities, legislative outputs track public preferences more accurately. The result is not merely fairer counting -- it is better governance as measured by the gap between voter preferences and policy outcomes.
 
 ### Single Implementation: All Qualifying States at the First FEMA Election
 
@@ -362,6 +384,14 @@ The Act establishes a deterministic preference ordering for district magnitudes:
 
 The preference ordering is classified as a Tier 3 adjustable parameter -- the ESO may modify it based on accumulated implementation evidence, subject to Congressional disapproval authority.
 
+### Coalition Governance in a Multi-Party House
+
+The question any proportional representation proposal must answer is what happens to legislative functionality when more than two parties hold seats. The concern has force in parliamentary systems where coalition collapse brings down the government and triggers snap elections. It does not carry the same weight in the American institutional context. A multi-party House does not need to form a coalition government -- it needs to pass legislation. A failed bill is not a constitutional crisis; it is the current baseline. The distinction between cabinet instability and legislative gridlock is decisive: the worst-case fragmentation scenario in a presidential system is the status quo.
+
+The transition to multi-party representation is also unlikely to resemble the overnight fragmentation that critics envision. The two major parties possess overwhelming first-mover advantages -- existing donor networks, brand recognition, ballot access infrastructure, institutional knowledge. The Act's federal party recognition standards (Title II, Section 201) require 5% support in at least 15 states or 100,000 dues-paying members across 25 states, ensuring new parties demonstrate genuine national viability before receiving federal recognition. The Joint Endorsement List system further moderates the transition: minor parties gain relevance first through endorsement power -- signaling to voters which major-party candidates share their priorities -- before they gain it through independent seat-winning. The likely trajectory is gradual emergence of third-party representation in districts where concentrated support crosses the effective threshold, not a sudden fragmentation event.
+
+Most importantly, the critique compares a hypothetical multi-party House to an idealized functioning legislature rather than to the actual status quo. The 118th and 119th Congresses have demonstrated that a single member can vacate the Speaker, that the majority party governs through procedural strangleholds rather than deliberation, and that the minority has no meaningful legislative role. Tiny factions already wield disproportionate veto power -- but without the transparency that formal party labels and published coalition structures would provide. The Act does not introduce faction dynamics into Congress; it makes existing faction dynamics visible and accountable. The expanded House (~720 members) further dilutes the veto power of any individual member or small faction.
+
 ### Built-In Maintenance: The Electoral Science Office
 
 Just as the Act treats institutional modernization as scheduled maintenance, it also builds in a maintenance mechanism for the voting methods and districting processes themselves. Section 409 establishes the Electoral Science Office (ESO) as an independent agency responsible for ongoing evaluation of STAR and STAR-PR performance, as well as certification, evaluation, and maintenance of the districting algorithm.
@@ -401,6 +431,8 @@ The Act establishes single general elections as the universal standard for all f
 **Operational benefits:** Higher turnout (general elections consistently outperform primaries); all voters participate regardless of party registration; all qualified candidates appear on November ballot; reduced election administration complexity.
 
 **Letting STAR do the work:** STAR voting's scoring mechanism ensures winners have broad support -- the primary's traditional filtering function is redundant. Voters express meaningful preferences across any reasonable candidate field through 0-5 scoring, and the automatic runoff ensures the winner has majority preference between the top two. This eliminates the historical justification for primaries without sacrificing electoral quality.
+
+**The logical endpoint of primary reform:** The primary reform literature inadvertently makes the strongest case for elimination. Research by Nolan McCarty and others finds that changes to primary election rules -- open vs. closed, partisan vs. nonpartisan blanket -- have little to no effect on the ideological positions of elected officials. Party elites, activists, and donors control the candidate pool upstream of the primary, and primary voters tend to be ideologically motivated regardless of primary type. If the empirical evidence shows that optimizing primary parameters does not moderate outcomes because the primary itself is the structural bottleneck, and if the normative argument for opening primaries is that state-funded election infrastructure should serve all voters, then eliminating state-administered primaries entirely is the logical conclusion of both the empirical and normative arguments. The Act arrives at this conclusion directly.
 
 **Consistency of voter experience:** Every federal election works the same way: show up in November, score candidates, done. No registration games, no low-turnout summer primaries that disproportionately empower activated partisans, no two-election cognitive overhead. A voter moving between states encounters identical federal election procedures.
 
@@ -698,6 +730,10 @@ The Act addresses these vulnerabilities through coordinated reforms:
 
 **Transparent competency information:** FCAO examinations provide voters with objective data without creating qualification barriers.
 
+### Structural Inclusion and Legitimacy
+
+The status quo's vulnerabilities are not only operational. They produce a legitimacy problem that compounds over time. When geographic sorting means that urban Republicans and rural Democrats are systematically unrepresented -- when millions of voters perceive the system as structurally incapable of translating their preferences into representation -- the incentive to pursue extra-institutional channels increases. The comparative politics literature consistently finds that proportional representation systems are associated with lower levels of political violence and higher levels of perceived legitimacy among populations that would otherwise be locked out. The mechanism is structural: when groups have a viable path to electing representatives, the pressure to seek influence outside the system diminishes. In the current American context, where the legitimacy crisis is documented and its consequences are visible, the conflict-reduction benefits of proportional representation are not abstract comparative politics. They address a condition that is already producing real-world costs.
+
 ### Risk Reduction Through Modernization
 
 The status quo creates increasing vulnerability: population growth continues while House size remains frozen; geographic sorting intensifies winner-take-all distortions; litigation over ballot access and redistricting consumes resources; legislative branch talent increasingly uncompetitive with executive and private sectors.
@@ -772,6 +808,8 @@ Each reform fought separately means:
 ### Integrated Reform on a Human Timescale
 
 The Act takes the opposite approach: Fix everything that needs fixing in one coordinated effort, then get back to the People's Business.
+
+The distinction matters because "comprehensive" and "comprehensive systematic" describe fundamentally different approaches. A comprehensive proposal bundles several fixes into one package. A comprehensive systematic proposal engineers its components as an integrated system where removing any major element degrades the others. The Act is the latter. STAR voting without multi-member districts changes the counting method but not the representational geometry. Multi-member districts without House expansion leave too few states qualifying for meaningful district magnitudes. House expansion without proportional allocation reproduces all systemic distortions at larger scale. Algorithmically neutral districting without proportional representation restores the stakes of boundary placement that proportional allocation renders irrelevant. Each component depends on the others to produce the intended result. This is not a design preference -- it is the reason the Act requires simultaneous integrated launch.
 
 **One legislative battle** instead of five serial campaigns stretching over decades.
 
@@ -900,7 +938,17 @@ Supreme Court interpretation confirms this grants Congress plenary power over fe
 <!--
 ## Revision History
 
-**Revision 5.2** (Current)
+**Revision 5.3** (Current)
+- Added comparative evaluation standard ("Reform for Realists" framework) to Executive Overview establishing that documented tradeoffs are evaluated against documented failures of the status quo
+- Added "The Policy Congruence Case" subsection to Section VI: policy congruence research as the empirical payoff of proportional representation
+- Added "The Accountability Question" subsection to Section VI: historical origin of single-member district mandate, competitive casework model under multi-member districts, federal/municipal service distinction
+- Added "Coalition Governance in a Multi-Party House" subsection to Section VI: parliamentary/presidential distinction, gradual transition trajectory, existing invisible faction dynamics made transparent through JELs
+- Added primary reform literature argument to UGES discussion (Section VI): McCarty findings on primary rule ineffectiveness as affirmative case for elimination
+- Added "Expanding Proportional Representation's Geographic Reach" subsection to Section V: House expansion reduces states excluded from MMDs; STAR provides universal voting method improvement; honest acknowledgment of irreducible geographic inequality
+- Added "Structural Inclusion and Legitimacy" subsection to Section XI: comparative evidence on PR systems, perceived legitimacy, and conflict reduction; application to current American legitimacy crisis
+- Strengthened Section XIII "Integrated Reform on a Human Timescale" with principled distinction between comprehensive (bundled fixes) and comprehensive systematic (engineered interdependent components)
+
+**Revision 5.2**
 - Updated reference line from Rev 5.0 to Rev 5.2
 - Replaced "Phased Implementation Within Accelerated Timeline" subsection (former Section VI) with "Single Implementation" rationale: all qualifying states at the First FEMA Election; eliminated five-cycle phase-in schedule (25%/50%/75%/90%/100%), transition cycle references, and Section 605 incumbent protection references
 - Added "Algorithmically Neutral Districting" subsection explaining ESO-certified algorithms, shortest splitline default, mutual reinforcement with STAR-PR, and elimination of human discretion from boundary placement
