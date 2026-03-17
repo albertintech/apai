@@ -38,7 +38,7 @@ The Framework combines two coordinated components:
 - Supreme Court nomination consideration deadlines
 - Phased authority model with acceleration triggers responsive to multi-party conditions
 
-[Learn more about the Congressional Modernization Framework](electoral/cmf/introduction.md)
+[Learn more about the Congressional Modernization Framework](congress/cmf/introduction.md)
 
 ---
 
@@ -54,7 +54,7 @@ The Compact combines three components designed to function independently while i
 
 - **Secure Our Children Act (SOCA)** — Permanent expanded Child Tax Credit at $3,600/$3,000 per child, with monthly payments, dedicated funding through the Child Security Contribution, and automatic stabilization mechanisms.
 
-[Learn more about the American Shared Prosperity Compact](economic/aspc/introduction.md)
+[Learn more about the American Shared Prosperity Compact](aspc/introduction.md)
 
 ---
 
@@ -95,7 +95,7 @@ The Act replaces this cycle with professional infrastructure across nine titles:
 - Competitive compensation ($150K–$280K for senior positions) with enhanced retirement and professional development
 - Structured severability ensuring the Act degrades gracefully under constitutional challenge
 
-[Learn more about the Civil Service Accountability Act](civil-service/csaa/introduction.md)
+[Learn more about the Civil Service Accountability Act](executive/csaa/introduction.md)
 
 ---
 
@@ -105,11 +105,11 @@ The Act replaces this cycle with professional infrastructure across nine titles:
 
 **Congressional Capacity Commission Act (CCC)** — Establishes an independent commission to assess congressional institutional capacity and recommend investments in staff, technology, and expertise. Congress has experienced significant capacity erosion relative to the executive branch it oversees.
 
-[Learn more](electoral/ccc/introduction.md)
+[Learn more](congress/ccc/introduction.md)
 
 **Candidate Verification and Transparency Act (CVTA)** — Creates standardized verification processes for federal candidates, ensuring biographical claims are confirmed through systematic procedures rather than adversarial discovery.
 
-[Learn more](electoral/cvta/introduction.md)
+[Learn more](congress/cvta/introduction.md)
 
 ---
 
