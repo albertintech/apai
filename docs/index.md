@@ -20,9 +20,11 @@ The Framework combines two coordinated components:
 
 - STAR voting for all federal elections
 - Multi-member districts with proportional representation for House elections
+- Algorithmically neutral, deterministic districting eliminating human discretion from boundary placement
+- Unified General Election Structure eliminating state-administered primaries for federal offices
 - House expansion toward cube root compliance
 - Uniform ballot access standards and federal party recognition
-- Non-qualifying candidate assessment examinations
+- Non-qualifying federal office examinations providing voter transparency
 - Enhanced congressional resources and incentives
 - Tiered implementation delivering results from day 1 of passage
 
@@ -36,7 +38,7 @@ The Framework combines two coordinated components:
 - Supreme Court nomination consideration deadlines
 - Phased authority model with acceleration triggers responsive to multi-party conditions
 
-[Learn more about the Congressional Modernization Framework](congress/cmf/introduction.md)
+[Learn more about the Congressional Modernization Framework](electoral/cmf/introduction.md)
 
 ---
 
@@ -52,7 +54,7 @@ The Compact combines three components designed to function independently while i
 
 - **Secure Our Children Act (SOCA)** — Permanent expanded Child Tax Credit at $3,600/$3,000 per child, with monthly payments, dedicated funding through the Child Security Contribution, and automatic stabilization mechanisms.
 
-[Learn more about the American Shared Prosperity Compact](aspc/ASPC-Rev-5-3-Introduction.md)
+[Learn more about the American Shared Prosperity Compact](economic/aspc/introduction.md)
 
 ---
 
@@ -74,7 +76,7 @@ The Act addresses these interconnected problems through five integrated titles:
 
 - **Title V: Judicial Ethics and Accountability** — Binding ethical standards enforced through a Judicial Inspector General and Ethics Review Panel composed of Senior Justices, with graduated sanctions including mandatory early transition to senior status.
 
-[Learn more about the Federal Judicial Balance and Accountability Act](judiciary/fjbaa/FJBAA-Rev-2-2-Introduction.md)
+[Learn more about the Federal Judicial Balance and Accountability Act](judiciary/fjbaa/introduction.md)
 
 ---
 
@@ -93,7 +95,7 @@ The Act replaces this cycle with professional infrastructure across nine titles:
 - Competitive compensation ($150K–$280K for senior positions) with enhanced retirement and professional development
 - Structured severability ensuring the Act degrades gracefully under constitutional challenge
 
-[Learn more about the Civil Service Accountability Act](executive/csaa/CSAA-Rev-1-3-Introduction.md)
+[Learn more about the Civil Service Accountability Act](civil-service/csaa/introduction.md)
 
 ---
 
@@ -103,11 +105,11 @@ The Act replaces this cycle with professional infrastructure across nine titles:
 
 **Congressional Capacity Commission Act (CCC)** — Establishes an independent commission to assess congressional institutional capacity and recommend investments in staff, technology, and expertise. Congress has experienced significant capacity erosion relative to the executive branch it oversees.
 
-[Learn more](congress/ccc/introduction.md)
+[Learn more](electoral/ccc/introduction.md)
 
 **Candidate Verification and Transparency Act (CVTA)** — Creates standardized verification processes for federal candidates, ensuring biographical claims are confirmed through systematic procedures rather than adversarial discovery.
 
-[Learn more](congress/cvta/CVTA-Rev-1-2-Introduction.md)
+[Learn more](electoral/cvta/introduction.md)
 
 ---
 
