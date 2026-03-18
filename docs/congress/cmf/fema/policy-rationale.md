@@ -4,7 +4,7 @@
 
 ### Published March 2026
 
-Based on Rev 5.2 of the Federal Elections Modernization Act
+Based on Rev 5.3 of the Federal Elections Modernization Act
 
 ---
 
@@ -274,13 +274,11 @@ Adding 35 seats per Congress sounds like routine institutional housekeeping, not
 
 **No member loses their seat:** Expansion occurs through apportionment increases, not redistricting displacement. Every current member retains their district. New seats come from states gaining population.
 
-**Cheaper than executive branch expansion:** Each Representative costs approximately $2.5 million annually (salary + MRA + benefits). Equivalent executive branch capacity -- political appointees with agency staff infrastructure -- costs $5-10 million per unit. The executive branch maintains roughly 4,000 political appointments, most of which turn over with each administration, generating recurring onboarding costs, institutional knowledge loss, and performance degradation. Expanding the House by 285 seats to cube root compliance costs less annually than the institutional overhead of the executive branch's political appointee layer. The question is not whether representative capacity is expensive -- it is whether we are investing in the right branch.
-
-**The "deliberative body" objection is a category error:** The claim that a larger House would be less deliberative confuses two distinct variables: chamber size and procedural design. How the House conducts its business -- committee structure, floor procedure, amendment rules, debate allocation -- is categorically separate from how many members it has. A well-designed procedural framework can scale; a poorly-designed one cannot, but the failure is procedural, not numerical. The current 435-member House struggles with deliberative quality not because it is too large but because its procedural architecture concentrates power in leadership while marginalizing rank-and-file members. Blaming size for procedural dysfunction is an argument for House procedural reform, not for maintaining a frozen membership. Peer democracies operate functional, productive legislatures with larger chambers: Germany's Bundestag operates with over 700 members serving approximately 84.5 million people; the United Kingdom's House of Commons has 650 members; Japan's House of Representatives has 465. None of these bodies have collapsed under the weight of their membership. Their procedural designs accommodate their size.
+**Cheaper than executive branch expansion:** Expanding House capacity costs significantly less than equivalent executive branch expansion. Each Representative costs roughly $2-3 million annually (salary + staff + MRA). Equivalent executive branch capacity (political appointees + staff) costs $5-10 million per unit.
 
 **No sudden power concentration:** Expansion dilutes individual member obstruction power toward founders' design without concentrating authority in leadership positions.
 
-**Integrated with electoral reform:** Unlike previous expansion proposals, the Act ensures the new seats are filled through the new electoral system (STAR-PR in multi-member districts), not replicated dysfunction. A 720-member House elected under winner-take-all plurality would simply reproduce existing distortions at larger scale. The Act's integrated architecture ensures expansion creates a different Congress, not merely a bigger one.
+**Integrated with electoral reform:** Unlike previous expansion proposals, the Act ensures the new seats are filled through the new electoral system (STAR-PR in multi-member districts), not replicated dysfunction.
 
 ### Operational Benefits
 
@@ -466,6 +464,18 @@ FCAO requires 36-42 months for proper exam development, pilot testing, and valid
 **First FEMA Election exemption:** No candidate is required to complete an FCAO examination for the First FEMA Election. Ballots for the First FEMA Election do not include FCAO score designations.
 
 This decoupling ensures FCAO development delays cannot hold up core electoral reforms while maintaining the exam validation standards necessary for legal defensibility.
+
+### Professional Recertification Principle
+
+The Act establishes a 10-year validity period for FCAO examination scores (Section 501(f)). After 10 years, scores expire and candidates must complete a new examination to appear on the ballot. This applies the same professional recertification logic that governs every other credentialed profession in American life.
+
+Physicians who fail to complete continuing medical education and board recertification lose their license to practice. Attorneys who miss continuing legal education requirements have their bar status suspended -- they cannot represent clients or appear in court. CPAs who do not complete continuing professional education lose their active license and cannot sign audits. Engineers, nurses, pharmacists, and architects face the same consequence across the board: failure to recertify means functional removal from practice, not a footnote on your credentials.
+
+If Congress is a professional institution -- and the Act's entire Title V architecture treats it as one -- then the recertification principle follows naturally. A score earned on an examination that has undergone multiple biennial revision cycles (Section 501(c)(4)) may no longer reflect current content domains. The knowledge base for federal governance is not static. Fiscal frameworks evolve, regulatory structures change, and constitutional jurisprudence develops. A decade-old assessment cannot credibly serve the transparency function that justifies the examination requirement in the first place.
+
+The 10-year validity period is architecturally consistent with the existing 10-year window for former officeholder exemptions (Section 501(g)(2)), creating a single temporal constant across Title V rather than competing timelines. Incumbent officeholders exempt under Section 501(g)(1) are not subject to score expiration during their current term of service, preventing any mid-service disruption. FCAO provides 12-month advance notification before expiration, consistent with the advance notice periods standard in professional licensing renewal systems.
+
+Critically, the validity period does not alter the non-qualifying principle. Expiration resets the participation requirement -- the obligation to sit for the examination established in Section 501(a) -- not a score threshold. A candidate whose score has expired must take the exam again, but can still score 0% and appear on the ballot. The gate is current engagement with the assessment process, not demonstrated proficiency. This is the same distinction that applies to every professional recertification: the requirement is that you complete the process, demonstrating continued engagement with the field's current knowledge base.
 
 ---
 
@@ -720,74 +730,6 @@ The Act requires substantial initial investment:
 
 **Annual ongoing costs (full implementation):** Approximately $362M (including ESO operational budget)
 
-### The Fiscal Context: What These Numbers Actually Mean
-
-Cost figures presented without context are meaningless. The Act's annual ongoing cost of $362M must be measured against the scale of the federal budget it serves.
-
-**As a share of federal spending:** Total federal outlays exceed $6.8 trillion annually. The Act's ongoing costs represent approximately 0.005% of total federal spending. The initial five-year investment of $1.5-2B represents approximately 0.006% of spending over the same period.
-
-**As a share of legislative branch spending:** The entire legislative branch -- both chambers, plus the GAO, Capitol Police, Library of Congress, Congressional Budget Office, and the Architect of the Capitol -- operates on approximately $5.5 billion in annual discretionary funding. The Act's ongoing costs represent an approximately 6.6% increase to the legislative branch budget, phased over 14 years.
-
-**As a per-taxpayer figure:** Distributed across approximately 150 million individual income tax returns, the Act's annual ongoing cost equals roughly $2.41 per taxpayer per year at full implementation.
-
-### Inter-Branch Investment Asymmetry
-
-The cost objection to legislative branch expansion assumes the legislative branch is adequately resourced. It is not. A comparison across the three branches reveals a structural investment asymmetry that compromises Congress's constitutional function.
-
-**Personnel:** The executive branch employs approximately 2.24 million civilian full-time equivalent workers. The entire legislative branch, including all support agencies, employs approximately 33,000. This is a 67-to-1 ratio. Congress is tasked with overseeing a workforce nearly 70 times its own size.
-
-**Budget authority:** The legislative branch's total annual budget authority is approximately $5.5 billion. For comparison, the Department of the Interior alone -- one of fourteen cabinet departments -- commands approximately $14.4 billion. The Department of Labor, typically the smallest major cabinet department, still operates at more than double the entire legislative branch budget. The judicial branch, with comparable personnel numbers to the legislature, requests $9.4 billion annually -- 70% more than the entire legislative branch.
-
-**Oversight capacity implications:** This asymmetry forces the legislative branch to rely on executive branch data and executive branch experts when conducting oversight of the executive branch. The Congressional Research Service -- Congress's primary internal research arm -- operates on $133.6 million with roughly 600 expert staff handling over 76,000 congressional requests annually. This is remarkable productivity, but it reflects a branch operating at the limits of its capacity. The Government Accountability Office, Congress's investigative arm, operates on approximately $897 million. Combined, these agencies represent the legislature's primary oversight infrastructure -- and their combined budgets equal roughly one-twentieth of a single cabinet department.
-
-**The investment question reframed:** When a fiscal conservative objects that expanding the House is "too expensive," the appropriate response is not to defend the cost in isolation but to ask why the oversight branch -- the branch constitutionally responsible for the power of the purse -- operates at a fraction of the budget of the entities it oversees. Investing $362M annually to expand House capacity is not "expanding government." It is investing in the branch of government that controls all other spending.
-
-### Peer Democracy Benchmarking
-
-International comparison reveals that the United States operates one of the leanest legislatures in the developed world, both in absolute membership and as a share of national spending.
-
-| Country | Lower House Size | Approx. Legislative Budget (USD PPP) | Budget as % of National Spending | Constituent Ratio |
-|---------|-----------------|--------------------------------------|----------------------------------|-------------------|
-| United States | 435 | ~$5.5B | ~0.08% | ~760,000:1 |
-| Germany | ~736 | ~$1.24B | ~0.24% | ~115,000:1 |
-| Japan | 465 | ~$1.15B | ~0.10% | ~267,000:1 |
-| Canada | 338 | ~$560M | ~0.13% | ~113,000:1 |
-| United Kingdom | 650 | -- | -- | ~103,000:1 |
-
-Germany allocates three times the U.S. proportion of federal spending to its legislature and operates a functional, productive democracy with a Bundestag of over 700 members. Even after full implementation of House expansion under the Act, the United States would remain below Germany's proportional investment in legislative capacity.
-
-The constituent ratio comparison is equally instructive. At 760,000 constituents per Representative, the United States is six to seven times above the ratios maintained by peer democracies. At cube root compliance (~720 members), the ratio falls to approximately 465,000:1 -- still higher than any peer in the table, but within a range where meaningful constituent service and legislative responsiveness become structurally possible.
-
-No peer democracy has found that a legislature of 600-750 members is too large to function as a deliberative body. These nations pass budgets, conduct oversight, form governments, and manage complex policy agendas with chambers equal to or larger than what the Act proposes.
-
-### The Executive Branch Cost Asymmetry
-
-The executive branch maintains approximately 4,000 political appointments -- positions filled not on the basis of professional qualification but on the basis of presidential selection. These positions turn over with each administration, creating recurring costs that dwarf the incremental investment required for House expansion.
-
-**Direct cost comparison:** Each House member costs approximately $2.5 million annually (salary, MRA, and benefits). Executive branch political appointees at the Senior Executive Service level and above, with associated agency staff infrastructure, security, and institutional overhead, cost $5-10 million per unit.
-
-**Institutional overhead costs:** Political appointee turnover generates costs that do not appear in line-item budgets: onboarding and security clearance processing for incoming appointees, institutional knowledge loss when experienced leaders depart, performance degradation during transition periods, and the organizational disruption of wholesale leadership replacement across dozens of agencies every four years. Research on federal management performance consistently finds that programs led by political appointees perform less effectively than those led by career professionals, and that frequent executive turnover compounds the problem.
-
-**The scale comparison:** Expanding the House by 285 seats to cube root compliance adds approximately $713M in annual operating costs. The executive branch's 4,000 political appointments, at a conservative $5M per unit including institutional overhead, represent roughly $20 billion in annual cost -- more than 25 times the total ongoing cost of full House expansion. Yet no fiscal conservative objects to the executive branch's political appointee layer as "expanding the federal government." The objection is reserved exclusively for the branch that the Constitution empowers to oversee all other spending.
-
-**Other developed democracies maintain between a few dozen and a few hundred political appointments.** The United States is a dramatic outlier. Investing in the legislative branch's capacity to oversee this unusually large executive apparatus is not a luxury -- it is a constitutional necessity.
-
-### Marginal Cost Per Seat
-
-The estimated marginal operational cost of each additional House seat is approximately $2.5 million per year, comprising:
-
-- Member salary: $174,000
-- Average MRA (estimated for 2025): ~$1.94 million
-- Personnel benefits and indirect costs: ~$400,000
-
-Under the Act's expansion schedule, costs phase in gradually. At the First FEMA Election (initial expansion to 510 seats), the marginal cost is approximately $188M for 75 new seats. At full cube root compliance (~720 seats), the marginal cost reaches approximately $713M annually for 285 seats above the current cap. The phased 14-year timeline -- adding 35 seats biennially -- ensures that infrastructure investment and administrative adjustment proceed incrementally rather than in a single disruptive expansion.
-
-### Capital Expenditure Considerations
-
-The existing Capitol Hill infrastructure will require renovation and expansion to accommodate a larger House. The Act addresses this directly: Section 302 mandates that the Architect of the Capitol develop plans for chamber expansion to accommodate 750 members, with construction completed incrementally as biennial expansions require additional capacity and fully completed to cube root capacity within 14 years of enactment. Section 302(d) mandates a joint GAO/CBO comprehensive report analyzing capital improvement costs within 180 days of enactment.
-
-Context matters here as well. The Architect of the Capitol already operates on a budget exceeding $750 million annually for maintenance and renovation of existing facilities. The Cannon House Office Building restoration, currently underway, demonstrates that significant capital investment in Capitol infrastructure occurs regardless of House size. Adding 35 seats per Congress -- the equivalent of one medium office floor every two years -- is an incremental expansion layered onto an already-substantial infrastructure maintenance program, not a standalone construction project requiring a new building to be erected overnight.
-
 ### Offsetting Savings and Economic Value
 
 **Administrative efficiency gains:** Primary elimination in multi-member districts saves states millions annually in duplicate election infrastructure; standardized ballot access reduces litigation costs; algorithmically neutral districting eliminates redistricting litigation; fewer boundary challenges reduce legal expenses; better legislative efficiency reduces economic costs of dysfunction.
@@ -797,8 +739,6 @@ Context matters here as well. The Architect of the Capitol already operates on a
 **Economic growth effects:** Functional governance reduces uncertainty and improves business climate; better representation improves policy responsiveness to economic conditions; reduced gridlock enables timely response to economic challenges.
 
 **Long-term institutional value:** Sustainable representation ratios prevent future crisis; durable electoral infrastructure reduces ongoing reform costs; institutional stability improves long-term planning capability.
-
-**Oversight return on investment:** Congressional oversight agencies demonstrate extraordinary efficiency. The GAO consistently reports that its work produces returns exceeding $100 for every $1 invested, through identifying waste, fraud, and abuse in federal programs. The Congressional Research Service's 600 experts handle over 76,000 requests annually on a $133.6 million budget. A better-resourced Congress generates returns that substantially exceed its cost by improving the quality of oversight over trillions in executive branch spending.
 
 ---
 
@@ -973,9 +913,8 @@ Supreme Court interpretation confirms this grants Congress plenary power over fe
 ## Revision History
 
 **Revision 5.3** (Current)
-- Expanded Section V "Critical Protections Against Expansion Concerns": added fiscal data to executive branch cost comparison ($2.5M per seat vs. $5-10M per political appointee); added "deliberative body objection is a category error" subsection with peer democracy examples (Germany, UK, Japan) and procedural reform argument; expanded integration argument noting that expansion without electoral reform reproduces dysfunction at larger scale
-- Major expansion of Section XII "Implementation Cost-Benefit Analysis": added "The Fiscal Context" subsection (costs as share of federal budget, legislative branch budget, and per-taxpayer figure); added "Inter-Branch Investment Asymmetry" subsection (67-to-1 personnel ratio, department-level budget comparisons, oversight capacity implications); added "Peer Democracy Benchmarking" subsection with five-country comparison table (U.S., Germany, Japan, Canada, UK) covering legislature size, budget, budget share, and constituent ratios; added "The Executive Branch Cost Asymmetry" subsection (4,000 political appointments, cost per unit, institutional overhead, scale comparison to House expansion); added "Marginal Cost Per Seat" subsection with component breakdown and phased cost projections; added "Capital Expenditure Considerations" subsection contextualizing infrastructure costs against existing AOC budget and Section 302 provisions; expanded "Offsetting Savings" with GAO and CRS oversight ROI data
-- Corrected download link path from `electoral/cmf/fema/` to `congress/cmf/fema/` per DPS Rev 2.4 directory structure
+- Updated reference line from Rev 5.2 to Rev 5.3
+- Added "Professional Recertification Principle" subsection to Section VII (Title V): 10-year score validity period rationale, professional licensing parallel (physicians, attorneys, CPAs, engineers), examination evolution argument, temporal consistency with former officeholder exemption window, architectural consistency with non-qualifying principle (expiration resets participation requirement, not score threshold), mid-service protection for incumbents, advance notification provision
 
 **Revision 5.2**
 - Updated reference line from Rev 5.0 to Rev 5.2
@@ -1071,7 +1010,7 @@ Supreme Court interpretation confirms this grants Congress plenary power over fe
 
 *Revision history available in the raw file.*
 
-> [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/fema/policy-rationale.md) (opens on GitHub -- click the download button)
+> [Download this document](https://github.com/albertintech/apai/blob/main/docs/electoral/cmf/fema/policy-rationale.md) (opens on GitHub -- click the download button)
 
 ---
 
