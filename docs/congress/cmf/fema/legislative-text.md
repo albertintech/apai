@@ -2,7 +2,7 @@
 
 ## An Electoral and Congressional Modernization Framework for a Stronger Republic
 
-### Revision 5.2
+### Revision 5.3
 
 ---
 
@@ -1493,7 +1493,17 @@ Examinations shall be reviewed and updated biennially to ensure accuracy, releva
 4. States may not obscure, minimize, or remove score disclosures;
 5. FCAO shall maintain a public database of all candidate scores accessible by office, election cycle, and candidate name.
 
-#### (f) Exemptions
+#### (f) Score Validity Period
+
+1. FCAO examination scores remain valid for 10 years from the date of examination;
+2. After the 10-year validity period, scores expire and may no longer be used for ballot disclosure purposes;
+3. Candidates whose scores have expired must complete a new examination under current procedures to satisfy the examination requirement established in subsection (a);
+4. The highest-score reporting rule established in Section 503(b)(2) applies only among scores within their respective validity periods; expired scores are not eligible for comparison or reporting;
+5. FCAO shall notify candidates whose scores will expire within 12 months of an upcoming general election, at the contact information on file, to allow adequate preparation time;
+6. The 10-year validity period aligns with and does not alter the exemption window for former officeholders established in subsection (g)(2);
+7. Incumbent officeholders exempt under subsection (g)(1) are not subject to score expiration during their current term of service; expiration applies upon seeking office after leaving their current position.
+
+#### (g) Exemptions
 
 The following candidates are exempt from FCAO examination requirements:
 
@@ -1505,18 +1515,18 @@ Exempt candidates may voluntarily complete FCAO examinations and disclose scores
 - "Senate FCAO Score: Exempt (Current Senator)" or "Exempt (Former Senator)"
 - "Presidential FCAO Score: Exempt (Current President)" or "Exempt (Former President)"
 
-#### (g) Constitutional Authority
+#### (h) Constitutional Authority
 
 This requirement is authorized under the Elections Clause (Article I, Section 4, Clause 1) as a regulation of the "manner of holding elections." The requirement is a disclosure mandate, not a qualification beyond those specified in the Constitution (age, citizenship, residency). FCAO examinations provide transparency tools enabling informed voter decision-making without restricting ballot access or democratic choice.
 
-#### (h) Implementation Timeline
+#### (i) Implementation Timeline
 
 1. FCAO shall develop initial examinations within 18 months of enactment according to procedures established in Sections 502-503;
 2. A public comment period of 90 days shall precede final examination approval;
 3. Practice examinations and study materials shall be publicly available at least 12 months before examinations become mandatory for ballot access;
 4. This section takes effect as of the Second FEMA Election, as provided in Section 505.
 
-#### (i) Relationship to Other Requirements
+#### (j) Relationship to Other Requirements
 
 FCAO examination requirements are independent of and in addition to all other ballot access requirements in Title I. Candidates must satisfy both Title I requirements and Title V requirements to achieve ballot access.
 
@@ -1925,7 +1935,7 @@ Contracts with testing organizations shall specify:
 
 **(2) Highest Score Reporting**
 
-1. When candidates take examinations multiple times, only the **highest score** achieved across all attempts shall be the official score reported and disclosed;
+1. When candidates take examinations multiple times, only the **highest score** achieved across all attempts shall be the official score reported and disclosed, subject to the score validity period established in Section 501(f);
 
 2. All previous lower scores are superseded and shall not be disclosed publicly, to election officials, to state authorities, in official databases, or in any official capacity;
 
@@ -3591,7 +3601,14 @@ through the processes established in Section 409(h).
 <!--
 ## Revision History
 
-**Revision 5.2** (Current)
+**Revision 5.3** (Current)
+
+- Added Section 501(f) Score Validity Period: 10-year expiration on FCAO examination scores; expiration resets the examination requirement in Section 501(a); highest-score reporting applies only among valid scores; 12-month advance notification to candidates; validity period aligned with former officeholder exemption window; incumbent exemption preserved during active service
+- Re-lettered Section 501 subsections: former (f) Exemptions through (i) Relationship to Other Requirements re-lettered to (g) through (j) to accommodate new subsection
+- Conforming edit to Section 503(b)(2): highest-score reporting rule made subject to score validity period in Section 501(f)
+- Substantive policy change: Establishes professional recertification principle for FCAO examinations; candidates with expired scores must complete a new examination to satisfy ballot access requirements, consistent with the non-qualifying transparency architecture (no minimum score required, only current participation)
+
+**Revision 5.2**
 
 - Compliance review against APAI Document Production Standards Rev 2.3
 - Removed parenthetical acronym from H1 title per standard header examples
