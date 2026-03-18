@@ -4,7 +4,7 @@
 
 ### Published March 2026
 
-Based on Rev 5.2 of the Federal Elections Modernization Act
+Based on Rev 5.3 of the Federal Elections Modernization Act
 
 ---
 
@@ -44,7 +44,7 @@ Title IV mandates algorithmically neutral, deterministic districting for all sta
 
 Title IV also establishes the Electoral Science Office (ESO), an independent agency responsible for ongoing evaluation of voting method performance and certification, evaluation, and maintenance of the districting algorithm. The ESO operates within a three-tier graduated protection architecture: statutory principles including algorithmic districting neutrality (normative commitments requiring an Act of Congress to change), protected design elements including the 0-5 scoring range and the 3-7 district magnitude range (core features requiring affirmative Congressional approval to modify), and adjustable technical parameters including the specific algorithm, magnitude allocation method, and VRA compliance methodology (implementation details the ESO may refine subject to Congressional disapproval). Section 410 establishes comprehensive independence protections for the ESO's districting functions, including executive non-interference provisions, commissioner removal protections during redistricting cycles, mandatory minimum appropriations, algorithm integrity safeguards, and a self-executing default algorithm ensuring maps are produced even if the ESO is incapacitated.
 
-**Title V -- Non-Qualifying Federal Office Examinations.** Establishes the Federal Candidate Assessment Office (FCAO) as an independent agency administering standardized competency examinations for federal candidates. Examinations test factual knowledge of governmental structures and processes relevant to the office sought -- House (2 hours), Senate (4 hours), Presidential (8 hours). Critically, no minimum score is required. Candidates scoring 0% may run and serve. Scores appear on ballots as voter information, functioning as a transparency mechanism comparable to nutritional labels rather than a qualification barrier. The FCAO operates under a nine-member Commission with multi-branch appointments, staggered terms, and independent fee-based funding after a 24-month startup period.
+**Title V -- Non-Qualifying Federal Office Examinations.** Establishes the Federal Candidate Assessment Office (FCAO) as an independent agency administering standardized competency examinations for federal candidates. Examinations test factual knowledge of governmental structures and processes relevant to the office sought -- House (2 hours), Senate (4 hours), Presidential (8 hours). Critically, no minimum score is required. Candidates scoring 0% may run and serve. Scores appear on ballots as voter information, functioning as a transparency mechanism comparable to nutritional labels rather than a qualification barrier. The FCAO operates under a nine-member Commission with multi-branch appointments, staggered terms, and independent fee-based funding after a 24-month startup period. Examination scores carry a 10-year validity period, after which candidates must complete a new examination -- applying a professional recertification principle while preserving the non-qualifying framework.
 
 **Title VI -- Compensation, Transition, and Implementation.** Provides immediate capacity improvements upon enactment: phased salary increases over five years (House to $250,000, Senate to $300,000), enhanced pension accrual (2.5% vs. 1.7%), and professional development funding (5% of base salary). Also establishes public campaign matching funds (6:1 for contributions under $200 in multi-member districts), streamlined Senate appointment authority, and $500 million in initial federal grants to states for implementation support. These provisions serve dual purposes: political viability (immediate benefits aligning incumbent incentives with reform) and governance improvement (enhanced legislative capacity independent of electoral changes).
 
@@ -79,7 +79,12 @@ The Act treats democratic modernization as infrastructure maintenance rather tha
 <!--
 ## Revision History
 
-**Revision 2.0** (Current)
+**Revision 3.0** (Current)
+- Updated reference line from Rev 5.2 to Rev 5.3
+- Added FCAO score validity period sentence to Title V summary: 10-year validity period with professional recertification principle, preserving non-qualifying framework
+- Corrected download link path from `electoral/` to `congress/` per DPS Rev 2.4 directory structure update
+
+**Revision 2.0**
 - Updated reference line from Rev 5.0 to Rev 5.2
 - Updated opening paragraph to include algorithmically neutral districting in reform component list
 - Updated Solution Architecture section to describe algorithmic districting and its mutual reinforcement with proportional representation; updated simultaneous launch list to specify "all qualifying states"
@@ -103,7 +108,7 @@ The Act treats democratic modernization as infrastructure maintenance rather tha
 
 *Revision history available in the raw file.*
 
-> [Download this document](https://github.com/albertintech/apai/blob/main/docs/electoral/cmf/fema/overview.md) (opens on GitHub -- click the download button)
+> [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/fema/overview.md) (opens on GitHub -- click the download button)
 
 ---
 
