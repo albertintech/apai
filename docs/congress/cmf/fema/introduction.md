@@ -4,7 +4,7 @@
 
 ### Published March 2026
 
-Based on Rev 5.2 of the Federal Elections Modernization Act
+Based on Rev 5.3 of the Federal Elections Modernization Act
 
 ---
 
@@ -56,7 +56,7 @@ The Act operates within established constitutional authority:
 
 See the full legislative text and policy rationale for comprehensive details.
 
-> [Download this document](https://github.com/albertintech/apai/blob/main/docs/electoral/cmf/fema/introduction.md) (opens on GitHub -- click the download button)
+> [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/fema/introduction.md) (opens on GitHub -- click the download button)
 
 ---
 
