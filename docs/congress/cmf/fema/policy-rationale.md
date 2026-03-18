@@ -14,8 +14,6 @@ America's electoral system is running on outdated machinery. Congress operates w
 
 The question isn't whether constitutional machinery needs updating. The question is whether we modernize it methodically with safeguards and tested methods, or wait for crisis-driven improvisation.
 
-The standard for evaluating any reform proposal is not whether it produces a perfect system. Every electoral mechanism introduces strategic frictions and mathematical tradeoffs. The standard is whether a proposal's documented tradeoffs are less damaging than the documented failures of the system it replaces. That comparative standard -- not idealized models of democracy -- governs every design decision in this document.
-
 The Federal Elections Modernization Act (FEMA) is scheduled maintenance -- nothing more, nothing less. All subsequent references to FEMA use "the Act."
 
 The Act delivers this modernization on a human timescale. Rather than defer reform impacts to a distant 25-year horizon, the accelerated implementation architecture achieves cube root compliance within approximately 14 years -- three presidential terms. Members who vote for the Act will see results during their careers. Voters will experience tangible improvements in representation quality within a single political generation.
@@ -276,11 +274,13 @@ Adding 35 seats per Congress sounds like routine institutional housekeeping, not
 
 **No member loses their seat:** Expansion occurs through apportionment increases, not redistricting displacement. Every current member retains their district. New seats come from states gaining population.
 
-**Cheaper than executive branch expansion:** Expanding House capacity costs significantly less than equivalent executive branch expansion. Each Representative costs roughly $2-3 million annually (salary + staff + MRA). Equivalent executive branch capacity (political appointees + staff) costs $5-10 million per unit.
+**Cheaper than executive branch expansion:** Each Representative costs approximately $2.5 million annually (salary + MRA + benefits). Equivalent executive branch capacity -- political appointees with agency staff infrastructure -- costs $5-10 million per unit. The executive branch maintains roughly 4,000 political appointments, most of which turn over with each administration, generating recurring onboarding costs, institutional knowledge loss, and performance degradation. Expanding the House by 285 seats to cube root compliance costs less annually than the institutional overhead of the executive branch's political appointee layer. The question is not whether representative capacity is expensive -- it is whether we are investing in the right branch.
+
+**The "deliberative body" objection is a category error:** The claim that a larger House would be less deliberative confuses two distinct variables: chamber size and procedural design. How the House conducts its business -- committee structure, floor procedure, amendment rules, debate allocation -- is categorically separate from how many members it has. A well-designed procedural framework can scale; a poorly-designed one cannot, but the failure is procedural, not numerical. The current 435-member House struggles with deliberative quality not because it is too large but because its procedural architecture concentrates power in leadership while marginalizing rank-and-file members. Blaming size for procedural dysfunction is an argument for House procedural reform, not for maintaining a frozen membership. Peer democracies operate functional, productive legislatures with larger chambers: Germany's Bundestag operates with over 700 members serving approximately 84.5 million people; the United Kingdom's House of Commons has 650 members; Japan's House of Representatives has 465. None of these bodies have collapsed under the weight of their membership. Their procedural designs accommodate their size.
 
 **No sudden power concentration:** Expansion dilutes individual member obstruction power toward founders' design without concentrating authority in leadership positions.
 
-**Integrated with electoral reform:** Unlike previous expansion proposals, the Act ensures the new seats are filled through the new electoral system (STAR-PR in multi-member districts), not replicated dysfunction.
+**Integrated with electoral reform:** Unlike previous expansion proposals, the Act ensures the new seats are filled through the new electoral system (STAR-PR in multi-member districts), not replicated dysfunction. A 720-member House elected under winner-take-all plurality would simply reproduce existing distortions at larger scale. The Act's integrated architecture ensures expansion creates a different Congress, not merely a bigger one.
 
 ### Operational Benefits
 
@@ -289,14 +289,6 @@ Adding 35 seats per Congress sounds like routine institutional housekeeping, not
 **Improved policy capacity:** More diverse perspectives in deliberation, greater subject-matter expertise distribution, reduced individual member workload, better committee coverage.
 
 **Institutional functionality:** Diluted individual obstruction power, more representative sample of national diversity, stronger organizational capacity, better crisis response capability.
-
-### Expanding Proportional Representation's Geographic Reach
-
-House expansion has a secondary benefit that is often overlooked: it directly reduces the number of states excluded from proportional representation. At the current 435 seats, seven states have a single Representative and several more have only two -- all structurally unable to form multi-member districts. At approximately 720 members, population-based apportionment distributes additional seats, shrinking the number of states stuck in the one- and two-seat categories. More states qualify for multi-member districts, and mid-sized states gain higher magnitudes within the 3-7 range, improving proportionality outcomes across the board.
-
-Even in states that remain at one or two seats after full expansion, voters benefit from STAR voting. STAR is an improvement over plurality in any single-winner context: it captures preference intensity, eliminates the spoiler effect, and ensures the winner has broad support rather than merely plurality support. A Wyoming voter under the Act uses the same ballot interface and benefits from the same voting method improvements as a California voter. The proportional representation dimension is unavailable due to constitutional geography, but the voting method dimension is universal.
-
-The geographic inequality is real and irreducible absent a constitutional amendment changing how Representatives are allocated. The honest framing is that an imperfect proportional system covering the vast majority of House seats is superior to a system where every seat is elected winner-take-all.
 
 ---
 
@@ -322,23 +314,11 @@ Multi-member congressional districts have 178 years of American precedent (1789-
 
 **Critical distinction:** This is not European-style party-list voting. Voters choose individual candidates directly, as they always have. The allocation method simply ensures geometric districting can't distort outcomes regardless of which party controls redistricting.
 
-### The Accountability Question
-
-The instinctive objection to multi-member districts is "who's my representative?" This objection treats the post-1967 single-member district as though it were a founding principle of American representation. It is not. Multi-member congressional districts were the norm from 1789 through 1967. The Uniform Congressional District Act of 1967 mandated single-member districts not because of accountability concerns but to prevent Southern states from using winner-take-all at-large elections to dilute Black voting power after the Voting Rights Act. The "accountability" framing is a post-hoc rationalization that assigns foundational status to a 58-year-old statutory choice made for entirely different reasons.
-
-The substantive version of the concern -- that constituents need a clear point of contact for casework and advocacy -- is addressed by House expansion. At approximately 720 members, Representatives in multi-member districts serve smaller populations per member than current single-member district Representatives do, even though the geographic district is larger. The "who do I call about my pothole?" framing conflates federal representation with municipal service delivery. Federal Representatives are legislators. Potholes, zoning, and local infrastructure are the province of city councils, county boards, and state legislatures.
-
-To the extent that constituent casework has become a dominant House function -- VA claims, Social Security disputes, immigration cases -- this reflects an undersized House where members are spread too thin to legislate effectively, not evidence that single-member districts produce superior service. Under multi-member districts, constituent casework becomes shared and competitive: multiple Representatives serve the same geography, and constituents can approach whichever member is most responsive or most aligned with their concern. This is an improvement over the current monopoly model, where a single unresponsive Representative faces no within-district competition for casework.
-
 ### STAR-PR: Proportional Allocation Without Party Lists
 
 STAR Proportional Representation (STAR-PR, also known as Allocated Score) extends STAR voting to multi-seat districts: Voters score all candidates 0-5 stars, seats allocated proportionally to voter support, sequential allocation ensures proportionality while maintaining candidate-centered voting, 20% voter support yields roughly 20% of seats, geographic manipulation becomes mathematically ineffective.
 
 **Example:** Five-seat district using STAR-PR -- candidates appear on ballot, voters score each candidate 0-5 stars, system allocates seats proportionally based on scores. Result: Seat shares reflect vote shares (unlike winner-take-all).
-
-### The Policy Congruence Case
-
-The mechanical description of proportional allocation -- 20% support yields roughly 20% of seats -- understates the payoff. Comparative research consistently finds that proportional representation systems produce better policy congruence: closer alignment between what voters want and what the legislature produces. This is the core empirical case for proportional representation, and it applies directly to the Act's architecture. When legislative seat shares reflect the actual distribution of voter preferences rather than the geographic distribution of partisan majorities, legislative outputs track public preferences more accurately. The result is not merely fairer counting -- it is better governance as measured by the gap between voter preferences and policy outcomes.
 
 ### Single Implementation: All Qualifying States at the First FEMA Election
 
@@ -384,14 +364,6 @@ The Act establishes a deterministic preference ordering for district magnitudes:
 
 The preference ordering is classified as a Tier 3 adjustable parameter -- the ESO may modify it based on accumulated implementation evidence, subject to Congressional disapproval authority.
 
-### Coalition Governance in a Multi-Party House
-
-The question any proportional representation proposal must answer is what happens to legislative functionality when more than two parties hold seats. The concern has force in parliamentary systems where coalition collapse brings down the government and triggers snap elections. It does not carry the same weight in the American institutional context. A multi-party House does not need to form a coalition government -- it needs to pass legislation. A failed bill is not a constitutional crisis; it is the current baseline. The distinction between cabinet instability and legislative gridlock is decisive: the worst-case fragmentation scenario in a presidential system is the status quo.
-
-The transition to multi-party representation is also unlikely to resemble the overnight fragmentation that critics envision. The two major parties possess overwhelming first-mover advantages -- existing donor networks, brand recognition, ballot access infrastructure, institutional knowledge. The Act's federal party recognition standards (Title II, Section 201) require 5% support in at least 15 states or 100,000 dues-paying members across 25 states, ensuring new parties demonstrate genuine national viability before receiving federal recognition. The Joint Endorsement List system further moderates the transition: minor parties gain relevance first through endorsement power -- signaling to voters which major-party candidates share their priorities -- before they gain it through independent seat-winning. The likely trajectory is gradual emergence of third-party representation in districts where concentrated support crosses the effective threshold, not a sudden fragmentation event.
-
-Most importantly, the critique compares a hypothetical multi-party House to an idealized functioning legislature rather than to the actual status quo. The 118th and 119th Congresses have demonstrated that a single member can vacate the Speaker, that the majority party governs through procedural strangleholds rather than deliberation, and that the minority has no meaningful legislative role. Tiny factions already wield disproportionate veto power -- but without the transparency that formal party labels and published coalition structures would provide. The Act does not introduce faction dynamics into Congress; it makes existing faction dynamics visible and accountable. The expanded House (~720 members) further dilutes the veto power of any individual member or small faction.
-
 ### Built-In Maintenance: The Electoral Science Office
 
 Just as the Act treats institutional modernization as scheduled maintenance, it also builds in a maintenance mechanism for the voting methods and districting processes themselves. Section 409 establishes the Electoral Science Office (ESO) as an independent agency responsible for ongoing evaluation of STAR and STAR-PR performance, as well as certification, evaluation, and maintenance of the districting algorithm.
@@ -431,8 +403,6 @@ The Act establishes single general elections as the universal standard for all f
 **Operational benefits:** Higher turnout (general elections consistently outperform primaries); all voters participate regardless of party registration; all qualified candidates appear on November ballot; reduced election administration complexity.
 
 **Letting STAR do the work:** STAR voting's scoring mechanism ensures winners have broad support -- the primary's traditional filtering function is redundant. Voters express meaningful preferences across any reasonable candidate field through 0-5 scoring, and the automatic runoff ensures the winner has majority preference between the top two. This eliminates the historical justification for primaries without sacrificing electoral quality.
-
-**The logical endpoint of primary reform:** The primary reform literature inadvertently makes the strongest case for elimination. Research by Nolan McCarty and others finds that changes to primary election rules -- open vs. closed, partisan vs. nonpartisan blanket -- have little to no effect on the ideological positions of elected officials. Party elites, activists, and donors control the candidate pool upstream of the primary, and primary voters tend to be ideologically motivated regardless of primary type. If the empirical evidence shows that optimizing primary parameters does not moderate outcomes because the primary itself is the structural bottleneck, and if the normative argument for opening primaries is that state-funded election infrastructure should serve all voters, then eliminating state-administered primaries entirely is the logical conclusion of both the empirical and normative arguments. The Act arrives at this conclusion directly.
 
 **Consistency of voter experience:** Every federal election works the same way: show up in November, score candidates, done. No registration games, no low-turnout summer primaries that disproportionately empower activated partisans, no two-election cognitive overhead. A voter moving between states encounters identical federal election procedures.
 
@@ -730,10 +700,6 @@ The Act addresses these vulnerabilities through coordinated reforms:
 
 **Transparent competency information:** FCAO examinations provide voters with objective data without creating qualification barriers.
 
-### Structural Inclusion and Legitimacy
-
-The status quo's vulnerabilities are not only operational. They produce a legitimacy problem that compounds over time. When geographic sorting means that urban Republicans and rural Democrats are systematically unrepresented -- when millions of voters perceive the system as structurally incapable of translating their preferences into representation -- the incentive to pursue extra-institutional channels increases. The comparative politics literature consistently finds that proportional representation systems are associated with lower levels of political violence and higher levels of perceived legitimacy among populations that would otherwise be locked out. The mechanism is structural: when groups have a viable path to electing representatives, the pressure to seek influence outside the system diminishes. In the current American context, where the legitimacy crisis is documented and its consequences are visible, the conflict-reduction benefits of proportional representation are not abstract comparative politics. They address a condition that is already producing real-world costs.
-
 ### Risk Reduction Through Modernization
 
 The status quo creates increasing vulnerability: population growth continues while House size remains frozen; geographic sorting intensifies winner-take-all distortions; litigation over ballot access and redistricting consumes resources; legislative branch talent increasingly uncompetitive with executive and private sectors.
@@ -754,6 +720,74 @@ The Act requires substantial initial investment:
 
 **Annual ongoing costs (full implementation):** Approximately $362M (including ESO operational budget)
 
+### The Fiscal Context: What These Numbers Actually Mean
+
+Cost figures presented without context are meaningless. The Act's annual ongoing cost of $362M must be measured against the scale of the federal budget it serves.
+
+**As a share of federal spending:** Total federal outlays exceed $6.8 trillion annually. The Act's ongoing costs represent approximately 0.005% of total federal spending. The initial five-year investment of $1.5-2B represents approximately 0.006% of spending over the same period.
+
+**As a share of legislative branch spending:** The entire legislative branch -- both chambers, plus the GAO, Capitol Police, Library of Congress, Congressional Budget Office, and the Architect of the Capitol -- operates on approximately $5.5 billion in annual discretionary funding. The Act's ongoing costs represent an approximately 6.6% increase to the legislative branch budget, phased over 14 years.
+
+**As a per-taxpayer figure:** Distributed across approximately 150 million individual income tax returns, the Act's annual ongoing cost equals roughly $2.41 per taxpayer per year at full implementation.
+
+### Inter-Branch Investment Asymmetry
+
+The cost objection to legislative branch expansion assumes the legislative branch is adequately resourced. It is not. A comparison across the three branches reveals a structural investment asymmetry that compromises Congress's constitutional function.
+
+**Personnel:** The executive branch employs approximately 2.24 million civilian full-time equivalent workers. The entire legislative branch, including all support agencies, employs approximately 33,000. This is a 67-to-1 ratio. Congress is tasked with overseeing a workforce nearly 70 times its own size.
+
+**Budget authority:** The legislative branch's total annual budget authority is approximately $5.5 billion. For comparison, the Department of the Interior alone -- one of fourteen cabinet departments -- commands approximately $14.4 billion. The Department of Labor, typically the smallest major cabinet department, still operates at more than double the entire legislative branch budget. The judicial branch, with comparable personnel numbers to the legislature, requests $9.4 billion annually -- 70% more than the entire legislative branch.
+
+**Oversight capacity implications:** This asymmetry forces the legislative branch to rely on executive branch data and executive branch experts when conducting oversight of the executive branch. The Congressional Research Service -- Congress's primary internal research arm -- operates on $133.6 million with roughly 600 expert staff handling over 76,000 congressional requests annually. This is remarkable productivity, but it reflects a branch operating at the limits of its capacity. The Government Accountability Office, Congress's investigative arm, operates on approximately $897 million. Combined, these agencies represent the legislature's primary oversight infrastructure -- and their combined budgets equal roughly one-twentieth of a single cabinet department.
+
+**The investment question reframed:** When a fiscal conservative objects that expanding the House is "too expensive," the appropriate response is not to defend the cost in isolation but to ask why the oversight branch -- the branch constitutionally responsible for the power of the purse -- operates at a fraction of the budget of the entities it oversees. Investing $362M annually to expand House capacity is not "expanding government." It is investing in the branch of government that controls all other spending.
+
+### Peer Democracy Benchmarking
+
+International comparison reveals that the United States operates one of the leanest legislatures in the developed world, both in absolute membership and as a share of national spending.
+
+| Country | Lower House Size | Approx. Legislative Budget (USD PPP) | Budget as % of National Spending | Constituent Ratio |
+|---------|-----------------|--------------------------------------|----------------------------------|-------------------|
+| United States | 435 | ~$5.5B | ~0.08% | ~760,000:1 |
+| Germany | ~736 | ~$1.24B | ~0.24% | ~115,000:1 |
+| Japan | 465 | ~$1.15B | ~0.10% | ~267,000:1 |
+| Canada | 338 | ~$560M | ~0.13% | ~113,000:1 |
+| United Kingdom | 650 | -- | -- | ~103,000:1 |
+
+Germany allocates three times the U.S. proportion of federal spending to its legislature and operates a functional, productive democracy with a Bundestag of over 700 members. Even after full implementation of House expansion under the Act, the United States would remain below Germany's proportional investment in legislative capacity.
+
+The constituent ratio comparison is equally instructive. At 760,000 constituents per Representative, the United States is six to seven times above the ratios maintained by peer democracies. At cube root compliance (~720 members), the ratio falls to approximately 465,000:1 -- still higher than any peer in the table, but within a range where meaningful constituent service and legislative responsiveness become structurally possible.
+
+No peer democracy has found that a legislature of 600-750 members is too large to function as a deliberative body. These nations pass budgets, conduct oversight, form governments, and manage complex policy agendas with chambers equal to or larger than what the Act proposes.
+
+### The Executive Branch Cost Asymmetry
+
+The executive branch maintains approximately 4,000 political appointments -- positions filled not on the basis of professional qualification but on the basis of presidential selection. These positions turn over with each administration, creating recurring costs that dwarf the incremental investment required for House expansion.
+
+**Direct cost comparison:** Each House member costs approximately $2.5 million annually (salary, MRA, and benefits). Executive branch political appointees at the Senior Executive Service level and above, with associated agency staff infrastructure, security, and institutional overhead, cost $5-10 million per unit.
+
+**Institutional overhead costs:** Political appointee turnover generates costs that do not appear in line-item budgets: onboarding and security clearance processing for incoming appointees, institutional knowledge loss when experienced leaders depart, performance degradation during transition periods, and the organizational disruption of wholesale leadership replacement across dozens of agencies every four years. Research on federal management performance consistently finds that programs led by political appointees perform less effectively than those led by career professionals, and that frequent executive turnover compounds the problem.
+
+**The scale comparison:** Expanding the House by 285 seats to cube root compliance adds approximately $713M in annual operating costs. The executive branch's 4,000 political appointments, at a conservative $5M per unit including institutional overhead, represent roughly $20 billion in annual cost -- more than 25 times the total ongoing cost of full House expansion. Yet no fiscal conservative objects to the executive branch's political appointee layer as "expanding the federal government." The objection is reserved exclusively for the branch that the Constitution empowers to oversee all other spending.
+
+**Other developed democracies maintain between a few dozen and a few hundred political appointments.** The United States is a dramatic outlier. Investing in the legislative branch's capacity to oversee this unusually large executive apparatus is not a luxury -- it is a constitutional necessity.
+
+### Marginal Cost Per Seat
+
+The estimated marginal operational cost of each additional House seat is approximately $2.5 million per year, comprising:
+
+- Member salary: $174,000
+- Average MRA (estimated for 2025): ~$1.94 million
+- Personnel benefits and indirect costs: ~$400,000
+
+Under the Act's expansion schedule, costs phase in gradually. At the First FEMA Election (initial expansion to 510 seats), the marginal cost is approximately $188M for 75 new seats. At full cube root compliance (~720 seats), the marginal cost reaches approximately $713M annually for 285 seats above the current cap. The phased 14-year timeline -- adding 35 seats biennially -- ensures that infrastructure investment and administrative adjustment proceed incrementally rather than in a single disruptive expansion.
+
+### Capital Expenditure Considerations
+
+The existing Capitol Hill infrastructure will require renovation and expansion to accommodate a larger House. The Act addresses this directly: Section 302 mandates that the Architect of the Capitol develop plans for chamber expansion to accommodate 750 members, with construction completed incrementally as biennial expansions require additional capacity and fully completed to cube root capacity within 14 years of enactment. Section 302(d) mandates a joint GAO/CBO comprehensive report analyzing capital improvement costs within 180 days of enactment.
+
+Context matters here as well. The Architect of the Capitol already operates on a budget exceeding $750 million annually for maintenance and renovation of existing facilities. The Cannon House Office Building restoration, currently underway, demonstrates that significant capital investment in Capitol infrastructure occurs regardless of House size. Adding 35 seats per Congress -- the equivalent of one medium office floor every two years -- is an incremental expansion layered onto an already-substantial infrastructure maintenance program, not a standalone construction project requiring a new building to be erected overnight.
+
 ### Offsetting Savings and Economic Value
 
 **Administrative efficiency gains:** Primary elimination in multi-member districts saves states millions annually in duplicate election infrastructure; standardized ballot access reduces litigation costs; algorithmically neutral districting eliminates redistricting litigation; fewer boundary challenges reduce legal expenses; better legislative efficiency reduces economic costs of dysfunction.
@@ -763,6 +797,8 @@ The Act requires substantial initial investment:
 **Economic growth effects:** Functional governance reduces uncertainty and improves business climate; better representation improves policy responsiveness to economic conditions; reduced gridlock enables timely response to economic challenges.
 
 **Long-term institutional value:** Sustainable representation ratios prevent future crisis; durable electoral infrastructure reduces ongoing reform costs; institutional stability improves long-term planning capability.
+
+**Oversight return on investment:** Congressional oversight agencies demonstrate extraordinary efficiency. The GAO consistently reports that its work produces returns exceeding $100 for every $1 invested, through identifying waste, fraud, and abuse in federal programs. The Congressional Research Service's 600 experts handle over 76,000 requests annually on a $133.6 million budget. A better-resourced Congress generates returns that substantially exceed its cost by improving the quality of oversight over trillions in executive branch spending.
 
 ---
 
@@ -808,8 +844,6 @@ Each reform fought separately means:
 ### Integrated Reform on a Human Timescale
 
 The Act takes the opposite approach: Fix everything that needs fixing in one coordinated effort, then get back to the People's Business.
-
-The distinction matters because "comprehensive" and "comprehensive systematic" describe fundamentally different approaches. A comprehensive proposal bundles several fixes into one package. A comprehensive systematic proposal engineers its components as an integrated system where removing any major element degrades the others. The Act is the latter. STAR voting without multi-member districts changes the counting method but not the representational geometry. Multi-member districts without House expansion leave too few states qualifying for meaningful district magnitudes. House expansion without proportional allocation reproduces all systemic distortions at larger scale. Algorithmically neutral districting without proportional representation restores the stakes of boundary placement that proportional allocation renders irrelevant. Each component depends on the others to produce the intended result. This is not a design preference -- it is the reason the Act requires simultaneous integrated launch.
 
 **One legislative battle** instead of five serial campaigns stretching over decades.
 
@@ -939,14 +973,9 @@ Supreme Court interpretation confirms this grants Congress plenary power over fe
 ## Revision History
 
 **Revision 5.3** (Current)
-- Added comparative evaluation standard ("Reform for Realists" framework) to Executive Overview establishing that documented tradeoffs are evaluated against documented failures of the status quo
-- Added "The Policy Congruence Case" subsection to Section VI: policy congruence research as the empirical payoff of proportional representation
-- Added "The Accountability Question" subsection to Section VI: historical origin of single-member district mandate, competitive casework model under multi-member districts, federal/municipal service distinction
-- Added "Coalition Governance in a Multi-Party House" subsection to Section VI: parliamentary/presidential distinction, gradual transition trajectory, existing invisible faction dynamics made transparent through JELs
-- Added primary reform literature argument to UGES discussion (Section VI): McCarty findings on primary rule ineffectiveness as affirmative case for elimination
-- Added "Expanding Proportional Representation's Geographic Reach" subsection to Section V: House expansion reduces states excluded from MMDs; STAR provides universal voting method improvement; honest acknowledgment of irreducible geographic inequality
-- Added "Structural Inclusion and Legitimacy" subsection to Section XI: comparative evidence on PR systems, perceived legitimacy, and conflict reduction; application to current American legitimacy crisis
-- Strengthened Section XIII "Integrated Reform on a Human Timescale" with principled distinction between comprehensive (bundled fixes) and comprehensive systematic (engineered interdependent components)
+- Expanded Section V "Critical Protections Against Expansion Concerns": added fiscal data to executive branch cost comparison ($2.5M per seat vs. $5-10M per political appointee); added "deliberative body objection is a category error" subsection with peer democracy examples (Germany, UK, Japan) and procedural reform argument; expanded integration argument noting that expansion without electoral reform reproduces dysfunction at larger scale
+- Major expansion of Section XII "Implementation Cost-Benefit Analysis": added "The Fiscal Context" subsection (costs as share of federal budget, legislative branch budget, and per-taxpayer figure); added "Inter-Branch Investment Asymmetry" subsection (67-to-1 personnel ratio, department-level budget comparisons, oversight capacity implications); added "Peer Democracy Benchmarking" subsection with five-country comparison table (U.S., Germany, Japan, Canada, UK) covering legislature size, budget, budget share, and constituent ratios; added "The Executive Branch Cost Asymmetry" subsection (4,000 political appointments, cost per unit, institutional overhead, scale comparison to House expansion); added "Marginal Cost Per Seat" subsection with component breakdown and phased cost projections; added "Capital Expenditure Considerations" subsection contextualizing infrastructure costs against existing AOC budget and Section 302 provisions; expanded "Offsetting Savings" with GAO and CRS oversight ROI data
+- Corrected download link path from `electoral/cmf/fema/` to `congress/cmf/fema/` per DPS Rev 2.4 directory structure
 
 **Revision 5.2**
 - Updated reference line from Rev 5.0 to Rev 5.2
@@ -1042,7 +1071,7 @@ Supreme Court interpretation confirms this grants Congress plenary power over fe
 
 *Revision history available in the raw file.*
 
-> [Download this document](https://github.com/albertintech/apai/blob/main/docs/electoral/cmf/fema/policy-rationale.md) (opens on GitHub -- click the download button)
+> [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/fema/policy-rationale.md) (opens on GitHub -- click the download button)
 
 ---
 
