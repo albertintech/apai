@@ -4,7 +4,7 @@
 
 ### Published March 2026
 
-Based on Rev 5.2 of the Federal Elections Modernization Act
+Based on Rev 5.3 of the Federal Elections Modernization Act
 
 ---
 
@@ -72,6 +72,7 @@ The Federal Candidate Assessment Office begins administering examinations at the
 
 - Non-qualifying: No minimum score required to run or serve
 - Unlimited retakes with only highest score reported
+- Scores carry a 10-year validity period; candidates must retake after expiration
 - Year-round availability at nationwide testing centers
 - Separate House and Senate examinations
 - Scores appear on ballot as voter information, not gatekeeping
@@ -442,6 +443,7 @@ No transition protection provisions exist. Title VI's compensation and capacity 
 |---------|-------------|
 | Retakes | Unlimited |
 | Score Reporting | Highest score only |
+| Score Validity | 10 years; recertification required after expiration |
 | Availability | Year-round, nationwide |
 | Qualifying Nature | Non-qualifying (no minimum score required) |
 | Format | Multiple-choice, short answer, essay |
@@ -604,6 +606,7 @@ Under single implementation, every current member serving in a qualifying state 
 | Qualifying Nature | Non-qualifying (no minimum score) |
 | Score Display | On ballot, adjacent to candidate name |
 | Retakes | Unlimited; highest score reported |
+| Score Validity | 10 years; recertification required |
 | Effective Date | Second FEMA Election |
 
 ### Title VI: Compensation (Tier 1)
@@ -621,7 +624,14 @@ Under single implementation, every current member serving in a qualifying state 
 <!--
 ## Revision History
 
-**Revision 4.0** (Current)
+**Revision 5.0** (Current)
+- Updated reference line from Rev 5.2 to Rev 5.3
+- Added FCAO score validity period bullet to "FCAO Examinations at the Second FEMA Election" key features list: 10-year validity period with recertification requirement
+- Added Score Validity row to Data Reference Section IV Examination Features table
+- Added Score Validity row to Data Reference Section VIII Title V provision table
+- Corrected download link path from `electoral/` to `congress/` per DPS Rev 2.4 directory structure update
+
+**Revision 4.0**
 - Rebuilt for FEMA Rev 5.2; single implementation replaces phased rollout throughout
 - Updated reference line from Rev 5.0 to Rev 5.2; publication date updated to March 2026
 - Updated illustrative timeline baseline from 2026 enactment to 2029 enactment (earliest realistic passage requiring Democratic trifecta following 2028 presidential election); First FEMA Election updated from ~2028 to ~2032; Second FEMA Election updated from ~2030 to ~2034; cube root compliance updated from ~2040 to ~2046; preparation window updated from ~2 years to ~3 years throughout
@@ -699,7 +709,7 @@ Under single implementation, every current member serving in a qualifying state 
 
 *Revision history available in the raw file.*
 
-> [Download this document](https://github.com/albertintech/apai/blob/main/docs/electoral/cmf/fema/house-member-guide.md) (opens on GitHub -- click the download button)
+> [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/fema/house-member-guide.md) (opens on GitHub -- click the download button)
 
 ---
 
