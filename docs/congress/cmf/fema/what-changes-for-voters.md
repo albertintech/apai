@@ -4,7 +4,7 @@
 
 ### Published March 2026
 
-Based on Rev 5.2 of the Federal Elections Modernization Act
+Based on Rev 5.3 of the Federal Elections Modernization Act
 
 ---
 
@@ -164,7 +164,12 @@ You vote honestly. The system handles the rest.
 <!--
 ## Revision History
 
-**Revision 5.0** (Current)
+**Revision 6.0** (Current)
+- Updated reference line from Rev 5.2 to Rev 5.3
+- Corrected download link path from `electoral/` to `congress/` per DPS Rev 2.4 directory structure update
+- No substantive changes; FCAO score validity period (Rev 5.3) is a candidate-facing administrative provision with no impact on voter-facing ballot descriptions or FAQ content
+
+**Revision 5.0**
 - Updated reference line from Rev 5.0 to Rev 5.2
 - Corrected district magnitude range from "3-5" to "3-7" in How Your Vote Counts section to match Section 402(b)
 - Wrapped revision history in HTML comment block per DPS Rev 2.3, Section 1.4
@@ -198,7 +203,7 @@ You vote honestly. The system handles the rest.
 
 *Revision history available in the raw file.*
 
-> [Download this document](https://github.com/albertintech/apai/blob/main/docs/electoral/cmf/fema/what-changes-for-voters.md) (opens on GitHub -- click the download button)
+> [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/fema/what-changes-for-voters.md) (opens on GitHub -- click the download button)
 
 ---
 
