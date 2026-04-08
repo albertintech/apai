@@ -28,7 +28,7 @@ The Act uses a tiered triggering system that activates different provisions at d
 
 | Tier | What Takes Effect | When |
 |------|-------------------|------|
-| **Tier 1** | Title VI (staff resources, competitive member benefits, professional development), Title VII (enforcement), Title VIII (general provisions) | Upon enactment |
+| **Tier 1** | Title VI (compensation, professional development), Title VII (enforcement), Title VIII (general provisions) | Upon enactment |
 | **Tier 2** | Titles I-IV (ballot access, party recognition, House expansion, electoral reform) | First FEMA Election |
 | **Tier 3** | Title V (FCAO examinations) | Second FEMA Election |
 
@@ -50,7 +50,7 @@ That gives you approximately three years from enactment.
 | ~2044 | 720 | +35 |
 | ~2046 | ~720 | Cube root compliance |
 
-Cube root compliance is reached in approximately 14 years -- three presidential terms. Enhanced staff resources and competitive member benefits take effect upon enactment, with electoral upgrades following on a defined schedule.
+Cube root compliance is reached in approximately 14 years -- three presidential terms. Members who vote for the Act will see results during their careers.
 
 ### Electoral System Changes at the First FEMA Election
 
@@ -188,14 +188,16 @@ The preparation window is approximately three years. That is a meaningful amount
 
 **What happens:**
 
-- Title VI takes effect immediately: enhanced staff resources, competitive member benefits, professional development funding (5% of salary), enhanced pension accrual
+- Title VI takes effect immediately: phased compensation increases, professional development funding (5% of salary), enhanced pension accrual
 - Anti-retaliation protections activate
 - ESO establishment begins; algorithmically neutral districting development commences
 - Administrative preparation begins for Titles I-IV
+- **30-day hold filing window opens:** Members who wish to forgo the salary increase above the pre-enactment rate ($174,000) for the enactment year must file a voluntary compensation hold within 30 days of enactment; the hold runs through December 31 of that year
 
 **Your decisions:**
 
-- How to message the compensation increases to constituents
+- **Whether to file a voluntary compensation hold** for the enactment year (Section 602(e)): the hold is irrevocable for the calendar year and amounts are permanently forfeited -- no back pay. If your district is likely to bristle at increased member pay, this is a clean, publicly disclosed opt-out. It is a constituent messaging tool, not a repudiation of the compensation structure. Filing deadline is 30 days post-enactment for the stub period; December 1 each subsequent year for the following calendar year.
+- How to message the compensation increases to constituents (the voluntary hold is one available option for members in fiscally conservative districts)
 - How to use professional development resources
 - Whether to begin FCAO preparation early (recommended -- you have years to optimize before scores appear on ballots)
 - Whether to begin base cultivation and coalition building work (also recommended -- you have approximately three years before the system changes)
@@ -375,7 +377,7 @@ The following sections provide tabular reference data supporting the narrative g
 | Provision | Section | House | Senate |
 |-----------|---------|-------|--------|
 | Professional Development | 604 | $12,500/year (5% of salary) | $15,000/year (5% of salary) |
-| Pension Accrual | 603 | 2.5% per year (vs. current 1.0%) | 2.5% per year (vs. current 1.0%) |
+| Pension Accrual | 603 | 2.5% per year (vs. 1.7%) | 2.5% per year (vs. 1.7%) |
 | Vesting Period | 603 | 5 years | 5 years |
 | COLA | 602-603 | Automatic (ECI-linked) | Automatic (ECI-linked) |
 
@@ -385,6 +387,19 @@ The following sections provide tabular reference data supporting the narrative g
 |-----------|---------|--------|-------|
 | Enhanced MRA | 606 | +35% (~$450-550k/year) | Upon initial House expansion |
 | Public Matching Funds | 607 | 6:1 up to $5M | For qualifying candidates |
+
+### Voluntary Compensation Hold (Section 602(e) -- Tier 1)
+
+| Feature | Detail |
+|---------|--------|
+| Eligible | Any member of Congress |
+| Scope | Salary only; does not affect pension (Sec. 603), professional development (Sec. 604), MRA (Sec. 606), or any other Title VI provision |
+| Stub Period Filing | Within 30 days of enactment; hold runs through December 31 |
+| Annual Filing Deadline | December 1 for the following calendar year |
+| Commitment | Irrevocable for the calendar year filed; no partial-year holds |
+| Forfeiture | Permanent; no back pay, no deferral, no credit accumulation |
+| Withdrawal | Do not refile; member reverts to statutory rate then in effect |
+| Public Record | Maintained by Clerk of the House / Secretary of the Senate |
 
 ### Career Value Comparison
 
@@ -420,7 +435,7 @@ Under single implementation, the primary protection for incumbents is mathematic
 | 5-seat district | ~16-20% | Low threshold; any incumbent with real base support wins |
 | 7-seat district | ~12-14% | Very low threshold; broad incumbency protection |
 
-No transition protection provisions exist. Title VI's enhanced staff resources and competitive member benefits are the incentive alignment mechanism. STAR-PR's mathematics provide the electoral security.
+No transition protection provisions exist. Title VI's compensation and capacity improvements are the incentive alignment mechanism. STAR-PR's mathematics provide the electoral security.
 
 ---
 
@@ -521,7 +536,7 @@ All qualifying states (3+ Representatives) elect from multi-member districts beg
 
 ### The Two-Year Reality
 
-Under single implementation, every current member serving in a qualifying state faces multi-member districts at the First FEMA Election (~2032). There is no phased transition, no optional participation period, and no incumbent protection mechanism beyond Title VI's enhanced staff resources and competitive benefits and STAR-PR's mathematical threshold.
+Under single implementation, every current member serving in a qualifying state faces multi-member districts at the First FEMA Election (~2032). There is no phased transition, no optional participation period, and no incumbent protection mechanism beyond Title VI's compensation provisions and STAR-PR's mathematical threshold.
 
 | Current Status | First FEMA Election Impact | Preparation Window |
 |---------------|---------------------------|-------------------|
@@ -606,7 +621,7 @@ Under single implementation, every current member serving in a qualifying state 
 | Retakes | Unlimited; highest score reported |
 | Effective Date | Second FEMA Election |
 
-### Title VI: Staff Resources and Competitive Member Benefits (Tier 1)
+### Title VI: Compensation (Tier 1)
 
 | Provision | House | Senate |
 |-----------|-------|--------|
@@ -621,19 +636,7 @@ Under single implementation, every current member serving in a qualifying state 
 <!--
 ## Revision History
 
-**Revision 5.0** (Current)
-- Updated reference line from Rev 5.2 to Rev 5.4
-- Reframed Tier 1 table cell from "compensation, professional development" to "staff resources, competitive member benefits, professional development"
-- Replaced personal benefit framing in expansion schedule ("Members who vote for the Act will see results during their careers") with institutional framing
-- Reframed Tier 1 description in timeline section: "phased compensation increases" to "enhanced staff resources, competitive member benefits"
-- Corrected pension accrual comparison from "2.5% vs. 1.7%" (pre-2012 FERS rate) to "2.5% vs. current 1.0%" (post-2012 FERS rate)
-- Reframed protection provisions summary: "compensation and capacity improvements" to "enhanced staff resources and competitive member benefits"
-- Reframed career impact section: "compensation provisions" to "enhanced staff resources and competitive benefits"
-- Reframed Title VI Data Reference header from "Compensation" to "Staff Resources and Competitive Member Benefits"
-- Corrected download link path from `electoral/cmf/fema/` to `congress/cmf/fema/`
-- Added "Last revised" line per DPS Rev 2.5
-
-**Revision 4.0**
+**Revision 4.0** (Current)
 - Rebuilt for FEMA Rev 5.2; single implementation replaces phased rollout throughout
 - Updated reference line from Rev 5.0 to Rev 5.2; publication date updated to March 2026
 - Updated illustrative timeline baseline from 2026 enactment to 2029 enactment (earliest realistic passage requiring Democratic trifecta following 2028 presidential election); First FEMA Election updated from ~2028 to ~2032; Second FEMA Election updated from ~2030 to ~2034; cube root compliance updated from ~2040 to ~2046; preparation window updated from ~2 years to ~3 years throughout
@@ -651,6 +654,10 @@ Under single implementation, every current member serving in a qualifying state 
 - Wrapped revision history in HTML comment block per DPS Rev 2.3, Section 1.4
 - Added "Revision history available in the raw file." note per DPS Section 1.3
 - Added download link per DPS Section 1.9
+- Updated reference line from Rev 5.2 to Rev 5.4; propagated Section 602(e) Voluntary Compensation Hold
+- Added 30-day stub period filing window to "Upon Enactment" What Happens list
+- Added voluntary hold filing decision to "Upon Enactment" Your Decisions list, including constituent messaging framing; updated compensation messaging bullet to reference the hold as one available option
+- Added "Voluntary Compensation Hold (Section 602(e) -- Tier 1)" sub-table to Data Reference Section II: scope, stub period filing, annual deadline, commitment, forfeiture, withdrawal, and public record
 
 **Revision 3.0**
 - Updated from CMA Rev 4.2 to FEMA Rev 5.0
@@ -711,7 +718,7 @@ Under single implementation, every current member serving in a qualifying state 
 
 *Revision history available in the raw file.*
 
-> [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/fema/house-member-guide.md) (opens on GitHub -- click the download button)
+> [Download this document](https://github.com/albertintech/apai/blob/main/docs/electoral/cmf/fema/house-member-guide.md) (opens on GitHub -- click the download button)
 
 *Last revised April 2026*
 
