@@ -28,7 +28,7 @@ The Act's central insight is that its reforms depend on each other. STAR voting 
 
 A 510-member House elected under winner-take-all plurality is still a dysfunctional House -- just a larger one. The Act therefore requires simultaneous integrated launch: the first expanded election must also be the first STAR voting election, the first multi-member district election for all qualifying states, and the first Joint Endorsement Lists election. This produces a new operating system for congressional elections rather than incremental patches to the existing one.
 
-The Act also addresses the fundamental political economy challenge of democratic reform: incumbents must vote for changes that alter their electoral environment. Title VI solves this through immediate, substantial improvements to staff resources, legislative capacity, and competitive member benefits that take effect upon enactment -- before any electoral reforms launch. This aligns individual incentive with institutional improvement using the same mechanism design logic the Framers applied to constitutional checks and balances.
+The Act also addresses the fundamental political economy challenge of democratic reform: incumbents must vote for changes that alter their electoral environment. Title VI solves this through immediate, substantial compensation and capacity improvements that take effect upon enactment -- before any electoral reforms launch. This aligns individual incentive with institutional improvement using the same mechanism design logic the Framers applied to constitutional checks and balances.
 
 ## Title-by-Title Summary
 
@@ -46,7 +46,7 @@ Title IV also establishes the Electoral Science Office (ESO), an independent age
 
 **Title V -- Non-Qualifying Federal Office Examinations.** Establishes the Federal Candidate Assessment Office (FCAO) as an independent agency administering standardized competency examinations for federal candidates. Examinations test factual knowledge of governmental structures and processes relevant to the office sought -- House (2 hours), Senate (4 hours), Presidential (8 hours). Critically, no minimum score is required. Candidates scoring 0% may run and serve. Scores appear on ballots as voter information, functioning as a transparency mechanism comparable to nutritional labels rather than a qualification barrier. The FCAO operates under a nine-member Commission with multi-branch appointments, staggered terms, and independent fee-based funding after a 24-month startup period.
 
-**Title VI -- Compensation, Transition, and Implementation.** Provides immediate capacity improvements upon enactment: enhanced Member Representational Allowances, staff budgets, and professional development funding (5% of base salary) to strengthen legislative expertise and reduce talent drain. Competitive member benefits include phased salary increases over five years (House to $250,000, Senate to $300,000) and enhanced pension accrual (2.5% vs. current 1.0%). Also establishes public campaign matching funds (6:1 for contributions under $200 in multi-member districts), streamlined Senate appointment authority, and $500 million in initial federal grants to states for implementation support. These provisions serve dual purposes: political viability (immediate benefits aligning incumbent incentives with reform) and governance improvement (enhanced legislative capacity independent of electoral changes).
+**Title VI -- Compensation, Transition, and Implementation.** Provides immediate capacity improvements upon enactment: phased salary increases over five years (House to $250,000, Senate to $300,000), enhanced pension accrual (2.5% vs. 1.7%), and professional development funding (5% of base salary). Also establishes public campaign matching funds (6:1 for contributions under $200 in multi-member districts), streamlined Senate appointment authority, and $500 million in initial federal grants to states for implementation support. Members may voluntarily forgo salary increases above the pre-enactment rate through an annual hold mechanism (Section 602(e)); held amounts are permanently forfeited and all holds are public record. These provisions serve dual purposes: political viability (immediate benefits aligning incumbent incentives with reform) and governance improvement (enhanced legislative capacity independent of electoral changes).
 
 **Title VII -- Enforcement and Reporting.** Grants expanded enforcement authority to the Federal Election Commission and Department of Justice for Act compliance. Establishes coordination requirements between the FEC, ESO, and FCAO. Includes supermajority protection against compensation rollbacks (three-fifths vote required to reduce Title VI benefits), severability protection ensuring compensation mechanisms survive if reform titles are invalidated, and anti-retaliation provisions.
 
@@ -56,7 +56,7 @@ Title IV also establishes the Electoral Science Office (ESO), an independent age
 
 The Act uses a tiered effective date structure designed to deliver immediate benefits while ensuring simultaneous launch of electoral reforms:
 
-**Tier 1 -- Immediate upon enactment.** Titles VI, VII, and VIII take effect, delivering enhanced staff resources, competitive member benefits, enforcement authority, and administrative framework. The ESO and FCAO begin establishment.
+**Tier 1 -- Immediate upon enactment.** Titles VI, VII, and VIII take effect, delivering compensation improvements, enforcement authority, and administrative framework. The ESO and FCAO begin establishment. Members who vote for the Act see benefits during the same Congress.
 
 **Tier 2 -- First FEMA Election.** The second general election after enactment (with an 18-month minimum floor), at which Titles I through IV take effect simultaneously. The House expands to 510 seats. STAR voting debuts for all federal elections. Multi-member districts take effect for all qualifying states. Algorithmically neutral districting becomes operational. Ballot access and party recognition standards become operative. This integrated launch ensures voters and administrators experience the new system as a coherent whole.
 
@@ -72,24 +72,14 @@ The Act rests on well-established constitutional authority. The Elections Clause
 
 ## Conclusion
 
-The Act treats democratic modernization as infrastructure maintenance rather than ideological transformation. Its reforms address measurable operational deficiencies -- representation ratios, electoral geometry, administrative fragmentation, institutional capacity -- through proven mechanisms with extensive precedent. The integrated design ensures each component reinforces the others, while the tiered implementation delivers immediately felt benefits: enhanced legislative capacity takes effect upon enactment, with electoral upgrades delivering benefits to voters on a definite timeline.
+The Act treats democratic modernization as infrastructure maintenance rather than ideological transformation. Its reforms address measurable operational deficiencies -- representation ratios, electoral geometry, administrative fragmentation, institutional capacity -- through proven mechanisms with extensive precedent. The integrated design ensures each component reinforces the others, while the tiered implementation delivers benefits on a human timescale: members who enact these reforms see results during their careers, and voters experience tangible improvements within a single political generation.
 
 ---
 
 <!--
 ## Revision History
 
-**Revision 3.0** (Current)
-- Updated reference line from Rev 5.2 to Rev 5.4
-- Reframed Title VI summary to lead with staff resources and legislative capacity; repositioned member compensation as competitive member benefits
-- Corrected pension accrual comparison from "2.5% vs. 1.7%" (pre-2012 FERS rate) to "2.5% vs. current 1.0%" (post-2012 FERS rate)
-- Reframed Solution Architecture section: "compensation and capacity improvements" to "improvements to staff resources, legislative capacity, and competitive member benefits"
-- Reframed Tier 1 implementation summary to lead with staff resources; removed "Members who vote for the Act see benefits during the same Congress"
-- Reframed Conclusion: replaced member-benefit framing with institutional capacity framing; replaced "benefits on a human timescale" and "voters experience tangible improvements within a single political generation" with "immediately felt benefits" and "electoral upgrades delivering benefits to voters on a definite timeline"
-- Corrected download link path from `electoral/cmf/fema/` to `congress/cmf/fema/`
-- Added "Last revised" line per DPS Rev 2.5
-
-**Revision 2.0**
+**Revision 2.0** (Current)
 - Updated reference line from Rev 5.0 to Rev 5.2
 - Updated opening paragraph to include algorithmically neutral districting in reform component list
 - Updated Solution Architecture section to describe algorithmic districting and its mutual reinforcement with proportional representation; updated simultaneous launch list to specify "all qualifying states"
@@ -104,6 +94,7 @@ The Act treats democratic modernization as infrastructure maintenance rather tha
 - Wrapped revision history in HTML comment block per DPS Rev 2.3, Section 1.4
 - Added "Revision history available in the raw file." note per DPS Section 1.3
 - Added download link per DPS Section 1.9
+- Updated reference line from Rev 5.2 to Rev 5.4; added single-sentence voluntary compensation hold reference to Title VI summary (Section 602(e): annual hold mechanism, permanent forfeiture, public record)
 
 **Revision 1.0**
 - Initial publication based on FEMA Rev 5.0
@@ -113,7 +104,7 @@ The Act treats democratic modernization as infrastructure maintenance rather tha
 
 *Revision history available in the raw file.*
 
-> [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/fema/overview.md) (opens on GitHub -- click the download button)
+> [Download this document](https://github.com/albertintech/apai/blob/main/docs/electoral/cmf/fema/overview.md) (opens on GitHub -- click the download button)
 
 *Last revised April 2026*
 
