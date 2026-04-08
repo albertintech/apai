@@ -16,7 +16,7 @@ The question isn't whether constitutional machinery needs updating. The question
 
 The Federal Elections Modernization Act (FEMA) is scheduled maintenance -- nothing more, nothing less. All subsequent references to FEMA use "the Act."
 
-The Act delivers this modernization on an achievable timeline. Rather than defer reform impacts to a distant 25-year horizon, the accelerated implementation architecture achieves cube root compliance within approximately 14 years -- three presidential terms. Enhanced staff resources and competitive member benefits take effect upon enactment, with electoral upgrades following on a defined schedule.
+The Act delivers this modernization on a human timescale. Rather than defer reform impacts to a distant 25-year horizon, the accelerated implementation architecture achieves cube root compliance within approximately 14 years -- three presidential terms. Members who vote for the Act will see results during their careers. Voters will experience tangible improvements in representation quality within a single political generation.
 
 ---
 
@@ -103,13 +103,13 @@ That operating system must debut as a unified whole. The First FEMA Election mus
 
 This produces "the new Congress" -- not "more of the old Congress."
 
-### Reform on an Achievable Timeline
+### Reform on a Human Timescale
 
 The Act delivers reform within approximately 14 years -- three presidential terms. This timeline ensures:
 
-1. **Enhanced staff resources and competitive member benefits** take effect upon enactment
-2. **Voters experience tangible improvements** in representation quality beginning at the First FEMA Election
-3. **Institutional modernization proceeds** on a predictable schedule rather than deferring impacts to a distant future
+1. **Members who vote for the Act see results** during their careers
+2. **Voters experience tangible improvements** in representation quality
+3. **Institutional modernization proceeds** on human timescale rather than deferring impacts to distant future
 
 The accelerated timeline does not sacrifice careful implementation. It simply removes arbitrary delays that served political comfort rather than operational necessity.
 
@@ -119,7 +119,7 @@ The Act uses a tiered effective date structure:
 
 **Tier 1 -- Immediate upon enactment:**
 
-- Title VI (Staff resources and competitive member benefits)
+- Title VI (Compensation and capacity improvements)
 - Title VII (Enforcement and administrative authority)
 - Title VIII (General provisions and definitions)
 - Electoral Science Office establishment (Section 409)
@@ -254,9 +254,9 @@ Beginning with the second Congress after initial expansion, House membership inc
 
 ### Why Accelerated Expansion Works
 
-**1. Reform on an achievable timeline**
+**1. Reform on a human timescale**
 
-Fourteen years is three presidential terms. Enhanced staff resources and competitive member benefits take effect upon enactment, with electoral upgrades delivering voter-facing improvements beginning at the First FEMA Election.
+Fourteen years is three presidential terms. Members who vote for the Act will see results during their careers. Voters will experience tangible improvements in representation quality.
 
 **2. Operational feasibility**
 
@@ -483,7 +483,7 @@ Critically, the validity period does not alter the non-qualifying principle. Exp
 
 ### The Political Viability Mechanism
 
-Previous democratic reform efforts failed by asking incumbent legislators to vote for changes that reduce their individual advantages. The Act solves this political economy problem through immediate, substantial improvements to staff resources, legislative capacity, and competitive member benefits taking effect upon enactment -- before electoral reforms launch.
+Previous democratic reform efforts failed by asking incumbent legislators to vote for changes that reduce their individual advantages. The Act solves this political economy problem through immediate, substantial, universal compensation and capacity improvements taking effect upon enactment -- before electoral reforms launch.
 
 This isn't cynicism -- it's mechanism design. The Framers structured Constitutional checks and balances assuming self-interested actors. The Act applies the same principle: structure incentives so that individual benefit aligns with institutional improvement.
 
@@ -498,8 +498,8 @@ All provisions in Title VI take effect immediately upon enactment:
   - Senate: $174,000 (current) rising to $300,000 (Year 5)
   - The Senate differential reflects distinct constitutional responsibilities (advice and consent, statewide constituencies, six-year terms)
 - Automatic COLA tied to Employment Cost Index begins after Year 5
-- Enhanced pension accrual (2.5% vs. current 1.0%)
-- Five-year vesting period (maintains current FERS standard)
+- Enhanced pension accrual (2.5% vs. 1.7%)
+- Reduced vesting period (5 years)
 
 **Operational improvements:**
 
@@ -543,13 +543,27 @@ Compensation provisions serve two functions:
 
 Even if electoral reforms never occurred, these improvements would deliver governance benefits. But the structure ensures compensation improvements take effect immediately while electoral reforms launch at the First FEMA Election.
 
+### Voluntary Compensation Hold
+
+The Act establishes a self-executing default: the phased salary increases take effect automatically. Any member who wishes to forgo the salary increase above the pre-enactment rate ($174,000) may file an affirmative annual hold with the Clerk of the House or Secretary of the Senate.
+
+This polarity is intentional. Congressional pay has been frozen since 2009 not because members believe $174,000 is the right number, but because voting for an increase is the affirmative act -- and that vote is politically costly in many districts. The result is a mechanism that can only freeze or cut, never adjust. Reversing the polarity removes this structural impediment: the increase takes effect unless a member acts, eliminating the vote as a political liability.
+
+The hold acknowledges that individual members operate in different political environments. A member whose constituents are focused on fiscal discipline has a clean, visible option without requiring the institutional default to bend to the most politically cautious position in the chamber. This is not an apology for the compensation increases -- it is a recognition that institutional defaults and individual political navigation are not in conflict, and a mechanism that allows both to coexist.
+
+**Anti-gaming design.** Two features prevent the hold from becoming a press cycle instrument. First, each hold is irrevocable for the calendar year in which it is filed -- there is no withdrawal mechanism mid-year. Second, held amounts are permanently forfeited; there is no deferred compensation, no back pay, no credit accumulation. A member who files a hold surrenders that salary increment entirely. This ensures the hold is a genuine commitment rather than a performative gesture that can be quietly unwound after the news cycle passes.
+
+**Scope limitation.** The hold applies to salary only (Section 602(e)). It does not affect pension accrual (Section 603), professional development resources (Section 604), Member Representational Allowance (Section 606), or any other Title VI provision. Pension accrual and operational capacity are institutional investments, not personal compensation in the same sense as salary. Allowing holds to cascade into those provisions would undermine the institutional competitiveness rationale that motivates Title VI as a whole.
+
+**Public disclosure.** All holds and their expirations are public record, maintained by the Clerk of the House and Secretary of the Senate. Transparency is structural: members who file holds receive the political benefit of a visible, verifiable commitment; members who do not are not exposed to a recorded vote on a pay increase. The disclosure mechanism makes the hold useful as a constituent signal without creating a floor vote that freezes the institutional default.
+
 ---
 
 ## IX. THE POLITICAL ECONOMY OF COMPREHENSIVE REFORM
 
 ### Why Members Should Support the Act
 
-**Immediate benefits, integrated changes:** Current members receive enhanced staff resources, professional development, and competitive benefits immediately upon enactment. Electoral reforms launch together at the First FEMA Election as an integrated package.
+**Immediate benefits, integrated changes:** Current members receive capacity improvements and compensation increases immediately upon enactment. Electoral reforms launch together at the First FEMA Election as an integrated package.
 
 **STAR-PR's mathematical protection:** Proportional representation through STAR-PR substantially lowers the effective threshold for winning a seat. In a five-seat district, the effective threshold is approximately 14-17% -- meaning any incumbent with meaningful constituent support faces reduced, not increased, electoral risk under multi-member districts. The math protects incumbents more effectively than any transition timeline could.
 
@@ -613,7 +627,7 @@ The Act uses a tiered implementation architecture ensuring immediate benefits, s
 
 **Tier 1 -- Immediate upon enactment:**
 
-- Enhanced staff resources and competitive member benefits (Title VI)
+- All compensation and capacity improvements (Title VI)
 - Enforcement and administrative authority (Title VII)
 - General provisions and definitions (Title VIII)
 - Electoral Science Office establishment (Section 409)
@@ -648,11 +662,11 @@ Beginning with the second Congress after initial expansion, House membership inc
 
 **Simultaneous integrated launch:** STAR, MMD, algorithmic districting, and expansion debut together at the First FEMA Election, producing "the new Congress" rather than "more of the old Congress."
 
-**Reform on an achievable timeline:** Cube root compliance in ~14 years means institutional improvements take effect immediately, with electoral upgrades delivering benefits to voters on a defined schedule.
+**Reform on a human timescale:** Cube root compliance in ~14 years means members who vote for the Act see results; voters experience tangible improvements within a political generation.
 
 **Proper FCAO development:** Decoupled timeline prevents exam development from holding up core reforms while ensuring adequate validation.
 
-**Immediate institutional investment:** Title VI takes effect upon enactment, delivering the staff resources and competitive benefits that make passage politically viable.
+**Immediate member benefits:** Title VI takes effect upon enactment, honoring the institutional capacity investment that makes passage politically viable.
 
 **Legal clarity:** Defined terms (First FEMA Election, Second FEMA Election) and objective triggers prevent ambiguity and resist litigation.
 
@@ -791,7 +805,7 @@ The Act takes the opposite approach: Fix everything that needs fixing in one coo
 
 **Synergistic benefits** where reforms reinforce each other: Multi-member districts work better with proportional voting methods. House expansion enables multi-member districts. Ballot access standardization supports multiparty infrastructure. Algorithmically neutral districting eliminates the political distortion that makes every other reform harder. Enhanced capacity makes all reforms more effective.
 
-**Immediate benefits** (enhanced staff resources, competitive member benefits) fund political capital for electoral reforms that launch together at the First FEMA Election.
+**Immediate benefits** (compensation, capacity improvements) fund political capital for electoral reforms that launch together at the First FEMA Election.
 
 **Predictable timeline** rather than uncertain sequential reforms where each depends on the previous one's success.
 
@@ -817,7 +831,7 @@ The Act is scheduled maintenance on constitutional machinery. The comprehensive 
 
 ---
 
-## XIV. CONCLUSION: REFORM ON AN ACHIEVABLE TIMELINE
+## XIV. CONCLUSION: REFORM ON A HUMAN TIMESCALE
 
 ### The Maintenance Imperative
 
@@ -838,9 +852,9 @@ The Act doesn't ask Congress to vote for uncertain future changes. It provides:
 
 **Certain present benefits (upon enactment):**
 
-- Enhanced staff resources and competitive member benefits
-- Immediate institutional capacity gains
-- Stronger talent pipeline for public service
+- Enhanced compensation and capacity improvements
+- Immediate institutional stability gains
+- Better working conditions and career security
 - Improved legislative functionality
 
 **Integrated reform launch (First FEMA Election):**
@@ -914,19 +928,7 @@ Supreme Court interpretation confirms this grants Congress plenary power over fe
 
 **Revision 5.4** (Current)
 - Updated reference line from Rev 5.3 to Rev 5.4
-- Reframed compensation language in summary and introductory contexts throughout: lead with staff resources and legislative capacity; position member compensation as "competitive member benefits" attracting top talent to public service
-- Replaced "reform on a human timescale" messaging (introduced Rev 2.0) with "reform on an achievable timeline" throughout, including Section II subsection heading, Section V "Why Accelerated Expansion Works" list, Section X implementation summary, and Section XIV heading
-- Replaced personal benefit framing ("members who vote for the Act see results during their careers") with institutional framing throughout
-- Corrected pension accrual comparison from "2.5% vs. 1.7%" (pre-2012 FERS rate) to "2.5% vs. current 1.0%" (post-2012 FERS rate)
-- Corrected vesting period from "Reduced vesting period (5 years)" to "Five-year vesting period (maintains current FERS standard)"
-- Reframed Tier 1 labels from "Compensation and capacity improvements" to "Staff resources and competitive member benefits"
-- Reframed Section VIII opening to lead with staff resources, legislative capacity, and competitive member benefits
-- Reframed Section IX political economy summary to lead with staff resources and professional development
-- Reframed Section X implementation architecture: "Immediate member benefits" to "Immediate institutional investment"; updated "human timescale" summary
-- Reframed Section XIII synergies summary
-- Reframed Section XIV conclusion list: replaced personal benefit items with institutional capacity and talent pipeline framing
-- Corrected download link path from `electoral/cmf/fema/` to `congress/cmf/fema/`
-- Added "Last revised" line per DPS Rev 2.5
+- Added "Voluntary Compensation Hold" subsection to Section VIII (Title VI): self-executing default rationale and polarity logic, political cover function, anti-gaming provisions (irrevocability and permanent forfeiture), scope limitation to salary only with rationale, public disclosure structure; corresponds to Section 602(e) of Rev 5.4 legislative text
 
 **Revision 5.3**
 - Updated reference line from Rev 5.2 to Rev 5.3
@@ -1026,7 +1028,7 @@ Supreme Court interpretation confirms this grants Congress plenary power over fe
 
 *Revision history available in the raw file.*
 
-> [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/fema/policy-rationale.md) (opens on GitHub -- click the download button)
+> [Download this document](https://github.com/albertintech/apai/blob/main/docs/electoral/cmf/fema/policy-rationale.md) (opens on GitHub -- click the download button)
 
 *Last revised April 2026*
 
