@@ -3089,6 +3089,36 @@ This section supersedes 2 U.S.C. Section 4501 (congressional pay adjustment) to 
 
 This section takes effect on the Immediate Effective Date.
 
+#### (e) Voluntary Compensation Hold
+
+**(1) Election to Hold**
+
+Any member of Congress may elect to forgo the difference between the compensation rate established under subsection (a) or (b) and the rate of compensation in effect immediately before the Immediate Effective Date by filing a written notice of hold with the Clerk of the House of Representatives or the Secretary of the Senate, as applicable.
+
+**(2) Hold Period**
+
+(i) Each hold shall be effective for a single calendar year. A hold filed for a given calendar year is irrevocable for that year.
+
+(ii) For the calendar year in which this Act takes effect, a member may file a notice of hold within 30 days of the Immediate Effective Date. Such hold shall be effective from the date of filing through December 31 of that calendar year.
+
+(iii) For each subsequent calendar year, a member who wishes to hold must file a notice of hold no later than December 1 of the preceding calendar year.
+
+**(3) Effect of Hold**
+
+During any period in which a hold is in effect, the member shall receive compensation at the rate in effect immediately before the Immediate Effective Date. The difference between the rate otherwise payable under subsection (a) or (b) and the pre-enactment rate is permanently forfeited and shall not be recoverable as back pay or otherwise.
+
+**(4) Scope**
+
+A hold under this subsection applies only to salary compensation under subsections (a) and (b). It does not affect pension accrual under Section 603, professional development allowances under Section 604, Member Representational Allowances under Section 606, or any other provision of this Title.
+
+**(5) Withdrawal**
+
+A member who has filed a hold may decline to renew for the following calendar year by not filing a subsequent notice of hold. Upon the expiration of a hold period without renewal, the member shall receive compensation at the rate then in effect under subsection (a) or (b), as applicable.
+
+**(6) Public Disclosure**
+
+All notices of hold and any expiration or non-renewal thereof shall be entered in the public record of the Clerk of the House of Representatives or the Secretary of the Senate, as applicable, and shall be made available to the public.
+
 ### Section 603. Pension Enhancement
 
 #### (a) Accrual Rate Increase
@@ -3604,6 +3634,7 @@ through the processes established in Section 409(h).
 - Section 603(a): Corrected accrual rate comparison from "replacing the current 1.7% rate" to "replacing the applicable accrual rate under current law" (covers both pre-2013 FERS at 1.7% and post-2012 FERS-FRAE at 1.0%)
 - Section 603(b): Deleted "Reduced Vesting Period" subsection (five-year vesting is already the standard under FERS; the Act does not modify it)
 - Section 603: Re-lettered subsections (c)-(d) to (b)-(c) following vesting subsection deletion
+- Added Section 602(e) Voluntary Compensation Hold: annual irrevocable hold on salary delta above pre-enactment rate; stub period provision for enactment year; December 1 filing deadline for subsequent years; permanent forfeiture (no back pay); scope limited to salary (does not affect pension, MRA, professional development, or other Title VI provisions); non-renewal restores current rate; all holds and expirations are public record
 - Corrected download link path from `electoral/cmf/fema/` to `congress/cmf/fema/`
 - Added "Last revised" line per DPS Rev 2.5
 
