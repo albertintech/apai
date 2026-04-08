@@ -4,7 +4,7 @@
 
 ### Published March 2026
 
-Based on Rev 5.3 of the Federal Elections Modernization Act
+Based on Rev 5.4 of the Federal Elections Modernization Act
 
 ---
 
@@ -28,7 +28,7 @@ The Act uses a tiered triggering system that activates different provisions at d
 
 | Tier | What Takes Effect | When |
 |------|-------------------|------|
-| **Tier 1** | Title VI (compensation, professional development), Title VII (enforcement), Title VIII (general provisions) | Upon enactment |
+| **Tier 1** | Title VI (staff resources, competitive member benefits, professional development), Title VII (enforcement), Title VIII (general provisions) | Upon enactment |
 | **Tier 2** | Titles I-IV (ballot access, party recognition, House expansion, electoral reform) | First FEMA Election |
 | **Tier 3** | Title V (FCAO examinations) | Second FEMA Election |
 
@@ -50,7 +50,7 @@ That gives you approximately three years from enactment.
 | ~2044 | 720 | +35 |
 | ~2046 | ~720 | Cube root compliance |
 
-Cube root compliance is reached in approximately 14 years -- three presidential terms. Members who vote for the Act will see results during their careers.
+Cube root compliance is reached in approximately 14 years -- three presidential terms. Enhanced staff resources and competitive member benefits take effect upon enactment, with electoral upgrades following on a defined schedule.
 
 ### Electoral System Changes at the First FEMA Election
 
@@ -72,7 +72,6 @@ The Federal Candidate Assessment Office begins administering examinations at the
 
 - Non-qualifying: No minimum score required to run or serve
 - Unlimited retakes with only highest score reported
-- Scores carry a 10-year validity period; candidates must retake after expiration
 - Year-round availability at nationwide testing centers
 - Separate House and Senate examinations
 - Scores appear on ballot as voter information, not gatekeeping
@@ -189,7 +188,7 @@ The preparation window is approximately three years. That is a meaningful amount
 
 **What happens:**
 
-- Title VI takes effect immediately: phased compensation increases, professional development funding (5% of salary), enhanced pension accrual
+- Title VI takes effect immediately: enhanced staff resources, competitive member benefits, professional development funding (5% of salary), enhanced pension accrual
 - Anti-retaliation protections activate
 - ESO establishment begins; algorithmically neutral districting development commences
 - Administrative preparation begins for Titles I-IV
@@ -376,7 +375,7 @@ The following sections provide tabular reference data supporting the narrative g
 | Provision | Section | House | Senate |
 |-----------|---------|-------|--------|
 | Professional Development | 604 | $12,500/year (5% of salary) | $15,000/year (5% of salary) |
-| Pension Accrual | 603 | 2.5% per year (vs. 1.7%) | 2.5% per year (vs. 1.7%) |
+| Pension Accrual | 603 | 2.5% per year (vs. current 1.0%) | 2.5% per year (vs. current 1.0%) |
 | Vesting Period | 603 | 5 years | 5 years |
 | COLA | 602-603 | Automatic (ECI-linked) | Automatic (ECI-linked) |
 
@@ -421,7 +420,7 @@ Under single implementation, the primary protection for incumbents is mathematic
 | 5-seat district | ~16-20% | Low threshold; any incumbent with real base support wins |
 | 7-seat district | ~12-14% | Very low threshold; broad incumbency protection |
 
-No transition protection provisions exist. Title VI's compensation and capacity improvements are the incentive alignment mechanism. STAR-PR's mathematics provide the electoral security.
+No transition protection provisions exist. Title VI's enhanced staff resources and competitive member benefits are the incentive alignment mechanism. STAR-PR's mathematics provide the electoral security.
 
 ---
 
@@ -443,7 +442,6 @@ No transition protection provisions exist. Title VI's compensation and capacity 
 |---------|-------------|
 | Retakes | Unlimited |
 | Score Reporting | Highest score only |
-| Score Validity | 10 years; recertification required after expiration |
 | Availability | Year-round, nationwide |
 | Qualifying Nature | Non-qualifying (no minimum score required) |
 | Format | Multiple-choice, short answer, essay |
@@ -523,7 +521,7 @@ All qualifying states (3+ Representatives) elect from multi-member districts beg
 
 ### The Two-Year Reality
 
-Under single implementation, every current member serving in a qualifying state faces multi-member districts at the First FEMA Election (~2032). There is no phased transition, no optional participation period, and no incumbent protection mechanism beyond Title VI's compensation provisions and STAR-PR's mathematical threshold.
+Under single implementation, every current member serving in a qualifying state faces multi-member districts at the First FEMA Election (~2032). There is no phased transition, no optional participation period, and no incumbent protection mechanism beyond Title VI's enhanced staff resources and competitive benefits and STAR-PR's mathematical threshold.
 
 | Current Status | First FEMA Election Impact | Preparation Window |
 |---------------|---------------------------|-------------------|
@@ -606,10 +604,9 @@ Under single implementation, every current member serving in a qualifying state 
 | Qualifying Nature | Non-qualifying (no minimum score) |
 | Score Display | On ballot, adjacent to candidate name |
 | Retakes | Unlimited; highest score reported |
-| Score Validity | 10 years; recertification required |
 | Effective Date | Second FEMA Election |
 
-### Title VI: Compensation (Tier 1)
+### Title VI: Staff Resources and Competitive Member Benefits (Tier 1)
 
 | Provision | House | Senate |
 |-----------|-------|--------|
@@ -625,11 +622,16 @@ Under single implementation, every current member serving in a qualifying state 
 ## Revision History
 
 **Revision 5.0** (Current)
-- Updated reference line from Rev 5.2 to Rev 5.3
-- Added FCAO score validity period bullet to "FCAO Examinations at the Second FEMA Election" key features list: 10-year validity period with recertification requirement
-- Added Score Validity row to Data Reference Section IV Examination Features table
-- Added Score Validity row to Data Reference Section VIII Title V provision table
-- Corrected download link path from `electoral/` to `congress/` per DPS Rev 2.4 directory structure update
+- Updated reference line from Rev 5.2 to Rev 5.4
+- Reframed Tier 1 table cell from "compensation, professional development" to "staff resources, competitive member benefits, professional development"
+- Replaced personal benefit framing in expansion schedule ("Members who vote for the Act will see results during their careers") with institutional framing
+- Reframed Tier 1 description in timeline section: "phased compensation increases" to "enhanced staff resources, competitive member benefits"
+- Corrected pension accrual comparison from "2.5% vs. 1.7%" (pre-2012 FERS rate) to "2.5% vs. current 1.0%" (post-2012 FERS rate)
+- Reframed protection provisions summary: "compensation and capacity improvements" to "enhanced staff resources and competitive member benefits"
+- Reframed career impact section: "compensation provisions" to "enhanced staff resources and competitive benefits"
+- Reframed Title VI Data Reference header from "Compensation" to "Staff Resources and Competitive Member Benefits"
+- Corrected download link path from `electoral/cmf/fema/` to `congress/cmf/fema/`
+- Added "Last revised" line per DPS Rev 2.5
 
 **Revision 4.0**
 - Rebuilt for FEMA Rev 5.2; single implementation replaces phased rollout throughout
@@ -710,6 +712,8 @@ Under single implementation, every current member serving in a qualifying state 
 *Revision history available in the raw file.*
 
 > [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/fema/house-member-guide.md) (opens on GitHub -- click the download button)
+
+*Last revised April 2026*
 
 ---
 
