@@ -156,12 +156,12 @@ nav:
                     - ASPC vs. EDAA: aspc/comparative-analysis-edaa.md
 
     - Constitutional Architecture:
-      - Introduction: amendments/introduction.md
-      - Elected Office Qualifications Amendment:
-            - Introduction: amendments/eoqa/introduction.md
-            - Overview: amendments/eoqa/overview.md
-            - Amendment Text: amendments/eoqa/amendment-text.md
-            - Policy Rationale: amendments/eoqa/policy-rationale.md
+          - Introduction: amendments/introduction.md
+          - Elected Office Qualifications Amendment:
+                - Introduction: amendments/eoqa/introduction.md
+                - Overview: amendments/eoqa/overview.md
+                - Amendment Text: amendments/eoqa/amendment-text.md
+                - Policy Rationale: amendments/eoqa/policy-rationale.md
 
 markdown_extensions:
     - toc:
