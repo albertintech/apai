@@ -162,6 +162,11 @@ nav:
                 - Overview: amendments/eoqa/overview.md
                 - Amendment Text: amendments/eoqa/amendment-text.md
                 - Policy Rationale: amendments/eoqa/policy-rationale.md
+          - Knowledge, Authority, and Transparency Amendment:
+                - Introduction: amendments/kata/introduction.md
+                - Overview: amendments/kata/overview.md
+                - Amendment Text: amendments/kata/amendment-text.md
+                - Policy Rationale: amendments/kata/policy-rationale.md
 
 markdown_extensions:
     - toc:
