@@ -172,6 +172,10 @@ nav:
                 - Amendment Text: amendments/kata/amendment-text.md
                 - Policy Rationale: amendments/kata/policy-rationale.md
                 - Integration Analysis: amendments/kata/integration-analysis.md
+          - Free and Protected Speech Amendment:
+                - Introduction: amendments/fpsa/introduction.md
+                - Amendment Text: amendments/fpsa/amendment-text.md
+                - Policy Rationale: amendments/fpsa/policy-rationale.md
 
 markdown_extensions:
     - toc:
