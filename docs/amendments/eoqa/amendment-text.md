@@ -2,7 +2,21 @@
 
 ## A Proposal to Modernize Federal Office Qualifications and Establish Equal Eligibility for All Citizens
 
-### Revision 1.0
+### Revision 1.1
+
+---
+
+*This Amendment may be cited as the Elected Office Qualifications Amendment.*
+
+---
+
+## PREAMBLE
+
+The constitutional qualifications for federal elected office were written for a republic that no longer exists. The Framers calibrated eligibility for a government of modest scope -- a few hundred civilian workers, fewer than a thousand soldiers, annual revenues measured in millions. The offices those standards govern now command the world's most powerful military, administer trillions of dollars in annual expenditures, and shape the lives of hundreds of millions of Americans. The eligibility standards have not been updated since 1788.
+
+The natural-born citizen requirement compounds this failure. It bars approximately twenty-three million naturalized Americans from the Presidency based solely on birthplace -- a circumstance they cannot change and that provides no signal about fitness for office. These citizens have passed a civics examination, sworn an oath of allegiance, and chosen American citizenship through affirmative commitment. The Constitution trusts them with every responsibility of governance except the one the public might elect them to hold.
+
+The purpose of this Amendment is to replace inherited eligibility with earned eligibility. Requirements should scale with the power and responsibility of each office. Citizenship should reflect commitment, not birthplace. The standards by which Americans determine who may seek their highest offices should reflect the republic they actually inhabit -- not the one that existed two and a half centuries ago.
 
 ---
 
@@ -250,7 +264,12 @@ Congress shall have power to enforce this Amendment by appropriate legislation.
 <!--
 ## Revision History
 
-**Revision 1.0** (Current)
+**Revision 1.1** (Current)
+- Added standalone short title citation line per APAI Document Production Standards Rev 2.6
+- Added Preamble per APAI Document Production Standards Rev 2.6
+- No substantive changes to constitutional provisions
+
+**Revision 1.0**
 - Initial publication
 - Policy extracted from FOCCUS Rev 5.1 (Parts I-III, Part V) with all examination provisions removed
 - Added Part IV: Presidential Succession Eligibility (bypass provision for unqualified persons in the succession line)
