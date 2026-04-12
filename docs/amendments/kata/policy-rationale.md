@@ -14,9 +14,9 @@ The Knowledge, Authority, and Transparency Amendment, hereafter referred to as "
 
 ## Design Philosophy
 
-### Statute Before Constitution
+### Statute Before Amendment
 
-The Amendment follows the APAI statute-before-constitution sequencing principle: finalize statutory frameworks first, test them in practice, then translate the load-bearing structural principles into constitutional language. The [Federal Elections Modernization Act](https://policyarchitecture.org/congress/cmf/fema/introduction/) establishes the Federal Candidate Assessment Office as a fully operational independent agency. It works through a nine-member Commission with multi-branch appointments, administers office-specific examinations with professional psychometric standards, discloses scores on official ballots, and protects the non-qualifying principle through robust statutory architecture.
+The Amendment follows the APAI statute-before-amendment sequencing principle: finalize statutory frameworks first, test them in practice, then translate the load-bearing structural principles into constitutional language. The [Federal Elections Modernization Act](https://policyarchitecture.org/congress/cmf/fema/introduction/) establishes the Federal Candidate Assessment Office as a fully operational independent agency. It works through a nine-member Commission with multi-branch appointments, administers office-specific examinations with professional psychometric standards, discloses scores on official ballots, and protects the non-qualifying principle through robust statutory architecture.
 
 The Amendment does not create this system from scratch. It protects the system that already exists. Constitutional text should not embed operational details that experience may require adjusting. Score validity periods, retake intervals, fee structures, content domain weightings, and testing center distribution standards belong in statute, where Congress can refine them through ordinary legislation. The principles that govern the system -- independence, neutrality, transparency, non-qualification, permanence -- belong in the Constitution, where they cannot be undone by a simple majority.
 
@@ -62,7 +62,7 @@ The option of relying entirely on statutory protection was considered and reject
 
 ### Constitutional-Only Without Statutory Predecessor
 
-Constitutionalizing the examination framework without a statutory predecessor was rejected as inconsistent with the statute-before-constitution sequencing principle. Constitutional text is difficult to amend and should not embed operational details that experience may require adjusting. FEMA's FCAO provides the testing ground for operational parameters. The Amendment constitutionalizes the principles that survive operational validation while delegating ongoing operational refinement to statute.
+Constitutionalizing the examination framework without a statutory predecessor was rejected as inconsistent with the statute-before-amendment sequencing principle. Constitutional text is difficult to amend and should not embed operational details that experience may require adjusting. FEMA's FCAO provides the testing ground for operational parameters. The Amendment constitutionalizes the principles that survive operational validation while delegating ongoing operational refinement to statute.
 
 ### Qualifying Examination
 
