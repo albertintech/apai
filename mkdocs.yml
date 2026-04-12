@@ -167,6 +167,7 @@ nav:
                 - Overview: amendments/kata/overview.md
                 - Amendment Text: amendments/kata/amendment-text.md
                 - Policy Rationale: amendments/kata/policy-rationale.md
+                - Integration and Sequencing: amendments/kata/integration.md
 
 markdown_extensions:
     - toc:
