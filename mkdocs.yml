@@ -51,8 +51,8 @@ nav:
                             - Constitutional Boundaries of PR: congress/cmf/fema/constitutional-boundaries-of-proportional-representation.md
                             - Design Response Memorandum: congress/cmf/fema/design-response-memorandum.md
                       - Comparative Analysis:
-                            - Electoral Reform Comparative Analysis: congress/cmf/fema/electoral-reform-comparative-analysis.md
-                            - Fair Representation Act Overview: congress/cmf/fema/fra-overview.md
+                      - Comparative Analysis: congress/cmf/fema/comparative-analysis.md
+                            - Fair Representation Act Overview: congress/cmf/fema/fair-representation-act-overview.md
                       - Position Papers:
                             - Why Not Single Transferable Vote: congress/cmf/fema/why-not-stv.md
                             - Why Not Fusion Voting: congress/cmf/fema/why-not-fusion-voting.md
@@ -89,7 +89,7 @@ nav:
                 - Reference Materials:
                       - Constitutional and Legal Analysis: executive/csaa/constitutional-analysis.md
                       - Economic Analysis: executive/csaa/economic-analysis.md
-                      - CMF Interaction Analysis: executive/csaa/laying-the-groundwork.md
+                      - Integration Analysis: executive/csaa/integration-analysis.md
           - Homeland Security Restoration Act:
                 - Policy Brief: executive/hsra/policy-brief.md
           - Presidential Continuity Act:
@@ -125,7 +125,7 @@ nav:
                 - Introduction: aspc/introduction.md
                 - Overview: aspc/overview.md
                 - Integration and Sequencing Guide: aspc/integration-and-sequencing-guide.md
-                - FAQ: aspc/frequently-asked-questions.md
+                - FAQ: aspc/faq.md
                 - American Prosperity and Stability Act:
                       - Introduction: aspc/apsa/introduction.md
                       - Overview: aspc/apsa/overview.md
@@ -153,7 +153,7 @@ nav:
                            - Implementation Timeline: aspc/soca/implementation-timeline.md
                            - Constituency Impact Analysis: aspc/soca/constituency-impact-analysis.md
                 - Comparative Analysis:
-                    - ASPC vs. EDAA: aspc/comparative-analysis-edaa.md
+                    - Comparative Analysis: aspc/comparative-analysis.md
 
     - Constitutional Architecture:
           - Introduction: amendments/introduction.md
@@ -167,7 +167,7 @@ nav:
                 - Overview: amendments/kata/overview.md
                 - Amendment Text: amendments/kata/amendment-text.md
                 - Policy Rationale: amendments/kata/policy-rationale.md
-                - Integration and Sequencing: amendments/kata/integration.md
+                - Integration Analysis: amendments/kata/integration-analysis.md
 
 markdown_extensions:
     - toc:
