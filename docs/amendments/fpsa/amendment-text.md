@@ -2,7 +2,7 @@
 
 ## A Proposal to Modernize First Amendment Protections for the 21st Century
 
-### Revision 1.1
+### Revision 1.2
 
 ---
 
@@ -54,7 +54,9 @@ Political speech may be restricted only where the government establishes by clea
 
 #### (c) Strict Liability for Catastrophic Harms
 
-Where false statements of fact cause or create substantial risk of harms exceeding defined thresholds, liability shall attach regardless of the speaker's knowledge, intent, or belief in the truth of the statement. No defense of good faith belief, reliance on others, or lack of intent shall apply where harms exceed catastrophic thresholds. Catastrophic harm thresholds include:
+Where false statements of fact cause or create substantial risk of harms exceeding catastrophic thresholds, civil liability shall attach. For institutional speakers and entities meeting the definition of substantial platform in Section 8(b), such liability shall attach regardless of the speaker's knowledge, intent, or belief in the truth of the statement, and no defense of good faith belief, reliance on others, or lack of intent shall apply. For natural persons not meeting the definition of substantial platform, civil liability shall not attach absent proof of at least negligence. Criminal penalties shall require proof of recklessness or willful disregard for truth regardless of the speaker's platform size.
+
+Catastrophic harm thresholds include:
 
 1. Death or serious bodily harm to persons;
 2. Substantial undermining of democratic electoral processes;
@@ -62,7 +64,7 @@ Where false statements of fact cause or create substantial risk of harms exceedi
 4. Serious threats to national security or public safety; and
 5. Public health crises affecting substantial populations.
 
-The degree of liability shall be proportional to:
+The degree of liability shall constitute a hard constitutional floor and shall not exceed what is proportional to:
 
 (1) The reach and platform of the speaker;
 
@@ -76,7 +78,7 @@ Persons with substantial platforms or public reach bear a heightened duty to ver
 
 ### Section 4. Platform Responsibility
 
-Entities that algorithmically amplify speech to substantial audiences bear responsibility for preventing systematic distribution of demonstrably false information that meets catastrophic harm thresholds. Such responsibility may be discharged through reasonable content moderation systems subject to transparency requirements and appeals processes established by law.
+Congress may require entities that algorithmically amplify speech to substantial audiences to bear responsibility for preventing systematic distribution of demonstrably false information that meets catastrophic harm thresholds. Such responsibility may be discharged through reasonable content moderation systems subject to transparency requirements and appeals processes established by law.
 
 ---
 
@@ -97,7 +99,7 @@ All regulation of speech enacted pursuant to this Amendment must:
 
 #### (a) Judicial Initiation
 
-Enforcement actions under this Amendment may only be initiated through judicial proceedings. No executive department, administrative agency, or officer of the United States may initiate enforcement outside of judicial process.
+Enforcement authority under this Amendment is vested exclusively in courts of competent jurisdiction through adversarial judicial proceedings. No executive department, administrative agency, or officer of the United States may initiate enforcement outside of such proceedings.
 
 #### (b) Sunset Provisions
 
@@ -147,17 +149,38 @@ For purposes of this Amendment:
 
 Harm to democratic processes is "substantially irreversible" where no subsequent corrective speech, legal remedy, or democratic process can restore the affected function to a materially equivalent condition within a reasonable timeframe following the harm.
 
+#### (g) Algorithmic Amplification
+
+"Algorithmic Amplification" means the automated distribution, promotion, or surfacing of content to audiences based on computational signals including engagement metrics, behavioral data, or predictive modeling, without individualized human editorial selection of the specific content distributed. The term does not include the selection, arrangement, or presentation of content by human editors exercising independent editorial judgment, regardless of the platform size of the entity employing such editors.
+
+#### (h) Institutional Speaker
+
+"Institutional Speaker" means any corporation, partnership, limited liability company, nonprofit organization, association, or other entity organized under law, regardless of whether such entity meets the definition of substantial platform in Section 8(b).
+
+### Section 9. Relationship to State Law
+
+This Amendment establishes minimum constitutional protections for speakers. Any provision of state law that affords speakers greater protection than the corresponding provision of this Amendment requires shall not be preempted. Any provision of state law that imposes liability standards less protective of speakers than the standard established by the corresponding provision of this Amendment is preempted to the extent of the conflict. Whether a state law provision affords greater or lesser protection than this Amendment shall be evaluated provision by provision.
+
 ---
 
 <!--
 ## Revision History
 
-**Revision 1.1** (Current)
+**Revision 1.2** (Current)
+- Section 3(c): Revised strict liability framework to distinguish between institutional speakers and natural persons. Strict liability (civil) retained for institutional speakers and entities meeting the substantial platform definition. Natural persons below the substantial platform threshold are subject to at minimum a negligence standard. Criminal penalties require proof of recklessness or willful disregard regardless of platform size.
+- Section 3(c): Converted proportionality language from a calibration factor into a hard constitutional floor. Liability shall not exceed what is proportional to reach, foreseeability, and verification capacity.
+- Section 4: Reframed from a self-executing obligation on platforms ("bear responsibility") to an explicit congressional authorization clause ("Congress may require entities... to bear responsibility"). Resolves state action doctrine structural gap and strengthens the authorization-vs-compulsion distinction.
+- Section 6(a): Reframed from a prohibition on executive enforcement initiation to an affirmative vesting of enforcement authority exclusively in courts. Belt-and-suspenders language retained as second sentence enumerating prohibited initiators.
+- Section 8(g): Added definition of "Algorithmic Amplification" distinguishing automated content distribution from human editorial selection. Anchors the scope of Section 4 platform obligations.
+- Section 8(h): Added definition of "Institutional Speaker" as the threshold criterion for strict liability vs. negligence standard in Section 3(c).
+- Section 9: Added new section establishing floor-not-ceiling preemption framework. State law affording greater speaker protection is not preempted. State law affording lesser protection is preempted to the extent of the conflict. Preemption evaluated provision by provision.
+
+**Revision 1.1**
 - Replaced Section 3(a)(4) (strict scrutiny for political speech) with a standalone subsection (b) Political Speech Standard establishing a five-element conjunctive test. Elements require the government to establish by clear and convincing evidence: (i) specific direction toward democratic process harm; (ii) likelihood of harm; (iii) severe and substantially irreversible damage to democratic processes; (iv) harm within a timeframe foreclosing corrective speech or democratic remedy; and (v) no less restrictive means available. Mandatory finding requirement on each element codified.
-- Renumbered former Section 3(a) items 5–6 to items 4–5 following removal of former item 4.
+- Renumbered former Section 3(a) items 5-6 to items 4-5 following removal of former item 4.
 - Renumbered former Section 3 subsections (b) and (c) to (c) and (d) to accommodate new subsection (b).
-- Added Section 8(e): Definition of "Democratic Processes" — institutions, procedures, and mechanisms of self-governance including electoral processes, legislative proceedings, judicial functions, and civil institutions established by law.
-- Added Section 8(f): Definition of "Substantially Irreversible" — harm where no corrective speech, legal remedy, or democratic process can restore the affected function to a materially equivalent condition within a reasonable timeframe.
+- Added Section 8(e): Definition of "Democratic Processes."
+- Added Section 8(f): Definition of "Substantially Irreversible."
 
 **Revision 1.0**
 - Initial publication. Restructured from combined draft into conforming Amendment Text per APAI Document Production Standards Section 2.5. Separated policy rationale content into standalone Policy Rationale document. Established Part structure, Preamble, Short Title Citation Line, conforming section and subsection hierarchy, and footer per standards.
