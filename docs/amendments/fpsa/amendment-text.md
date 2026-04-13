@@ -2,7 +2,7 @@
 
 ## A Proposal to Modernize First Amendment Protections for the 21st Century
 
-### Revision 1.2
+### Revision 1.3
 
 ---
 
@@ -113,6 +113,24 @@ An independent oversight body shall review enforcement patterns on an annual bas
 
 Nothing in this Amendment shall be construed to diminish existing constitutional or statutory protections for journalists' sources, editorial discretion, or whistleblower disclosures.
 
+### Section 10. Legislative Requirements
+
+#### (a) Mandatory Findings
+
+No law restricting or penalizing speech pursuant to this Amendment shall take effect unless the enrolled bill contains an express section of findings, adopted by affirmative vote of both chambers, establishing with specificity:
+
+1. That the regulated conduct falls within an authorized category established by Section 3(a) or Section 3(b);
+2. That the restriction or penalty employs the least restrictive means available to address the identified harm;
+3. That the harm addressed is concrete, specific, and demonstrable, and not speculative or inferred from general social conditions;
+4. That the restriction or penalty is content-neutral across viewpoints as defined in Section 1; and
+5. That the restriction or penalty was not designed to disadvantage, and will not in its operation disadvantage, any political party, faction, or ideological position.
+
+The findings required by this Section are subject to judicial review. No court reviewing the constitutionality of any law enacted pursuant to this Amendment shall defer to findings that are conclusory, unsupported by the legislative record, or irreconcilable with the design or operation of the law as enacted.
+
+#### (b) Criminal Penalties
+
+No law imposing criminal penalties for speech regulated pursuant to this Amendment shall take effect unless passed by a vote of three-fifths of all Members duly elected and qualified in each chamber of Congress, in addition to satisfying the requirements of subsection (a).
+
 ---
 
 ## PART IV: CONSTRUCTION AND DEFINITIONS
@@ -166,7 +184,13 @@ This Amendment establishes minimum constitutional protections for speakers. Any 
 <!--
 ## Revision History
 
-**Revision 1.2** (Current)
+**Revision 1.3** (Current)
+- Added Section 10. Legislative Requirements to Part III, establishing a two-tier upstream procedural constraint on implementing legislation that directly restricts or penalizes speech.
+- Section 10(a): Mandatory Findings. Any law restricting or penalizing speech pursuant to this Amendment must include, in the enrolled bill, an express section of findings adopted by affirmative vote of both chambers. Required findings address: authorized category, least restrictive means, concreteness of harm, content-neutrality, and viewpoint-neutrality. No-deference clause prohibits courts from deferring to findings that are conclusory, unsupported by the legislative record, or irreconcilable with the law's design or operation.
+- Section 10(b): Criminal Penalties. Laws imposing criminal penalties for regulated speech require a vote of three-fifths of all Members duly elected and qualified in each chamber, in addition to satisfying Section 10(a). Supermajority requirement scoped to criminal penalties only; civil regulatory legislation subject only to the findings requirement.
+- Scope of Section 10 limited to laws "restricting or penalizing" speech, excluding procedural statutes, oversight body appropriations, platform compliance frameworks, and other implementing legislation that does not directly touch speech.
+
+**Revision 1.2**
 - Section 3(c): Revised strict liability framework to distinguish between institutional speakers and natural persons. Strict liability (civil) retained for institutional speakers and entities meeting the substantial platform definition. Natural persons below the substantial platform threshold are subject to at minimum a negligence standard. Criminal penalties require proof of recklessness or willful disregard regardless of platform size.
 - Section 3(c): Converted proportionality language from a calibration factor into a hard constitutional floor. Liability shall not exceed what is proportional to reach, foreseeability, and verification capacity.
 - Section 4: Reframed from a self-executing obligation on platforms ("bear responsibility") to an explicit congressional authorization clause ("Congress may require entities... to bear responsibility"). Resolves state action doctrine structural gap and strengthens the authorization-vs-compulsion distinction.
