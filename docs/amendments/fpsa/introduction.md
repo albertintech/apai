@@ -4,7 +4,7 @@
 
 ### Published April 2026
 
-Based on Rev 1.1 of the Free and Protected Speech Amendment
+Based on Rev 1.2 of the Free and Protected Speech Amendment
 
 ---
 
@@ -22,19 +22,21 @@ The Amendment takes its name deliberately. "Free and Protected Speech" replaces 
 
 - **Political Speech Standard** -- Political speech may be restricted only where the government establishes, by clear and convincing evidence, all five elements of a conjunctive test: that the speech is specifically directed toward producing harm to democratic processes; that harm is likely; that the harm would be severe and substantially irreversible; that the harm would occur within a timeframe foreclosing corrective speech or democratic remedy; and that no less restrictive means is available. Courts must make an affirmative finding on each element independently.
 
-- **Strict Liability for Catastrophic Harms** -- Where false statements cause or create substantial risk of catastrophic harm -- including death, electoral subversion, mass violence, national security threats, or public health crises -- liability attaches regardless of the speaker's intent or good faith belief. Liability is proportional to platform reach, foreseeability of harm, and capacity to verify claims before publication.
+- **Strict Liability for Catastrophic Harms** -- Where false statements cause or create substantial risk of catastrophic harm -- including death, electoral subversion, mass violence, national security threats, or public health crises -- civil liability attaches. For institutional speakers and natural persons meeting the substantial platform definition, liability attaches regardless of intent or good faith belief. For natural persons below the substantial platform threshold, civil liability requires proof of at least negligence. Criminal penalties require proof of recklessness or willful disregard for truth regardless of platform size. Liability is proportional to platform reach, foreseeability of harm, and capacity to verify claims before publication, and shall not exceed that proportional ceiling.
 
 - **Duty to Verify** -- Persons with substantial platforms bear a heightened duty to verify factual claims before publication when those claims could foreseeably cause catastrophic harm. The duty scales with platform size and harm potential.
 
-- **Platform Responsibility** -- Entities that algorithmically amplify speech to substantial audiences bear responsibility for preventing systematic distribution of demonstrably false information meeting catastrophic harm thresholds, dischargeable through reasonable content moderation systems subject to transparency and appeals requirements.
+- **Platform Responsibility** -- Congress may require entities that algorithmically amplify speech to substantial audiences to bear responsibility for preventing systematic distribution of demonstrably false information meeting catastrophic harm thresholds, dischargeable through reasonable content moderation systems subject to transparency and appeals requirements. Platform responsibility obligations apply to automated amplification systems and do not extend to human editorial selection and arrangement of content.
 
 - **Procedural Safeguards** -- All speech regulation must be content-neutral, subject to immediate judicial review with the burden on the government, supported by clear and convincing evidence of falsity, and accompanied by automatic stays of enforcement pending appeal.
 
-- **Enforcement and Review** -- Enforcement may only be initiated through judicial proceedings. Speech regulations carry a five-year sunset. An independent oversight body reviews enforcement patterns annually to prevent viewpoint discrimination.
+- **Enforcement and Review** -- Enforcement authority under this Amendment is vested exclusively in courts of competent jurisdiction through adversarial judicial proceedings. No executive department, administrative agency, or officer of the United States may initiate enforcement outside of such proceedings. Speech regulations carry a five-year sunset. An independent oversight body reviews enforcement patterns annually to prevent viewpoint discrimination.
 
 - **Limitation on Rights** -- Rights under this Amendment do not protect speech deliberately designed to undermine democratic institutions through coordinated disinformation, nor do they shield foreign state actors conducting information warfare against the United States.
 
-- **Definitions** -- The Amendment defines six load-bearing terms: demonstrably false, substantial platform, material harm, political speech, democratic processes, and substantially irreversible. The substantial platform threshold is set at the capacity to reach 100,000 persons within a 30-day period.
+- **Relationship to State Law** -- This Amendment establishes minimum constitutional protections for speakers. State law affording speakers greater protection than this Amendment requires is not preempted. State law affording speakers lesser protection is preempted to the extent of the conflict, evaluated provision by provision.
+
+- **Definitions** -- The Amendment defines eight load-bearing terms: demonstrably false, substantial platform, material harm, political speech, democratic processes, substantially irreversible, algorithmic amplification, and institutional speaker. The substantial platform threshold is set at the capacity to reach 100,000 persons within a 30-day period.
 
 ## Documentation
 
