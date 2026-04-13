@@ -2,7 +2,7 @@
 
 ## A Proposal to Modernize First Amendment Protections for the 21st Century
 
-### Revision 1.0
+### Revision 1.1
 
 ---
 
@@ -45,11 +45,14 @@ Congress may regulate false statements of fact that cause material harm to indiv
 1. The statement is demonstrably false as a matter of fact, not opinion or interpretation;
 2. The harm is concrete, specific, and demonstrable;
 3. Regulation employs the least restrictive means available;
-4. Political speech receives strict scrutiny and may only be restricted to prevent imminent and severe harm to democratic processes;
-5. The burden of proof lies with the government to establish falsity and harm; and
-6. Determination of falsity shall be made only by courts through adversarial proceedings.
+4. The burden of proof lies with the government to establish falsity and harm; and
+5. Determination of falsity shall be made only by courts through adversarial proceedings.
 
-#### (b) Strict Liability for Catastrophic Harms
+#### (b) Political Speech Standard
+
+Political speech may be restricted only where the government establishes by clear and convincing evidence that the speech: (i) is specifically directed toward producing harm to democratic processes; (ii) is likely to produce such harm; (iii) would produce severe and substantially irreversible damage to democratic processes; (iv) would produce such harm within a timeframe that does not permit adequate corrective speech or other democratic remedy before the harm is realized; and (v) no less restrictive means is available to prevent the harm. No court may uphold a restriction on political speech absent an affirmative finding on each element.
+
+#### (c) Strict Liability for Catastrophic Harms
 
 Where false statements of fact cause or create substantial risk of harms exceeding defined thresholds, liability shall attach regardless of the speaker's knowledge, intent, or belief in the truth of the statement. No defense of good faith belief, reliance on others, or lack of intent shall apply where harms exceed catastrophic thresholds. Catastrophic harm thresholds include:
 
@@ -67,7 +70,7 @@ The degree of liability shall be proportional to:
 
 (3) The speaker's capacity to verify claims before publication.
 
-#### (c) Duty to Verify
+#### (d) Duty to Verify
 
 Persons with substantial platforms or public reach bear a heightened duty to verify factual claims before publication when such claims could foreseeably cause catastrophic harm. The extent of this duty scales with platform size and the severity of potential harm.
 
@@ -136,12 +139,27 @@ For purposes of this Amendment:
 
 "Political speech" means expression relating to government, public officials, electoral processes, or matters of public concern.
 
+#### (e) Democratic Processes
+
+"Democratic processes" means the institutions, procedures, and mechanisms through which the people of the United States exercise self-governance, including electoral processes, legislative proceedings, judicial functions, and the operation of civil institutions established by law.
+
+#### (f) Substantially Irreversible
+
+Harm to democratic processes is "substantially irreversible" where no subsequent corrective speech, legal remedy, or democratic process can restore the affected function to a materially equivalent condition within a reasonable timeframe following the harm.
+
 ---
 
 <!--
 ## Revision History
 
-**Revision 1.0** (Current)
+**Revision 1.1** (Current)
+- Replaced Section 3(a)(4) (strict scrutiny for political speech) with a standalone subsection (b) Political Speech Standard establishing a five-element conjunctive test. Elements require the government to establish by clear and convincing evidence: (i) specific direction toward democratic process harm; (ii) likelihood of harm; (iii) severe and substantially irreversible damage to democratic processes; (iv) harm within a timeframe foreclosing corrective speech or democratic remedy; and (v) no less restrictive means available. Mandatory finding requirement on each element codified.
+- Renumbered former Section 3(a) items 5–6 to items 4–5 following removal of former item 4.
+- Renumbered former Section 3 subsections (b) and (c) to (c) and (d) to accommodate new subsection (b).
+- Added Section 8(e): Definition of "Democratic Processes" — institutions, procedures, and mechanisms of self-governance including electoral processes, legislative proceedings, judicial functions, and civil institutions established by law.
+- Added Section 8(f): Definition of "Substantially Irreversible" — harm where no corrective speech, legal remedy, or democratic process can restore the affected function to a materially equivalent condition within a reasonable timeframe.
+
+**Revision 1.0**
 - Initial publication. Restructured from combined draft into conforming Amendment Text per APAI Document Production Standards Section 2.5. Separated policy rationale content into standalone Policy Rationale document. Established Part structure, Preamble, Short Title Citation Line, conforming section and subsection hierarchy, and footer per standards.
 -->
 
