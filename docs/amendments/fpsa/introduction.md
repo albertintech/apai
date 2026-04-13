@@ -4,7 +4,7 @@
 
 ### Published April 2026
 
-Based on Rev 1.0 of the Free and Protected Speech Amendment
+Based on Rev 1.1 of the Free and Protected Speech Amendment
 
 ---
 
@@ -18,7 +18,9 @@ The Amendment takes its name deliberately. "Free and Protected Speech" replaces 
 
 - **Commercial Speech** -- Commercial speech may be regulated to prevent fraud, deception, or material harm to consumers, subject to rational basis review.
 
-- **Regulation of False Factual Claims** -- Congress may regulate false statements of fact that cause material harm, subject to strict procedural requirements including judicial determination of falsity, least restrictive means, and a government burden of proof. Political speech within this category receives strict scrutiny.
+- **Regulation of False Factual Claims** -- Congress may regulate false statements of fact that cause material harm, subject to strict procedural requirements including judicial determination of falsity, least restrictive means, and a government burden of proof.
+
+- **Political Speech Standard** -- Political speech may be restricted only where the government establishes, by clear and convincing evidence, all five elements of a conjunctive test: that the speech is specifically directed toward producing harm to democratic processes; that harm is likely; that the harm would be severe and substantially irreversible; that the harm would occur within a timeframe foreclosing corrective speech or democratic remedy; and that no less restrictive means is available. Courts must make an affirmative finding on each element independently.
 
 - **Strict Liability for Catastrophic Harms** -- Where false statements cause or create substantial risk of catastrophic harm -- including death, electoral subversion, mass violence, national security threats, or public health crises -- liability attaches regardless of the speaker's intent or good faith belief. Liability is proportional to platform reach, foreseeability of harm, and capacity to verify claims before publication.
 
@@ -32,7 +34,7 @@ The Amendment takes its name deliberately. "Free and Protected Speech" replaces 
 
 - **Limitation on Rights** -- Rights under this Amendment do not protect speech deliberately designed to undermine democratic institutions through coordinated disinformation, nor do they shield foreign state actors conducting information warfare against the United States.
 
-- **Definitions** -- The Amendment defines four load-bearing terms: demonstrably false, substantial platform, material harm, and political speech. The substantial platform threshold is set at the capacity to reach 100,000 persons within a 30-day period.
+- **Definitions** -- The Amendment defines six load-bearing terms: demonstrably false, substantial platform, material harm, political speech, democratic processes, and substantially irreversible. The substantial platform threshold is set at the capacity to reach 100,000 persons within a 30-day period.
 
 ## Documentation
 
