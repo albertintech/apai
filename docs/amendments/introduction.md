@@ -28,7 +28,17 @@ The following represent APAI's constitutional design studies:
 
 - **Elected Office Qualifications Amendment (EOQA)** -- Replaces the Constitution's original qualification standards for federal elected office with a progressive framework scaling citizenship, residency, and public service requirements to the power of each office. Eliminates the natural-born citizen requirement for the Presidency.
 
-> [Download this document](https://github.com/albertintech/apai/blob/main/docs/amendments/introduction.md) (opens on GitHub -- click the download button)
+> [Download this document](https://github.com/albertintech/apai/blob/main/docs/amendments/eoqa/introduction.md) (opens on GitHub -- click the download button)
+
+- **Knowledge, Authority, and Transparency Amendment (KATA)** -- Constitutionalizes the Federal Candidate Assessment Office as a permanent institution of the federal government, places its independence and core transparency functions beyond the reach of ordinary legislation, and extends knowledge assessment requirements to key officers in the presidential succession line. The Amendment does not restrict who may seek or hold federal office; it is a transparency mechanism only.
+
+> [Download this document](https://github.com/albertintech/apai/blob/main/docs/amendments/kata/introduction.md) (opens on GitHub -- click the download button)
+
+- **Free and Protected Speech Amendment (FPSA)** -- Modernizes the constitutional framework for speech protection to address conditions the founding era could not have anticipated. Preserves absolute protection for political dissent and criticism of government while establishing a tiered accountability framework for demonstrably false statements causing catastrophic harm through high-reach platforms. All determinations of falsity are made exclusively by courts through adversarial proceedings. No government censorship authority is created.
+
+> [Download this document](https://github.com/albertintech/apai/blob/main/docs/amendments/fpsa/introduction.md) (opens on GitHub -- click the download button)
+
+*Last revised April 2026*
 
 ---
 
