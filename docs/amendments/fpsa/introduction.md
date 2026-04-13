@@ -4,7 +4,7 @@
 
 ### Published April 2026
 
-Based on Rev 1.2 of the Free and Protected Speech Amendment
+Based on Rev 1.3 of the Free and Protected Speech Amendment
 
 ---
 
@@ -31,6 +31,8 @@ The Amendment takes its name deliberately. "Free and Protected Speech" replaces 
 - **Procedural Safeguards** -- All speech regulation must be content-neutral, subject to immediate judicial review with the burden on the government, supported by clear and convincing evidence of falsity, and accompanied by automatic stays of enforcement pending appeal.
 
 - **Enforcement and Review** -- Enforcement authority under this Amendment is vested exclusively in courts of competent jurisdiction through adversarial judicial proceedings. No executive department, administrative agency, or officer of the United States may initiate enforcement outside of such proceedings. Speech regulations carry a five-year sunset. An independent oversight body reviews enforcement patterns annually to prevent viewpoint discrimination.
+
+- **Legislative Requirements** -- Any law restricting or penalizing speech pursuant to this Amendment must include, in the enrolled bill, an express section of findings establishing that the regulated conduct falls within an authorized category, employs the least restrictive means available, addresses a concrete and demonstrable harm, and is neutral across viewpoints and political factions. Courts may not defer to findings that are conclusory, unsupported by the legislative record, or irreconcilable with the enacted law's design or operation. Laws imposing criminal penalties for regulated speech additionally require passage by three-fifths of all Members duly elected and qualified in each chamber.
 
 - **Limitation on Rights** -- Rights under this Amendment do not protect speech deliberately designed to undermine democratic institutions through coordinated disinformation, nor do they shield foreign state actors conducting information warfare against the United States.
 
