@@ -4,7 +4,7 @@
 
 ### Published April 2026
 
-Based on Rev 1.0 of the Elected Office Qualifications Amendment (EOQA)
+Based on Rev 2.0 of the Elected Office Qualifications Amendment (EOQA)
 
 ---
 
@@ -16,11 +16,13 @@ The federal government now manages annual expenditures exceeding $6 trillion, em
 
 The natural-born citizen requirement compounds the problem. It excludes approximately 23 million naturalized Americans from presidential eligibility based on birthplace -- a characteristic that provides no signal about fitness for office and that the excluded citizens cannot change. Many of these individuals have served in Congress, the Cabinet, the federal judiciary, and as governors. They have passed a civics examination, sworn an oath of allegiance, and chosen American citizenship through affirmative commitment. The Constitution trusts them with every responsibility of governance except the one the public might elect them to hold.
 
+The Constitution also contains almost no disqualification standards for federal office. Beyond the Fourteenth Amendment's narrow insurrection clause, a person convicted of bribery, corruption, fraud, sexual assault, or violent crime faces no constitutional barrier to seeking or holding any federal elected office. The Framers relied on informal social screening -- personal reputation in small communities where voters knew candidates directly -- to filter candidates of disreputable character. That mechanism has broken down entirely in the era of national elections, mass media, and party-dominated candidate selection.
+
 ## The Amendment's Approach
 
-The Amendment, hereafter referred to as "the EOQA," replaces the existing qualification framework with a progressive structure that scales requirements proportionally with the power and responsibility of each office. It applies two core principles: earned qualifications are superior to inherited status, and qualification standards should reflect the authority an office commands.
+The Amendment, hereafter referred to as "the EOQA," replaces the existing qualification framework with a progressive structure that scales requirements proportionally with the power and responsibility of each office. It applies three core principles: earned qualifications are superior to inherited status, qualification standards should reflect the authority an office commands, and eligibility requires maintaining the standard of conduct that public trust demands.
 
-The EOQA establishes a unified matrix of citizenship duration, residency duration, and public service requirements across three tiers -- House, Senate, and Presidency -- while retaining the original age thresholds. It eliminates the natural-born citizen requirement, opening the Presidency to all citizens who meet the earned qualification standards. And it addresses a structural gap in presidential succession by ensuring that persons who assume presidential authority through succession meet the same qualification standards imposed on candidates who seek the office through election.
+The EOQA establishes a unified matrix of citizenship duration, residency duration, and public service requirements across three tiers -- House, Senate, and Presidency -- while retaining the original age thresholds. It eliminates the natural-born citizen requirement, opening the Presidency to all citizens who meet the earned qualification standards. It addresses a structural gap in presidential succession by ensuring that persons who assume presidential authority through succession meet the same qualification standards imposed on candidates who seek the office through election. And it establishes universal disqualification standards identifying specific categories of formally adjudicated conduct that are incompatible with public trust, calibrating consequences to the nature of the conduct through a two-tier framework of permanent and rehabilitative disqualification.
 
 ## Part-by-Part Summary
 
@@ -46,15 +48,29 @@ The EOQA defines legal residency through civic ties -- domicile, tax filing, and
 
 ### Part IV: Presidential Succession Eligibility
 
-The EOQA establishes that no person may exercise presidential powers through succession or acting capacity unless they meet the qualifications for President established in Part III. Persons in the line of succession who do not meet these standards are bypassed in favor of the next eligible person. This provision applies to all forms of succession, whether constitutional or statutory.
+The EOQA establishes that no person may exercise presidential powers through succession or acting capacity unless they meet the qualifications for President established in Part III and are not disqualified under Part V. Persons in the line of succession who do not meet these standards are bypassed in favor of the next eligible person. This provision applies to all forms of succession, whether constitutional or statutory.
 
 The bypass mechanism is narrowly designed. Bypassed officers retain their existing positions and authorities. The Speaker of the House remains Speaker; the Secretary of State remains Secretary of State. They simply cannot exercise presidential powers. The EOQA regulates who may hold presidential authority, not who may hold other offices.
 
-### Part V: Effective Date and Transition
+### Part V: Universal Disqualification Standards
+
+The EOQA establishes uniform disqualification standards for all offices it governs. The framework is organized around a trust-nexus principle: only conduct bearing a direct relationship to the qualities public office demands triggers constitutional disqualification. The EOQA identifies three categories of disqualifying conduct, structured in two tiers.
+
+The first tier is permanent disqualification. Crimes of dishonesty and breach of trust -- including fraud, deceit, breach of fiduciary duty, abuse of official authority, bribery, extortion, and corruption -- are permanently disqualifying because they represent direct betrayals of the institutional trust that public office demands. Crimes of sexual abuse -- including sexual assault, sexual exploitation, and offenses requiring sex offender registration -- are permanently disqualifying because they demonstrate fundamental unfitness to exercise authority over others. For both categories, the only restoration pathway is reversal of the conviction on appeal. No executive pardon, commutation, or act of clemency restores eligibility.
+
+The second tier is rehabilitative disqualification. Crimes of violence -- defined as offenses involving the use, attempted use, or threatened use of physical force against the person of another -- disqualify temporarily. Eligibility restores automatically once the person has completed all terms of the sentence (including incarceration, supervised release, probation, and community supervision), five years have elapsed since completion, and no new felony conviction has occurred during that period. If a new felony occurs during the five-year period, the clock resets. The rehabilitative pathway reflects the EOQA's position that violence is serious enough to warrant constitutional disqualification but does not permanently define a person's relationship to institutional power in the way corruption or sexual exploitation does.
+
+Removal from any public office through a proceeding whose final determination required a supermajority vote or equivalent institutional consensus mechanism is also disqualifying. Removal by simple majority, partisan vote, or popular recall election does not disqualify. Removal by judicial tribunal qualifies as an institutional consensus mechanism. Eligibility may be restored by a two-thirds vote of the removing body.
+
+All criminal disqualifications require conviction following the full protections of the criminal process. No person may be disqualified on the basis of accusation, arrest, indictment, investigation, or civil judgment alone. The EOQA applies to both felonies and misdemeanors for all criminal categories, grounding disqualification in the nature of the conduct rather than in how any particular jurisdiction classifies the offense.
+
+Congress may expand the categories of disqualifying conduct but may not narrow or create exceptions to the constitutional standards. Any category Congress adds must include a rehabilitative restoration pathway; Congress may not create new categories of permanent disqualification beyond those the EOQA itself establishes. The EOQA operates alongside the Fourteenth Amendment, Section 3, without superseding or modifying it.
+
+### Part VI: Effective Date and Transition
 
 The EOQA takes effect on the first day of January following two years after ratification. Congress may stagger implementation across up to four years, provided no requirement takes effect earlier than the general effective date.
 
-The EOQA explicitly supersedes the existing qualification provisions: Article I, Section 2, Clause 2 (House qualifications), Article I, Section 3, Clause 3 (Senate qualifications), and Article II, Section 1, Clause 5 (presidential qualifications, including the natural-born citizen requirement). All other constitutional provisions remain in full force and effect. A severability clause ensures that if any provision is invalidated, the remaining provisions continue to operate.
+The EOQA explicitly supersedes the existing qualification provisions: Article I, Section 2, Clause 2 (House qualifications), Article I, Section 3, Clause 3 (Senate qualifications), and Article II, Section 1, Clause 5 (presidential qualifications, including the natural-born citizen requirement). The disqualification standards of Part V apply to all offices governed by the EOQA and supersede any contrary provision of law. All other constitutional provisions remain in full force and effect. A severability clause ensures that if any provision is invalidated, the remaining provisions continue to operate.
 
 See the full amendment text and policy rationale for complete details.
 
@@ -63,13 +79,24 @@ See the full amendment text and policy rationale for complete details.
 <!--
 ## Revision History
 
-**Revision 1.0** (Current)
+**Revision 1.1** (Current)
+- Updated "Based on" line to reference EOQA Rev 2.0
+- Added disqualification gap paragraph to The Problem section
+- Updated The Amendment's Approach to include third core principle and disqualification framework summary
+- Added Part V: Universal Disqualification Standards to Part-by-Part Summary, covering two-tier structure, trust-nexus principle, rehabilitative pathway, conviction requirement, congressional expansion constraints, and Fourteenth Amendment coexistence
+- Updated Part IV summary to include Part V disqualification cross-reference
+- Renumbered former Part V (Effective Date and Transition) to Part VI
+- Updated Part VI summary to include Part V supersession language
+
+**Revision 1.0**
 - Initial publication
 -->
 
 *Revision history available in the raw file.*
 
 > [Download this document](https://github.com/albertintech/apai/blob/main/docs/amendments/eoqa/overview.md) (opens on GitHub -- click the download button)
+
+*Last revised April 2026*
 
 ---
 
