@@ -26,7 +26,7 @@ Preparing thoughtful options for eventual consideration is not radical -- it is 
 
 The following represent APAI's constitutional design studies:
 
-- **Elected Office Qualifications Amendment (EOQA)** -- Replaces the Constitution's original qualification standards for federal elected office with a progressive framework scaling citizenship, residency, and public service requirements to the power of each office. Eliminates the natural-born citizen requirement for the Presidency.
+- **Elected Office Qualifications Amendment (EOQA)** -- Replaces the Constitution's original qualification standards for federal elected office with a progressive framework scaling citizenship, residency, and public service requirements to the power of each office. Eliminates the natural-born citizen requirement for the Presidency. Establishes uniform disqualification standards for all offices governed by the Amendment, covering removal from public office through consensus-mechanism proceedings, crimes of dishonesty and breach of trust, crimes of sexual abuse, and crimes of violence -- with a rehabilitative restoration pathway for the latter category.
 
 > [Download this document](https://github.com/albertintech/apai/blob/main/docs/amendments/eoqa/introduction.md) (opens on GitHub -- click the download button)
 
