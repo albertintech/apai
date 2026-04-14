@@ -2,7 +2,7 @@
 
 ## A Proposal to Modernize Federal Office Qualifications and Establish Equal Eligibility for All Citizens
 
-### Revision 2.0
+### Revision 3.4
 
 ---
 
@@ -114,35 +114,70 @@ Legal residency for Senate candidates is defined according to the same standards
 
 ### Section 4. Public Service Requirements
 
-#### (a) Qualifying Public Service
+#### (a) Qualifying Institution Standard
 
-"Qualifying public service" includes but is not limited to:
+"Qualifying public service" means service performed within or on behalf of a qualifying public institution. An institution qualifies under this section only if it satisfies all three of the following criteria simultaneously:
 
-1. Service in federal, state, or local government in any capacity, whether elected, appointed, or employed;
-2. Military service in any branch of the United States Armed Forces;
-3. Service in the Peace Corps, AmeriCorps, or similar national service programs;
-4. Teaching in public schools or state universities;
-5. Healthcare work in public hospitals, community health centers, or rural healthcare;
-6. Emergency response services (fire, emergency medical, disaster relief);
-7. Public interest legal work;
-8. Social work in public agencies or nonprofit organizations;
-9. Infrastructure and public works projects;
-10. Conservation and environmental protection work;
-11. Community development and urban planning work;
-12. Any other service Congress may designate by law as qualifying public service.
+**1. Public Governance**
+The institution is governed by publicly elected officials, or by officials appointed through a formal public appointment process subject to democratic oversight. An institution governed solely by a self-selecting private board does not satisfy this criterion regardless of its tax status, charitable mission, or public benefit claims.
 
-#### (b) Service Hour Calculation
+**2. Public Funding**
+The institution is primarily funded through public appropriations, taxes, or fees authorized by statute. Receipt of competitive grants, contracts, or donations from public sources does not alone satisfy this criterion; primary funding must flow from public appropriations or taxation.
 
-1. Both paid employment and volunteer service count equally toward the requirement;
-2. Full-time service (40+ hours per week) counts as 2,000 hours per year;
-3. Part-time service counts proportionally;
-4. Service as a U.S. Representative counts as 2,000 hours per year;
-5. Multiple simultaneous service activities do not accumulate additional hours beyond actual hours worked;
-6. Congress may by law establish standards for verifying and documenting service hours.
+**3. Public Accountability**
+The institution is subject to public records laws, open meetings requirements, or equivalent statutory transparency obligations applicable to government bodies. Voluntary transparency practices or self-imposed disclosure policies do not satisfy this criterion.
 
-#### (c) Timing of Service
+An institution that satisfies all three criteria is a qualifying public institution regardless of whether it is formally organized as a government agency, public authority, or other entity. An institution that fails any one of the three criteria is not a qualifying public institution, regardless of its stated mission, nonprofit status, or public benefit.
 
-Public service hours may be accumulated at any time in a candidate's life, including before satisfying citizenship duration requirements, and need not be continuous.
+#### (b) Illustrative Qualifying Service
+
+The following categories illustrate institutions and settings that ordinarily satisfy the qualifying institution standard. Service in any capacity within a qualifying institution counts toward the requirement regardless of the specific role, function, or job title held. This list is illustrative, not exhaustive. Satisfaction of the three-part test in subsection (a) is the operative standard.
+
+1. Federal, state, tribal, or local government agencies and offices, in any capacity, whether elected, appointed, or employed as a civil servant;
+2. The United States Armed Forces or the National Guard, in any capacity;
+3. The Peace Corps, AmeriCorps, or other national service programs established and administered by federal statute, in any capacity;
+4. Public elementary, secondary, or post-secondary educational institutions funded primarily through public appropriations, in any capacity;
+5. Public hospitals, federally qualified community health centers, Veterans Administration facilities, or other healthcare institutions primarily funded through public appropriations, in any capacity;
+6. Municipal fire departments, public emergency medical services, or government-administered disaster relief programs, in any capacity;
+7. Government agencies or public authorities engaged in infrastructure, public works, or conservation, in any capacity;
+8. Government-funded legal services agencies subject to public accountability obligations, in any capacity;
+9. Any other institution Congress may designate by law, provided the institution satisfies the three-part standard of subsection (a).
+
+#### (c) Exclusions
+
+The following do not constitute qualifying public service regardless of mission, intent, public benefit, or tax status:
+
+1. Service in private nonprofit organizations, foundations, or charitable entities, including those whose missions are oriented toward public benefit;
+2. Service in privately governed institutions that receive public grants or contracts as a minority or competitive share of their funding;
+3. Service in private political campaigns, party organizations, or advocacy groups;
+4. Service on private corporate boards, private professional associations, or private advisory bodies, including advisory bodies to government agencies whose members serve without appointment through a formal public process;
+5. Self-employment or entrepreneurial activity, regardless of the social or community benefit of the enterprise;
+6. Service that primarily benefits private individuals, families, or corporations rather than the general public, even if organized through a public institution.
+
+#### (d) Rationale
+
+The qualifying institution standard is grounded in the nature of the experience the public service requirement is designed to capture, not in the social value of any particular form of work. Private organizations -- including nonprofits -- are governed by self-selecting boards, funded primarily through private sources, and accountable primarily to their own internal governance structures. The constraints they impose on those who work within them are fundamentally different from the constraints imposed by public institutions: democratic oversight, public records obligations, appropriations limits, statutory authority, and accountability to elected officials. Operating within those constraints is itself a form of civic preparation that private-sector and nonprofit experience does not replicate.
+
+The requirement does not measure the social value of a candidate's life work. It measures whether a candidate has operated within the accountability structures of democratic governance. The three-part test identifies that experience with specificity and without exception.
+
+#### (e) Service Hour Calculation
+
+1. Both paid employment and volunteer service within qualifying public institutions count equally toward the requirement;
+2. No more than forty hours of qualifying service may be counted in any single calendar week, regardless of actual hours worked. Hours worked beyond forty in any calendar week are not counted toward the requirement;
+3. The forty-hour weekly cap establishes a constitutional minimum period of not less than fifty weeks of full-time equivalent service necessary to satisfy the two thousand hour requirement. No service schedule, congressional designation, or administrative interpretation may reduce this minimum period;
+4. Part-time service counts proportionally toward the weekly forty-hour maximum;
+5. Service as a U.S. Representative counts as forty hours per week for each week of service;
+6. Multiple simultaneous qualifying service activities do not accumulate additional hours beyond the forty-hour weekly maximum;
+7. Congress may by law establish standards for verifying and documenting service hours;
+8. Congress may by law increase the minimum hours required or reduce the weekly maximum below forty hours, but may not reduce the minimum hours below two thousand or raise the weekly maximum above forty hours. The two thousand hour floor and forty-hour weekly cap are constitutional minimums that no legislation may diminish.
+
+#### (f) Timing of Service
+
+Public service hours may be accumulated at any time in a candidate's life, including before satisfying citizenship duration requirements, and need not be continuous. Qualifying hours do not expire. Hours accumulated decades prior to a candidacy count equally with recently accumulated hours. No provision of law may impose an expiration date, recency requirement, or depreciation schedule on qualifying public service hours.
+
+#### (g) Verification
+
+Congress shall by law establish procedures for verifying and documenting qualifying public service hours. No person may be denied eligibility on the basis of verification procedures alone. Verification serves the public's informational interest and does not constitute an additional qualification for office. The constitutional qualification is satisfaction of the two thousand hour threshold within qualifying public institutions as defined in this section. No administrative process, documentation standard, or verification procedure may substitute its own determination for that constitutional standard or operate so as to render the qualification functionally inaccessible to candidates who have genuinely satisfied it.
 
 ---
 
@@ -392,7 +427,19 @@ Congress shall have power to enforce this Amendment by appropriate legislation.
 <!--
 ## Revision History
 
-**Revision 2.0** (Current)
+**Revision 3.4** (Current)
+- Replaced Part II, Section 4 public service definition in its entirety
+- Replaced enumerated category list with a three-part qualifying institution standard: public governance, public funding, and public accountability; all three criteria must be satisfied simultaneously
+- Service in any capacity within a qualifying institution counts regardless of role or job title; illustrative list points at institutions and settings, not job functions
+- Removed nonprofit organizations as a qualifying category; nonprofits excluded regardless of mission or tax status
+- Added explicit exclusions subsection (c)
+- Added rationale subsection (d) as embedded policy record
+- Replaced hour calculation language with a hard forty-hour weekly cap; hours above forty in any calendar week are not counted; establishes constitutional minimum of fifty weeks of full-time equivalent service
+- Added congressional enforcement direction: Congress may tighten but not loosen the two thousand hour floor or forty-hour weekly cap
+- Expanded subsection (f) to explicitly state that qualifying hours do not expire and that no provision of law may impose an expiration date, recency requirement, or depreciation schedule
+- Added subsection (g) delegating verification procedures to Congress while protecting candidates from eligibility denial through administrative gatekeeping; clarifies that verification does not constitute an additional qualification for office
+
+
 - Added Part V: Universal Disqualification Standards
 - Establishes two-tier disqualification framework: permanent (crimes of dishonesty/corruption, crimes of sexual abuse) and rehabilitative (crimes of violence)
 - Crimes of violence defined as offenses involving the use, attempted use, or threatened use of physical force against the person of another
