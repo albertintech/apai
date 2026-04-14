@@ -4,7 +4,7 @@
 
 ### Published April 2026
 
-Based on Rev 2.0 of the Elected Office Qualifications Amendment (EOQA)
+Based on Rev 3.4 of the Elected Office Qualifications Amendment (EOQA)
 
 ---
 
@@ -36,11 +36,15 @@ The citizenship duration of five years is a reduction from the current seven-yea
 
 Senate candidates must be at least thirty years old, have been citizens for at least ten years, have maintained legal residency in their state for at least ten years, and have completed at least two thousand hours of qualifying public service. The citizenship duration increases modestly from the current nine years to ten, aligning with the EOQA's progressive 5/10/15 structure.
 
-The public service requirement is broadly defined. Qualifying service includes government employment at any level, military service, teaching, healthcare, emergency response, social work, nonprofit work, conservation, community development, and any additional categories Congress may designate. Both paid and volunteer service count equally. Hours may be accumulated at any point in a candidate's life and need not be continuous. Two thousand hours is equivalent to approximately one year of full-time work.
+The public service requirement is built around a qualifying institution standard. An institution qualifies only if it satisfies all three of the following criteria simultaneously: it is governed by publicly elected or publicly appointed officials subject to democratic oversight; it is primarily funded through public appropriations, taxes, or fees authorized by statute; and it is subject to public records laws, open meetings requirements, or equivalent statutory transparency obligations. All three criteria must be met. Private organizations -- including nonprofits -- do not qualify regardless of mission, tax status, or public benefit claims.
+
+Service in any capacity within a qualifying institution counts toward the requirement, regardless of role or job title. Both paid and volunteer service count equally. Hours may be accumulated at any time in a candidate's life, need not be continuous, and do not expire. No more than forty hours per calendar week may be counted, establishing a constitutional minimum of approximately fifty weeks of full-time equivalent service -- roughly one year of a person's life. Congress may tighten but not loosen the two thousand hour floor or the forty-hour weekly cap.
+
+The EOQA delegates verification procedures to Congress but explicitly protects candidates from eligibility denial through administrative gatekeeping. Verification serves the public's informational interest; it does not constitute an additional qualification for office.
 
 ### Part III: Qualifications for President
 
-Presidential candidates must be at least thirty-five years old, have been citizens for at least fifteen years, have maintained legal residency in the United States for at least fifteen years, and have completed at least two thousand hours of qualifying public service. The natural-born citizen requirement is eliminated. All citizens -- native-born and naturalized -- who meet these standards are eligible.
+Presidential candidates must be at least thirty-five years old, have been citizens for at least fifteen years, have maintained legal residency in the United States for at least fifteen years, and have completed at least two thousand hours of qualifying public service under the same institutional standard and hour calculation rules established in Part II. The natural-born citizen requirement is eliminated. All citizens -- native-born and naturalized -- who meet these standards are eligible.
 
 For naturalized citizens, the citizenship and residency requirements run concurrently from the date of naturalization. A naturalized citizen who arrives at age twenty and maintains continuous U.S. residency could be eligible for the Presidency by age thirty-five.
 
@@ -79,7 +83,12 @@ See the full amendment text and policy rationale for complete details.
 <!--
 ## Revision History
 
-**Revision 1.1** (Current)
+**Revision 2.0** (Current)
+- Updated "Based on" line to reference EOQA Rev 3.4
+- Replaced Part II public service description with qualifying institution standard summary: three-part test (public governance, public funding, public accountability), all three required simultaneously; private organizations including nonprofits excluded regardless of mission or tax status; service in any capacity counts; forty-hour weekly cap establishing constitutional minimum of approximately fifty weeks; non-expiration of hours; congressional tighten-but-not-loosen enforcement direction; verification protection summary
+- Updated Part III to cross-reference Part II institutional standard and hour calculation rules rather than restating independently
+
+**Revision 1.1**
 - Updated "Based on" line to reference EOQA Rev 2.0
 - Added disqualification gap paragraph to The Problem section
 - Updated The Amendment's Approach to include third core principle and disqualification framework summary
