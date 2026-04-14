@@ -4,7 +4,7 @@
 
 ### Published April 2026
 
-Based on Rev 2.0 of the Elected Office Qualifications Amendment (EOQA)
+Based on Rev 3.4 of the Elected Office Qualifications Amendment (EOQA)
 
 ---
 
@@ -86,6 +86,26 @@ A lower threshold -- five hundred or one thousand hours -- was considered for th
 
 Thresholds above two thousand hours were considered and rejected because they would disproportionately exclude younger candidates and career-changers while providing diminishing marginal returns in filtering. A candidate who has committed one year of full-time equivalent service has demonstrated a meaningful civic orientation. Requiring two, three, or five years begins to function as a career-path restriction rather than a commitment filter, excluding the private-sector executive who spent a year teaching before entering business, or the entrepreneur who volunteered extensively while building a company. The Amendment is designed to filter vanity candidates, not to prescribe career trajectories.
 
+### Nonprofit Organizations as Qualifying Entities
+
+Prior versions of the Amendment included service in nonprofit organizations as a qualifying category, alongside government employment, military service, and other forms of public service. This approach was revised and nonprofits were removed entirely from the qualifying categories.
+
+The rationale for their original inclusion was intuitive: nonprofits often serve public purposes, their workers frequently forgo higher private-sector compensation to do so, and the range of nonprofit activity -- social services, healthcare, conservation, community development -- overlaps substantially with the work of public agencies. A nonprofit social worker and a public agency social worker may do indistinguishable work on a day-to-day basis.
+
+The rationale for their removal is structural. Nonprofit status is a tax classification, not a governance characteristic. A nonprofit is a privately governed entity -- its board is self-selecting, its accountability runs internally, and it faces no mandatory transparency obligations equivalent to those that govern public institutions. The experience of working within a nonprofit, however meaningful, does not replicate the experience of working within an institution that must answer to elected officials, comply with public records laws, and operate within democratically determined appropriations limits.
+
+Retaining nonprofits also created a specific and foreseeable vulnerability: the emergence of purpose-built organizations designed primarily to generate qualifying hours for candidates with no genuine engagement with public institutions. A wealthy family, aware of the requirement and wanting to ensure their child's eligibility, could establish or fund a nonprofit through which the child accumulates hours in an environment that is structurally indistinguishable from a private organization. This cottage industry dynamic was specifically identified as a risk that the prior language failed to foreclose.
+
+The three-part institutional test -- public governance, public funding, and public accountability, all three required simultaneously -- addresses this vulnerability at its root by making organizational structure the operative standard rather than mission or tax status.
+
+### Hour Compression Without a Weekly Cap
+
+An earlier version of the hour calculation provision counted all hours worked within qualifying institutions without a weekly maximum. Under that approach, a candidate working sixty or seventy hours per week could satisfy the two thousand hour requirement in fewer than eight months of intensive service, then spend the remainder of their career entirely in private life.
+
+This approach was revised to include a forty-hour weekly cap after analysis identified a compression gaming dynamic: a strategic candidate could concentrate all required hours into a brief, intensive sprint timed to clear the threshold, treating the requirement as a numerical target rather than a measure of sustained civic engagement. The cap was designed to ensure the requirement measures approximately one year of a person's life -- not a technical achievement, but a genuine period of immersion in public institutions.
+
+The cap also has a practical justification independent of gaming concerns. Public institutions generally operate on standard working schedules. Counting sixty or seventy-hour weeks as if they represented proportionally greater civic engagement would privilege candidates who happened to work in high-intensity environments over those who served consistently and professionally at standard hours. The forty-hour cap standardizes the measurement across different service environments.
+
 ### Omitting the Succession Bypass
 
 Including no succession provision was considered, on the theory that the Amendment should remain maximally narrow and that succession is a separate structural question. This approach was rejected because it creates an obvious gap: if the Amendment establishes that the Presidency requires fifteen years of citizenship, fifteen years of residency, and two thousand hours of public service, but a person who meets none of these requirements can assume presidential powers through statutory succession, the Amendment's standards are not merely incomplete -- they are structurally incoherent. The bypass provision closes this gap without redesigning succession itself.
@@ -122,11 +142,57 @@ The 5/5, 10/10, 15/15 structure for citizenship and residency creates a parallel
 
 The public service requirement -- zero hours for the House, two thousand hours for the Senate and Presidency -- incentivizes civic engagement without creating barriers at the entry level. House candidates face no service requirement, ensuring the broadest possible democratic access to the office closest to the people. The requirement activates at the Senate and Presidential levels, where individual officeholders exercise substantially greater authority and where demonstrated public commitment provides a meaningful signal of civic orientation.
 
-The broad definition of qualifying public service -- encompassing government employment, military service, teaching, healthcare, emergency response, social work, conservation, and other categories -- ensures that no single career pathway is privileged. A military veteran, a public school teacher, a volunteer firefighter, and a nonprofit social worker all accumulate qualifying hours. Congress retains authority to designate additional categories by law, providing flexibility to recognize new forms of public service as they emerge.
+#### The Qualifying Institution Standard
 
-The legal residency definition -- emphasizing civic ties through domicile, tax filing, and voting registration rather than continuous physical presence -- ensures that candidates are not penalized for international experience. Military deployment, diplomatic service, education abroad, and temporary employment relocation do not interrupt residency. This design reflects the reality that experience outside one's home jurisdiction often enhances rather than diminishes fitness for office.
+The Amendment's public service requirement is built around a qualifying institution standard rather than an enumerated list of job functions or organizational categories. An institution qualifies only if it satisfies all three of the following criteria simultaneously: public governance, meaning it is governed by publicly elected or publicly appointed officials subject to democratic oversight; public funding, meaning it is primarily funded through public appropriations, taxes, or fees authorized by statute; and public accountability, meaning it is subject to public records laws, open meetings requirements, or equivalent statutory transparency obligations. All three criteria must be met. Satisfaction of any one or two is insufficient.
 
-For naturalized citizens, the fifteen-year citizenship and residency requirements for the Presidency run concurrently. A naturalized citizen arriving at age twenty could serve in the House by twenty-eight, the Senate by thirty-three, and the Presidency by forty. The timeline is longer than for native-born citizens, but the differential reflects time-in-country rather than birthplace -- and every requirement is achievable for committed candidates from any background.
+This structure reflects a specific judgment about what the requirement is designed to measure. The Presidency and the Senate are not merely positions of influence -- they are offices embedded within the accountability structures of democratic governance. A Senator is subject to constituent oversight, public disclosure, civil service colleagues, committee structures, statutory authority, and the appropriations process. These constraints shape how public institutions operate and what it means to work within them. The requirement exists to ensure that candidates have experienced those constraints firsthand -- not as observers or critics of government, but as participants in it.
+
+Private organizations -- including nonprofits -- are governed by self-selecting boards, funded primarily through private sources, and accountable primarily to their own internal governance structures. The constraints they impose on those who work within them are fundamentally different. A nonprofit can choose its beneficiaries, pivot its mission, and fire its board without public recourse. A public institution cannot. That difference is not incidental -- it is the whole point of the requirement.
+
+The qualifying institution standard also applies uniformly regardless of role or job title. Service in any capacity within a qualifying institution counts toward the requirement. A candidate who spent a year doing facilities maintenance at a public hospital accumulates qualifying hours on the same terms as one who served as a department director. The requirement does not privilege prestigious roles within public institutions over unglamorous ones. It asks only whether the person showed up and worked within a publicly governed, publicly funded, publicly accountable institution.
+
+#### Why Nonprofits Were Removed as a Qualifying Category
+
+Prior versions of the Amendment included nonprofit organizations as a broadly qualifying category. This approach was revised for a structural reason: nonprofit status is a tax classification, not a governance characteristic. A nonprofit is a privately governed entity whose accountability runs primarily to its own board. It may do important work. It may serve the public. But the experience of working within it does not replicate the experience of working within a public institution -- an institution that must answer to elected officials, comply with public records obligations, and operate within appropriations limits set by democratic processes.
+
+The practical consequence of retaining nonprofits as a qualifying category became apparent upon examination. A candidate could satisfy the entire public service requirement through work in organizations that are structurally identical to private corporations in their governance and accountability -- organizations with self-appointed boards, private funding, and no mandatory transparency obligations -- provided those organizations happened to hold nonprofit tax status and claimed a public-benefit mission. This created an obvious vulnerability: the emergence of purpose-built organizations designed to generate qualifying hours for wealthy candidates with no genuine engagement with public institutions. Removing nonprofits as a qualifying category closes this vulnerability entirely.
+
+This change does not penalize candidates who chose meaningful nonprofit work as their primary vocation. It recalibrates the requirement around what the requirement was always designed to measure: demonstrated experience operating within the accountability structures of democratic governance.
+
+#### The Requirement Is Not Anti-Wealth or Anti-Business
+
+The qualifying institution standard does not screen out candidates who have built successful private careers. It screens out candidates whose entire life -- regardless of wealth or success -- was structured around private accumulation with no meaningful engagement with public institutions.
+
+The distinction is illustrated clearly by comparing two candidates who were both mayors of major American cities and successful private-sector figures before their candidacies. A candidate who spent over a decade governing a major city -- managing public agencies, working within appropriations constraints, accountable to millions of constituents -- easily satisfies the requirement regardless of their prior business success or personal wealth. The requirement does not ask how much money a candidate made. It asks whether they have ever worked within a publicly governed institution. A wealthy candidate who has done so answers yes. A wealthy candidate who has not cannot answer yes by pointing to private success, however substantial.
+
+This is the correct outcome. The Presidency is not a reward for private achievement. It is an office that demands familiarity with the constraints, accountability structures, and operating environment of democratic governance. The requirement ensures a baseline of that familiarity without prescribing a career path or penalizing success.
+
+#### The Forty-Hour Weekly Cap
+
+The Amendment caps countable qualifying hours at forty per calendar week. Hours worked beyond forty in any calendar week are not counted toward the requirement. This cap establishes a constitutional floor of not less than fifty weeks of full-time equivalent service -- approximately one year of a person's life -- as the minimum period necessary to satisfy the two thousand hour requirement.
+
+The cap exists to prevent compression gaming: the strategic concentration of all two thousand hours into a brief, intensive sprint designed to satisfy the requirement's numerical threshold while minimizing actual engagement with public institutions. Without the cap, a candidate could theoretically satisfy the requirement in fewer than thirteen months of continuous sixty-hour weeks, then spend the remainder of their career entirely in private life. The cap ensures the requirement measures a year of a person's life, not an intensive sprint followed by permanent disengagement.
+
+Congress may tighten the cap -- reducing the weekly maximum below forty hours, thereby extending the minimum period -- but may not loosen it. The two thousand hour floor and the forty-hour weekly cap are constitutional minimums that no legislation may diminish.
+
+#### Non-Expiration of Qualifying Hours
+
+Qualifying hours do not expire. Hours accumulated decades before a candidacy count equally with recently accumulated hours. No provision of law may impose an expiration date, recency requirement, or depreciation schedule on qualifying public service hours.
+
+The non-expiration rule reflects the Amendment's understanding of what the service requirement measures. The requirement is not a currency test -- it does not ask whether a candidate's public service experience is current or recent. It is a threshold test for civic orientation: proof that at some point in their life, a candidate chose to work within a public institution. That demonstrated commitment does not have a shelf life.
+
+The non-expiration rule also has an important equity dimension. People from working-class and middle-class backgrounds often complete public service earlier in life -- military service, public hospital work, government employment -- before economic pressures push them toward higher-paying private careers. An expiration requirement would disproportionately burden candidates whose public service came out of necessity or early civic commitment rather than strategic timing. The Amendment is designed to recognize and honor that service regardless of when it occurred.
+
+Currency of experience -- whether a candidate's public sector engagement is recent enough to be operationally relevant -- is a legitimate consideration for voters to weigh. It is not a constitutional eligibility question. Voters retain the independent judgment to factor the age and nature of a candidate's public service record into their electoral decisions. The Amendment sets the floor; voters evaluate everything above it.
+
+#### Verification Cannot Become a Gatekeeping Mechanism
+
+The Amendment explicitly delegates verification procedures to Congress while insulating the underlying qualification from administrative gatekeeping. The constitutional qualification is satisfaction of the two thousand hour threshold within qualifying public institutions. No administrative process, documentation standard, or verification procedure may substitute its own determination for that constitutional standard or operate so as to render the qualification functionally inaccessible to candidates who have genuinely satisfied it.
+
+This protection responds to a demonstrated failure mode in federal benefit programs. The Public Service Loan Forgiveness program established a genuine qualifying standard -- ten years of public sector employment with 120 qualifying payments -- but implemented it through administrative procedures so technically demanding that for years the approval rate was below two percent. Thousands of borrowers who genuinely met the underlying standard were denied because of loan type classifications, repayment plan technicalities, and documentation requirements that had no relationship to whether they had actually worked in public service for a decade.
+
+The Amendment forecloses this outcome by constitutional text. A candidate who genuinely served two thousand hours in qualifying public institutions satisfies the requirement. The government cannot build a documentation labyrinth that produces a different answer. Verification serves the public's informational interest -- voters deserve to know whether a candidate's service claims are documented -- but it does not constitute an additional qualification for office. The standard is in the Amendment. The paperwork is downstream of the standard, not equivalent to it.
 
 ### Part IV: Presidential Succession Eligibility
 
@@ -212,15 +278,43 @@ The Amendment operates alongside the Fourteenth Amendment, Section 3, without su
 
 ### "This Raises the Bar for Office and Limits Democratic Choice"
 
-The Amendment both raises and lowers bars, depending on the office and the candidate. For House candidates, the citizenship duration increases from seven years to five (a reduction), the age threshold remains unchanged, and no service requirement is added -- the bar is lower in one dimension and unchanged in others. For Senate candidates, the citizenship duration increases from nine years to ten and a service requirement is added -- the bar is modestly higher. For the Presidency, the bar is higher on citizenship duration and residency (fifteen years versus the current fourteen years of residency, with no current citizenship duration beyond the natural-born requirement) and adds a service requirement -- but it simultaneously removes the natural-born clause, opening the Presidency to 23 million Americans currently excluded by birthplace alone.
+The Amendment both raises and lowers bars, depending on the office and the candidate. For House candidates, the citizenship duration decreases from seven years to five (a reduction), the age threshold remains unchanged, and no service requirement is added -- the bar is lower in one dimension and unchanged in others. For Senate candidates, the citizenship duration increases from nine years to ten and a service requirement is added -- the bar is modestly higher. For the Presidency, the bar is higher on citizenship duration and residency (fifteen years versus the current fourteen years of residency, with no current citizenship duration beyond the natural-born requirement) and adds a service requirement -- but it simultaneously removes the natural-born clause, opening the Presidency to 23 million Americans currently excluded by birthplace alone.
 
 The net effect is a framework that is more demanding of demonstrated commitment but more inclusive of who can demonstrate it. That is not a restriction on democratic choice; it is a rebalancing of what democratic choice requires.
 
 ### "The Service Requirement Is Discriminatory"
 
-The two-thousand-hour threshold is achievable through an exceptionally broad range of pathways: military service, teaching, government employment at any level, healthcare work, emergency response, social work, volunteer service, nonprofit work, conservation, community development, and any additional category Congress designates. Both paid employment and volunteer service count equally. Part-time service counts proportionally. Hours may be accumulated at any point in a candidate's life, need not be continuous, and may predate citizenship.
+The two thousand hour threshold is achievable through an exceptionally broad range of pathways: military service, government employment at any level, national service programs, work within public educational institutions, public healthcare facilities, public emergency services, public infrastructure and conservation agencies, and government-funded legal services. Both paid employment and volunteer service count equally. Part-time service counts proportionally. Hours may be accumulated at any point in a candidate's life, need not be continuous, and may predate citizenship.
+
+The requirement is deliberately institution-focused rather than role-focused. Service in any capacity within a qualifying public institution counts toward the threshold regardless of job title or function. A candidate who drove a school bus for a public school district, staffed a front desk at a VA facility, or worked maintenance at a city hall accumulates qualifying hours on the same terms as a candidate who served as a senior administrator. The Amendment does not privilege prestigious roles within public institutions over unglamorous ones.
 
 A candidate who cannot identify two thousand hours of qualifying service across their entire lifetime -- equivalent to one year of full-time work -- has not been excluded by the requirement. They have been identified by it.
+
+### "The Requirement Discriminates Against Successful or Wealthy Candidates"
+
+It does not. The requirement distinguishes between candidates whose lives included meaningful engagement with public institutions and candidates whose lives did not. Wealth and success in the private sector are orthogonal to that distinction.
+
+A candidate who built a successful private career and also spent a meaningful period working within public institutions -- governing a city, serving in the military, working in a public hospital, teaching in a public school -- satisfies the requirement regardless of their wealth. The requirement does not ask how much money a candidate made. It asks whether they ever chose to work within a publicly governed institution.
+
+The most relevant illustration is a candidate who spent over a decade as mayor of a major American city after building a substantial private fortune. Such a candidate easily satisfies the requirement. Their wealth is irrelevant; their demonstrated engagement with public governance is what matters. The requirement accommodates this profile precisely because it is built around institutional experience, not financial status.
+
+What the requirement does screen out is the profile of a candidate whose entire adult life -- however financially successful -- was devoted exclusively to private accumulation with no engagement with public institutions whatsoever. This is the correct outcome. The Amendment's position is that the Senate and the Presidency demand at minimum a year of firsthand familiarity with public institutions, their constraints, and their accountability structures. Private success, however impressive, is not a substitute.
+
+### "Wealthy Families Will Simply Engineer Their Children's Qualifying Hours"
+
+They may. That outcome is not only tolerable but desirable. A family that knows about the requirement and plans their child's life accordingly will, under the Amendment's framework, direct that child through congressional offices, public school classrooms, VA facilities, municipal agencies, or military service. The child will accumulate qualifying hours by actually working within public institutions. That is exactly what the requirement intends.
+
+The Amendment does not screen for pure motives. It screens for actual experience. A candidate who worked in a congressional office because their family arranged it, and a candidate who worked in a congressional office because they sought it out independently, have both worked in a congressional office. The Amendment treats them identically because what they learned about public governance is identical. The motivation is irrelevant to the civic preparation the experience provides.
+
+The more important observation is that prior to the Amendment, a wealthy family seeking to advance their child's political prospects faced no comparable requirement. The Amendment changes the incentive structure: families that want to give their children a path to the Senate or Presidency now have a specific reason to expose them to public institutions early in life. The secondary effect is a class of future candidates who have at some point in their lives worked alongside civil servants, learned how public budgets operate, and experienced governance from the inside -- regardless of the strategic motivation that put them there.
+
+### "The Verification Mechanism Could Deny Eligibility to Qualified Candidates"
+
+The Amendment explicitly guards against this outcome. The constitutional qualification is satisfaction of the two thousand hour threshold within qualifying public institutions. Congress is delegated authority to establish verification procedures, but those procedures may not substitute their own determination for the constitutional standard or operate so as to render the qualification functionally inaccessible to candidates who have genuinely satisfied it.
+
+The Public Service Loan Forgiveness program provides the relevant cautionary example. That program established a genuine qualifying standard -- ten years of public sector employment with 120 qualifying payments -- but implemented it through administrative procedures so technically demanding that the approval rate for years remained below two percent. Thousands of borrowers who genuinely met the underlying standard were denied on the basis of loan type classifications and repayment plan technicalities that had no relationship to whether they had actually served in public employment for a decade.
+
+The Amendment forecloses this outcome by constitutional text. Verification serves the public's informational interest -- voters are entitled to know whether a candidate's service claims are documented -- but it does not constitute an additional qualification for office. The standard is in the Amendment. The paperwork is downstream of the standard. No administrative process may confuse the two.
 
 ### "Why Change Qualification Standards That Have Worked for Over Two Centuries?"
 
@@ -257,7 +351,14 @@ The Amendment rejects this position for structural reasons. A pardon is an act o
 <!--
 ## Revision History
 
-**Revision 1.1** (Current)
+**Revision 2.0** (Current)
+- Updated "Based on" line to reference EOQA Rev 3.4
+- Revised Parts I-III: Progressive Qualification Matrix section to reflect the qualifying institution standard; added subsections explaining the three-part test, why nonprofits were removed, the non-discrimination rationale, the forty-hour weekly cap, non-expiration of hours, and the verification gatekeeping protection
+- Added Alternatives Considered entries: Nonprofit Organizations as Qualifying Entities; Hour Compression Without a Weekly Cap
+- Replaced "The Service Requirement Is Discriminatory" addressing concerns entry with revised version reflecting institution-focused rather than category-focused framework
+- Added new addressing concerns entries: "The Requirement Discriminates Against Successful or Wealthy Candidates"; "Wealthy Families Will Simply Engineer Their Children's Qualifying Hours"; "The Verification Mechanism Could Deny Eligibility to Qualified Candidates"
+
+
 - Updated "Based on" line to reference EOQA Rev 2.0
 - Added third design principle (fitness for public trust / disqualification calibration) to Design Philosophy
 - Added "The Disqualification Gap" subsection to Problem Analysis
