@@ -4,17 +4,17 @@
 
 ### Published April 2026
 
-Based on Rev 2.0 of the Elected Office Qualifications Amendment (EOQA)
+Based on Rev 3.4 of the Elected Office Qualifications Amendment (EOQA)
 
 ---
 
 The Elected Office Qualifications Amendment replaces the constitutional qualification standards for federal elected office -- originally set in 1788 and never updated -- with a progressive framework that scales citizenship duration, residency, and public service requirements proportionally with the power of each office. It eliminates the natural-born citizen requirement for the Presidency, opening the office to all citizens who meet the earned qualification standards. It establishes universal disqualification standards identifying specific categories of formally adjudicated conduct that are incompatible with public trust, structured in two tiers: permanent disqualification for crimes of dishonesty, corruption, and sexual abuse, and rehabilitative disqualification for crimes of violence.
 
-The Amendment retains the original age thresholds of twenty-five, thirty, and thirty-five for the House, Senate, and Presidency respectively. It establishes a parallel structure of 5/5, 10/10, and 15/15 years for citizenship and residency across the three tiers. Senate and presidential candidates must complete at least two thousand hours of qualifying public service -- broadly defined to include government employment, military service, teaching, healthcare, emergency response, volunteer work, and other categories. House candidates face no service requirement, preserving the broadest democratic access at the entry level.
+The Amendment retains the original age thresholds of twenty-five, thirty, and thirty-five for the House, Senate, and Presidency respectively. It establishes a parallel structure of 5/5, 10/10, and 15/15 years for citizenship and residency across the three tiers. Senate and presidential candidates must complete at least two thousand hours of qualifying public service within qualifying public institutions -- defined as institutions that are publicly governed, primarily publicly funded, and subject to public records or equivalent transparency obligations. Private organizations, including nonprofits, do not qualify regardless of mission or tax status. Service in any capacity within a qualifying institution counts equally. Hours do not expire and may be accumulated at any time in a candidate's life. No more than forty hours per calendar week may be counted, establishing a constitutional minimum of approximately one year of full-time equivalent service. House candidates face no service requirement, preserving the broadest democratic access at the entry level.
 
 ## Key Components
 
-- **Progressive Qualification Matrix (Parts I-III)** -- Establishes scaled citizenship, residency, and public service requirements for the House, Senate, and Presidency, replacing the Constitution's uniform and minimal standards with thresholds proportionate to each office's authority.
+- **Progressive Qualification Matrix (Parts I-III)** -- Establishes scaled citizenship, residency, and public service requirements for the House, Senate, and Presidency, replacing the Constitution's uniform and minimal standards with thresholds proportionate to each office's authority. The public service requirement is grounded in a three-part qualifying institution standard -- public governance, public funding, and public accountability -- all three required simultaneously. Hours do not expire, are capped at forty per calendar week, and may not be denied through administrative gatekeeping. Congress may tighten but not loosen the constitutional minimums.
 
 - **Natural-Born Citizen Clause Elimination (Part III)** -- Removes the birthplace-based restriction on presidential eligibility, replacing it with a fifteen-year citizenship and residency standard achievable by all citizens regardless of national origin.
 
