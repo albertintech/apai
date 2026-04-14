@@ -2,7 +2,7 @@
 
 ## A Proposal to Modernize Federal Office Qualifications and Establish Equal Eligibility for All Citizens
 
-### Revision 1.1
+### Revision 2.0
 
 ---
 
@@ -17,6 +17,8 @@ The constitutional qualifications for federal elected office were written for a 
 The natural-born citizen requirement compounds this failure. It bars approximately twenty-three million naturalized Americans from the Presidency based solely on birthplace -- a circumstance they cannot change and that provides no signal about fitness for office. These citizens have passed a civics examination, sworn an oath of allegiance, and chosen American citizenship through affirmative commitment. The Constitution trusts them with every responsibility of governance except the one the public might elect them to hold.
 
 The purpose of this Amendment is to replace inherited eligibility with earned eligibility. Requirements should scale with the power and responsibility of each office. Citizenship should reflect commitment, not birthplace. The standards by which Americans determine who may seek their highest offices should reflect the republic they actually inhabit -- not the one that existed two and a half centuries ago.
+
+Earned eligibility requires not only meeting affirmative qualifications but maintaining the standard of conduct that public trust demands. Persons whose conduct has been formally adjudicated incompatible with that trust shall not hold the offices this Amendment governs.
 
 ---
 
@@ -214,11 +216,11 @@ The requirement that the President be a natural-born citizen is eliminated. All 
 
 ### Section 1. Qualification Requirement for Succession
 
-No person shall exercise the powers and duties of the office of President through any mechanism of succession or acting capacity who does not meet the qualifications for President established in Part III of this Amendment.
+No person shall exercise the powers and duties of the office of President through any mechanism of succession or acting capacity who does not meet the qualifications for President established in Part III of this Amendment or who is disqualified under Part V of this Amendment.
 
 ### Section 2. Bypass Provision
 
-Any person in the line of presidential succession who does not meet the qualifications established in Part III shall be bypassed in favor of the next eligible person in the line of succession.
+Any person in the line of presidential succession who does not meet the qualifications established in Part III, or who is disqualified under Part V, shall be bypassed in favor of the next eligible person in the line of succession.
 
 ### Section 3. Scope
 
@@ -226,7 +228,132 @@ This Part applies to all forms of presidential succession, whether established b
 
 ---
 
-## PART V: EFFECTIVE DATE AND TRANSITION
+## PART V: UNIVERSAL DISQUALIFICATION STANDARDS
+
+### Section 1. Purpose
+
+This Part establishes uniform standards of fitness for federal office. The offices governed by this Amendment carry the public's trust and confidence. Persons whose conduct has been formally adjudicated incompatible with that trust through processes demonstrating institutional consensus, or whose criminal conduct has been established through the full protections of the judicial process, shall not be eligible to hold or seek any office governed by this Amendment except as provided in this Part.
+
+### Section 2. Disqualifying Conditions
+
+No person shall be eligible to hold or seek any office governed by this Amendment who:
+
+#### (a) Removal from Office
+
+Has been removed from any federal, state, local, or tribal public office through a formal removal proceeding whose final determination required a supermajority vote or equivalent institutional consensus mechanism. Removal by partisan vote, plurality, simple majority, or popular recall election does not disqualify under this subsection. Removal by a judicial tribunal constitutes an institutional consensus mechanism for purposes of this subsection.
+
+For purposes of this subsection, "final determination" means the step in the removal proceeding that effectuates the removal itself, not any prior procedural step, including initiation, investigation, or referral to a trial body.
+
+#### (b) Criminal Disqualification -- Crimes of Violence
+
+Has been convicted in a court of competent jurisdiction of any offense, regardless of classification as a felony or misdemeanor, involving the use, attempted use, or threatened use of physical force against the person of another.
+
+Disqualification under this subsection is subject to the rehabilitative restoration provisions of Section 5(c).
+
+#### (c) Criminal Disqualification -- Crimes of Dishonesty and Breach of Trust
+
+Has been convicted in a court of competent jurisdiction of any offense, regardless of classification as a felony or misdemeanor, involving:
+
+1. Dishonesty, fraud, or deceit;
+2. Breach of fiduciary duty;
+3. Abuse of official authority or position of trust; or
+4. Bribery, extortion, or corruption.
+
+#### (d) Criminal Disqualification -- Crimes of Sexual Abuse
+
+Has been convicted in a court of competent jurisdiction of any offense, regardless of classification as a felony or misdemeanor, involving:
+
+1. Sexual abuse;
+2. Sexual assault;
+3. Sexual exploitation; or
+4. Any offense requiring registration as a sex offender under federal or state law.
+
+### Section 3. Conviction Requirement
+
+#### (a) Judicial Determination Required
+
+For purposes of Section 2(b), 2(c), and 2(d), disqualification requires conviction in a court of competent jurisdiction following the full protections of the criminal process, including the right to counsel, the presumption of innocence, and proof beyond a reasonable doubt. No person shall be disqualified on the basis of accusation, allegation, arrest, indictment, investigation, civil judgment, media reporting, or public belief alone.
+
+#### (b) Institutional Determination Required
+
+For purposes of Section 2(a), disqualification requires completion of a formal removal proceeding whose final determination met the supermajority or institutional-consensus-mechanism standard established in that subsection. No person shall be disqualified on the basis of a pending proceeding, a proceeding that did not result in removal, or a removal effectuated by a process that did not meet the institutional-consensus-mechanism standard.
+
+#### (c) Pending Proceedings
+
+No person shall be disqualified under this Part on the basis of pending criminal charges or pending removal proceedings. Disqualification attaches only upon the completion of the relevant proceeding as specified in subsections (a) and (b).
+
+### Section 4. Scope of Application
+
+#### (a) Offices Covered
+
+This Part applies to all offices whose qualifications are established by this Amendment:
+
+1. Representative in the House of Representatives;
+2. Senator in the United States Senate;
+3. President of the United States.
+
+#### (b) Candidates and Officeholders
+
+The disqualification standards of this Part apply equally to persons seeking office and to persons currently holding office. A person who becomes disqualified while holding office is subject to removal through the procedures applicable to that office.
+
+#### (c) Succession and Acting Capacity
+
+No person who is disqualified under this Part shall exercise the powers and duties of any office governed by this Amendment through any mechanism of succession or acting capacity.
+
+### Section 5. Restoration of Eligibility
+
+#### (a) No Congressional Waiver
+
+Congress shall have no power to waive or override the disqualification standards established in this Part for any individual.
+
+#### (b) Permanent Disqualifications
+
+A person disqualified under Section 2(c) or 2(d) may have their eligibility restored only by reversal of the conviction on appeal by a court of competent jurisdiction. No executive pardon, commutation, or act of clemency shall restore eligibility under this Part.
+
+#### (c) Rehabilitative Restoration -- Crimes of Violence
+
+A person disqualified under Section 2(b) shall have their eligibility automatically restored upon satisfaction of all of the following conditions:
+
+1. The person has completed all terms of the sentence imposed for the disqualifying offense, including any period of incarceration, supervised release, probation, parole, or community supervision;
+2. A period of not less than five years has elapsed since the completion of all terms of the sentence; and
+3. The person has not been convicted of any felony during the period specified in paragraph (2).
+
+If the person is convicted of a new felony during the five-year period specified in paragraph (2), the period resets and begins again upon the completion of all terms of the sentence for the new offense, subject to any independent disqualification that the new conviction may trigger under Section 2.
+
+#### (d) Removal Disqualifications
+
+A person disqualified under Section 2(a) may have their eligibility restored only by a two-thirds vote of the body whose final determination effectuated the removal, expressly restoring the person's eligibility for federal office.
+
+#### (e) Expungement
+
+Expungement of a criminal record under state or federal law does not restore eligibility under this Part. For permanent disqualifications under Section 2(c) or 2(d), eligibility may be restored only as provided in subsection (b). For rehabilitative disqualifications under Section 2(b), eligibility is restored only upon satisfaction of the conditions specified in subsection (c), regardless of whether the underlying record has been expunged.
+
+### Section 6. Congressional Enforcement
+
+#### (a) Implementing Legislation
+
+Congress shall have power to enforce this Part by appropriate legislation, including but not limited to:
+
+1. Establishing procedures for determining whether a candidate or officeholder is disqualified;
+2. Designating the Federal Election Commission or other appropriate body to administer disqualification determinations;
+3. Establishing procedures for challenges to eligibility;
+4. Defining additional categories of disqualifying offenses consistent with the standards and purposes of this Part.
+
+#### (b) No Reduction of Standards
+
+Congress may expand the categories of disqualifying conduct beyond those enumerated in Section 2 but may not narrow, limit, or create exceptions to the disqualification standards established in this Part.
+
+#### (c) Rehabilitative Limitation on Expansion
+
+Any additional category of disqualifying offense established by Congress under subsection (a)(4) shall include a rehabilitative restoration pathway no less favorable than that provided in Section 5(c). Congress shall not establish categories of permanent disqualification beyond those enumerated in Section 2(c) and 2(d).
+
+### Section 7. Relationship to Existing Constitutional Provisions
+
+The disqualification standards of this Part operate alongside Section 3 of the Fourteenth Amendment to the Constitution of the United States. This Part does not supersede, limit, or modify the disqualification provisions of Section 3 of the Fourteenth Amendment or the power of Congress thereunder.
+
+---
+
+## PART VI: EFFECTIVE DATE AND TRANSITION
 
 ### Section 1. Effective Date
 
@@ -247,7 +374,8 @@ The following constitutional provisions are superseded by this Amendment:
 
 1. **Article I, Section 2, Clause 2** (House qualifications) -- superseded by Part I;
 2. **Article I, Section 3, Clause 3** (Senate qualifications) -- superseded by Part II;
-3. **Article II, Section 1, Clause 5** (Presidential qualifications including natural-born citizen requirement) -- superseded by Part III.
+3. **Article II, Section 1, Clause 5** (Presidential qualifications including natural-born citizen requirement) -- superseded by Part III;
+4. The disqualification standards of Part V apply to all offices governed by this Amendment and supersede any contrary provision of law.
 
 All other constitutional provisions remain in full force and effect.
 
@@ -264,7 +392,21 @@ Congress shall have power to enforce this Amendment by appropriate legislation.
 <!--
 ## Revision History
 
-**Revision 1.1** (Current)
+**Revision 2.0** (Current)
+- Added Part V: Universal Disqualification Standards
+- Establishes two-tier disqualification framework: permanent (crimes of dishonesty/corruption, crimes of sexual abuse) and rehabilitative (crimes of violence)
+- Crimes of violence defined as offenses involving the use, attempted use, or threatened use of physical force against the person of another
+- Rehabilitative restoration: automatic upon completion of all terms of sentence plus five years with no new felony conviction; clock resets on new felony
+- Permanent disqualifications restorable only by reversal of conviction on appeal; no executive pardon, commutation, or clemency restores eligibility
+- Removal-based disqualification requires supermajority or institutional consensus mechanism; simple majority and popular recall excluded; judicial tribunal included
+- Congressional expansion authority limited to rehabilitative categories only; Congress may not create new permanent disqualification categories
+- Explicit coexistence clause with Fourteenth Amendment, Section 3
+- Updated Part IV Sections 1 and 2 to cover both non-qualification and disqualification in succession bypass
+- Added trust-and-confidence paragraph to Preamble
+- Former Part V (Effective Date and Transition) renumbered to Part VI
+- Added item 4 to Part VI, Section 2 (Superseded Provisions)
+
+**Revision 1.1**
 - Added standalone short title citation line per APAI Document Production Standards Rev 2.6
 - Added Preamble per APAI Document Production Standards Rev 2.6
 - No substantive changes to constitutional provisions
