@@ -2,7 +2,7 @@
 
 ## A Bill to Modernize the Federal Judiciary, Establish Population-Based Judicial Circuits, Align Supreme Court Composition with Circuit Organization, and Ensure Balanced Representation
 
-### Revision 2.3
+### Revision 2.4
 
 ---
 
@@ -22,31 +22,23 @@ Congress finds that:
 
 3. Congress has constitutional authority under Article III and the Necessary and Proper Clause to organize and structure the federal judiciary to ensure efficient administration of justice;
 
-4. The current federal circuit system reflects historical boundaries rather than population distribution, creating unequal representation and workload disparities;
+4. The current federal circuit system reflects historical boundaries rather than population distribution, producing population disparities exceeding ten to one between the largest and smallest circuits, creating unequal access to federal justice and workload imbalances across the judiciary, and the constitutional tradition of Supreme Court justices serving as circuit justices establishes a representational relationship between regional circuits and the Court that is best served when each regional circuit corresponds to one Supreme Court justice, yet the Court has maintained nine justices since 1869 despite the subsequent creation of additional circuits and more than a tenfold increase in national population;
 
-5. The Supreme Court has maintained nine justices since 1869, despite the creation of additional federal circuits and dramatic population growth;
+5. The timing and number of Supreme Court appointments depend on actuarial chance rather than constitutional design, producing arbitrary disparities in appointment opportunities among presidents unrelated to their electoral mandates;
 
-6. The constitutional tradition of Supreme Court justices serving as circuit justices creates a direct representational relationship between regional circuits and the Supreme Court, with optimal judicial administration achieved when each regional circuit is served by one Supreme Court justice;
+6. The single-nominee confirmation process reduces the Senate's constitutional role to a binary acceptance or rejection of a single candidate, incentivizing partisan obstruction and elevating each vacancy to a high-stakes confrontation;
 
-7. Regular and predictable judicial appointments promote constitutional balance and reduce partisan manipulation of the appointment process;
+7. Nominees to the Supreme Court frequently lack extensive public records of legal reasoning, and the appointment process provides no systematic mechanism to ensure that nominees' judicial philosophies and analytical methods are available for evaluation by the Senate and the public;
 
-8. Clear definition of judicial duties and responsibilities promotes effective court administration and public confidence in the judiciary;
+8. The Supreme Court's capacity to interpret law within a complex democratic society is strengthened by epistemic diversity -- incorporating the perspectives and experiences of career judges, legal scholars, experienced legislators, executive branch legal officers, practitioners, and individuals whose professional formation includes direct engagement with the communities and conditions the law affects;
 
-9. The Senate's "Advice and Consent" power is most effectively exercised when nominees possess robust and transparent records of legal reasoning available for public evaluation, and when the Senate selects from among multiple qualified candidates rather than rendering a binary judgment on a single nominee;
+9. The position of Chief Justice concentrates administrative, ceremonial, and institutional power in a single individual who may hold that role for decades, without rotation or structural accountability to colleagues;
 
-10. The current system creates arbitrary advantages for presidents based on actuarial chance rather than constitutional design;
+10. Under life tenure without structured career phases, the duration of a justice's influence depends on individual health and longevity rather than constitutional design, creating an incentive for presidents to prioritize the youth of nominees over qualifications and experience;
 
-11. The position of Chief Justice should be shared among justices as a capstone to distinguished service rather than concentrating administrative power in a single individual for decades;
+11. The duties, responsibilities, and career phases of Supreme Court justices lack clear statutory definition, leaving institutional expectations dependent on informal norms;
 
-12. A structured career path for Supreme Court justices -- progressing from Associate Justice to Co-Chief Justice to Senior Justice -- provides clarity, dignity, and predictability while preserving life tenure under Article III;
-
-13. Public confidence in the federal judiciary requires transparent and enforceable standards of ethical conduct applicable to all federal judges, including Justices of the Supreme Court;
-
-14. Epistemic diversity -- incorporating the perspectives of career judges, legal scholars, experienced legislators, executive branch legal officers, and practitioners -- strengthens the Court's capacity to interpret law within a complex democratic society;
-
-15. A slate-based nomination process in which the President presents multiple qualified candidates and the Senate selects from among them transforms the confirmation process from an adversarial gatekeeping function into a collaborative selection function, reducing partisan obstruction incentives while preserving both presidential nomination authority and Senate advice and consent;
-
-16. Scored voting methods that permit senators to express degrees of support across multiple nominees produce outcomes more reflective of collective Senate judgment than binary confirmation votes on individual nominees.
+12. The Supreme Court is the only court in the federal judiciary not subject to binding ethical standards and enforceable accountability mechanisms, and public confidence in the judiciary requires transparent and enforceable standards of ethical conduct applicable to all federal judges, including justices of the Supreme Court;
 
 ### (b) Purposes
 
@@ -54,27 +46,23 @@ The purposes of this Act are to:
 
 1. Establish population-based federal judicial circuits to ensure equal representation;
 
-2. Align Supreme Court composition with regional circuit organization to restore constitutional balance between Court size and judicial administration;
+2. Align Supreme Court composition with regional circuit organization to restore the constitutional relationship between Court size and judicial administration;
 
-3. Create predictable and fair judicial appointment processes;
+3. Create predictable and equalized judicial appointment processes to ensure that each president exercises comparable influence on the Court's composition;
 
-4. Define the duties and responsibilities of federal judicial offices;
+4. Establish a slate-based nomination and scored voting selection process to transform judicial confirmation into a collaborative function of shared constitutional authority;
 
-5. Establish transparency and documentation requirements that ensure nominees possess evaluable records of legal reasoning;
+5. Establish transparency and documentation requirements to ensure that nominees possess evaluable records of legal reasoning;
 
-6. Enhance transparency in the judicial appointment process;
+6. Ensure that the Supreme Court draws from diverse professional pathways and experiential backgrounds to strengthen the Court's institutional capacity;
 
-7. Ensure optimal utilization of judicial experience and expertise;
+7. Establish shared leadership of the Supreme Court through rotating Co-Chief Justice service;
 
-8. Restore constitutional balance among the branches of government;
+8. Establish a three-phase career structure for Supreme Court justices to provide clarity, dignity, and predictability across each phase of judicial service;
 
-9. Diffuse the concentration of power in the Chief Justice position through shared leadership among Co-Chief Justices;
+9. Define the duties and responsibilities of federal judicial offices;
 
-10. Establish a dignified three-phase career structure for Supreme Court justices that removes the nation's constitutional future from dependence on individual justices' health and longevity;
-
-11. Establish binding ethical standards and accountability mechanisms for the Supreme Court that preserve judicial independence while ensuring that no Justice is above the rule of law;
-
-12. Replace the binary single-nominee confirmation model with a slate-based selection process that structurally incentivizes cooperation between the President and the Senate while preventing partisan obstruction of judicial appointments.
+10. Establish binding ethical standards and accountability mechanisms for the Supreme Court to ensure that no justice is exempt from the rule of law;
 
 ## SECTION 3: DEFINITIONS
 
@@ -1046,9 +1034,28 @@ Nothing in this Title shall be construed to immunize any person from criminal li
 
 ---
 
+<!--
 ## Revision History
 
-**Revision 2.3** (Current)
+**Revision 2.4** (Current)
+- Reorganized Section 2(a) Findings into two tiers: three constitutional authority predicates (Findings 1-3, unchanged) followed by ten diagnostic findings (Findings 4-12), each paired with a corresponding purpose
+- Consolidated former Findings 4, 5, and 6 into new Finding 4 (circuit population disparities, circuit justice tradition, and static Court size as a unified diagnostic predicate)
+- Rewrote former Finding 10 with specificity as new Finding 5 (actuarial appointment disparities)
+- Split former Finding 9: binary confirmation dysfunction to new Finding 6, transparency deficit to new Finding 7
+- Expanded former Finding 14 to include experiential diversity alongside epistemic diversity as new Finding 8
+- Rewrote former Finding 11: removed prescriptive content, developed diagnostic content on Chief Justice power concentration as new Finding 9
+- Rewrote former Finding 12: removed prescriptive content, developed diagnostic content on longevity dependence and actuarial selection bias as new Finding 10
+- Rewrote and rescoped former Finding 8 as new Finding 11 (absence of statutory duty definitions)
+- Strengthened former Finding 13 as new Finding 12 (absence of binding ethics standards)
+- Retired former Findings 7, 15, and 16 as standalone entries; substantive content absorbed into diagnostic findings and purposes
+- Reorganized Section 2(b) Purposes from twelve to ten entries, each paired 1:1 with Findings 4-12 (Finding 4 supports Purposes 1 and 2)
+- All purposes rewritten in consistent action-oriented voice with embedded diagnostic rationale removed
+- Consolidated former Purposes 5 and 6 into new Purpose 5
+- Rescoped former Purpose 7 to epistemic and experiential diversity as new Purpose 6
+- Removed former Purpose 8 (overbroad); substance distributed across other purposes
+- Rewrote former Purpose 12 as new Purpose 4 (slate-based selection)
+
+**Revision 2.3**
 - Added Section 503(b)(4): Senior Justices currently assigned to vacancy coverage rotation under Section 205 are ineligible for Ethics Review Panel service during the rotation assignment; Bridge Panel fills resulting shortfalls
 - Amended Section 507(a) to exclude Senior Justices on vacancy coverage rotation from en banc appellate review, with Bridge Panel backstop at a three-member minimum
 - Amended Section 508(a) to broaden Bridge Panel trigger beyond transition period to include vacancy rotation exclusions, recusals, and combinations thereof; extended Bridge Panel coverage to en banc appellate body
@@ -1215,8 +1222,13 @@ Nothing in this Title shall be construed to immunize any person from criminal li
 - Creates predictable judicial appointment schedule
 - Defines qualifications and transparency requirements
 - Implements phased expansion and regular replacement schedule
+-->
 
-> 📄 [Download this document](https://github.com/albertintech/apai/blob/main/docs/judiciary/fjbaa/legislative-text.md) (opens on GitHub -- click the ⬇ download button)
+*Revision history available in the raw file.*
+
+> 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/judiciary/fjbaa/legislative-text.md) (opens on GitHub -- click the download button)
+
+*Last revised April 2026*
 
 ---
 
