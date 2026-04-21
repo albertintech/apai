@@ -252,7 +252,7 @@ These tradeoffs reflect the Act's broader design philosophy, expressed in the Fo
 
 ---
 
-## Notes on Sources and Citations
+## Works Cited
 
 This evaluation draws on the following primary sources:
 
@@ -268,16 +268,25 @@ This evaluation draws on the following primary sources:
 
 ---
 
+<!--
 ## Revision History
 
-**Revision 1.0** (Current)
+**Revision 1.1** (Current)
+- DPS Rev 2.7 structural alignment: wrapped revision history in HTML comment block, added revision history note, added last revised line, standardized download link format, renamed file to Production Convention, renamed "Notes on Sources and Citations" to "Works Cited"
+
+**Revision 1.0**
 - Initial publication
 - Comprehensive evaluation of FJBAA Rev 2.2 against all nine Chilton et al. design decisions
 - Comparative analysis with Amar Time-Rule, Renewal Act, Justices on Deck, and Khanna Bill
 - Assessment of Act features beyond the Chilton framework: principled Court sizing, transparency requirements, ethics enforcement, Co-Chief Justice leadership, and circuit reorganization
 - Identification of areas requiring further empirical modeling
+-->
 
-> 📄 [Download this document](https://github.com/albertintech/apai/blob/main/docs/judiciary/fjbaa/chilton-framework-evaluation.md) (opens on GitHub -- click the ⬇ download button)
+*Revision history available in the raw file.*
+
+> 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/judiciary/fjbaa/chilton-framework-evaluation.md) (opens on GitHub -- click the download button)
+
+*Last revised April 2026*
 
 ---
 
