@@ -162,9 +162,13 @@ U.S. Congressional Research Service. "Proposals to Modify Supreme Court Justices
 
 ---
 
+<!--
 ## Revision History
 
-**Revision 1.1** (Current)
+**Revision 1.2** (Current)
+- DPS Rev 2.7 structural alignment: wrapped revision history in HTML comment block, added revision history note, added last revised line, standardized download link format, renamed file to Production Convention
+
+**Revision 1.1**
 - Added "Nominee pool dignity and the end of actuarial selection" paragraph to The Case for Twelve Years section, following the three-phase career structure integration argument
 - Explains how life tenure creates actuarial selection bias that systematically devalues older, more experienced nominees; twelve-year terms eliminate this distortion entirely while eighteen-year terms reduce but do not eliminate it
 - Added "Nominee pool effect" row to Side-by-Side Comparison table after "Age at transition" row
@@ -176,8 +180,13 @@ U.S. Congressional Research Service. "Proposals to Modify Supreme Court Justices
 - Incorporates historical tenure data, comparative institutional evidence, and structural integration analysis
 - Addresses arguments favoring terms longer than 18 years
 - Draws on Chilton et al. framework, Calabresi-Lindgren thesis, Sherry-Sundby critique, and FJBAA documentation suite
+-->
 
-> ðŸ“„ [Download this document](https://github.com/albertintech/apai/blob/main/docs/judiciary/fjbaa/the-case-for-twelve-years.md) (opens on GitHub -- click the â¬‡ download button)
+*Revision history available in the raw file.*
+
+> 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/judiciary/fjbaa/the-case-for-twelve-years.md) (opens on GitHub -- click the download button)
+
+*Last revised April 2026*
 
 ---
 
