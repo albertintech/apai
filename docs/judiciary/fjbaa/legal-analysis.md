@@ -307,8 +307,6 @@ The strongest argument against is that the Appointments Clause entrusts advice a
 
 The practical dynamic is also relevant: the Act creates strong structural incentives for the Senate to engage with the Bloc STAR procedure rather than resorting to slate rejection. As analyzed in the Policy Rationale, participation in scored voting is the strategically dominant response for both majority and minority parties. A Senate that consistently rejects slates and triggers resubmission cycles gains nothing -- each new slate excludes previously rejected nominees, the 30-day resubmission clock creates pressure, and the public scoring requirement makes obstruction visible and costly. The architecture makes the statutory framework self-enforcing through incentive alignment rather than requiring judicial enforcement of Senate compliance.
 
-A parallel analysis applies on the presidential side. The slate minimum requirement -- that the President submit at least n × 2 nominees per available position -- is novel, as no prior statutory framework has required the President to nominate multiple candidates for a single appointment. A theoretical challenge might argue that the Appointments Clause vests nomination power exclusively in the President and that Congress cannot dictate how many individuals the President presents. This argument has some textual basis but faces significant practical and justiciability obstacles. The slate minimum is the structural floor necessary for the selection mechanism to function; a single nominee would collapse the process back into binary confirmation, defeating the legislative purpose. Moreover, the only party with standing to challenge the minimum is the President, and the claimed injury -- being required to nominate more people to the Supreme Court than desired -- is one no rational President would assert. Nomination power is among the most consequential presidential authorities, and the slate structure amplifies rather than diminishes its exercise: the carryover nominee mechanism (Section 202(f)) means that additional nominees represent a strategic investment, building a bench of pre-vetted candidates eligible for abbreviated consideration on future slates. A President who nominates above the minimum gains influence across multiple appointment cycles. The result mirrors the Senate-side dynamic analyzed in the Policy Rationale as an "ornamental gun" -- the constitutional objection exists formally but the architecture makes it structurally irrational to raise. Both the Senate's slate rejection authority and the President's theoretical objection to the slate minimum are powers rendered ornamental by the incentive structure surrounding them.
-
 ---
 
 ## Transparency and Documentation Requirements
@@ -576,7 +574,7 @@ Before reaching merits, courts must determine whether plaintiffs have standing t
 
 **Appointments Clause claim.** Challengers might argue that automatic Co-Chief Justice status unconstitutionally bypasses presidential nomination power. This claim has some textual basis but faces significant counterarguments -- the justice has already been appointed through the constitutional process, the Co-Chief Justice designation merely reassigns duties among already-appointed justices, and the Ceremonial Chief Justice designation preserves a presidential role in determining who exercises the constitutionally specified function of presiding over impeachment trials.
 
-**Slate nomination and Bloc STAR claim.** Challengers might argue that the slate requirement constrains presidential nomination discretion by requiring multiple nominees, or that the Bloc STAR voting procedure invades Senate rulemaking authority under Article I, Section 5. The nomination claim is weak given the explicit preservation of presidential discretion (Section 202(a)(5)) and faces a threshold justiciability problem: the only party with standing to challenge the slate minimum is the President, and the structural incentives make such a challenge irrational (see Risk Assessment under Slate-Based Nomination). The Senate rulemaking claim has more force but faces the precedent of statutory frameworks that structure Senate procedures (budget reconciliation, TPA, War Powers Resolution) and the Act's preservation of Senate authority over slate rejection threshold and internal procedural mechanics.
+**Slate nomination and Bloc STAR claim.** Challengers might argue that the slate requirement constrains presidential nomination discretion by requiring multiple nominees, or that the Bloc STAR voting procedure invades Senate rulemaking authority under Article I, Section 5. The nomination claim is weak given the explicit preservation of presidential discretion (Section 202(a)(5)). The Senate rulemaking claim has more force but faces the precedent of statutory frameworks that structure Senate procedures (budget reconciliation, TPA, War Powers Resolution) and the Act's preservation of Senate authority over slate rejection threshold and internal procedural mechanics.
 
 **Separation of powers claim.** Challengers might argue that the Act's combination of provisions impermissibly restructures the judicial branch. This claim would need to identify specific constitutional violations rather than generalized separation of powers concerns.
 
@@ -642,11 +640,11 @@ The ultimate constitutional assessment will depend on how courts balance textual
 
 ---
 
+<!--
 ## Revision History
 
 **Revision 2.3** (Current)
-- Added presidential-side standing and justiciability analysis to Slate-Based Nomination Risk Assessment: slate minimum requirement is structurally self-justifying and practically unchallengeable because only the President has standing and structural incentives make the challenge irrational; cross-references Policy Rationale "ornamental gun" analysis as a parallel symmetry between Senate and presidential theoretical objections
-- Updated Anticipated Challenges: added standing/justiciability cross-reference to slate nomination and Bloc STAR claim
+- DPS Rev 2.7 structural alignment: wrapped revision history in HTML comment block, added revision history note, added last revised line, standardized download link format, renamed file to Production Convention
 
 **Revision 2.2**
 - Updated reference line to reflect FJBAA Rev 2.2
@@ -744,8 +742,13 @@ The ultimate constitutional assessment will depend on how courts balance textual
 
 **Revision 1.1**
 - Initial publication based on FJBAA Rev 1.1
+-->
 
-> ðŸ“„ [Download this document](https://github.com/albertintech/apai/blob/main/docs/judiciary/fjbaa/legal-analysis.md) (opens on GitHub -- click the â¬‡ download button)
+*Revision history available in the raw file.*
+
+> 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/judiciary/fjbaa/legal-analysis.md) (opens on GitHub -- click the download button)
+
+*Last revised April 2026*
 
 ---
 
