@@ -530,9 +530,13 @@ If the Act is enacted during the presidential term beginning in January 2029, Ye
 
 ---
 
+<!--
 ## Revision History
 
-**Revision 2.2** (Current)
+**Revision 2.3** (Current)
+- DPS Rev 2.7 structural alignment: wrapped revision history in HTML comment block, added revision history note, added last revised line, standardized download link format, renamed file to Production Convention
+
+**Revision 2.2**
 - Restructured entire document to eliminate hard-coded calendar dates in favor of enactment-relative and Appointment Schedule-relative milestones
 - Separated timeline into two temporal anchors: "Upon Enactment" (triggers preparatory work) and "Year 1 of the Appointment Schedule" (begins expansion cycle, anchored to first year of the presidential term following enactment)
 - Replaced "Phase One: Circuit Reorganization (2026-2028)" with "Preparatory Phase: Enactment Through Year 1" to reflect flexible timing
@@ -660,8 +664,13 @@ If the Act is enacted during the presidential term beginning in January 2029, Ye
 
 **Revision 1.1**
 - Initial publication based on FJBAA Rev 1.1
+-->
 
-> 📄 [Download this document](https://github.com/albertintech/apai/blob/main/docs/judiciary/fjbaa/implementation-timeline.md) (opens on GitHub -- click the ⬇ download button)
+*Revision history available in the raw file.*
+
+> 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/judiciary/fjbaa/implementation-timeline.md) (opens on GitHub -- click the download button)
+
+*Last revised April 2026*
 
 ---
 
