@@ -4,7 +4,7 @@
 
 ### Published February 2026
 
-Based on Rev 2.2 of the Federal Judicial Balance and Accountability Act (FJBAA), hereafter "the Act"
+Based on Rev 2.2 of the Federal Judicial Balance and Accountability Act
 
 ---
 
@@ -122,12 +122,21 @@ The lesson extends beyond judicial reform. It suggests that the most durable ins
 
 ---
 
+<!--
 ## Revision History
 
-**Revision 1.0** (Current)
-- Initial publication
+**Revision 1.1** (Current)
+- DPS Rev 2.7 structural alignment: wrapped revision history in HTML comment block, added revision history note, added last revised line, standardized download link format, renamed file to Production Convention, corrected header "Based on" line per DPS Rev 2.7
 
-> 📄 [Download this document](https://github.com/albertintech/apai/blob/main/docs/judiciary/fjbaa/emergent-benefits-of-principled-design.md) (opens on GitHub -- click the ⬇ download button)
+**Revision 1.0**
+- Initial publication
+-->
+
+*Revision history available in the raw file.*
+
+> 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/judiciary/fjbaa/emergent-benefits-of-principled-design.md) (opens on GitHub -- click the download button)
+
+*Last revised April 2026*
 
 ---
 
