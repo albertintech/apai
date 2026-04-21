@@ -14,7 +14,7 @@ The Federal Judicial Balance and Accountability Act (FJBAA), hereafter "the Act,
 
 Recent decades demonstrate the pattern. Senate blockade of the Garland nomination in 2016 broke the norm of timely consideration. The Barrett confirmation in 2020 broke the opposing norm against election-year appointments. Qualification standards have become increasingly contested. The confirmation process has devolved into partisan theater. Revelations about undisclosed gifts, travel, and financial relationships have undermined public confidence in judicial ethics -- yet the Supreme Court remains the only court in the federal system without binding ethical standards or meaningful enforcement mechanisms. These failures are not aberrations -- they are the predictable result of relying on informal constraints that any sufficiently motivated actor can abandon.
 
-The Act replaces norm-dependent processes with structural mechanisms. Population-based circuits guarantee fair representation through mathematical formula rather than informal boundary-setting. Circuit-aligned Court composition provides a principled basis for Court size tied to administrative structure rather than political convenience. Predictable appointment schedules remove actuarial randomness from presidential opportunities. Shared Co-Chief Justice leadership diffuses concentrated power among multiple justices rather than vesting it in a single presidential appointee for decades. A three-phase career structure -- Associate Justice, Co-Chief Justice, Senior Justice -- provides clarity, dignity, and predictability for justices while removing the nation's constitutional future from dependence on individual health and longevity. Evidence-based transparency requirements ensure that nominees possess evaluable records of legal reasoning without constraining presidential nomination discretion. Binding ethical standards with enforceable sanctions ensure that no justice is above the rule of law. And a slate-based nomination process with scored voting replaces the binary single-nominee confirmation model that has become the focal point for partisan obstruction, transforming the Senate's role from adversarial gatekeeping into collaborative selection.
+The Act replaces norm-dependent processes with structural mechanisms. Population-based circuits guarantee fair representation through mathematical formula rather than informal boundary-setting. Circuit-aligned Court composition provides a principled basis for Court size tied to administrative structure rather than political convenience. Predictable appointment schedules remove actuarial randomness from presidential opportunities. Shared Co-Chief Justice leadership diffuses concentrated power among multiple justices rather than vesting it in a single presidential appointee for decades. A three-phase career structure -- Associate Justice, Co-Chief Justice, Senior Justice -- provides clarity, dignity, and predictability for justices. Evidence-based transparency requirements ensure that nominees possess evaluable records of legal reasoning without constraining presidential nomination discretion. Binding ethical standards with enforceable sanctions ensure that no justice is above the rule of law. And a slate-based nomination process with scored voting replaces the binary single-nominee confirmation model that has become the focal point for partisan obstruction, transforming the Senate's role from adversarial gatekeeping into collaborative selection.
 
 The design philosophy also distinguishes the Act from crude "court packing" proposals. Traditional court packing -- adding seats to change outcomes -- triggers an arms race with no stopping principle. Each party adds seats when in power; the Court expands indefinitely; legitimacy collapses. The Act instead ties Court size to circuit organization, providing a principled basis that transcends immediate partisan advantage. The phased alignment and regular replacement schedule ensures balanced appointments across presidential terms.
 
@@ -24,15 +24,13 @@ The shift from binary single-nominee confirmation to slate-based selection with 
 
 ## Problem Analysis
 
-The federal judiciary suffers from seven structural dysfunctions that the Act addresses.
+The federal judiciary suffers from six structural dysfunctions that the Act addresses.
 
 **Circuit imbalance.** The current thirteen circuits reflect nineteenth-century boundaries rather than contemporary population distribution. The Ninth Circuit serves over 68 million people; the First Circuit serves under 14 million. This creates massive workload disparities, inconsistent case processing times, and unequal access to justice depending on where litigants reside. The problem compounds over time as population shifts accelerate.
 
 **Actuarial randomness in appointments.** Supreme Court vacancies depend on when justices die or retire -- factors unrelated to constitutional design. Some presidents appoint four justices; others appoint none. This arbitrary distribution concentrates judicial power based on luck rather than democratic mandate. Presidents who happen to serve during natural vacancies shape constitutional interpretation for decades; presidents who don't are denied meaningful influence over the Court's direction.
 
 **Concentration of power in the Chief Justice.** The current system allows a single individual to serve as Chief Justice for decades, accumulating enormous administrative and symbolic power. Chief Justice John Marshall served 34 years; Chief Justice Roger Taney served 28 years; Chief Justice John Roberts has served over 20 years and counting. This concentration depends entirely on which president happens to face a Chief Justice vacancy and how long that appointee lives. The Chief Justice chairs the Judicial Conference, appoints judges to the FISA Court and other specialized tribunals, assigns opinions when in the majority, presides over impeachment trials, and serves as the public face of the federal judiciary. These powers -- accumulated through statutory accretion rather than constitutional design -- concentrate in one person based on actuarial chance rather than any democratic principle.
-
-**National anxiety over justice health and longevity.** The current system creates a perverse dynamic where the nation holds its breath every time an aging justice shows signs of decline. Justice Ruth Bader Ginsburg's final years illustrated this vividly -- her health became a matter of intense national anxiety, her every hospital visit triggered speculation about the Court's future, and her death precipitated a constitutional crisis. This is not a dignified way to treat distinguished jurists who have devoted their careers to public service, and it is not a healthy dynamic for the republic. The current system forces impossible choices on aging justices: retire strategically to benefit their preferred party, or cling to office hoping to outlast an unfavorable administration. Neither option serves the Court's legitimacy or the justice's dignity.
 
 **Norm erosion in confirmations.** The confirmation process has become a partisan battlefield. Qualified nominees face obstruction based on timing rather than credentials. Unqualified nominees advance based on ideological alignment rather than competence. The process provides no structural guarantee that the Senate will act, that nominees will meet minimum standards, or that the public will receive meaningful information about judicial philosophy.
 
@@ -124,17 +122,15 @@ The three-phase career structure -- Associate Justice for years one through ten,
 
 First, it provides clarity and dignity for justices themselves. Every justice appointed under the Act knows exactly what their career arc will look like: a decade of active service hearing cases, two years sharing leadership of the Court as Co-Chief Justice, then continued service in a reduced-duty capacity with full constitutional protections. There is no uncertainty, no strategic calculation about optimal retirement timing, no pressure to cling to office despite declining capacity.
 
-Second, it removes the nation's constitutional future from dependence on individual justices' health and longevity. Under the current system, an aging justice's hospital visit becomes a matter of national anxiety, their every health disclosure triggers speculation about partisan consequences, and their death can precipitate constitutional crisis. The Act's structured transition eliminates this dynamic. When a Senior Justice's health declines or they pass away, it is a personal loss to be mourned -- not a constitutional emergency triggering immediate partisan warfare over their replacement. The replacement already occurred, predictably, when that justice transitioned from Co-Chief Justice to Senior Justice.
+Second, the Co-Chief Justice model diffuses power that would otherwise concentrate in a single individual for decades. The Chief Justice's administrative authority -- chairing the Judicial Conference, appointing judges to specialized courts, managing the federal judiciary's budget requests -- affects the entire third branch. Sharing this authority among multiple Co-Chief Justices, with administrative responsibilities divided pursuant to Judicial Conference rules, ensures no single justice accumulates outsized influence over judicial administration. The model goes further than sequential rotation would: rather than replacing one concentrated power-holder with another every two years, it distributes administrative authority among peers simultaneously.
 
-Third, the Co-Chief Justice model diffuses power that would otherwise concentrate in a single individual for decades. The Chief Justice's administrative authority -- chairing the Judicial Conference, appointing judges to specialized courts, managing the federal judiciary's budget requests -- affects the entire third branch. Sharing this authority among multiple Co-Chief Justices, with administrative responsibilities divided pursuant to Judicial Conference rules, ensures no single justice accumulates outsized influence over judicial administration. The model goes further than sequential rotation would: rather than replacing one concentrated power-holder with another every two years, it distributes administrative authority among peers simultaneously.
+Third, the Co-Chief Justice model democratizes judicial leadership among the justices themselves. Under the current system, only those who happen to be selected by a president facing a Chief Justice vacancy ever serve in the role. Under the Act, every justice who completes a full term serves as Co-Chief Justice -- making it a capstone to distinguished service rather than a lottery prize.
 
-Fourth, the Co-Chief Justice model democratizes judicial leadership among the justices themselves. Under the current system, only those who happen to be selected by a president facing a Chief Justice vacancy ever serve in the role. Under the Act, every justice who completes a full term serves as Co-Chief Justice -- making it a capstone to distinguished service rather than a lottery prize.
+Fourth, the Co-Chief Justice model removes a source of partisan manipulation. Presidents currently have incentive to nominate young Chief Justices to maximize tenure; the Act eliminates this calculation entirely, since Co-Chief Justice status attaches automatically by operation of the career structure.
 
-Fifth, the Co-Chief Justice model removes a source of partisan manipulation. Presidents currently have incentive to nominate young Chief Justices to maximize tenure; the Act eliminates this calculation entirely, since Co-Chief Justice status attaches automatically by operation of the career structure.
+Fifth, the Co-Chief Justice model aligns with the principle that all justices are equals. The Constitution mentions the Chief Justice only once (presiding over presidential impeachment trials) and does not clearly establish the position as a separate office. The Co-Chief Justice model treats the Chief Justice designation as what it constitutionally is: a duty assignment among equal Article III judges -- and distributes that duty among multiple peers rather than concentrating it in one.
 
-Sixth, the Co-Chief Justice model aligns with the principle that all justices are equals. The Constitution mentions the Chief Justice only once (presiding over presidential impeachment trials) and does not clearly establish the position as a separate office. The Co-Chief Justice model treats the Chief Justice designation as what it constitutionally is: a duty assignment among equal Article III judges -- and distributes that duty among multiple peers rather than concentrating it in one.
-
-Seventh, the fixed twelve-year active service period restores dignity to the nominee selection process itself. Under life tenure, every Supreme Court appointment is implicitly an actuarial wager. A president who appoints a fifty-year-old is purchasing roughly thirty years of ideological influence; a president who appoints a sixty-two-year-old is purchasing perhaps twenty. The rational strategic response -- consistently documented in the post-1970 appointment record -- is to prioritize youth as a proxy for longevity, systematically narrowing the nominee pool to exclude some of the most experienced and distinguished jurists in the country. A sixty-three-year-old circuit judge with three decades of distinguished service becomes a "wasted" pick not because she lacks qualification but because her actuarial profile makes her a poor investment for partisan entrenchment. This is a quiet indignity that the current system inflicts on the legal profession: it tells accomplished jurists that their most productive years of legal distinction count against them. The Act eliminates this distortion entirely. A justice appointed at fifty-two and a justice appointed at sixty-four both serve exactly twelve years of active service. The president gains nothing by going younger. The appointment process is liberated to prioritize what should actually matter -- legal distinction, judicial temperament, breadth of experience -- rather than treating age as a disqualifying liability. This structural change also reinforces the Senior Justice phase: older appointees who transition to Senior status in their mid-to-late seventies remain capable of meaningful continued service in the vacancy coverage pool, on circuit courts by designation, and on the Ethics Review Panel. The Act does not merely provide dignity in service and transition -- it provides dignity in consideration for appointment in the first place.
+Sixth, the fixed twelve-year active service period restores dignity to the nominee selection process itself. Under life tenure, every Supreme Court appointment is implicitly an actuarial wager. A president who appoints a fifty-year-old is purchasing roughly thirty years of ideological influence; a president who appoints a sixty-two-year-old is purchasing perhaps twenty. The rational strategic response -- consistently documented in the post-1970 appointment record -- is to prioritize youth as a proxy for longevity, systematically narrowing the nominee pool to exclude some of the most experienced and distinguished jurists in the country. A sixty-three-year-old circuit judge with three decades of distinguished service becomes a "wasted" pick not because she lacks qualification but because her actuarial profile makes her a poor investment for partisan entrenchment. This is a quiet indignity that the current system inflicts on the legal profession: it tells accomplished jurists that their most productive years of legal distinction count against them. The Act eliminates this distortion entirely. A justice appointed at fifty-two and a justice appointed at sixty-four both serve exactly twelve years of active service. The president gains nothing by going younger. The appointment process is liberated to prioritize what should actually matter -- legal distinction, judicial temperament, breadth of experience -- rather than treating age as a disqualifying liability. This structural change also reinforces the Senior Justice phase: older appointees who transition to Senior status in their mid-to-late seventies remain capable of meaningful continued service in the vacancy coverage pool, on circuit courts by designation, and on the Ethics Review Panel. The Act does not merely provide dignity in service and transition -- it provides dignity in consideration for appointment in the first place.
 
 The Ceremonial Chief Justice designation preserves the constitutionally specified function -- presiding over presidential impeachment trials -- while acknowledging that certain duties are inherently singular. The President designates one Co-Chief Justice to exercise these ceremonial functions, including administering the presidential oath of office. This limited presidential role in designating the Ceremonial Chief Justice preserves a democratic connection to the position's most visible function without restoring the concentration of administrative power that the Co-Chief Justice model is designed to eliminate.
 
@@ -330,7 +326,7 @@ The strongest constitutional objection would be that the Senate's "Advice and Co
 
 **Why focus on the Supreme Court?** Critics may argue that the Act's focus on Supreme Court composition and career structure reveals partisan motivation -- that reformers simply want to change the Court that issues decisions they dislike, while leaving the rest of the federal judiciary untouched. This accusation has rhetorical force because every major court reform proposal in living memory has arisen during periods of dissatisfaction with the Court's ideological direction. But the substance does not support the accusation, for several reasons.
 
-First, the structural dysfunctions the Act addresses are SCOTUS-specific dysfunctions. Actuarial randomness in appointments matters at the Supreme Court because each seat shapes constitutional interpretation for a generation; a district court vacancy does not trigger national constitutional anxiety. The "national anxiety over justice health" problem is inherently a phenomenon of a small court of last resort with life tenure and no regular turnover. Chief Justice power concentration is a SCOTUS-specific problem because circuit chief judges already rotate by seniority under 28 U.S.C. Section 45 and share administrative responsibilities with their colleagues. The ethics gap is a SCOTUS-specific gap because lower federal judges are already bound by the Code of Conduct and subject to discipline under the Judicial Conduct and Disability Act. The Act focuses on the Supreme Court because that is where the problems are.
+First, the structural dysfunctions the Act addresses are SCOTUS-specific dysfunctions. Actuarial randomness in appointments matters at the Supreme Court because each seat shapes constitutional interpretation for a generation; a district court vacancy does not produce comparable systemic consequences. Chief Justice power concentration is a SCOTUS-specific problem because circuit chief judges already rotate by seniority under 28 U.S.C. Section 45 and share administrative responsibilities with their colleagues. The ethics gap is a SCOTUS-specific gap because lower federal judges are already bound by the Code of Conduct and subject to discipline under the Judicial Conduct and Disability Act. The Act focuses on the Supreme Court because that is where the problems are.
 
 Second, the Act does address the broader federal judiciary. Title I reorganizes the entire circuit system -- the foundational reform from which everything else derives. Circuit judge appointments, reassignments, and staffing levels are all addressed. The SCOTUS provisions are downstream consequences of getting the circuit structure right, not a freestanding exercise in Court manipulation.
 
@@ -368,21 +364,30 @@ The self-selection element adds informational value that a larger mandated submi
 
 The Act does not impose term limits that would require constitutional amendment. It does not remove any sitting justice. It does not strip jurisdiction or limit the Court's constitutional role. It does not mandate specific judicial philosophies or decision-making approaches. It does not address lower court expansion beyond ensuring adequate circuit resources. It does not allow punishment of justices for their judicial opinions, votes, or legal interpretations. It does not constrain presidential nomination discretion -- any person may be nominated, subject only to documentation requirements enabling Senate evaluation. It does not compel any existing justice to enter the Act's career structure -- the opt-in mechanism is voluntary and carries no consequence for declining. It does not dictate the Senate's internal procedural rules -- the Bloc STAR mechanism establishes a voting method for judicial selection while leaving floor management, scheduling, and slate rejection thresholds to Senate rulemaking.
 
-The reform is deliberately focused on structural problems -- circuit imbalance, appointment randomness, concentration of power in the Chief Justice, national anxiety over justice health and longevity, opacity in nominee evaluation, absence of enforceable ethical standards, and structural vulnerability to Senate obstruction of judicial appointments -- rather than attempting to dictate substantive outcomes. The Act creates conditions for a well-functioning judiciary without predetermining what that judiciary should decide.
+The reform is deliberately focused on structural problems -- circuit imbalance, appointment randomness, concentration of power in the Chief Justice, opacity in nominee evaluation, absence of enforceable ethical standards, and structural vulnerability to Senate obstruction of judicial appointments -- rather than attempting to dictate substantive outcomes. The Act creates conditions for a well-functioning judiciary without predetermining what that judiciary should decide.
 
 ---
 
+<!--
 ## Revision History
 
-**Revision 2.4** (Current)
+**Revision 2.6** (Current)
+- DPS Rev 2.7 structural alignment: wrapped revision history in HTML comment block, added revision history note, added last revised line, standardized download link format, renamed file to Production Convention
 
+**Revision 2.5**
+- Removed "National anxiety over justice health and longevity" as a standalone structural dysfunction in Problem Analysis (seven dysfunctions reduced to six)
+- Removed the Second enumerated benefit of the three-phase career structure (health/longevity decoupling framing) and renumbered remaining benefits Third through Seventh as Second through Sixth
+- Trimmed Design Philosophy summary: removed "while removing the nation's constitutional future from dependence on individual health and longevity" clause from the three-phase career structure description
+- Revised SCOTUS-specificity argument: replaced "does not trigger national constitutional anxiety" with "does not produce comparable systemic consequences"; removed sentence invoking "national anxiety over justice health" as a SCOTUS-specific phenomenon
+- Removed "national anxiety over justice health and longevity" from Conclusion's enumeration of structural problems addressed
+
+**Revision 2.4**
 - Updated reference line to reflect FJBAA Rev 2.3
 - Added seventh enumerated benefit of the three-phase career structure: nominee dignity and the elimination of actuarial selection bias
 - New paragraph explains how life tenure incentivizes presidential selection of younger nominees as a proxy for longevity, systematically devaluing experienced jurists; the Act's fixed twelve-year active service period neutralizes this calculus entirely
 - Grounded in existing statutory authority: Finding 12 ("clarity, dignity, and predictability") and Purpose 10 ("dignified three-phase career structure")
 
 **Revision 2.3**
-
 - Updated reference line to reflect FJBAA Rev 2.3
 - Rewrote Bridge Panel rationale to reflect expanded scope: Bridge Panel now serves both a transitional role (supplementing initially undersized Senior Justice pool) and a permanent backstop role (filling gaps from vacancy coverage rotation assignments, recusals, and combinations thereof)
 - Added rationale for Section 503(b)(4) vacancy rotation exclusion: Senior Justices performing active-service duties on the vacancy coverage roster are functionally serving alongside the justices the Ethics Review Panel oversees, requiring structural separation
@@ -390,7 +395,6 @@ The reform is deliberately focused on structural problems -- circuit imbalance, 
 - Updated "Weaponization of ethics enforcement" concern to reflect expanded Bridge Panel scope, vacancy rotation exclusion from both Ethics Review Panel and en banc body, and dual-role conflict prevention
 
 **Revision 2.2**
-
 - Updated reference line to reflect FJBAA Rev 2.2
 - Expanded Title I Provision Rationale from a single paragraph into a comprehensive discussion with three italic-lead-in subsections:
   - *District-level building blocks*: explains the shift from whole-state to district-level constraints, 67% vs. 93% compliance comparison, federal judicial districts as creatures of federal statute, preference-with-exception structure, and limited state divisions under current data
@@ -400,7 +404,6 @@ The reform is deliberately focused on structural problems -- circuit imbalance, 
 - Removed "Decennial rebalancing maintains equality as populations shift" from Title I opening paragraph (superseded by expanded compliance assessment discussion)
 
 **Revision 2.1**
-
 - Updated reference line to reflect FJBAA Rev 2.1
 - Added "Senate obstruction as a structural vulnerability" as seventh dysfunction in Problem Analysis, drawing on Chilton, Epps, Rozema & Sen (2021)
 - Added binary single-nominee confirmation to Alternatives Considered as rejected alternative, with Chilton et al. empirical analysis
@@ -425,7 +428,6 @@ The reform is deliberately focused on structural problems -- circuit imbalance, 
 - Updated publication date to February 2026
 
 **Revision 2.0**
-
 - Updated reference line to reflect FJBAA Rev 2.0
 - Updated all "Chief Justice" references to "Co-Chief Justice" throughout to reflect Rev 1.9 shared leadership model
 - Revised Design Philosophy to describe shared Co-Chief Justice leadership rather than sequential rotation
@@ -450,7 +452,6 @@ The reform is deliberately focused on structural problems -- circuit imbalance, 
 - Updated publication date to February 2026
 
 **Revision 1.7**
-
 - Updated reference line to reflect FJBAA Rev 1.7
 - Incorporated SCOTUS-specific Section 371 precedent material throughout
 - Added paragraph to Alternatives Considered documenting that the duty-versus-tenure distinction is already operationalized in existing law for Supreme Court justices (Clark, Souter, O'Connor, Breyer)
@@ -459,7 +460,6 @@ The reform is deliberately focused on structural problems -- circuit imbalance, 
 - Added "Why focus on the Supreme Court?" to Addressing Concerns, arguing that the Act imports existing lower court practices (ethics rules, discipline mechanisms, chief judge rotation, senior status) to the Supreme Court rather than imposing institutional novelty
 
 **Revision 1.6**
-
 - Updated to reflect FJBAA Rev 1.6
 - Revised Design Philosophy to discuss shift from credential-based to evidence-based transparency approach
 - Added credential-based qualification requirements to Alternatives Considered as rejected alternative
@@ -480,7 +480,6 @@ The reform is deliberately focused on structural problems -- circuit imbalance, 
 - Updated publication date to February 2025
 
 **Revision 1.5**
-
 - Updated to reflect FJBAA Rev 1.5
 - Added "Absence of enforceable ethical standards" as sixth dysfunction in Problem Analysis
 - Added voluntary ethics codes and congressional ethics oversight to Alternatives Considered
@@ -498,7 +497,6 @@ The reform is deliberately focused on structural problems -- circuit imbalance, 
 - Updated What the Act Does Not Do to note that justices cannot be punished for judicial opinions
 
 **Revision 1.4**
-
 - Updated to reflect FJBAA Rev 1.4
 - Revised Alternatives Considered to correctly characterize Amar's proposal as statutory "time rules" rather than constitutional "term limits"
 - Acknowledged FJBAA's adoption of Amar's constitutional framework (duty vs. tenure distinction)
@@ -512,7 +510,6 @@ The reform is deliberately focused on structural problems -- circuit imbalance, 
 - Added critique of "Roberts Court" naming phenomenon as symptom of excessive personalization
 
 **Revision 1.3**
-
 - Updated to reflect FJBAA Rev 1.3
 - Added three-phase career structure terminology throughout (Associate Justice, Chief Justice, Senior Justice)
 - Added "National anxiety over justice health and longevity" as fifth dysfunction in Problem Analysis
@@ -525,7 +522,6 @@ The reform is deliberately focused on structural problems -- circuit imbalance, 
 - Applied self-reference convention per APAI Document Production Standards Section 1.7
 
 **Revision 1.2**
-
 - Updated to reflect FJBAA Rev 1.2
 - Added Chief Justice power concentration to Design Philosophy
 - Added concentration of power in Chief Justice as fourth dysfunction in Problem Analysis
@@ -536,10 +532,14 @@ The reform is deliberately focused on structural problems -- circuit imbalance, 
 - Updated What FJBAA Does Not Do to include Chief Justice concentration among structural problems addressed
 
 **Revision 1.1**
-
 - Initial publication based on FJBAA Rev 1.1
+-->
 
-> Ã°Å¸â€œâ€ž [Download this document](https://github.com/albertintech/apai/blob/main/docs/judiciary/fjbaa/policy-rationale.md) (opens on GitHub -- click the Ã¢Â¬â€¡ download button)
+*Revision history available in the raw file.*
+
+> 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/judiciary/fjbaa/policy-rationale.md) (opens on GitHub -- click the download button)
+
+*Last revised April 2026*
 
 ---
 
