@@ -4,7 +4,7 @@
 
 ### Published February 2026
 
-Based on Rev 2.2 of the Federal Judicial Balance and Accountability Act
+Based on Rev 2.3 of the Federal Judicial Balance and Accountability Act
 
 ---
 
@@ -54,11 +54,11 @@ Those who exercise judicial power should be bound by enforceable standards of co
 
 ### Dignity
 
-Judicial officers who have devoted careers to public service deserve to be treated with respect. The system should not subject aging jurists to morbid speculation about their health, force impossible choices between strategic retirement and clinging to office, or make the nation's constitutional future dependent on whether an elderly justice survives another administration.
+Judicial officers who have devoted careers to public service deserve to be treated with respect -- in selection, in service, and in transition. The system should not reduce nominee evaluation to actuarial calculation that devalues the most experienced jurists, force aging justices to choose between strategic retirement and clinging to office, or make the trajectory of individual judicial careers a matter of partisan speculation.
 
-**Current failure:** Justice Ruth Bader Ginsburg's final years illustrated the pathology vividly -- her health became a matter of intense national anxiety, her every hospital visit triggered speculation about the Court's future, and her death precipitated constitutional crisis. This is not a dignified way to treat distinguished jurists, and it is not a healthy dynamic for the republic.
+**Current failure:** Under life tenure, Supreme Court appointments become actuarial wagers in which youth functions as a proxy for longevity. Distinguished older jurists are systematically devalued -- not because they lack qualification, but because their actuarial profile yields fewer years of ideological influence. Once confirmed, aging justices face impossible retirement choices: strategic timing to benefit a preferred party, or clinging to office hoping to outlast an unfavorable administration. Neither option serves the justice's dignity or the Court's legitimacy.
 
-**The Act's response:** The three-phase career structure removes the nation's constitutional future from dependence on individual justices' health and longevity. Every justice knows exactly what their career arc will look like. Transition to Senior Justice status occurs on schedule, not when declining health forces impossible choices. When a Senior Justice's health declines or they pass away, it is a personal loss -- not a constitutional emergency. The model already exists in practice: Justices Souter, Breyer, and O'Connor all transitioned from active Supreme Court service to hearing cases on lower federal courts -- continued judicial service widely regarded as dignified and valuable, not as diminishment.
+**The Act's response:** The three-phase career structure provides every justice with a knowable, dignified career arc -- ten years of active service hearing cases, two years sharing leadership as Co-Chief Justice, then continued service as Senior Justice with full Article III protections. The fixed twelve-year active service period eliminates actuarial selection bias: every nominee serves the same duration regardless of age at appointment, liberating selection to prioritize legal distinction, judicial temperament, and breadth of experience. Transition to Senior Justice status occurs on schedule, not when declining health or the partisan calendar forces impossible choices. The model already exists in practice: Justices Souter, Breyer, and O'Connor all transitioned from active Supreme Court service to hearing cases on lower federal courts -- continued judicial service widely regarded as dignified and valuable, not as diminishment.
 
 ### Predictability
 
@@ -159,9 +159,21 @@ The Act's claim to legitimacy rests on this foundation. It does not seek to achi
 
 ---
 
+<!--
 ## Revision History
 
-**Revision 2.2** (Current)
+**Revision 2.4** (Current)
+- DPS Rev 2.7 structural alignment: wrapped revision history in HTML comment block, added revision history note, added last revised line, standardized download link format, renamed file to Production Convention
+
+**Revision 2.3**
+- Updated reference line to reflect FJBAA Rev 2.3
+- Reframed Dignity principle around three dimensions -- selection, service, and transition -- rather than public mood
+- Removed Ginsburg illustration and "national anxiety" framing from Current failure paragraph
+- Added actuarial selection bias as the primary diagnostic content for Current failure, drawing on the nominee dignity argument
+- Revised Act's response paragraph to emphasize career structure, elimination of actuarial selection bias, and scheduled transition; removed "national constitutional future / health and longevity" framing
+- Preserved Souter/Breyer/O'Connor living-precedent illustration
+
+**Revision 2.2**
 - Updated reference line to reflect FJBAA Rev 2.2; updated publication date to February 2026
 - Updated Equality principle: replaced "decennial rebalancing" with five-year compliance assessment cycle, district-level building blocks, and tiered response framework
 - Updated Fairness principle: replaced "each presidential term exactly two opportunities" with five appointments per term at steady state; replaced "automatic Chief Justice rotation" with shared Co-Chief Justice leadership; added slate-based nomination with Bloc STAR voting
@@ -182,8 +194,13 @@ The Act's claim to legitimacy rests on this foundation. It does not seek to achi
 
 **Revision 1.5**
 - Initial publication based on FJBAA Rev 1.5
+-->
 
-> 📄 [Download this document](https://github.com/albertintech/apai/blob/main/docs/judiciary/fjbaa/foundational-principles.md) (opens on GitHub -- click the ⬇ download button)
+*Revision history available in the raw file.*
+
+> 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/judiciary/fjbaa/foundational-principles.md) (opens on GitHub -- click the download button)
+
+*Last revised April 2026*
 
 ---
 
