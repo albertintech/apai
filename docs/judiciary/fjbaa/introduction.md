@@ -4,13 +4,13 @@
 
 ### Published February 2026
 
-Based on Rev 2.2 of the Federal Judicial Balance and Accountability Act
+Based on Rev 2.3 of the Federal Judicial Balance and Accountability Act
 
 ---
 
 The Federal Judicial Balance and Accountability Act (FJBAA) restructures the federal judiciary to address population-based representation, predictable appointments, transparent evaluation of nominees, and enforceable ethics. The Act reorganizes federal circuits according to population, aligns Supreme Court composition with circuit structure, replaces the binary single-nominee confirmation model with slate-based selection, establishes evidence-based documentation requirements ensuring nominees possess evaluable records, and creates binding ethical standards with meaningful enforcement mechanisms.
 
-The current federal circuit system reflects nineteenth-century boundaries rather than contemporary population distribution, creating significant workload disparities and unequal representation across regions. The Supreme Court has maintained nine justices since 1869 despite dramatic population growth and the addition of new circuits. Meanwhile, judicial appointments depend heavily on actuarial chance -- which justices happen to retire or die during which presidential terms -- rather than any principled constitutional design. The current system also creates perverse dynamics where the nation's constitutional future hinges on individual justices' health and longevity, forcing impossible choices on aging jurists and generating morbid national anxiety over their continued vitality. The binary single-nominee confirmation model concentrates maximum leverage in the Senate's ability to reject, creating powerful obstruction incentives -- empirical research demonstrates that 62-75% of vacancies under proposed term limit systems would arise during divided government, making Senate obstruction a predictable structural vulnerability rather than an aberration. And the Supreme Court remains the only court in the federal system without binding ethical rules or meaningful enforcement mechanisms -- a gap that has undermined public confidence as controversies over undisclosed gifts, travel, and financial relationships have accumulated.
+The current federal circuit system reflects nineteenth-century boundaries rather than contemporary population distribution, creating significant workload disparities and unequal representation across regions. The Supreme Court has maintained nine justices since 1869 despite dramatic population growth and the addition of new circuits. Meanwhile, judicial appointments depend heavily on actuarial chance -- which justices happen to retire or die during which presidential terms -- rather than any principled constitutional design. The binary single-nominee confirmation model concentrates maximum leverage in the Senate's ability to reject, creating powerful obstruction incentives -- empirical research demonstrates that 62-75% of vacancies under proposed term limit systems would arise during divided government, making Senate obstruction a predictable structural vulnerability rather than an aberration. And the Supreme Court remains the only court in the federal system without binding ethical rules or meaningful enforcement mechanisms -- a gap that has undermined public confidence as controversies over undisclosed gifts, travel, and financial relationships have accumulated.
 
 FJBAA addresses these structural problems through integrated reforms: circuit reorganization, Supreme Court composition aligned with circuit structure, a three-phase career structure for justices, shared Co-Chief Justice leadership, vacancy coverage and appointment equalization, slate-based nomination with Bloc STAR voting, evidence-based transparency requirements, and binding ethics enforcement. The Act's title reflects its dual focus: "Balance" (equal representation, predictable appointments, diffused power) and "Accountability" (enforceable ethical standards with meaningful sanctions).
 
@@ -30,7 +30,9 @@ FJBAA addresses these structural problems through integrated reforms: circuit re
 
 The full legislative text provides complete statutory language for all provisions. Separate documents provide the Policy Rationale explaining design choices, Legal Analysis examining constitutional questions, Implementation Timeline detailing the phased rollout, and Overview summarizing the complete reform architecture.
 
-> 📄 [Download this document](https://github.com/albertintech/apai/blob/main/docs/judiciary/fjbaa/introduction.md) (opens on GitHub -- click the ⬇ download button)
+> 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/judiciary/fjbaa/introduction.md) (opens on GitHub -- click the download button)
+
+*Last revised April 2026*
 
 ---
 
