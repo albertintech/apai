@@ -4,7 +4,7 @@
 
 ### Published February 2026
 
-Based on Rev 2.5 of the Federal Judicial Balance and Accountability Act
+Based on Rev 2.6 of the Federal Judicial Balance and Accountability Act
 
 ---
 
@@ -168,11 +168,13 @@ Fifth, the tiered tie-breaking protocol derives from the method's own internal l
 
 Yet the architecture makes exercising this authority politically irrational. Rejecting a slate triggers presidential resubmission within thirty days, excludes all rejected-slate nominees from the immediately subsequent slate, and -- if the Senate rejects two consecutive slates -- eliminates even the exclusion provision. The Senate that rejects a slate gains nothing: no ability to hold the seat open for a future president, no leverage to extract concessions, no capacity to benefit from delay. The rejected nominees simply cannot appear on the next slate, meaning the Senate may have eliminated its most preferred options. The structural result is a power that exists formally but that no rational actor would exercise -- a constitutional right rendered ornamental by the architecture surrounding it. This is the structures-over-norms principle at its most precise: the Act does not rely on senators to act in good faith; it creates conditions under which good-faith engagement is the path of least resistance.
 
-*Slate sizing formula.* The Act requires a minimum of n x 2 nominees per available position and a maximum of n x 2.5 (rounded up), where n is the number of available positions. For a single position (the typical steady-state appointment), this produces a slate of two to three nominees. For two simultaneous positions, four to five. For three simultaneous positions during transition periods, six to eight.
+*Slate sizing.* The Act requires a minimum of n + 2 nominees, where n is the number of available positions (§ 202(a)(2)). For a single position -- the typical steady-state appointment -- this produces a minimum slate of three nominees. For two simultaneous positions, four. For three simultaneous positions during transition periods, five. There is no upper bound; the President may include as many nominees as desired above this floor.
 
-The minimum of n x 2 serves as an anti-regression mechanism. If a single-position appointment required only one nominee, the process would collapse back into the pathology the slate is designed to address -- a binary confirmation with obstruction incentives fully intact. The two-nominee minimum ensures that even the smallest slate provides the Senate with genuine choice and preserves the structural incentive transformation that makes Bloc STAR voting meaningful.
+The n + 2 minimum is structurally derived, not arbitrarily chosen. Under Bloc STAR's sequential round procedure, positions are filled one at a time: in each round, the two highest-scoring remaining nominees advance to a mandatory runoff, the winner is confirmed and removed, and the process repeats. In the final round, only the nominees still under consideration remain. A minimum of n + 2 guarantees that at least three nominees are present when that last seat is filled -- meaning the scoring step in the final round has at least three candidates from which to identify two finalists. This preserves the full two-step Bloc STAR structure (aggregate scoring to designate finalists, then a mandatory head-to-head runoff) in every round without exception.
 
-The maximum of n x 2.5 prevents slate inflation. An excessively large slate would dilute the significance of each nominee's documentation, strain Senate evaluation capacity, and reduce the process to a cattle call rather than a serious assessment of distinguished legal minds. The 2.5 multiplier with rounding provides sufficient breadth for genuine selection while maintaining the evaluative seriousness the process demands.
+If the minimum were n + 1 instead, the final round would open with exactly two nominees remaining. The scoring step would be redundant -- the "finalists" would simply be the only two candidates left, with nothing for the aggregate comparison to decide. The procedure would collapse in the last round to a single-step runoff. The n + 2 floor is the minimum that keeps Bloc STAR's full structure intact across all rounds.
+
+The absence of a maximum reflects a corresponding insight from the corrected procedure. Under sequential Bloc STAR, each round reduces to a single head-to-head comparison between two finalists, regardless of how many nominees entered the slate. A larger slate does not require the Senate to simultaneously compare all nominees -- it simply means more rounds before the field narrows. Presidential discretion on slate size above the floor is appropriate; the President who assembles the slate is best positioned to judge the depth of the qualified field and the strategic dynamics of a given appointment cycle.
 
 *The 120-day consideration timeline and hybrid model.* The Act requires the Senate to act on a nomination slate -- either by conducting the Bloc STAR voting procedure or by rejecting the slate -- within 120 days. This timeline is mandatory: it is established by statute, not by Senate rule, and it binds the Senate to act.
 
@@ -216,7 +218,7 @@ The distinction is not merely formalistic. Consider a brilliant legal mind who s
 
 *Documentation scaling for multi-nominee evaluation.* Rev 2.1 reduces the documentation requirement from fifty works to ten self-selected works of substantial legal analysis, and the judicial philosophy statement from 5,000 words to 2,000 words. These changes reflect calibration for the slate-based process, not a retreat from the transparency principle.
 
-Under single-nominee confirmation, the Senate evaluates one person at a time. A fifty-work requirement and 5,000-word statement are manageable because the evaluation burden is concentrated on a single individual. Under slate-based selection, the Senate evaluates multiple nominees simultaneously -- a minimum of two and potentially as many as eight during transition periods with multiple positions. Requiring fifty works and a 5,000-word statement from each of five nominees on a slate would produce 250 works and 25,000 words of judicial philosophy for a single appointment cycle. This volume would overwhelm meaningful evaluation, transforming the transparency requirement from a tool for informed deliberation into an obstacle to it.
+Under single-nominee confirmation, the Senate evaluates one person at a time. A fifty-work requirement and 5,000-word statement are manageable because the evaluation burden is concentrated on a single individual. Under slate-based selection, the Senate evaluates multiple nominees simultaneously -- a minimum of three and potentially as many as five during transition periods with multiple positions. Requiring fifty works and a 5,000-word statement from each of five nominees on a slate would produce 250 works and 25,000 words of judicial philosophy for a single appointment cycle. This volume would overwhelm meaningful evaluation, transforming the transparency requirement from a tool for informed deliberation into an obstacle to it.
 
 The ten-work requirement preserves the functional goal -- ensuring a substantively evaluable record -- while scaling appropriately. Ten self-selected works of substantial legal analysis, chosen by the nominee as representative of their "best and most characteristic legal reasoning," provides a curated portfolio rather than an exhaustive compendium. The self-selection element adds informational value: which ten works a nominee chooses to represent their thinking reveals priorities and judgment that a mandated comprehensive submission does not.
 
@@ -264,7 +266,7 @@ In a coalition environment, slate composition becomes a natural subject for coal
 
 The Act does not require or mandate coalition input into slate composition. But the structural incentives of slate-based selection are reinforced in a multiparty environment: the president has more reason to build inclusive slates, and the Senate has more reason to engage with the full field of nominees rather than blocking on partisan lines that coalition governance has already blurred.
 
-**Title IV: Implementation.** Phased implementation over multiple years allows orderly transition. Circuit reorganization precedes Court composition alignment, ensuring the structural justification exists before new seats are filled. Co-Chief Justice service begins when justices appointed under the expansion schedule reach their eleventh year of active service, ensuring the mechanism operates only for justices appointed with knowledge of the three-phase career structure. Transparency requirements apply immediately to all nominations after the effective date. The slate nomination process and Bloc STAR voting procedure apply to all appointments under the Act, including expansion appointments during the initial phase. For expansion appointments filling a single position, the nomination slate shall contain no fewer than two and no more than three nominees. The fairness provisions explicitly preserve constitutional protections -- no sitting justice is removed, no salary is reduced, life tenure continues. The severability clause ensures partial implementation if any provision faces legal challenge.
+**Title IV: Implementation.** Phased implementation over multiple years allows orderly transition. Circuit reorganization precedes Court composition alignment, ensuring the structural justification exists before new seats are filled. Co-Chief Justice service begins when justices appointed under the expansion schedule reach their eleventh year of active service, ensuring the mechanism operates only for justices appointed with knowledge of the three-phase career structure. Transparency requirements apply immediately to all nominations after the effective date. The slate nomination process and Bloc STAR voting procedure apply to all appointments under the Act, including expansion appointments during the initial phase. The fairness provisions explicitly preserve constitutional protections -- no sitting justice is removed, no salary is reduced, life tenure continues. The severability clause ensures partial implementation if any provision faces legal challenge.
 
 The Legacy Chief Justice transition (Section 204(c)) recognizes that Chief Justice Roberts occupies a unique position: he holds a role whose character the Act fundamentally transforms. The Act permits the Legacy Chief Justice to continue in that capacity -- retaining all ceremonial functions and administrative authority -- while Co-Chief Justices appointed under the Act gradually share administrative responsibilities pursuant to Judicial Conference rules. This approach avoids the constitutional confrontation of forcing an immediate transition while ensuring the Co-Chief Justice model takes full effect upon the Legacy Chief Justice's departure.
 
@@ -370,14 +372,16 @@ The reform is deliberately focused on structural problems -- circuit imbalance, 
 
 ---
 
-<!--
 ## Revision History
 
-**Revision 2.6** (Current)
-- Updated reference line to reflect FJBAA Rev 2.5
-- Corrected Bloc STAR voting mechanism subsection: rewrote opening sentence to describe sequential single-winner rounds with mandatory pairwise preference runoff (replacing prior description of aggregate-score batch selection)
-- Rewrote fourth structural purpose: replaced "automatic runoff for near-tied nominees" (conditional tiebreaker framing) with explanation of mandatory automatic runoff as the mechanism ensuring broad preference over factional intensity
-- Added fifth structural purpose: tiered tie-breaking protocol derived from STAR voting's native internal symmetry -- aggregate score and pairwise preference serve as each other's tiebreaker, with lot by Presiding Officer as residual and Senate override preserved
+**Revision 2.7** (Current)
+- Updated reference line to reflect FJBAA Rev 2.6
+- Revised *Slate sizing* subsection: replaced n×2 minimum / n×2.5 maximum formula with n+2 rule and its structural derivation -- n+2 is the minimum that preserves the full two-step Bloc STAR structure (scoring and runoff) in every round, including the final round; removed upper bound with explanation of why larger slates do not increase evaluation burden under sequential Bloc STAR
+- Updated documentation scaling reference: corrected "minimum of two and potentially as many as eight" to "minimum of three and potentially as many as five" to reflect n+2 minimums
+- Removed expansion appointment slate sizing sentence from Title IV Provision Rationale: "no fewer than two and no more than three nominees" superseded by revised § 202(a)(2)
+
+**Revision 2.6**
+- Corrected *Bloc STAR voting mechanism* subsection: replaced "aggregate scores determining selection" description with accurate sequential round-by-round description; rewrote Fourth structural purpose as mandatory automatic runoff conducted every round regardless of score margins; added Fifth structural purpose covering tiered tie-breaking protocol (scoring-round ties broken by pairwise preference; runoff ties broken by aggregate score; residual ties broken by lot; Senate may adopt alternative procedures by rule)
 
 **Revision 2.5**
 - Removed "National anxiety over justice health and longevity" as a standalone structural dysfunction in Problem Analysis (seven dysfunctions reduced to six)
@@ -538,13 +542,8 @@ The reform is deliberately focused on structural problems -- circuit imbalance, 
 
 **Revision 1.1**
 - Initial publication based on FJBAA Rev 1.1
--->
 
-*Revision history available in the raw file.*
-
-> 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/judiciary/fjbaa/policy-rationale.md) (opens on GitHub -- click the download button)
-
-*Last revised April 2026*
+> 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/judiciary/fjbaa/policy-rationale.md) (opens on GitHub -- click the ⬇ download button)
 
 ---
 
