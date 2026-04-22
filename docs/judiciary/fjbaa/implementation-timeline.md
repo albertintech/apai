@@ -4,7 +4,7 @@
 
 ### Published February 2026
 
-Based on Rev 2.2 of the Federal Judicial Balance and Accountability Act
+Based on Rev 2.6 of the Federal Judicial Balance and Accountability Act
 
 ---
 
@@ -32,7 +32,7 @@ The phased approach serves critical purposes: it spreads appointment opportuniti
 
 **Transparency requirements and slate-based nomination take effect.** All provisions of Title III apply immediately to any Supreme Court justice nominated after the effective date. The slate-based nomination process (Section 202(a)) and Bloc STAR voting procedure (Section 202(b)) apply to all appointments under the Act, including expansion appointments. This includes:
 
-- Slate nomination requirement (minimum 2 nominees per position, maximum 2.5 per position rounded up; 2-3 nominees for single-position expansion appointments)
+- Slate nomination requirement (minimum n + 2 nominees, where n is the number of available positions; no maximum)
 - Bloc STAR voting procedure (senators score each nominee 0-5, aggregate scores determine selection)
 - Slate rejection authority (threshold determined by Senate rules)
 - Carryover nominee provisions (5-year eligibility, abbreviated hearings)
@@ -101,7 +101,7 @@ The phased approach serves critical purposes: it spreads appointment opportuniti
 
 ### Year 1 of the Appointment Schedule
 
-**Court expansion begins.** The President submits the first nomination slate (2-3 nominees) and the Senate selects via Bloc STAR voting. Year 1 falls in the first year of the presidential term following enactment, ensuring:
+**Court expansion begins.** The President submits the first nomination slate (minimum three nominees) and the Senate selects via Bloc STAR voting. Year 1 falls in the first year of the presidential term following enactment, ensuring:
 
 - The preparatory phase (circuit reorganization, ethics infrastructure) is complete or well underway
 - The appointing president and Senate have received a fresh electoral mandate
@@ -208,7 +208,7 @@ Court expansion proceeds gradually with one additional Associate Justice appoint
 
 **Distributed appointment opportunities.** Expansion appointments are distributed across at least three different presidential terms. No single president receives more than two expansion appointments unless they serve multiple terms.
 
-**Transparency requirements and slate process apply throughout.** Every expansion appointment uses the slate-based process: the President submits a nomination slate (2-3 nominees for single-position expansion appointments), and the Senate selects via Bloc STAR voting. Each nominee must satisfy Title III requirements: 10 self-selected works of substantial legal analysis across six qualifying pathways, subject matter diversity, mandatory nominee statements, and 120-day Senate consideration timeline. Carryover nominees from prior slates may appear on subsequent expansion slates for up to five years from original documentation submission, with abbreviated half-day hearings.
+**Transparency requirements and slate process apply throughout.** Every expansion appointment uses the slate-based process: the President submits a nomination slate (minimum three nominees for single-position expansion appointments), and the Senate selects via Bloc STAR voting. Each nominee must satisfy Title III requirements: 10 self-selected works of substantial legal analysis across six qualifying pathways, subject matter diversity, mandatory nominee statements, and 120-day Senate consideration timeline. Carryover nominees from prior slates may appear on subsequent expansion slates for up to five years from original documentation submission, with abbreviated half-day hearings.
 
 **Existing justices unaffected by career structure.** Justices serving before the Act's effective date continue in active service. They are not subject to the three-phase career structure unless they elect opt-in under Section 403(d). Legacy Associate Justices who file opt-in elections are assigned to available Co-Chief Justice slots and transition according to their assigned schedule.
 
@@ -253,7 +253,7 @@ Beginning eleven years after the first expansion appointment, the three-phase ca
 
 ### Steady-State Characteristics
 
-**Predictable presidential opportunities.** Beginning in Year 21 of the Appointment Schedule, each four-year presidential term includes exactly five appointment opportunities. The appointment equalization mechanism (Section 202(d)) ensures this even distribution by redistributing appointments when the biennial schedule produces asymmetric clustering. The President submits nomination slates with the appropriate number of nominees (minimum two per position, maximum 2.5 per position rounded up), and the Senate selects via Bloc STAR voting.
+**Predictable presidential opportunities.** Beginning in Year 21 of the Appointment Schedule, each four-year presidential term includes exactly five appointment opportunities. The appointment equalization mechanism (Section 202(d)) ensures this even distribution by redistributing appointments when the biennial schedule produces asymmetric clustering. The President submits nomination slates with the appropriate number of nominees (minimum n + 2, where n is the number of available positions; no maximum), and the Senate selects via Bloc STAR voting.
 
 **Three-phase career structure.** Each justice serves through three distinct phases:
 
@@ -472,7 +472,7 @@ During the transition period (until five expansion-appointed justices reach Seni
 - **Appointment equalization:** Five appointments per presidential term beginning Year 21
 - **Vacancy coverage by lottery:** Random lottery per October Term for vacancy assignments; no additional presidential appointments
 - **60-day opt-in assignment notification:** Administrative Office notifies electing justices within 60 days
-- **Slate nomination requirement:** Minimum 2 nominees per position, maximum 2.5 per position rounded up; 2-3 nominees for single-position expansion appointments
+- **Slate nomination requirement:** Minimum n + 2 nominees, where n is the number of available positions; no maximum
 - **Bloc STAR voting:** Senators score each nominee 0-5; aggregate scores determine selection
 - **Slate rejection resubmission:** President must submit new slate within 30 days; rejected nominees excluded from immediately subsequent slate
 - **Carryover eligibility:** 5 years from original documentation submission; abbreviated half-day hearings
@@ -534,7 +534,8 @@ If the Act is enacted during the presidential term beginning in January 2029, Ye
 ## Revision History
 
 **Revision 2.3** (Current)
-- DPS Rev 2.7 structural alignment: wrapped revision history in HTML comment block, added revision history note, added last revised line, standardized download link format, renamed file to Production Convention
+- Updated reference line to reflect FJBAA Rev 2.6
+- Updated slate sizing language in five locations: Immediate Upon Enactment section, first expansion appointment description, expansion phase characteristics, steady-state section, and Firm Requirements list; replaced n×2 minimum / n×2.5 maximum with n+2 minimum, no maximum
 
 **Revision 2.2**
 - Restructured entire document to eliminate hard-coded calendar dates in favor of enactment-relative and Appointment Schedule-relative milestones
@@ -668,7 +669,7 @@ If the Act is enacted during the presidential term beginning in January 2029, Ye
 
 *Revision history available in the raw file.*
 
-> 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/judiciary/fjbaa/implementation-timeline.md) (opens on GitHub -- click the download button)
+> 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/judiciary/fjbaa/implementation-timeline.md) (opens on GitHub -- click the ⬇ download button)
 
 *Last revised April 2026*
 
