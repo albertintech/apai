@@ -1249,7 +1249,7 @@ Nothing in this Title shall be construed to immunize any person from criminal li
 
 *Revision history available in the raw file.*
 
-> [Download this document](https://github.com/albertintech/apai/blob/main/docs/judiciary/fjbaa/legislative-text.md) (opens on GitHub -- click the download button)
+> 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/judiciary/fjbaa/legislative-text.md) (opens on GitHub -- click the download button)
 
 *Last revised April 2026*
 
