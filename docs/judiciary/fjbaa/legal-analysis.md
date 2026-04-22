@@ -4,7 +4,7 @@
 
 ### Published February 2026
 
-Based on Rev 2.2 of the Federal Judicial Balance and Accountability Act
+Based on Rev 2.5 of the Federal Judicial Balance and Accountability Act
 
 ---
 
@@ -255,7 +255,7 @@ The strongest argument against the Co-Chief Justice model is historical practice
 
 ### Constitutional Framework
 
-The Act replaces binary single-nominee confirmation with a slate-based process: the President submits multiple nominees per appointment cycle (minimum two per position, maximum 2.5 per position rounded up), and the Senate selects from the slate using Bloc STAR voting -- a scored procedure in which each senator assigns each nominee a score from 0 to 5, with aggregate scores determining selection (Section 202(a)-(b)). The Senate retains authority to reject an entire slate, triggering resubmission within thirty days (Section 202(c)). Carryover nominees from prior slates may be included on subsequent slates for up to five years from original documentation submission (Section 202(f)).
+The Act replaces binary single-nominee confirmation with a slate-based process: the President submits multiple nominees per appointment cycle (minimum two per position, maximum 2.5 per position rounded up), and the Senate selects from the slate using Bloc STAR voting -- a multi-winner scored procedure in which each senator assigns each nominee a score from 0 to 5, and available positions are filled sequentially through repeated single-winner rounds, each consisting of aggregate score tabulation to identify two finalists followed by a mandatory automatic runoff determined by pairwise preference (Section 202(a)-(b)). The Senate retains authority to reject an entire slate, triggering resubmission within thirty days (Section 202(c)). Carryover nominees from prior slates may be included on subsequent slates for up to five years from original documentation submission (Section 202(f)).
 
 The constitutional questions are whether Congress may require the President to submit multiple nominees rather than one, whether Congress may mandate a specific voting procedure for Senate confirmation, and whether the hybrid statutory-Senate framework for confirmation timelines is constitutionally permissible.
 
@@ -644,7 +644,8 @@ The ultimate constitutional assessment will depend on how courts balance textual
 ## Revision History
 
 **Revision 2.3** (Current)
-- DPS Rev 2.7 structural alignment: wrapped revision history in HTML comment block, added revision history note, added last revised line, standardized download link format, renamed file to Production Convention
+- Updated reference line to reflect FJBAA Rev 2.5
+- Corrected Bloc STAR procedure description in Constitutional Framework section: replaced "aggregate scores determining selection" with description of sequential single-winner rounds with mandatory pairwise preference runoff, consistent with corrected Section 202(b)
 
 **Revision 2.2**
 - Updated reference line to reflect FJBAA Rev 2.2
