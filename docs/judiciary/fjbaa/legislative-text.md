@@ -2,7 +2,7 @@
 
 ## A Bill to Modernize the Federal Judiciary, Establish Population-Based Judicial Circuits, Align Supreme Court Composition with Circuit Organization, and Ensure Balanced Representation
 
-### Revision 2.5
+### Revision 2.6
 
 ---
 
@@ -102,7 +102,7 @@ In this Act:
 
 16. **"Nomination slate"** means the group of nominees submitted by the President to the Senate for selection to fill one or more available justice positions under Section 202;
 
-17. **"Bloc STAR voting"** means the multi-winner scored voting method established under Section 202(b) in which each senator assigns a score to each nominee, and available positions are filled sequentially through repeated single-winner rounds, each consisting of aggregate score tabulation to identify two finalists followed by a mandatory automatic runoff determined by pairwise preference;
+17. **"Bloc STAR voting"** means the scored voting method established under Section 202(b) in which each senator assigns a score to each nominee, available positions are filled sequentially through repeated single-winner rounds, and each round consists of aggregate score tabulation to identify two finalists followed by a mandatory automatic runoff determined by pairwise preference;
 
 18. **"Carryover nominee"** means a nominee who appeared on a prior nomination slate within five years of the original submission date and who is included on a subsequent slate at presidential discretion under Section 202(f).
 
@@ -222,7 +222,7 @@ The Court shall expand gradually according to the following timeline:
 
 1. The President shall, for each biennial appointment cycle, submit to the Senate a nomination slate consisting of multiple nominees for available justice positions;
 
-2. The nomination slate shall contain no fewer than two (2) nominees per available position and no more than the product of the number of available positions multiplied by 2.5, rounded up to the nearest whole number under standard rounding rules;
+2. The nomination slate shall contain no fewer than the number of available positions plus two (2);
 
 3. The nomination slate shall be submitted to the Senate no later than ninety (90) days before the commencement of the October Term in the year the position or positions become available;
 
@@ -250,11 +250,11 @@ The Court shall expand gradually according to the following timeline:
 
 2. If a tie occurs at any stage of the procedure established in paragraph (1), it shall be resolved as follows:
 
-   - (A) If two or more nominees are tied in aggregate score for designation as a finalist under subparagraph (1)(D), the tie shall be broken in favor of the nominee who is preferred — that is, scored higher — by the greater number of senators in a pairwise comparison among the tied nominees;
+   - (A) If two or more nominees are tied in aggregate score for designation as a finalist under subparagraph (1)(D), the tie shall be broken in favor of the nominee who is preferred -- that is, scored higher -- by the greater number of senators in a pairwise comparison among the tied nominees;
 
    - (B) If the two finalists are preferred by an equal number of senators in the automatic runoff under subparagraph (1)(E), the tie shall be broken in favor of the finalist with the higher aggregate score;
 
-   - (C) If a tie persists after application of subparagraph (A) or (B) — that is, if the tied nominees are equal in both aggregate score and pairwise preference — the tie shall be broken by lot conducted by the Presiding Officer of the Senate;
+   - (C) If a tie persists after application of subparagraph (A) or (B) -- that is, if the tied nominees are equal in both aggregate score and pairwise preference -- the tie shall be broken by lot conducted by the Presiding Officer of the Senate;
 
 3. The Senate may, under its constitutional authority to determine the rules of its proceedings, adopt alternative tie-breaking procedures that supersede the defaults established in paragraph (2);
 
@@ -694,7 +694,7 @@ All provisions of Title III apply immediately to any nomination submitted after 
 
 #### (e) Slate Nomination and Bloc STAR Voting
 
-The slate nomination process established in Section 202(a) and the Bloc STAR voting procedure established in Section 202(b) shall apply to all appointments under this Act, including expansion appointments under Section 201(c)(1). For expansion appointments filling a single position, the nomination slate shall contain no fewer than two (2) and no more than three (3) nominees.
+The slate nomination process established in Section 202(a) and the Bloc STAR voting procedure established in Section 202(b) shall apply to all appointments under this Act, including expansion appointments under Section 201(c)(1).
 
 ### Section 402. Fairness and Balance Provisions
 
@@ -1049,7 +1049,12 @@ Nothing in this Title shall be construed to immunize any person from criminal li
 <!--
 ## Revision History
 
-**Revision 2.5** (Current)
+**Revision 2.6** (Current)
+- Revised Section 202(a)(2): replaced n×2 minimum and n×2.5 maximum with a single rule -- the nomination slate shall contain no fewer than the number of available positions plus two (2). This formulation ensures that at least three nominees remain when the final seat is filled, preserving the full two-step Bloc STAR structure (aggregate scoring to identify finalists, mandatory automatic runoff) in every round without exception. Removed the upper bound on slate size; no maximum applies.
+- Revised Section 401(e): removed the sentence specifying "no fewer than two (2) and no more than three (3) nominees" for single-position expansion appointments, which is now superseded and fully covered by revised Section 202(a)(2). Section 401(e) retains the applicability sentence confirming that slate nomination and Bloc STAR voting apply to all appointments including expansion appointments.
+- Updated Definition 17 (Bloc STAR voting) to reflect corrected sequential round procedure: replaced "aggregate scores are tabulated, and the highest-scoring nominees are selected subject to automatic runoff procedures" with description of sequential single-winner rounds with mandatory pairwise preference runoff.
+
+**Revision 2.5**
 - Corrected Section 202(b) to accurately describe Bloc STAR voting procedure: replaced simultaneous top-N selection with sequential single-winner rounds (one position per round, winner removed, repeat); replaced conditional near-tie tiebreaker with mandatory automatic runoff conducted every round via pairwise preference comparison
 - Added tiered tie-breaking provisions to Section 202(b)(2): finalist designation ties resolved by pairwise preference, runoff ties resolved by aggregate score, residual ties resolved by lot conducted by Presiding Officer; Senate may adopt alternative procedures by rule under Section 202(b)(3)
 - Corrected Definition 17 (Bloc STAR voting) to reflect sequential rounds and mandatory pairwise runoff
@@ -1244,7 +1249,7 @@ Nothing in this Title shall be construed to immunize any person from criminal li
 
 *Revision history available in the raw file.*
 
-> 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/judiciary/fjbaa/legislative-text.md) (opens on GitHub -- click the download button)
+> [Download this document](https://github.com/albertintech/apai/blob/main/docs/judiciary/fjbaa/legislative-text.md) (opens on GitHub -- click the download button)
 
 *Last revised April 2026*
 
