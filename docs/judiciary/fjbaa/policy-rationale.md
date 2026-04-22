@@ -372,6 +372,7 @@ The reform is deliberately focused on structural problems -- circuit imbalance, 
 
 ---
 
+<!--
 ## Revision History
 
 **Revision 2.7** (Current)
@@ -542,8 +543,13 @@ The reform is deliberately focused on structural problems -- circuit imbalance, 
 
 **Revision 1.1**
 - Initial publication based on FJBAA Rev 1.1
+-->
+
+*Revision history available in the raw file.*
 
 > 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/judiciary/fjbaa/policy-rationale.md) (opens on GitHub -- click the ⬇ download button)
+
+*Last revised April 2026*
 
 ---
 
