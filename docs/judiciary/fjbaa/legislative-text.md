@@ -2,7 +2,7 @@
 
 ## A Bill to Modernize the Federal Judiciary, Establish Population-Based Judicial Circuits, Align Supreme Court Composition with Circuit Organization, and Ensure Balanced Representation
 
-### Revision 2.4
+### Revision 2.5
 
 ---
 
@@ -102,7 +102,7 @@ In this Act:
 
 16. **"Nomination slate"** means the group of nominees submitted by the President to the Senate for selection to fill one or more available justice positions under Section 202;
 
-17. **"Bloc STAR voting"** means the scored voting method established under Section 202(b) in which each senator assigns a score to each nominee, aggregate scores are tabulated, and the highest-scoring nominees are selected subject to automatic runoff procedures;
+17. **"Bloc STAR voting"** means the multi-winner scored voting method established under Section 202(b) in which each senator assigns a score to each nominee, and available positions are filled sequentially through repeated single-winner rounds, each consisting of aggregate score tabulation to identify two finalists followed by a mandatory automatic runoff determined by pairwise preference;
 
 18. **"Carryover nominee"** means a nominee who appeared on a prior nomination slate within five years of the original submission date and who is included on a subsequent slate at presidential discretion under Section 202(f).
 
@@ -238,17 +238,29 @@ The Court shall expand gradually according to the following timeline:
 
    - (B) Each senator's scores for all nominees on the slate shall be recorded and published as part of the public record;
 
-   - (C) Scores shall be summed across all voting senators to produce an aggregate score for each nominee;
+   - (C) Available positions shall be filled sequentially, one position per round, using the procedure established in subparagraphs (D) through (G). The same original scores submitted under subparagraph (A) shall be used in every round;
 
-   - (D) The nominees with the highest aggregate scores equal to the number of available positions shall be provisionally selected;
+   - (D) For each round, scores shall be summed across all voting senators to produce an aggregate score for each nominee still under consideration. The two nominees with the highest aggregate scores shall be designated as finalists for that round;
 
-   - (E) If any provisionally selected nominee's aggregate score does not exceed the aggregate score of any non-selected nominee by a margin established under rules adopted by the Senate, an automatic runoff shall be conducted between the tied or near-tied nominees using the same scoring procedure;
+   - (E) An automatic runoff shall be conducted between the two finalists. In the runoff, each senator's ballot shall count as one vote for whichever finalist that senator scored higher. If a senator assigned equal scores to both finalists, that senator's ballot shall register no preference and shall not count toward either finalist. The finalist preferred by the greater number of senators shall be confirmed to fill one available position;
 
-   - (F) The nominees receiving the highest aggregate scores following any necessary runoff shall be confirmed to fill the available positions;
+   - (F) A nominee confirmed under subparagraph (E) shall be removed from consideration for all subsequent rounds;
 
-2. A nominee confirmed under this subsection shall be deemed to have received the advice and consent of the Senate for purposes of Article II of the Constitution;
+   - (G) If additional positions remain to be filled, the procedure established in subparagraphs (D) through (F) shall be repeated among the remaining nominees until all available positions have been filled;
 
-3. No separate floor vote on individual nominees shall be required when selection is made through the procedure established in this subsection.
+2. If a tie occurs at any stage of the procedure established in paragraph (1), it shall be resolved as follows:
+
+   - (A) If two or more nominees are tied in aggregate score for designation as a finalist under subparagraph (1)(D), the tie shall be broken in favor of the nominee who is preferred — that is, scored higher — by the greater number of senators in a pairwise comparison among the tied nominees;
+
+   - (B) If the two finalists are preferred by an equal number of senators in the automatic runoff under subparagraph (1)(E), the tie shall be broken in favor of the finalist with the higher aggregate score;
+
+   - (C) If a tie persists after application of subparagraph (A) or (B) — that is, if the tied nominees are equal in both aggregate score and pairwise preference — the tie shall be broken by lot conducted by the Presiding Officer of the Senate;
+
+3. The Senate may, under its constitutional authority to determine the rules of its proceedings, adopt alternative tie-breaking procedures that supersede the defaults established in paragraph (2);
+
+4. A nominee confirmed under this subsection shall be deemed to have received the advice and consent of the Senate for purposes of Article II of the Constitution;
+
+5. No separate floor vote on individual nominees shall be required when selection is made through the procedure established in this subsection.
 
 #### (c) Slate Rejection
 
@@ -1037,7 +1049,13 @@ Nothing in this Title shall be construed to immunize any person from criminal li
 <!--
 ## Revision History
 
-**Revision 2.4** (Current)
+**Revision 2.5** (Current)
+- Corrected Section 202(b) to accurately describe Bloc STAR voting procedure: replaced simultaneous top-N selection with sequential single-winner rounds (one position per round, winner removed, repeat); replaced conditional near-tie tiebreaker with mandatory automatic runoff conducted every round via pairwise preference comparison
+- Added tiered tie-breaking provisions to Section 202(b)(2): finalist designation ties resolved by pairwise preference, runoff ties resolved by aggregate score, residual ties resolved by lot conducted by Presiding Officer; Senate may adopt alternative procedures by rule under Section 202(b)(3)
+- Corrected Definition 17 (Bloc STAR voting) to reflect sequential rounds and mandatory pairwise runoff
+- Section 202(b) renumbered from 3 paragraphs to 5 paragraphs; subparagraphs expanded from (A)-(F) to (A)-(G)
+
+**Revision 2.4**
 - Reorganized Section 2(a) Findings into two tiers: three constitutional authority predicates (Findings 1-3, unchanged) followed by ten diagnostic findings (Findings 4-12), each paired with a corresponding purpose
 - Consolidated former Findings 4, 5, and 6 into new Finding 4 (circuit population disparities, circuit justice tradition, and static Court size as a unified diagnostic predicate)
 - Rewrote former Finding 10 with specificity as new Finding 5 (actuarial appointment disparities)
