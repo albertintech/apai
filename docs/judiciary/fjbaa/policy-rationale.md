@@ -4,7 +4,7 @@
 
 ### Published February 2026
 
-Based on Rev 2.3 of the Federal Judicial Balance and Accountability Act
+Based on Rev 2.5 of the Federal Judicial Balance and Accountability Act
 
 ---
 
@@ -152,7 +152,7 @@ Under slate-based selection, the Senate faces a fundamentally different choice: 
 
 The result is a confirmation process where obstruction becomes strategically irrational rather than strategically dominant. Under the current system, an opposition Senate that blocks a nominee pays no institutional price -- the seat simply remains vacant. Under the Act, an opposition Senate that rejects an entire slate triggers presidential resubmission within thirty days, with the rejected nominees excluded from the next slate. The opposition has gained nothing: it faces a new slate, now potentially without the moderate candidates it might have preferred from the first one. Repeated rejection exhausts the exclusion mechanism after two consecutive rejections, allowing the president to resubmit anyone. The structural incentive favors engagement from the first slate onward.
 
-*Bloc STAR voting mechanism.* The scored voting method -- each senator assigns each nominee a score of 0 through 5, with aggregate scores determining selection -- serves multiple structural purposes.
+*Bloc STAR voting mechanism.* Bloc STAR is a multi-winner scored voting method in which each senator assigns each nominee a score of 0 through 5, and available positions are filled one at a time through sequential rounds. In each round, aggregate scores identify two finalists, a mandatory automatic runoff determines which finalist is preferred by more senators, the winner is confirmed, and the process repeats among the remaining nominees until all positions are filled. This structure serves multiple structural purposes.
 
 First, it permits expression of degrees of support. Binary votes (yea/nay) force senators into all-or-nothing positions. Scored voting allows a senator to signal strong support for one nominee (5), qualified acceptance of another (3), and opposition to a third (0) -- within the same vote. This granularity reduces the incentive for bloc opposition because it gives minority-party senators a meaningful way to influence outcomes.
 
@@ -160,7 +160,9 @@ Second, it produces outcomes more reflective of collective Senate judgment. A no
 
 Third, public scoring -- consistent with every other Senate vote being a matter of public record -- supports the Act's transparency goals. In a binary confirmation, senators face maximum pressure to vote the party line. Under Bloc STAR scoring, the lower stakes per nominee (because each individual score contributes to a multi-nominee evaluation rather than determining a single outcome) reduce the pressure for strategic lockstep scoring. A senator can give a president's nominee a 2 rather than a 0 without facing accusations of betrayal, because the act of scoring is inherently comparative rather than absolutist.
 
-Fourth, the automatic runoff for near-tied nominees prevents the selection mechanism from producing contested outcomes. If the margin between a provisionally selected nominee and a non-selected nominee falls within a threshold established by Senate rules, an automatic runoff using the same scoring procedure resolves the ambiguity.
+Fourth, the mandatory automatic runoff ensures that confirmed nominees command genuine broad support rather than merely high aggregate scores from an intense faction. In each round, the two highest-scoring nominees advance as finalists, and a head-to-head preference comparison determines which finalist more senators prefer. Each senator's ballot counts for whichever finalist that senator scored higher; equal scores register as no preference. A nominee can lead in aggregate score and still lose the runoff if more individual senators prefer the other finalist. This is the intended behavior -- it prevents a candidate who inspires intense support from one faction and active opposition from another from winning over a candidate with broader, more even support. The runoff is conducted in every round regardless of score margins; it is the core of the method, not a contingency procedure.
+
+Fifth, the tiered tie-breaking protocol derives from the method's own internal logic rather than ad hoc procedural rules. Scoring-round ties (two nominees tied in aggregate score for finalist designation) are broken by pairwise preference -- whichever nominee is scored higher by more senators. Runoff ties (both finalists preferred by equal numbers of senators) are broken by aggregate score -- whichever finalist had the higher total. The method's two information dimensions -- aggregate strength of support and head-to-head preference -- serve as each other's tiebreaker, an internal symmetry that emerges from the structure of the method itself. Only if both metrics are exactly tied -- an astronomically unlikely event across one hundred senators -- does the procedure resort to lot conducted by the Presiding Officer. The Senate retains authority to adopt alternative tie-breaking procedures by rule, consistent with the hybrid model applied throughout the Act.
 
 *Slate rejection as an ornamental gun.* The Senate retains the constitutional authority to reject a nomination slate in its entirety. The threshold and procedures for slate rejection are determined by the Senate under its own rulemaking authority -- the Act imposes no supermajority requirement or other constraint on this power. The Senate's advice-and-consent authority is fully preserved.
 
@@ -372,7 +374,10 @@ The reform is deliberately focused on structural problems -- circuit imbalance, 
 ## Revision History
 
 **Revision 2.6** (Current)
-- DPS Rev 2.7 structural alignment: wrapped revision history in HTML comment block, added revision history note, added last revised line, standardized download link format, renamed file to Production Convention
+- Updated reference line to reflect FJBAA Rev 2.5
+- Corrected Bloc STAR voting mechanism subsection: rewrote opening sentence to describe sequential single-winner rounds with mandatory pairwise preference runoff (replacing prior description of aggregate-score batch selection)
+- Rewrote fourth structural purpose: replaced "automatic runoff for near-tied nominees" (conditional tiebreaker framing) with explanation of mandatory automatic runoff as the mechanism ensuring broad preference over factional intensity
+- Added fifth structural purpose: tiered tie-breaking protocol derived from STAR voting's native internal symmetry -- aggregate score and pairwise preference serve as each other's tiebreaker, with lot by Presiding Officer as residual and Senate override preserved
 
 **Revision 2.5**
 - Removed "National anxiety over justice health and longevity" as a standalone structural dysfunction in Problem Analysis (seven dysfunctions reduced to six)
