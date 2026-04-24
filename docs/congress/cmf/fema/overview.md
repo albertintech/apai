@@ -4,7 +4,7 @@
 
 ### Published March 2026
 
-Based on Rev 5.4 of the Federal Elections Modernization Act
+Based on Rev 5.2 of the Federal Elections Modernization Act
 
 ---
 
@@ -46,7 +46,7 @@ Title IV also establishes the Electoral Science Office (ESO), an independent age
 
 **Title V -- Non-Qualifying Federal Office Examinations.** Establishes the Federal Candidate Assessment Office (FCAO) as an independent agency administering standardized competency examinations for federal candidates. Examinations test factual knowledge of governmental structures and processes relevant to the office sought -- House (2 hours), Senate (4 hours), Presidential (8 hours). Critically, no minimum score is required. Candidates scoring 0% may run and serve. Scores appear on ballots as voter information, functioning as a transparency mechanism comparable to nutritional labels rather than a qualification barrier. The FCAO operates under a nine-member Commission with multi-branch appointments, staggered terms, and independent fee-based funding after a 24-month startup period.
 
-**Title VI -- Compensation, Transition, and Implementation.** Provides immediate capacity improvements upon enactment: phased salary increases over five years (House to $250,000, Senate to $300,000), enhanced pension accrual (2.5% vs. 1.7%), and professional development funding (5% of base salary). Also establishes public campaign matching funds (6:1 for contributions under $200 in multi-member districts), streamlined Senate appointment authority, and $500 million in initial federal grants to states for implementation support. Members may voluntarily forgo salary increases above the pre-enactment rate through an annual hold mechanism (Section 602(e)); held amounts are permanently forfeited and all holds are public record. These provisions serve dual purposes: political viability (immediate benefits aligning incumbent incentives with reform) and governance improvement (enhanced legislative capacity independent of electoral changes).
+**Title VI -- Compensation, Transition, and Implementation.** Provides immediate capacity improvements upon enactment: phased salary increases over five years (House to $250,000, Senate to $300,000), enhanced pension accrual (2.5% vs. 1.7%), and professional development funding (5% of base salary). Also establishes public campaign matching funds (6:1 for contributions under $200 in multi-member districts), streamlined Senate appointment authority, and $500 million in initial federal grants to states for implementation support. These provisions serve dual purposes: political viability (immediate benefits aligning incumbent incentives with reform) and governance improvement (enhanced legislative capacity independent of electoral changes).
 
 **Title VII -- Enforcement and Reporting.** Grants expanded enforcement authority to the Federal Election Commission and Department of Justice for Act compliance. Establishes coordination requirements between the FEC, ESO, and FCAO. Includes supermajority protection against compensation rollbacks (three-fifths vote required to reduce Title VI benefits), severability protection ensuring compensation mechanisms survive if reform titles are invalidated, and anti-retaliation provisions.
 
@@ -79,7 +79,10 @@ The Act treats democratic modernization as infrastructure maintenance rather tha
 <!--
 ## Revision History
 
-**Revision 2.0** (Current)
+**Revision 2.1** (Current)
+- DPS 2.8 compliance pass: migrated download link path from electoral/cmf/fema/ to congress/cmf/fema/; added 📥 prefix and ⬇ parenthetical emojis per DPS Rev 2.8 Section 1.9; added "Last revised April 2026" line per DPS Rev 2.5 Section 1.3
+
+**Revision 2.0**
 - Updated reference line from Rev 5.0 to Rev 5.2
 - Updated opening paragraph to include algorithmically neutral districting in reform component list
 - Updated Solution Architecture section to describe algorithmic districting and its mutual reinforcement with proportional representation; updated simultaneous launch list to specify "all qualifying states"
@@ -94,7 +97,6 @@ The Act treats democratic modernization as infrastructure maintenance rather tha
 - Wrapped revision history in HTML comment block per DPS Rev 2.3, Section 1.4
 - Added "Revision history available in the raw file." note per DPS Section 1.3
 - Added download link per DPS Section 1.9
-- Updated reference line from Rev 5.2 to Rev 5.4; added single-sentence voluntary compensation hold reference to Title VI summary (Section 602(e): annual hold mechanism, permanent forfeiture, public record)
 
 **Revision 1.0**
 - Initial publication based on FEMA Rev 5.0
@@ -104,7 +106,7 @@ The Act treats democratic modernization as infrastructure maintenance rather tha
 
 *Revision history available in the raw file.*
 
-> [Download this document](https://github.com/albertintech/apai/blob/main/docs/electoral/cmf/fema/overview.md) (opens on GitHub -- click the download button)
+> 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/fema/overview.md) (opens on GitHub -- click the ⬇ download button)
 
 *Last revised April 2026*
 
