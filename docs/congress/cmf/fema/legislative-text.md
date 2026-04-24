@@ -52,7 +52,7 @@ Congress finds that:
 
 13. STAR (Score Then Automatic Runoff) voting provides superior preference expression compared to plurality or ranked-choice voting, enabling voters to express nuanced opinions about multiple candidates while maintaining simplicity and avoiding vote-splitting problems that plague other systems.
 
-14. The scale of representation deficiency in the current 435-member House requires timely correction. At present ratios exceeding 760,000 constituents per Representative -- six to seven times larger than peer democracies -- meaningful constituent service and legislative responsiveness have become structurally impossible. A modernized House sized according to the cube root rule, reaching approximately 700 to 720 members under Census Bureau population projections, restores manageable district populations and strengthens legislative effectiveness. An initial expansion to 510 members followed by predictable biennial increases of 35 seats achieves cube root compliance within approximately 14 years -- three presidential terms -- enabling the Nation to realize the democratic benefits of proportional representation and multi-member districts within a single political generation.
+14. The scale of representation deficiency in the current 435-member House requires timely correction. At present ratios exceeding 760,000 constituents per Representative -- six to seven times larger than peer democracies -- meaningful constituent service and legislative responsiveness have become structurally impossible. A modernized House sized according to the cube root rule, reaching approximately 700 to 720 members under Census Bureau population projections, restores manageable district populations and strengthens legislative effectiveness. An initial expansion to 510 members followed by predictable biennial increases of 35 seats achieves cube root compliance within approximately 14 years -- three presidential terms -- enabling the Nation to realize the democratic benefits of proportional representation and multi-member districts within a single political generation. This accelerated timeline ensures that members who enact these reforms will see their results, voters will experience tangible improvements in representation quality, and institutional modernization proceeds on a human timescale rather than deferring reform impacts to the distant future.
 
 15. State legislatures and city councils successfully operate with proportional representation systems and larger memberships, demonstrating that these reforms are practical, effective, and consistent with American governance traditions.
 
@@ -3046,7 +3046,7 @@ Notwithstanding the effective date in subsection (a), the establishment of the F
 
 ### Section 601. Purpose
 
-This Title establishes enhanced staff resources, competitive member benefits, and transition mechanisms designed to strengthen legislative capacity and align incumbent incentives with the reform objectives of this Act. Provisions in this Title take effect on one of two timelines:
+This Title establishes compensation and transition mechanisms designed to align incumbent incentives with the reform objectives of this Act. Provisions in this Title take effect on one of two timelines:
 
 1. **Immediate Provisions**: Taking effect upon the Immediate Effective Date; and
 2. **First FEMA Election Provisions**: Taking effect at the First FEMA Election.
@@ -3089,50 +3089,24 @@ This section supersedes 2 U.S.C. Section 4501 (congressional pay adjustment) to 
 
 This section takes effect on the Immediate Effective Date.
 
-#### (e) Voluntary Compensation Hold
-
-**(1) Election to Hold**
-
-Any member of Congress may elect to forgo the difference between the compensation rate established under subsection (a) or (b) and the rate of compensation in effect immediately before the Immediate Effective Date by filing a written notice of hold with the Clerk of the House of Representatives or the Secretary of the Senate, as applicable.
-
-**(2) Hold Period**
-
-(i) Each hold shall be effective for a single calendar year. A hold filed for a given calendar year is irrevocable for that year.
-
-(ii) For the calendar year in which this Act takes effect, a member may file a notice of hold within 30 days of the Immediate Effective Date. Such hold shall be effective from the date of filing through December 31 of that calendar year.
-
-(iii) For each subsequent calendar year, a member who wishes to hold must file a notice of hold no later than December 1 of the preceding calendar year.
-
-**(3) Effect of Hold**
-
-During any period in which a hold is in effect, the member shall receive compensation at the rate in effect immediately before the Immediate Effective Date. The difference between the rate otherwise payable under subsection (a) or (b) and the pre-enactment rate is permanently forfeited and shall not be recoverable as back pay or otherwise.
-
-**(4) Scope**
-
-A hold under this subsection applies only to salary compensation under subsections (a) and (b). It does not affect pension accrual under Section 603, professional development allowances under Section 604, Member Representational Allowances under Section 606, or any other provision of this Title.
-
-**(5) Withdrawal**
-
-A member who has filed a hold may decline to renew for the following calendar year by not filing a subsequent notice of hold. Upon the expiration of a hold period without renewal, the member shall receive compensation at the rate then in effect under subsection (a) or (b), as applicable.
-
-**(6) Public Disclosure**
-
-All notices of hold and any expiration or non-renewal thereof shall be entered in the public record of the Clerk of the House of Representatives or the Secretary of the Senate, as applicable, and shall be made available to the public.
-
 ### Section 603. Pension Enhancement
 
 #### (a) Accrual Rate Increase
 
-The pension accrual rate for members of Congress shall be 2.5% per year of service, replacing the applicable accrual rate under current law, effective for all service years on or after the Immediate Effective Date.
+The pension accrual rate for members of Congress shall be 2.5% per year of service, replacing the current 1.7% rate, effective for all service years on or after the Immediate Effective Date.
 
-#### (b) Existing Pension Rights Protected
+#### (b) Reduced Vesting Period
+
+Members of Congress shall become vested in the congressional pension system after 5 years of service, replacing the current vesting requirement.
+
+#### (c) Existing Pension Rights Protected
 
 Pension benefits already accrued under prior formulas shall be preserved and calculated separately, with total pension being the sum of:
 
 1. Benefits accrued under prior formulas for service before the Immediate Effective Date; plus
 2. Benefits accrued under this enhanced formula for service on or after the Immediate Effective Date.
 
-#### (c) Effective Date
+#### (d) Effective Date
 
 This section takes effect on the Immediate Effective Date.
 
@@ -3628,15 +3602,7 @@ through the processes established in Section 409(h).
 ## Revision History
 
 **Revision 5.4** (Current)
-
-- Section 2, Finding 14: Removed final sentence containing "human timescale" and personal benefit framing ("members who enact these reforms will see their results"); finding now concludes with "within a single political generation"
-- Section 601 (Purpose): Reframed from "compensation and transition mechanisms" to "enhanced staff resources, competitive member benefits, and transition mechanisms designed to strengthen legislative capacity"
-- Section 603(a): Corrected accrual rate comparison from "replacing the current 1.7% rate" to "replacing the applicable accrual rate under current law" (covers both pre-2013 FERS at 1.7% and post-2012 FERS-FRAE at 1.0%)
-- Section 603(b): Deleted "Reduced Vesting Period" subsection (five-year vesting is already the standard under FERS; the Act does not modify it)
-- Section 603: Re-lettered subsections (c)-(d) to (b)-(c) following vesting subsection deletion
-- Added Section 602(e) Voluntary Compensation Hold: annual irrevocable hold on salary delta above pre-enactment rate; stub period provision for enactment year; December 1 filing deadline for subsequent years; permanent forfeiture (no back pay); scope limited to salary (does not affect pension, MRA, professional development, or other Title VI provisions); non-renewal restores current rate; all holds and expirations are public record
-- Corrected download link path from `electoral/cmf/fema/` to `congress/cmf/fema/`
-- Added "Last revised" line per DPS Rev 2.5
+- DPS 2.8 compliance pass: migrated download link path from electoral/cmf/fema/ to congress/cmf/fema/; added 📥 prefix and ⬇ parenthetical emojis per DPS Rev 2.8 Section 1.9; added "Last revised April 2026" line per DPS Rev 2.5 Section 1.3
 
 **Revision 5.3**
 
@@ -3927,7 +3893,7 @@ through the processes established in Section 409(h).
 
 *Revision history available in the raw file.*
 
-> [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/fema/legislative-text.md) (opens on GitHub -- click the download button)
+> 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/fema/legislative-text.md) (opens on GitHub -- click the ⬇ download button)
 
 *Last revised April 2026*
 
