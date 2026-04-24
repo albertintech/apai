@@ -414,7 +414,10 @@ The Constitution grants Congress broad power to regulate the manner of federal e
 <!--
 ## Revision History
 
-**Revision 3.0** (Current)
+**Revision 3.1** (Current)
+- DPS 2.8 compliance pass: migrated download link path from electoral/cmf/fema/ to congress/cmf/fema/; added 📥 prefix and ⬇ parenthetical emojis per DPS Rev 2.8 Section 1.9; added "Last revised April 2026" line per DPS Rev 2.5 Section 1.3
+
+**Revision 3.0**
 - Updated reference line from Rev 5.0 to Rev 5.2
 - Updated State-by-State Implementation section: replaced "Each state divides its seats into multi-member districts" with ESO-certified algorithmically neutral districting per Rev 5.1 Section 403
 - Updated Small State Accommodation section: split into two tiers matching Rev 5.1 Section 402(d) -- one-Representative states (at-large, exempt from algorithmic districting) and two-Representative states (algorithmically drawn SMDs using single-winner STAR); corrected cross-references from Section 402(e)/404(h) to Section 402(d)(1), 402(d)(2), and 404(e)
@@ -443,7 +446,9 @@ The Constitution grants Congress broad power to regulate the manner of federal e
 
 *Revision history available in the raw file.*
 
-> [Download this document](https://github.com/albertintech/apai/blob/main/docs/electoral/cmf/fema/constitutional-boundaries-of-proportional-representation.md) (opens on GitHub -- click the download button)
+> 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/fema/constitutional-boundaries-of-proportional-representation.md) (opens on GitHub -- click the ⬇ download button)
+
+*Last revised April 2026*
 
 ---
 
