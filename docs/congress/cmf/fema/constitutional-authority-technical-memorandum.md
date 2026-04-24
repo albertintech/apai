@@ -577,7 +577,10 @@ Delegation Doctrine:
 <!--
 ## Revision History
 
-**Revision 3.0** (Current)
+**Revision 3.1** (Current)
+- DPS 2.8 compliance pass: migrated download link path from electoral/cmf/fema/ to congress/cmf/fema/; added 📥 prefix and ⬇ parenthetical emojis per DPS Rev 2.8 Section 1.9; added "Last revised April 2026" line per DPS Rev 2.5 Section 1.3
+
+**Revision 3.0**
 - Updated reference line from Rev 5.0 to Rev 5.2
 - Moved revision history from header to footer per DPS Section 1.3
 - Removed "Document Status: Draft -- Working Document" line per DPS Rev 1.6
@@ -619,7 +622,9 @@ Delegation Doctrine:
 
 *Revision history available in the raw file.*
 
-> [Download this document](https://github.com/albertintech/apai/blob/main/docs/electoral/cmf/fema/constitutional-authority-technical-memorandum.md) (opens on GitHub -- click the download button)
+> 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/fema/constitutional-authority-technical-memorandum.md) (opens on GitHub -- click the ⬇ download button)
+
+*Last revised April 2026*
 
 ---
 
