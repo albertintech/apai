@@ -1,8 +1,10 @@
-# Why Not Fusion Voting?
+# Federal Elections Modernization Act
 
-## A Position Paper on the Limits of Cross-Endorsement Reform and the Case for Structural Electoral Architecture
+## Why Not Fusion Voting?
 
 ### Published March 2026
+
+Based on Rev 5.2 of the Federal Elections Modernization Act
 
 ---
 
@@ -179,7 +181,12 @@ Tamas, Bernard. "Does Fusion Undermine American Third Parties? An Analysis of Ho
 <!--
 ## Revision History
 
-**Revision 1.2** (Current)
+**Revision 1.3** (Current)
+- DPS 2.8 compliance pass: migrated download link path from electoral/cmf/fema/ to congress/cmf/fema/; added 📥 prefix and ⬇ parenthetical emojis per DPS Rev 2.8 Section 1.9; added "Last revised April 2026" line per DPS Rev 2.5 Section 1.3
+- Restructured header per DPS Rev 2.8 Section 1.2 Supporting Document format: H1 changed from paper title to proposal name; paper title moved to H2; descriptive subtitle retired (framing preserved in opening paragraphs)
+- Added missing "Based on Rev 5.2 of the Federal Elections Modernization Act" reference line per DPS Section 1.2
+
+**Revision 1.2**
 - Updated opening paragraph reform list to include algorithmically neutral districting
 - Revised Proportional Representation subsection in Affirmative Case: replaced "transitions House elections from single-member to multi-member districts" with explicit single implementation language ("Beginning at the First FEMA Election, all qualifying states elect Representatives from multi-member districts")
 - Added new Affirmative Case subsection: "Algorithmically Neutral Districting Eliminates the Boundaries Problem Fusion Ignores" -- fusion operates inside gerrymandered districts and has no mechanism to address boundary manipulation; algorithmic districting eliminates human discretion from map-drawing; proportional representation ensures even imperfect boundaries cannot distort representation
@@ -204,7 +211,9 @@ Tamas, Bernard. "Does Fusion Undermine American Third Parties? An Analysis of Ho
 
 *Revision history available in the raw file.*
 
-> [Download this document](https://github.com/albertintech/apai/blob/main/docs/electoral/cmf/fema/why-not-fusion-voting.md) (opens on GitHub -- click the download button)
+> 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/fema/why-not-fusion-voting.md) (opens on GitHub -- click the ⬇ download button)
+
+*Last revised April 2026*
 
 ---
 
