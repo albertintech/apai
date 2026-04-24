@@ -4,7 +4,7 @@
 
 ### Published March 2026
 
-Based on Rev 5.4 of the Federal Elections Modernization Act
+Based on Rev 5.3 of the Federal Elections Modernization Act
 
 ---
 
@@ -543,20 +543,6 @@ Compensation provisions serve two functions:
 
 Even if electoral reforms never occurred, these improvements would deliver governance benefits. But the structure ensures compensation improvements take effect immediately while electoral reforms launch at the First FEMA Election.
 
-### Voluntary Compensation Hold
-
-The Act establishes a self-executing default: the phased salary increases take effect automatically. Any member who wishes to forgo the salary increase above the pre-enactment rate ($174,000) may file an affirmative annual hold with the Clerk of the House or Secretary of the Senate.
-
-This polarity is intentional. Congressional pay has been frozen since 2009 not because members believe $174,000 is the right number, but because voting for an increase is the affirmative act -- and that vote is politically costly in many districts. The result is a mechanism that can only freeze or cut, never adjust. Reversing the polarity removes this structural impediment: the increase takes effect unless a member acts, eliminating the vote as a political liability.
-
-The hold acknowledges that individual members operate in different political environments. A member whose constituents are focused on fiscal discipline has a clean, visible option without requiring the institutional default to bend to the most politically cautious position in the chamber. This is not an apology for the compensation increases -- it is a recognition that institutional defaults and individual political navigation are not in conflict, and a mechanism that allows both to coexist.
-
-**Anti-gaming design.** Two features prevent the hold from becoming a press cycle instrument. First, each hold is irrevocable for the calendar year in which it is filed -- there is no withdrawal mechanism mid-year. Second, held amounts are permanently forfeited; there is no deferred compensation, no back pay, no credit accumulation. A member who files a hold surrenders that salary increment entirely. This ensures the hold is a genuine commitment rather than a performative gesture that can be quietly unwound after the news cycle passes.
-
-**Scope limitation.** The hold applies to salary only (Section 602(e)). It does not affect pension accrual (Section 603), professional development resources (Section 604), Member Representational Allowance (Section 606), or any other Title VI provision. Pension accrual and operational capacity are institutional investments, not personal compensation in the same sense as salary. Allowing holds to cascade into those provisions would undermine the institutional competitiveness rationale that motivates Title VI as a whole.
-
-**Public disclosure.** All holds and their expirations are public record, maintained by the Clerk of the House and Secretary of the Senate. Transparency is structural: members who file holds receive the political benefit of a visible, verifiable commitment; members who do not are not exposed to a recorded vote on a pay increase. The disclosure mechanism makes the hold useful as a constituent signal without creating a floor vote that freezes the institutional default.
-
 ---
 
 ## IX. THE POLITICAL ECONOMY OF COMPREHENSIVE REFORM
@@ -927,8 +913,7 @@ Supreme Court interpretation confirms this grants Congress plenary power over fe
 ## Revision History
 
 **Revision 5.4** (Current)
-- Updated reference line from Rev 5.3 to Rev 5.4
-- Added "Voluntary Compensation Hold" subsection to Section VIII (Title VI): self-executing default rationale and polarity logic, political cover function, anti-gaming provisions (irrevocability and permanent forfeiture), scope limitation to salary only with rationale, public disclosure structure; corresponds to Section 602(e) of Rev 5.4 legislative text
+- DPS 2.8 compliance pass: migrated download link path from electoral/cmf/fema/ to congress/cmf/fema/; added 📥 prefix and ⬇ parenthetical emojis per DPS Rev 2.8 Section 1.9; added "Last revised April 2026" line per DPS Rev 2.5 Section 1.3
 
 **Revision 5.3**
 - Updated reference line from Rev 5.2 to Rev 5.3
@@ -1028,7 +1013,7 @@ Supreme Court interpretation confirms this grants Congress plenary power over fe
 
 *Revision history available in the raw file.*
 
-> [Download this document](https://github.com/albertintech/apai/blob/main/docs/electoral/cmf/fema/policy-rationale.md) (opens on GitHub -- click the download button)
+> 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/fema/policy-rationale.md) (opens on GitHub -- click the ⬇ download button)
 
 *Last revised April 2026*
 
