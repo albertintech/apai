@@ -1,6 +1,6 @@
-# Why Not Condorcet?
+# Federal Elections Modernization Act
 
-## A Position Paper on the Structural Limitations of True Majority Rule and the Case for STAR Voting as a Single-Winner Method
+## Why Not Condorcet?
 
 ### Published March 2026
 
@@ -153,7 +153,11 @@ Wolk, Sara, Jameson Quinn, and Mark Ogren. "STAR Voting, Equality of Voice, and 
 <!--
 ## Revision History
 
-**Revision 1.0** (Current)
+**Revision 1.1** (Current)
+- DPS 2.8 compliance pass: added 📥 prefix and ⬇ parenthetical emojis to download link per DPS Rev 2.8 Section 1.9; added "Last revised April 2026" line per DPS Rev 2.5 Section 1.3
+- Restructured header per DPS Rev 2.8 Section 1.2 Supporting Document format: H1 changed from paper title to proposal name; paper title moved to H2; descriptive subtitle retired (framing preserved in opening paragraphs)
+
+**Revision 1.0**
 - Initial publication
 - Evaluates Condorcet/TMR family against STAR as single-winner method for the Federal Elections Modernization Act
 - Engages the Dasgupta-Maskin axiomatic framework (2004, 2008, 2020), the Foley-Maskin "Maximum Convergence Voting" proposal (2025), and the Holliday "Final Four" simplification (2025)
@@ -164,7 +168,9 @@ Wolk, Sara, Jameson Quinn, and Mark Ogren. "STAR Voting, Equality of Voice, and 
 
 *Revision history available in the raw file.*
 
-> [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/fema/why-not-condorcet.md) (opens on GitHub -- click the download button)
+> 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/fema/why-not-condorcet.md) (opens on GitHub -- click the ⬇ download button)
+
+*Last revised April 2026*
 
 ---
 
