@@ -61,12 +61,19 @@ The Act represents a structural approach to representational distortion, treatin
 <!--
 ## Revision History
 
-**Revision 1.0** (Current)
+**Revision 1.1** (Current)
+- DPS 2.8 compliance pass: added missing download link per DPS Rev 2.8 Section 1.9 (with 📥 prefix and ⬇ parenthetical emojis); download link URL points to publishing name fair-representation-act-overview.md per mkdocs.yml; added "Last revised April 2026" line per DPS Rev 2.5 Section 1.3
+
+**Revision 1.0**
 - Initial publication based on H.R. 4632 as introduced (119th Congress)
 - Written to APAI Document Production Standards Section 3.1 (Overview) specification
 -->
 
 *Revision history available in the raw file.*
+
+> 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/fema/fair-representation-act-overview.md) (opens on GitHub -- click the ⬇ download button)
+
+*Last revised April 2026*
 
 ---
 
