@@ -4,7 +4,7 @@
 
 ### Published March 2026
 
-Based on Rev 5.4 of the Federal Elections Modernization Act
+Based on Rev 5.2 of the Federal Elections Modernization Act
 
 ---
 
@@ -26,13 +26,13 @@ The Act treats these as maintenance needs rather than moral failures -- infrastr
 
 - **Candidate Transparency** -- Establishes the Federal Candidate Assessment Office (FCAO) to administer standardized competency examinations. Scores appear on ballots as voter information. No minimum score required -- voters remain sole gatekeepers.
 
-- **Legislative Capacity** -- Enhances staff budgets, professional development funding, and competitive member benefits to reduce talent drain and strengthen Congress's ability to perform oversight and policy development.
+- **Legislative Capacity** -- Enhances member compensation, staff budgets, and professional development funding to reduce talent drain and strengthen Congress's ability to perform oversight and policy development.
 
 ## Implementation Timeline
 
 The Act uses a tiered effective date structure:
 
-- **Upon enactment** -- Enhanced staff resources, professional development, and competitive member benefits take effect immediately.
+- **Upon enactment** -- Compensation and professional development provisions take effect immediately. Members who vote for the Act see benefits during their careers.
 
 - **First FEMA Election** (~2 years after enactment) -- Electoral reforms launch together: STAR voting, multi-member districts for all qualifying states, algorithmically neutral districting, House expansion to 510 seats, and unified general elections debut simultaneously.
 
@@ -56,7 +56,7 @@ The Act operates within established constitutional authority:
 
 See the full legislative text and policy rationale for comprehensive details.
 
-> [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/fema/introduction.md) (opens on GitHub -- click the download button)
+> 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/fema/introduction.md) (opens on GitHub -- click the ⬇ download button)
 
 *Last revised April 2026*
 
