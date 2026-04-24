@@ -148,30 +148,31 @@ The confirmation process will never be free of politics. The Act does not attemp
 
 ## Works Cited
 
-Amar, Akhil Reed. "A Constitutional Accident Waiting to Happen." *Constitutional Commentary* 22, no. 3 (2005): 343-348.
+Amar, Akhil Reed. "A Constitutional Accident Waiting to Happen." *Constitutional Commentary* 12, no. 2 (Summer 1995): 143.
 
 Calabresi, Steven G., and James Lindgren. "Term Limits for the Supreme Court: Life Tenure Reconsidered." *Harvard Journal of Law & Public Policy* 29, no. 3 (2006): 769-877.
 
 Collins, Paul M., Jr., and Lori A. Ringhand. *Supreme Court Confirmation Hearings and Constitutional Change.* Cambridge University Press, 2013.
 
-Epps, Daniel, and Ganesh Sitaraman. "How to Save the Supreme Court." *Yale Law Journal* 129, no. 1 (2019): 148-229.
+Epps, Daniel, and Ganesh Sitaraman. "How to Save the Supreme Court." *Yale Law Journal* 129, no. 1 (2019): 148-206.
 
 Farrand, Max, ed. *The Records of the Federal Convention of 1787.* Vol. 2. Yale University Press, 1911.
 
 Ringhand, Lori A., and Paul M. Collins, Jr. "May It Please the Senate: An Empirical Analysis of the Senate Judiciary Committee Hearings of Supreme Court Nominees, 1939-2009." *American University Law Review* 60, no. 3 (2011): 589-641.
 
-Tribe, Laurence H. "Defining 'Advice and Consent.'" *Texas Law Review* 71, no. 6 (1993): 1099-1133.
-
 U.S. Congress. Senate. *Confirmation Hearing on the Nomination of John G. Roberts Jr. to be Chief Justice of the United States.* 109th Cong., 1st sess. September 12-15, 2005.
 
-U.S. Congressional Research Service. "Supreme Court Appointment Process: Consideration by the Senate Judiciary Committee." R44235. 2020. https://sgp.fas.org/crs/misc/R44235.pdf
+U.S. Congressional Research Service. "Supreme Court Appointment Process: Consideration by the Senate Judiciary Committee." R44236. 2020. https://sgp.fas.org/crs/misc/R44236.pdf
 
 ---
 
 <!--
 ## Revision History
 
-**Revision 1.0** (Current)
+**Revision 1.1** (Current)
+- Works Cited corrections following multi-model citation verification: corrected volume, issue, year, and page in Amar (12 *Constitutional Commentary* 143, Summer 1995); corrected page range in Epps & Sitaraman (148–206); removed unverifiable Tribe citation; corrected CRS report number from R44235 to R44236 with updated URL
+
+**Revision 1.0**
 - Initial publication
 - Presents the case for Title III's evidence-based documentation approach over credential-based qualification requirements
 - Covers constitutional basis for the credential/documentation distinction, the six qualifying pathways, calibration of requirements for slate-based evaluation, the judicial philosophy statement, the epistemic diversity finding, and counterarguments
