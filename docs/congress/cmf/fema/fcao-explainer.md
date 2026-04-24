@@ -4,7 +4,7 @@
 
 ### Published March 2026
 
-Based on Rev 5.3 of the Federal Elections Modernization Act
+Based on Rev 5.2 of the Federal Elections Modernization Act
 
 ---
 
@@ -52,9 +52,7 @@ You can buy food without reading the label. You can vote for candidates without 
 
 **Score disclosure:** Scores appear on ballots as percentages: "House FCAO Score: 87%" or similar. Voters see the number alongside party affiliation and endorsements.
 
-**Retakes permitted:** Candidates may retake examinations unlimited times. Only the highest score within the validity period is reported. This encourages preparation rather than penalizing initial performance.
-
-**Score validity:** Examination scores remain valid for 10 years from the date of examination. After expiration, candidates must complete a new examination to satisfy the examination requirement -- applying the same professional recertification principle that governs attorneys, physicians, and other credentialed professions. Expiration resets the participation requirement, not a score threshold: a candidate with an expired score must retake the exam but can still score 0% and appear on the ballot. FCAO provides 12-month advance notification before a score expires.
+**Retakes permitted:** Candidates may retake examinations unlimited times. Only the highest score is reported. This encourages preparation rather than penalizing initial performance.
 
 **Exemptions:** Incumbent officeholders seeking reelection to their current office are exempt. Former federal officeholders seeking any federal office are also exempt, provided they completed the applicable FCAO examination within the past 10 years and the examination structure has not substantially changed. Exempt candidates' ballots display "Exempt (Current Representative)" or equivalent. They've demonstrated competency through service.
 
@@ -121,11 +119,8 @@ The question FCAO answers is simple: does this candidate understand how the job 
 <!--
 ## Revision History
 
-**Revision 4.0** (Current)
-- Updated reference line from Rev 5.2 to Rev 5.3
-- Added "Score validity" paragraph to How It Works section: 10-year validity period, professional recertification principle, participation requirement reset (not score threshold), 12-month advance notification
-- Updated "Retakes permitted" paragraph: highest score reporting now qualified by validity period per Section 501(f)(4)
-- Corrected download link path from `electoral/` to `congress/` per DPS Rev 2.4 directory structure update
+**Revision 3.1** (Current)
+- DPS 2.8 compliance pass: migrated download link path from electoral/cmf/fema/ to congress/cmf/fema/; added 📥 prefix and ⬇ parenthetical emojis per DPS Rev 2.8 Section 1.9; added "Last revised April 2026" line per DPS Rev 2.5 Section 1.3
 
 **Revision 3.0**
 - Updated reference line from Rev 5.0 to Rev 5.2
@@ -151,7 +146,9 @@ The question FCAO answers is simple: does this candidate understand how the job 
 
 *Revision history available in the raw file.*
 
-> [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/fema/fcao-explainer.md) (opens on GitHub -- click the download button)
+> 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/fema/fcao-explainer.md) (opens on GitHub -- click the ⬇ download button)
+
+*Last revised April 2026*
 
 ---
 
