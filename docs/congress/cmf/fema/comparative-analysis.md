@@ -291,7 +291,10 @@ This document provides the analytical foundation for making that choice with ful
 <!--
 ## Revision History
 
-**Revision 2.0** (Current)
+**Revision 2.1** (Current)
+- DPS 2.8 compliance pass: migrated download link path from electoral/cmf/fema/ to congress/cmf/fema/; corrected URL filename from electoral-reform-comparative-analysis.md to publishing name comparative-analysis.md per mkdocs.yml; added 📥 prefix and ⬇ parenthetical emojis per DPS Rev 2.8 Section 1.9; added "Last revised April 2026" line per DPS Rev 2.5 Section 1.3
+
+**Revision 2.0**
 - Complete structural rebuild from prior version
 - Reorganized around problem-set-first architecture: Part I establishes systemic problems, Part II surveys targeted reforms, Part III evaluates FRA as comprehensive reform, Part IV evaluates FEMA as comprehensive systematic reform, Part V provides side-by-side impact matrix, Part VI provides detailed architectural comparison
 - Moved engine analogy from introduction to conclusion
@@ -308,7 +311,9 @@ This document provides the analytical foundation for making that choice with ful
 
 *Revision history available in the raw file.*
 
-> [Download this document](https://github.com/albertintech/apai/blob/main/docs/electoral/cmf/fema/electoral-reform-comparative-analysis.md) (opens on GitHub -- click the download button)
+> 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/fema/comparative-analysis.md) (opens on GitHub -- click the ⬇ download button)
+
+*Last revised April 2026*
 
 ---
 
