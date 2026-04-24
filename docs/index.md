@@ -1,6 +1,6 @@
 # American Policy Architecture Institute
 
-**Blueprints for a stronger and more dynamic Republic**
+**Nonpartisan blueprints for a stronger and more dynamic Republic**
 
 ---
 
