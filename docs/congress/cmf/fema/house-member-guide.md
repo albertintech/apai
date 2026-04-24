@@ -4,7 +4,7 @@
 
 ### Published March 2026
 
-Based on Rev 5.4 of the Federal Elections Modernization Act
+Based on Rev 5.2 of the Federal Elections Modernization Act
 
 ---
 
@@ -192,12 +192,10 @@ The preparation window is approximately three years. That is a meaningful amount
 - Anti-retaliation protections activate
 - ESO establishment begins; algorithmically neutral districting development commences
 - Administrative preparation begins for Titles I-IV
-- **30-day hold filing window opens:** Members who wish to forgo the salary increase above the pre-enactment rate ($174,000) for the enactment year must file a voluntary compensation hold within 30 days of enactment; the hold runs through December 31 of that year
 
 **Your decisions:**
 
-- **Whether to file a voluntary compensation hold** for the enactment year (Section 602(e)): the hold is irrevocable for the calendar year and amounts are permanently forfeited -- no back pay. If your district is likely to bristle at increased member pay, this is a clean, publicly disclosed opt-out. It is a constituent messaging tool, not a repudiation of the compensation structure. Filing deadline is 30 days post-enactment for the stub period; December 1 each subsequent year for the following calendar year.
-- How to message the compensation increases to constituents (the voluntary hold is one available option for members in fiscally conservative districts)
+- How to message the compensation increases to constituents
 - How to use professional development resources
 - Whether to begin FCAO preparation early (recommended -- you have years to optimize before scores appear on ballots)
 - Whether to begin base cultivation and coalition building work (also recommended -- you have approximately three years before the system changes)
@@ -387,19 +385,6 @@ The following sections provide tabular reference data supporting the narrative g
 |-----------|---------|--------|-------|
 | Enhanced MRA | 606 | +35% (~$450-550k/year) | Upon initial House expansion |
 | Public Matching Funds | 607 | 6:1 up to $5M | For qualifying candidates |
-
-### Voluntary Compensation Hold (Section 602(e) -- Tier 1)
-
-| Feature | Detail |
-|---------|--------|
-| Eligible | Any member of Congress |
-| Scope | Salary only; does not affect pension (Sec. 603), professional development (Sec. 604), MRA (Sec. 606), or any other Title VI provision |
-| Stub Period Filing | Within 30 days of enactment; hold runs through December 31 |
-| Annual Filing Deadline | December 1 for the following calendar year |
-| Commitment | Irrevocable for the calendar year filed; no partial-year holds |
-| Forfeiture | Permanent; no back pay, no deferral, no credit accumulation |
-| Withdrawal | Do not refile; member reverts to statutory rate then in effect |
-| Public Record | Maintained by Clerk of the House / Secretary of the Senate |
 
 ### Career Value Comparison
 
@@ -636,7 +621,10 @@ Under single implementation, every current member serving in a qualifying state 
 <!--
 ## Revision History
 
-**Revision 4.0** (Current)
+**Revision 4.1** (Current)
+- DPS 2.8 compliance pass: migrated download link path from electoral/cmf/fema/ to congress/cmf/fema/; added 📥 prefix and ⬇ parenthetical emojis per DPS Rev 2.8 Section 1.9; added "Last revised April 2026" line per DPS Rev 2.5 Section 1.3
+
+**Revision 4.0**
 - Rebuilt for FEMA Rev 5.2; single implementation replaces phased rollout throughout
 - Updated reference line from Rev 5.0 to Rev 5.2; publication date updated to March 2026
 - Updated illustrative timeline baseline from 2026 enactment to 2029 enactment (earliest realistic passage requiring Democratic trifecta following 2028 presidential election); First FEMA Election updated from ~2028 to ~2032; Second FEMA Election updated from ~2030 to ~2034; cube root compliance updated from ~2040 to ~2046; preparation window updated from ~2 years to ~3 years throughout
@@ -654,10 +642,6 @@ Under single implementation, every current member serving in a qualifying state 
 - Wrapped revision history in HTML comment block per DPS Rev 2.3, Section 1.4
 - Added "Revision history available in the raw file." note per DPS Section 1.3
 - Added download link per DPS Section 1.9
-- Updated reference line from Rev 5.2 to Rev 5.4; propagated Section 602(e) Voluntary Compensation Hold
-- Added 30-day stub period filing window to "Upon Enactment" What Happens list
-- Added voluntary hold filing decision to "Upon Enactment" Your Decisions list, including constituent messaging framing; updated compensation messaging bullet to reference the hold as one available option
-- Added "Voluntary Compensation Hold (Section 602(e) -- Tier 1)" sub-table to Data Reference Section II: scope, stub period filing, annual deadline, commitment, forfeiture, withdrawal, and public record
 
 **Revision 3.0**
 - Updated from CMA Rev 4.2 to FEMA Rev 5.0
@@ -718,7 +702,7 @@ Under single implementation, every current member serving in a qualifying state 
 
 *Revision history available in the raw file.*
 
-> [Download this document](https://github.com/albertintech/apai/blob/main/docs/electoral/cmf/fema/house-member-guide.md) (opens on GitHub -- click the download button)
+> 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/fema/house-member-guide.md) (opens on GitHub -- click the ⬇ download button)
 
 *Last revised April 2026*
 
