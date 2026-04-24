@@ -1,6 +1,6 @@
-# Why Not STV?
+# Federal Elections Modernization Act
 
-## A Position Paper on the Structural Limitations of the Single Transferable Vote and the Case for Allocated Score as a Proportional Method
+## Why Not STV?
 
 ### Published March 2026
 
@@ -227,7 +227,11 @@ Wolk, Sara, Jameson Quinn, and Mark Ogren. "STAR Voting: Considerations and Simu
 <!--
 ## Revision History
 
-**Revision 1.0** (Current)
+**Revision 1.1** (Current)
+- DPS 2.8 compliance pass: migrated download link path from electoral/cmf/fema/ to congress/cmf/fema/; added 📥 prefix and ⬇ parenthetical emojis per DPS Rev 2.8 Section 1.9; added "Last revised April 2026" line per DPS Rev 2.5 Section 1.3
+- Restructured header per DPS Rev 2.8 Section 1.2 Supporting Document format: H1 changed from paper title to proposal name; paper title moved to H2; descriptive subtitle retired (framing preserved in opening paragraphs)
+
+**Revision 1.0**
 - Initial publication
 - Evaluates STV/PRCV against Allocated Score as proportional method for the Federal Elections Modernization Act
 - Draws on Ogren 2024 (Candidate Incentive Distributions), Graham-Squire and McCune 2023 (empirical RCV pathology catalog), Gallagher 2013 (Irish PR-STV monotonicity), Burnett and Kogan 2015 (ballot exhaustion), Pettigrew and Radley 2024 (ballot marking errors), Cormack 2023/2026 (RCV ballot error analysis), Neely and McDaniel 2015 (demographic error disparities), Wolk Quinn and Ogren 2023 (STAR voting simulations), Equal Vote Coalition proportional representation and voting methods analyses, and the Fair Representation Act (H.R. 4632) legislative text
@@ -237,7 +241,9 @@ Wolk, Sara, Jameson Quinn, and Mark Ogren. "STAR Voting: Considerations and Simu
 
 *Revision history available in the raw file.*
 
-> [Download this document](https://github.com/albertintech/apai/blob/main/docs/electoral/cmf/fema/why-not-stv.md) (opens on GitHub -- click the download button)
+> 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/fema/why-not-stv.md) (opens on GitHub -- click the ⬇ download button)
+
+*Last revised April 2026*
 
 ---
 
