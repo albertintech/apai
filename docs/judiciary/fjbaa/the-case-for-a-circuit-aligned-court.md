@@ -303,17 +303,17 @@ With these inputs and the stated principles, the fifteen-circuit finding is repr
 
 ## Works Cited
 
-Chilton, Adam, Marin K. Epps, Kyle Rozema, and Maya Sen. "Designing Supreme Court Term Limits." *Southern California Law Review* 95, no. 1 (2021): 1-80.
+Chilton, Adam, Daniel Epps, Kyle Rozema, and Maya Sen. "Designing Supreme Court Term Limits." *Southern California Law Review* 95, no. 1 (2021): 1-69.
 
 Frankfurter, Felix, and James M. Landis. *The Business of the Supreme Court: A Study in the Federal Judicial System.* New York: Macmillan, 1927.
 
 United States. An Act to Establish the Judicial Courts of the United States [Judiciary Act of 1789]. 1 Stat. 73. September 24, 1789.
 
-United States. An Act to Amend the Judicial System of the United States. 2 Stat. 420. February 24, 1807.
+United States. An Act establishing Circuit Courts, and abridging the jurisdiction of the district courts in the districts of Kentucky, Tennessee, and Ohio. 2 Stat. 420. February 24, 1807.
 
-United States. An Act to Reorganize the Judiciary, and to Fix the Times and Places of Holding the Courts of the United States. 5 Stat. 176. March 3, 1837.
+United States. An Act supplementary to the act entitled "An act to amend the judicial system of the United States." 5 Stat. 176. March 3, 1837.
 
-United States. An Act to Amend the Judicial System of the United States. 12 Stat. 794. March 3, 1863.
+United States. An Act to provide Circuit Courts for the Districts of California and Oregon, and for other Purposes. 12 Stat. 794. March 3, 1863.
 
 United States. An Act to Fix the Number of Judges of the Supreme Court of the United States, and to Change Certain Judicial Circuits. 14 Stat. 209. July 23, 1866.
 
@@ -323,14 +323,17 @@ United States. Circuit Courts of Appeals Act [Evarts Act]. 26 Stat. 826. March 3
 
 United States. 28 U.S.C. §§ 41, 81-131. Judicial Code, Circuit and District Definitions. Current through 2024.
 
-U.S. Census Bureau. *2020 Census Redistricting Data (Public Law 94-171) Summary File.* Washington, D.C.: U.S. Department of Commerce, 2021. https://www.census.gov/data/datasets/2020/dec/2020-census-redistricting-data-summary-file.html
+U.S. Census Bureau. *2020 Census Redistricting Data (Public Law 94-171) Summary File.* Washington, D.C.: U.S. Department of Commerce, 2021. https://www.census.gov/data/datasets/2020/dec/2020-census-redistricting-summary-file-dataset.html
 
 ---
 
 <!--
 ## Revision History
 
-**Revision 1.0** (Current)
+**Revision 1.1** (Current)
+- Works Cited corrections following multi-model citation verification: corrected author name (Daniel Epps, not "Marin K. Epps") and page range (1–69, not 1–80) in Chilton et al.; corrected statute titles for the 1807, 1837, and 1863 judiciary acts; updated Census Bureau URL
+
+**Revision 1.0**
 - Initial publication
 - Presents the full argument for circuit-aligned Supreme Court composition, including historical alignment, governing principles, the fifteen-circuit finding, the court-to-circuit connection, and the structural answer to the court-packing accusation
 - Technical Appendix provides complete population data, whole-state and district-level compliance modeling results, and explicit disclosure of all judgment calls embedded in the methodology
