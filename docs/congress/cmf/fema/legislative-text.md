@@ -2,19 +2,21 @@
 
 ## An Electoral and Congressional Modernization Framework for a Stronger Republic
 
-### Revision 5.4
+> Revision 5.5
+> Published February 2026
+> Last revised April 2026
 
 ---
 
-## SECTION 1. SHORT TITLE
+### Section 1. Short Title
 
 This Act may be cited as the "Federal Elections Modernization Act" or "FEMA."
 
 ---
 
-## SECTION 2. FINDINGS
+### Section 2. Findings
 
-### (a) Constitutional Authority
+#### (a) Constitutional Authority
 
 Congress finds that:
 
@@ -24,7 +26,7 @@ Congress finds that:
 
 3. The Constitution anticipates and accommodates changes in representation and electoral procedures. The Framers deliberately created a flexible framework allowing Congress to adapt democratic structures to changing circumstances.
 
-### (b) Current Electoral Dysfunction
+#### (b) Current Electoral Dysfunction
 
 Congress finds that:
 
@@ -40,7 +42,7 @@ Congress finds that:
 
 9. Congress operates with infrastructure designed for 4 million Americans now serving 335 million -- an 84-fold population increase without proportional expansion in representative capacity. This structural mismatch between institutional capacity and governing demands has degraded Congress's ability to perform its constitutional functions effectively.
 
-### (c) Need for Comprehensive Reform
+#### (c) Need for Comprehensive Reform
 
 Congress finds that:
 
@@ -56,7 +58,7 @@ Congress finds that:
 
 15. State legislatures and city councils successfully operate with proportional representation systems and larger memberships, demonstrating that these reforms are practical, effective, and consistent with American governance traditions.
 
-### (d) Proportional Representation Benefits
+#### (d) Proportional Representation Benefits
 
 Congress finds that:
 
@@ -70,7 +72,7 @@ Congress finds that:
 
 20. Countries using proportional representation systems demonstrate higher voter satisfaction, broader representation of diverse viewpoints, and greater incentives for inter-party cooperation and coalition government formation.
 
-### (e) Integrated Reform Necessity
+#### (e) Integrated Reform Necessity
 
 Congress finds that:
 
@@ -3601,7 +3603,13 @@ through the processes established in Section 409(h).
 <!--
 ## Revision History
 
-**Revision 5.4** (Current)
+**Revision 5.5** (Current)
+
+- DPS Rev 3.1 compliance pass: title block updated to three-line block quote (Revision, Published, Last revised) per Section 1.2; Preliminary Sections (Short Title, Findings) converted from H2 ALL CAPS to H3 Title Case per Section 2.2 Preliminary Sections; Findings subsections (a) through (e) re-leveled from H3 to H4 per Section 2.2 Subsections; stale "Last revised" line removed from footer (date now lives in header per Section 1.3)
+- No substantive policy changes
+
+**Revision 5.4**
+
 - DPS 2.8 compliance pass: migrated download link path from electoral/cmf/fema/ to congress/cmf/fema/; added 📥 prefix and ⬇ parenthetical emojis per DPS Rev 2.8 Section 1.9; added "Last revised April 2026" line per DPS Rev 2.5 Section 1.3
 
 **Revision 5.3**
@@ -3894,8 +3902,6 @@ through the processes established in Section 409(h).
 *Revision history available in the raw file.*
 
 > 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/fema/legislative-text.md) (opens on GitHub -- click the ⬇ download button)
-
-*Last revised April 2026*
 
 ---
 
