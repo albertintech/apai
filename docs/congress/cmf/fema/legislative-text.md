@@ -2,8 +2,8 @@
 
 ## An Electoral and Congressional Modernization Framework for a Stronger Republic
 
-> Revision 5.5
-> Published February 2026
+> Revision 5.5<br>
+> Published February 2026<br>
 > Last revised April 2026
 
 ---
