@@ -1,0 +1,519 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>FJBAA Circuit Comparison: Current vs. Proposed</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;700&family=Instrument+Serif:ital@0;1&display=swap');
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+  background: #0a0a0c;
+  color: #e8e4df;
+  font-family: 'JetBrains Mono', monospace;
+  min-height: 100vh;
+}
+
+.page { max-width: 1280px; margin: 0 auto; padding: 40px 24px 60px; }
+
+header { margin-bottom: 36px; border-bottom: 1px solid #2a2a2e; padding-bottom: 28px; }
+header h1 { font-family: 'Instrument Serif', serif; font-size: 2rem; font-weight: 400; letter-spacing: -0.5px; color: #f0ece6; margin-bottom: 8px; }
+header .subtitle { font-size: 0.7rem; color: #6a6a70; text-transform: uppercase; letter-spacing: 2.5px; margin-bottom: 6px; }
+header .ref { font-size: 0.65rem; color: #4a4a50; letter-spacing: 1px; }
+
+.comparison { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; margin-bottom: 32px; }
+@media (max-width: 900px) { .comparison { grid-template-columns: 1fr; } }
+
+.panel {
+  background: #0e0e11;
+  border: 1px solid #1a1a1e;
+  border-radius: 3px;
+  padding: 20px;
+  position: relative;
+  overflow: hidden;
+}
+
+.panel::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background:
+    repeating-linear-gradient(0deg, transparent, transparent 19px, #151518 19px, #151518 20px),
+    repeating-linear-gradient(90deg, transparent, transparent 19px, #151518 19px, #151518 20px);
+  opacity: 0.25;
+  pointer-events: none;
+}
+
+.panel.current { border-color: #3a2020; }
+.panel.proposed { border-color: #1a3a1a; }
+
+.panel-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 16px;
+  position: relative;
+  z-index: 1;
+}
+
+.panel-tag {
+  font-size: 0.55rem;
+  text-transform: uppercase;
+  letter-spacing: 2.5px;
+  padding: 4px 8px;
+  border-radius: 2px;
+}
+
+.current .panel-tag { background: #2a1515; color: #d4644a; }
+.proposed .panel-tag { background: #152a15; color: #8ab858; }
+
+.panel-title {
+  font-family: 'Instrument Serif', serif;
+  font-size: 1.2rem;
+  color: #d0ccc6;
+  margin-top: 8px;
+}
+
+.panel-detail {
+  font-size: 0.6rem;
+  color: #5a5a60;
+  margin-top: 2px;
+}
+
+.score-row {
+  display: flex;
+  gap: 12px;
+  margin: 12px 0 16px;
+  position: relative;
+  z-index: 1;
+}
+
+.score-pill {
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  padding: 8px 12px;
+  background: #111114;
+  border: 1px solid #1e1e22;
+  border-radius: 2px;
+}
+
+.score-pill .val { font-size: 1.1rem; font-weight: 700; }
+.current .score-pill .val { color: #d4644a; }
+.proposed .score-pill .val { color: #c8f06a; }
+.score-pill .label { font-size: 0.5rem; color: #5a5a60; text-transform: uppercase; letter-spacing: 1.5px; }
+
+canvas { display: block; margin: 0 auto; image-rendering: pixelated; position: relative; z-index: 1; }
+
+.legend-compact {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(170px, 1fr));
+  gap: 3px;
+  margin-top: 12px;
+  position: relative;
+  z-index: 1;
+}
+
+.legend-compact .item {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 4px 8px;
+  background: #111114;
+  border-radius: 2px;
+}
+
+.legend-compact .swatch { width: 10px; height: 10px; border-radius: 1px; flex-shrink: 0; }
+.legend-compact .info { font-size: 0.55rem; color: #8a8a90; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.legend-compact .dev { font-weight: 500; }
+.legend-compact .dev.in { color: #8ab858; }
+.legend-compact .dev.out { color: #d4644a; }
+
+.summary-bar {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 24px;
+  margin: 32px 0;
+  padding: 24px;
+  background: #111114;
+  border: 1px solid #1e1e22;
+  border-radius: 3px;
+}
+
+@media (max-width: 900px) { .summary-bar { grid-template-columns: 1fr; } }
+
+.summary-bar h3 {
+  font-size: 0.6rem;
+  color: #6a6a70;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin-bottom: 12px;
+}
+
+.metric-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 6px 0;
+  border-bottom: 1px solid #1a1a1e;
+  font-size: 0.7rem;
+}
+
+.metric-row:last-child { border-bottom: none; }
+.metric-row .mlabel { color: #7a7a80; }
+.metric-row .mval { font-weight: 500; }
+.metric-row .mval.bad { color: #d4644a; }
+.metric-row .mval.good { color: #8ab858; }
+
+.improvement {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.6rem;
+  color: #c8f06a;
+  margin-left: 8px;
+}
+
+.improvement::before {
+  content: '▲';
+  font-size: 0.5rem;
+}
+
+.note {
+  margin-top: 32px;
+  padding: 16px 20px;
+  background: #111114;
+  border-left: 2px solid #3a3a3e;
+  font-size: 0.65rem;
+  color: #7a7a80;
+  line-height: 1.7;
+}
+
+.note strong { color: #a0a0a6; font-weight: 500; }
+
+.footer {
+  margin-top: 36px;
+  padding-top: 16px;
+  border-top: 1px solid #1a1a1e;
+  font-size: 0.55rem;
+  color: #3a3a40;
+  letter-spacing: 1px;
+}
+</style>
+</head>
+<body>
+<div class="page">
+  <header>
+    <div class="subtitle">Federal Judicial Balance and Accountability Act</div>
+    <h1>Circuit Population Balance: Current vs. Proposed</h1>
+    <div class="ref">2020 Census Data &middot; District-Level Model Config M &middot; February 2026</div>
+  </header>
+
+  <div class="comparison">
+    <!-- CURRENT SYSTEM -->
+    <div class="panel current">
+      <div class="panel-header">
+        <div>
+          <span class="panel-tag">Current System</span>
+          <div class="panel-title">11 Regional Circuits</div>
+          <div class="panel-detail">Established 1891&ndash;1981 &middot; Whole-state boundaries</div>
+        </div>
+      </div>
+      <div class="score-row">
+        <div class="score-pill"><span class="val">2/11</span><span class="label">In Band</span></div>
+        <div class="score-pill"><span class="val">32.1%</span><span class="label">Mean |Dev|</span></div>
+        <div class="score-pill"><span class="val">4.79:1</span><span class="label">Pop Ratio</span></div>
+      </div>
+      <canvas id="currentCanvas" width="520" height="420"></canvas>
+      <div class="legend-compact" id="currentLegend"></div>
+    </div>
+
+    <!-- PROPOSED SYSTEM -->
+    <div class="panel proposed">
+      <div class="panel-header">
+        <div>
+          <span class="panel-tag">FJBAA Proposal</span>
+          <div class="panel-title">15 Regional Circuits</div>
+          <div class="panel-detail">Config M &middot; District-level boundaries</div>
+        </div>
+      </div>
+      <div class="score-row">
+        <div class="score-pill"><span class="val">14/15</span><span class="label">In Band</span></div>
+        <div class="score-pill"><span class="val">5.7%</span><span class="label">Mean |Dev|</span></div>
+        <div class="score-pill"><span class="val">1.40:1</span><span class="label">Pop Ratio</span></div>
+      </div>
+      <canvas id="proposedCanvas" width="520" height="420"></canvas>
+      <div class="legend-compact" id="proposedLegend"></div>
+    </div>
+  </div>
+
+  <!-- COMPARISON METRICS -->
+  <div class="summary-bar">
+    <div>
+      <h3>Population Equity Metrics</h3>
+      <div class="metric-row">
+        <span class="mlabel">Circuits in ±10% band</span>
+        <span><span class="mval bad">2/11 (18%)</span> → <span class="mval good">14/15 (93%)</span></span>
+      </div>
+      <div class="metric-row">
+        <span class="mlabel">Population ratio (max:min)</span>
+        <span><span class="mval bad">4.79:1</span> → <span class="mval good">1.40:1</span></span>
+      </div>
+      <div class="metric-row">
+        <span class="mlabel">Mean absolute deviation</span>
+        <span><span class="mval bad">32.1%</span> → <span class="mval good">5.7%</span></span>
+      </div>
+      <div class="metric-row">
+        <span class="mlabel">Maximum deviation</span>
+        <span><span class="mval bad">+120.9%</span> → <span class="mval good">+27.3%</span></span>
+      </div>
+    </div>
+    <div>
+      <h3>Structural Changes</h3>
+      <div class="metric-row">
+        <span class="mlabel">Regional circuits</span>
+        <span><span class="mval">11</span> → <span class="mval">15</span></span>
+      </div>
+      <div class="metric-row">
+        <span class="mlabel">States divided</span>
+        <span><span class="mval">0</span> → <span class="mval">15</span></span>
+      </div>
+      <div class="metric-row">
+        <span class="mlabel">Largest circuit</span>
+        <span><span class="mval bad">68.3M</span> → <span class="mval good">28.1M</span></span>
+      </div>
+      <div class="metric-row">
+        <span class="mlabel">Smallest circuit</span>
+        <span><span class="mval bad">14.3M</span> → <span class="mval good">20.1M</span></span>
+      </div>
+    </div>
+  </div>
+
+  <div class="note">
+    <strong>How to read the cartograms:</strong> Each colored square represents approximately
+    the same number of people. In the current system (left), the Ninth Circuit dominates
+    the grid — it serves 68.3 million people, nearly five times the First Circuit's 14.3
+    million. In the proposed system (right), the blocks are nearly uniform in size.
+    That visual uniformity <em>is</em> population equity.
+    <br><br>
+    <strong>The tradeoff:</strong> Achieving this balance requires dividing 15 states between
+    circuits at existing federal judicial district boundaries. The Act argues this tradeoff
+    is justified: equal access to federal justice should not be sacrificed to preserve
+    nineteenth-century administrative groupings.
+  </div>
+
+  <div class="footer">
+    AMERICAN POLICY ARCHITECTURE INSTITUTE &middot; FJBAA REV 2.1 &middot; FEBRUARY 2026
+  </div>
+</div>
+
+<script>
+// ========================
+// DATA
+// ========================
+
+const currentCircuits = [
+  { num: "1st",  name: "First",      pop: 14259709, dev: -53.9, inBand: false, color: "#7a5c8c" },
+  { num: "2nd",  name: "Second",     pop: 23799009, dev: -23.1, inBand: false, color: "#5870c0" },
+  { num: "3rd",  name: "Third",      pop: 23324694, dev: -24.6, inBand: false, color: "#6878a8" },
+  { num: "4th",  name: "Fourth",     pop: 33387854, dev:  +7.9, inBand: true,  color: "#7090a8" },
+  { num: "5th",  name: "Fifth",      pop: 36830824, dev: +19.1, inBand: false, color: "#d48c5c" },
+  { num: "6th",  name: "Sixth",      pop: 33486378, dev:  +8.3, inBand: true,  color: "#5c9cb4" },
+  { num: "7th",  name: "Seventh",    pop: 25423159, dev: -17.8, inBand: false, color: "#4488b0" },
+  { num: "8th",  name: "Eighth",     pop: 21856482, dev: -29.3, inBand: false, color: "#6baa5e" },
+  { num: "9th",  name: "Ninth",      pop: 68340481, dev:+120.9, inBand: false, color: "#e07850" },
+  { num: "10th", name: "Tenth",      pop: 22291513, dev: -27.9, inBand: false, color: "#c4a840" },
+  { num: "11th", name: "Eleventh",   pop: 37250095, dev: +20.4, inBand: false, color: "#48a890" },
+];
+
+const proposedCircuits = [
+  { num: "1st",  name: "S. California",      pop: 22538280, dev:  +2.0, inBand: true,  color: "#e07850" },
+  { num: "2nd",  name: "N. Calif-Nevada",    pop: 20104557, dev:  -9.0, inBand: true,  color: "#d4a054" },
+  { num: "3rd",  name: "NW-N. Plains",       pop: 21168258, dev:  -4.2, inBand: true,  color: "#6baa5e" },
+  { num: "4th",  name: "Mountain-SW",        pop: 21252234, dev:  -3.8, inBand: true,  color: "#c4a840" },
+  { num: "5th",  name: "Gulf States",        pop: 23766829, dev:  +7.6, inBand: true,  color: "#c46478" },
+  { num: "6th",  name: "South Central",      pop: 21834357, dev:  -1.2, inBand: true,  color: "#d48c5c" },
+  { num: "7th",  name: "Upper Miss.",        pop: 20945494, dev:  -5.2, inBand: true,  color: "#5c9cb4" },
+  { num: "8th",  name: "Great Lakes",        pop: 21836435, dev:  -1.2, inBand: true,  color: "#4488b0" },
+  { num: "9th",  name: "Ohio Valley",        pop: 22071048, dev:  -0.1, inBand: true,  color: "#6878a8" },
+  { num: "10th", name: "Appalachian",        pop: 20400988, dev:  -7.6, inBand: true,  color: "#8c7ca0" },
+  { num: "11th", name: "Southeast",          pop: 20508021, dev:  -7.2, inBand: true,  color: "#a06880" },
+  { num: "12th", name: "Florida",            pop: 21538187, dev:  -2.5, inBand: true,  color: "#48a890" },
+  { num: "13th", name: "Chesapeake",         pop: 21828678, dev:  -1.2, inBand: true,  color: "#7090a8" },
+  { num: "14th", name: "Metro New York",     pop: 23440591, dev:  +6.1, inBand: true,  color: "#5870c0" },
+  { num: "15th", name: "NE-Keystone",        pop: 28124936, dev: +27.3, inBand: false, color: "#9060a8" },
+];
+
+// ========================
+// CARTOGRAM RENDERER
+// ========================
+
+const CELL_POP = 700000; // each cell = ~700K people
+
+function drawCartogram(canvasId, circuits, legendId) {
+  const canvas = document.getElementById(canvasId);
+  const ctx = canvas.getContext('2d');
+  const W = canvas.width;
+  const H = canvas.height;
+
+  // Calculate cells per circuit
+  const cellData = circuits.map(c => ({
+    ...c,
+    cells: Math.round(c.pop / CELL_POP)
+  }));
+
+  const totalCells = cellData.reduce((s, c) => s + c.cells, 0);
+
+  // Layout: pack circuits as rectangles in a grid
+  // Sort by approximate geographic position (west to east, north to south)
+  // For current system, maintain traditional numbering order roughly
+
+  const COLS = 26;
+  const grid = [];
+  const cellW = Math.floor(W / COLS);
+  const ROWS = Math.ceil(H / cellW);
+  const cellH = cellW;
+
+  // Initialize grid
+  for (let r = 0; r < ROWS; r++) {
+    grid[r] = [];
+    for (let c = 0; c < COLS; c++) {
+      grid[r][c] = -1;
+    }
+  }
+
+  // Simple greedy packing: place each circuit as a roughly square block
+  function placeBlock(ci, targetCells) {
+    // Find first empty position
+    for (let r = 0; r < ROWS; r++) {
+      for (let c = 0; c < COLS; c++) {
+        if (grid[r][c] === -1) {
+          // Try to place a rectangle here
+          const aspect = Math.sqrt(targetCells);
+          let bestW = Math.round(aspect);
+          let bestH = Math.ceil(targetCells / bestW);
+
+          // Adjust to fit
+          if (c + bestW > COLS) bestW = COLS - c;
+          if (bestW < 1) continue;
+          bestH = Math.ceil(targetCells / bestW);
+          if (r + bestH > ROWS) bestH = ROWS - r;
+
+          let placed = 0;
+          for (let dr = 0; dr < bestH && placed < targetCells; dr++) {
+            for (let dc = 0; dc < bestW && placed < targetCells; dc++) {
+              if (r + dr < ROWS && c + dc < COLS && grid[r + dr][c + dc] === -1) {
+                grid[r + dr][c + dc] = ci;
+                placed++;
+              }
+            }
+          }
+
+          // If we couldn't place enough, try to fill gaps nearby
+          if (placed < targetCells) {
+            for (let dr = 0; dr < ROWS && placed < targetCells; dr++) {
+              for (let dc = 0; dc < COLS && placed < targetCells; dc++) {
+                if (grid[dr][dc] === -1) {
+                  // Check if adjacent to existing cells of this circuit
+                  const adj = (dr > 0 && grid[dr-1][dc] === ci) ||
+                              (dr < ROWS-1 && grid[dr+1][dc] === ci) ||
+                              (dc > 0 && grid[dr][dc-1] === ci) ||
+                              (dc < COLS-1 && grid[dr][dc+1] === ci);
+                  if (adj) {
+                    grid[dr][dc] = ci;
+                    placed++;
+                  }
+                }
+              }
+            }
+          }
+          return placed;
+        }
+      }
+    }
+    return 0;
+  }
+
+  cellData.forEach((c, i) => placeBlock(i, c.cells));
+
+  // Draw
+  ctx.fillStyle = '#0e0e11';
+  ctx.fillRect(0, 0, W, H);
+
+  for (let r = 0; r < ROWS; r++) {
+    for (let c = 0; c < COLS; c++) {
+      const ci = grid[r][c];
+      if (ci >= 0 && ci < circuits.length) {
+        ctx.fillStyle = circuits[ci].color;
+        ctx.fillRect(c * cellW, r * cellH, cellW - 1, cellH - 1);
+        ctx.fillStyle = `rgba(0,0,0,${Math.random() * 0.12})`;
+        ctx.fillRect(c * cellW, r * cellH, cellW - 1, cellH - 1);
+      }
+    }
+  }
+
+  // Labels: find centroid of each circuit's cells
+  const centroids = {};
+  const counts = {};
+  for (let r = 0; r < ROWS; r++) {
+    for (let c = 0; c < COLS; c++) {
+      const ci = grid[r][c];
+      if (ci >= 0 && ci < circuits.length) {
+        if (!centroids[ci]) { centroids[ci] = { sumR: 0, sumC: 0, n: 0, minR: r, maxR: r, minC: c, maxC: c }; }
+        centroids[ci].sumR += r;
+        centroids[ci].sumC += c;
+        centroids[ci].n++;
+        centroids[ci].minR = Math.min(centroids[ci].minR, r);
+        centroids[ci].maxR = Math.max(centroids[ci].maxR, r);
+        centroids[ci].minC = Math.min(centroids[ci].minC, c);
+        centroids[ci].maxC = Math.max(centroids[ci].maxC, c);
+      }
+    }
+  }
+
+  ctx.textAlign = 'center';
+  ctx.textBaseline = 'middle';
+
+  Object.entries(centroids).forEach(([ci, data]) => {
+    const idx = parseInt(ci);
+    if (idx >= circuits.length) return;
+    const cx = (data.sumC / data.n + 0.5) * cellW;
+    const cy = (data.sumR / data.n + 0.5) * cellH;
+    const circuit = circuits[idx];
+
+    const blockW = (data.maxC - data.minC + 1);
+    const fontSize = Math.min(cellH * 0.9, blockW * cellW * 0.15);
+
+    ctx.font = `bold ${fontSize}px 'JetBrains Mono', monospace`;
+    ctx.fillStyle = 'rgba(0,0,0,0.45)';
+    ctx.fillText(circuit.num, cx + 1, cy - fontSize * 0.3 + 1);
+    ctx.fillStyle = '#fff';
+    ctx.fillText(circuit.num, cx, cy - fontSize * 0.3);
+
+    const popStr = (circuit.pop / 1e6).toFixed(1) + 'M';
+    ctx.font = `300 ${fontSize * 0.65}px 'JetBrains Mono', monospace`;
+    ctx.fillStyle = 'rgba(255,255,255,0.55)';
+    ctx.fillText(popStr, cx, cy + fontSize * 0.45);
+  });
+
+  // Build legend
+  const legendEl = document.getElementById(legendId);
+  circuits.forEach(c => {
+    const div = document.createElement('div');
+    div.className = 'item';
+    const devStr = (c.dev >= 0 ? '+' : '') + c.dev.toFixed(1) + '%';
+    div.innerHTML = `
+      <div class="swatch" style="background:${c.color}"></div>
+      <span class="info">${c.num} ${c.name} <span class="dev ${c.inBand ? 'in' : 'out'}">${devStr}</span></span>
+    `;
+    legendEl.appendChild(div);
+  });
+}
+
+drawCartogram('currentCanvas', currentCircuits, 'currentLegend');
+drawCartogram('proposedCanvas', proposedCircuits, 'proposedLegend');
+</script>
+</body>
+</html>
