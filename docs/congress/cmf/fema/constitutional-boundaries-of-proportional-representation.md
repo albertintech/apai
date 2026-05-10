@@ -2,10 +2,6 @@
 
 ## Constitutional Boundaries of Proportional Representation: When Federal PR Implementation Requires Constitutional Amendment
 
-### Published March 2026
-
-Based on Rev 5.2 of the Federal Elections Modernization Act
-
 ---
 
 ## Introduction
@@ -18,7 +14,7 @@ This document identifies the constitutional boundaries separating statutory PR (
 
 **The Core Distinction:**
 
-Congress's Elections Clause authority extends to regulating the "manner" of federal elections -- how votes are cast, counted, and translated into winners. This authority is broad but not unlimited. Congress cannot use "manner" regulation to:
+Congress's Elections Clause authority extends to regulating the "manner" of elections for Senators and Representatives -- how votes are cast, counted, and translated into winners. This authority is broad but not unlimited. Congress cannot use "manner" regulation to:
 
 - Override Article I's apportionment structure (seats allocated to states by population)
 - Change who does the choosing (voters must choose individual representatives)
@@ -266,7 +262,7 @@ PR systems with mandated minimum vote thresholds (e.g., 5% nationally or statewi
 
 **U.S. Term Limits v. Thornton prohibits adding qualifications.**
 
-The Supreme Court held that neither states nor Congress can add qualifications for federal office beyond those specified in Article I (age, citizenship, residency). Any requirement that prevents otherwise-qualified candidates from serving based on additional criteria raises serious constitutional concerns.
+The Supreme Court held that neither states nor Congress can add qualifications for congressional office beyond those specified in Article I (age, citizenship, residency). Any requirement that prevents otherwise-qualified candidates from serving based on additional criteria raises serious constitutional concerns.
 
 **High thresholds function as de facto qualifications.**
 
@@ -300,16 +296,16 @@ The Act's proportional representation provisions are specifically designed to op
 
 ### Design Choices and Constitutional Rationale
 
-| Constitutional Constraint | FEMA Design Choice | Rationale |
-|--------------------------|---------------------|-----------|
-| National constituency prohibited | State-by-state districts only | Preserves Article I apportionment structure |
-| Party lists constitutionally suspect | Candidate-centered STAR-PR | Maintains "chosen by the People" |
-| MMP components problematic | No compensatory mechanism | Avoids party lists and variable House size |
-| Cannot mandate 3+ seat minimums | Single-winner STAR for small states | Accepts constitutional constraints |
-| Cannot abolish geography | Enumerated geographic districts | Maintains geographic representation |
-| Cannot cross state boundaries | Districts wholly within states | Respects state-based apportionment |
-| Senate structure fixed | No Senate PR attempted | Recognizes insurmountable barriers |
-| Artificial thresholds vulnerable | No imposed thresholds | Relies on natural mathematics only |
+| Constitutional Constraint            | FEMA Design Choice                  | Rationale                                   |
+| ------------------------------------ | ----------------------------------- | ------------------------------------------- |
+| National constituency prohibited     | State-by-state districts only       | Preserves Article I apportionment structure |
+| Party lists constitutionally suspect | Candidate-centered STAR-PR          | Maintains "chosen by the People"            |
+| MMP components problematic           | No compensatory mechanism           | Avoids party lists and variable House size  |
+| Cannot mandate 3+ seat minimums      | Single-winner STAR for small states | Accepts constitutional constraints          |
+| Cannot abolish geography             | Enumerated geographic districts     | Maintains geographic representation         |
+| Cannot cross state boundaries        | Districts wholly within states      | Respects state-based apportionment          |
+| Senate structure fixed               | No Senate PR attempted              | Recognizes insurmountable barriers          |
+| Artificial thresholds vulnerable     | No imposed thresholds               | Relies on natural mathematics only          |
 
 ### The Candidate-Centered Distinction
 
@@ -387,37 +383,54 @@ The Act falls squarely in the statutory category. Its design reflects careful at
 
 Understanding these boundaries is essential for electoral reform advocacy. Claims that "PR requires an amendment" are correct for some PR variants and incorrect for others. The Act demonstrates that meaningful proportional representation -- achieving proportional outcomes through improved vote-counting for individual candidate elections -- rests on solid constitutional foundations within existing Elections Clause authority.
 
-The Constitution grants Congress broad power to regulate the manner of federal elections. The Act exercises that power to ensure votes translate proportionally into representation. This is constitutional fulfillment, not constitutional transformation.
+The Constitution grants Congress broad power to regulate the manner of congressional elections. The Act exercises that power to ensure votes translate proportionally into representation. This is constitutional fulfillment, not constitutional transformation.
 
 ---
 
 ## Appendix: Constitutional Provisions Referenced
 
 **Article I, Section 2, Clause 1:**
+
 > "The House of Representatives shall be composed of Members chosen every second Year by the People of the several States..."
 
 **Article I, Section 2, Clause 3:**
+
 > "Representatives...shall be apportioned among the several States which may be included within this Union, according to their respective Numbers..."
 > "...each State shall have at Least one Representative..."
 
 **Article I, Section 4, Clause 1 (Elections Clause):**
+
 > "The Times, Places and Manner of holding Elections for Senators and Representatives, shall be prescribed in each State by the Legislature thereof; but the Congress may at any time by Law make or alter such Regulations..."
 
 **Article V (Entrenchment Clause):**
+
 > "...no State, without its Consent, shall be deprived of its equal Suffrage in the Senate."
 
 **Seventeenth Amendment:**
+
 > "The Senate of the United States shall be composed of two Senators from each State, elected by the people thereof..."
 
 ---
 
 <!--
+
 ## Revision History
 
-**Revision 3.1** (Current)
+**Revision 5.6** (Current)
+
+- Aligned with Rev 5.6 of the FEMA legislative text
+- No FCAO references to remove (none present)
+- No presidential references to remove (none present)
+- No Title or Section renumbering needed (none referenced in body text)
+- "Federal election/office" references corrected: 3 of 6 instances changed — two Elections Clause paraphrases ("federal elections" → "elections for Senators and Representatives" and "congressional elections") and one *Thornton* characterization ("federal office" → "congressional office," matching the case's actual Article I holding). Remaining 3 instances retained as legitimate general analytical usage (historical record of candidate-centered elections, not Elections Clause paraphrases)
+- DPS 3.1 formatting compliance: removed "Published March 2026" and "Based on Rev 5.2" header metadata; removed "Last revised April 2026" footer line
+
+**Revision 3.1**
+
 - DPS 2.8 compliance pass: migrated download link path from electoral/cmf/fema/ to congress/cmf/fema/; added 📥 prefix and ⬇ parenthetical emojis per DPS Rev 2.8 Section 1.9; added "Last revised April 2026" line per DPS Rev 2.5 Section 1.3
 
 **Revision 3.0**
+
 - Updated reference line from Rev 5.0 to Rev 5.2
 - Updated State-by-State Implementation section: replaced "Each state divides its seats into multi-member districts" with ESO-certified algorithmically neutral districting per Rev 5.1 Section 403
 - Updated Small State Accommodation section: split into two tiers matching Rev 5.1 Section 402(d) -- one-Representative states (at-large, exempt from algorithmic districting) and two-Representative states (algorithmically drawn SMDs using single-winner STAR); corrected cross-references from Section 402(e)/404(h) to Section 402(d)(1), 402(d)(2), and 404(e)
@@ -427,6 +440,7 @@ The Constitution grants Congress broad power to regulate the manner of federal e
 - No changes to constitutional boundary analysis (Scenarios 1-8), design rationale table, candidate-centered distinction, historical precedent, or conclusion
 
 **Revision 2.0**
+
 - Rebranded from Congressional Modernization Act (CMA) to Federal Elections Modernization Act (FEMA) throughout
 - Applied DPS Section 1.7 self-reference conventions (establish name once, use "the Act" thereafter)
 - Updated header structure to DPS Section 1.2 supporting document format
@@ -438,17 +452,16 @@ The Constitution grants Congress broad power to regulate the manner of federal e
 - Companion document to FEMA Rev 5.0 Constitutional Authority Technical Memorandum
 
 **Revision 1.0**
+
 - Initial version analyzing constitutional boundaries for federal proportional representation
 - Identified eight PR implementation scenarios requiring constitutional amendment
 - Explained how CMA's design navigates each constitutional constraint
 - Companion document to CMA Constitutional Authority Technical Memorandum
--->
+  -->
 
 *Revision history available in the raw file.*
 
 > 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/fema/constitutional-boundaries-of-proportional-representation.md) (opens on GitHub -- click the ⬇ download button)
-
-*Last revised April 2026*
 
 ---
 
