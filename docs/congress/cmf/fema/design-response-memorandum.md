@@ -2,10 +2,6 @@
 
 ## Design Response Memorandum: Electoral Reform Critique Literature
 
-### Published March 2026
-
-Based on Rev 5.3 of the Federal Elections Modernization Act
-
 ---
 
 The Federal Elections Modernization Act (FEMA), hereafter referred to as "the Act," was designed with awareness of the critique literature that has developed around proportional representation, ranked choice voting, multi-member districts, redistricting reform, and related electoral system proposals. This memorandum maps that critique literature to specific design decisions in the Act, documenting where the architecture accounts for known failure modes, where it accepts acknowledged tradeoffs, and where critiques developed against other reform proposals do not transfer to the Act's distinct mechanisms.
@@ -46,7 +42,7 @@ The Congressional Modernization Framework addresses this directly through the Of
 
 **The Critique.** Introducing proportional representation in the House while the Senate and Presidency remain structurally majoritarian creates institutional incoherence. A multi-party House would struggle to coordinate with a two-party Senate on legislation, appropriations, and confirmations. Critics warn of permanent inter-chamber gridlock.
 
-**The Design Response.** The Act requires STAR voting for Senate elections (Section 404) and Presidential elections, which broadens the competitive field and reduces spoiler dynamics in both chambers. However, single-winner elections structurally favor convergence toward two dominant finalists in the automatic runoff, meaning the Senate and Presidency will likely remain functionally two-party or two-coalition even under STAR.
+**The Design Response.** The Act requires STAR voting for Senate elections (Section 404), which broadens the competitive field and reduces spoiler dynamics. However, single-winner elections structurally favor convergence toward two dominant finalists in the automatic runoff, meaning the Senate will likely remain functionally two-party or two-coalition even under STAR.
 
 This is a feature, not a gap. The American system has never required the House and Senate to operate under identical party configurations. The Constitution was designed for inter-chamber tension -- the bicameral structure exists precisely to force negotiation between differently constituted bodies. A House with four or five parties negotiating with a Senate organized around two broad coalitions is not a pathology; it is a variation on the Founders' design for deliberative friction.
 
@@ -80,7 +76,7 @@ The substantive version of the concern -- that constituents need a clear point o
 
 The "who do I call about my pothole?" framing conflates federal representation with municipal service delivery. Federal Representatives are legislators. Potholes, zoning, and local infrastructure are the province of city councils, county boards, and state legislatures. To the extent that constituent casework has become a dominant function of House offices -- VA claims, Social Security disputes, immigration cases -- this reflects an undersized House where members are spread too thin to legislate effectively, not evidence that SMDs produce superior service. Under multi-member districts, constituent casework becomes shared and competitive: multiple Representatives serve the same geography, and constituents can approach whichever member is most responsive or most aligned with their concern. This is an improvement over the current monopoly model, where a single unresponsive Representative faces no within-district competition for casework.
 
-**Residual Exposure.** The transition will require voter education about how representation works under multi-member districts. This is a civic education challenge, not a structural deficiency. The Act's State Election Administration Funding (Section 609) provides resources for voter education during the transition period.
+**Residual Exposure.** The transition will require voter education about how representation works under multi-member districts. This is a civic education challenge, not a structural deficiency. The Act's State Election Administration Funding (Section 509) provides resources for voter education during the transition period.
 
 ---
 
@@ -88,17 +84,17 @@ The "who do I call about my pothole?" framing conflates federal representation w
 
 **The Critique.** Federal mandates prescribing specific voting methods, district structures, ballot access standards, and institutional requirements may exceed the Elections Clause authority. Conservative legal scholars argue that the Constitution gives state legislatures primary responsibility for election administration and that Congress cannot prescribe exact mechanical details.
 
-**The Design Response.** The Act's Constitutional Authority Technical Memorandum addresses each Title's constitutional foundation in detail. The core arguments are well-established: the Elections Clause (Article I, Section 4) grants Congress plenary authority over the "times, places, and manner" of federal elections, including the power to "make or alter" state regulations; the 1967 Uniform Congressional District Act demonstrated that Congress can mandate district structures through ordinary legislation; and *Arizona State Legislature v. Arizona Independent Redistricting Commission* (2015) confirmed that redistricting methodology falls within the Elections Clause's regulatory scope.
+**The Design Response.** The Act's Constitutional Authority Technical Memorandum addresses each Title's constitutional foundation in detail. The core arguments are well-established: the Elections Clause (Article I, Section 4) grants Congress plenary authority over the "times, places, and manner" of elections for Senators and Representatives, including the power to "make or alter" state regulations; the 1967 Uniform Congressional District Act demonstrated that Congress can mandate district structures through ordinary legislation; and *Arizona State Legislature v. Arizona Independent Redistricting Commission* (2015) confirmed that redistricting methodology falls within the Elections Clause's regulatory scope.
 
-The Act's broader scope -- eight Titles versus the FRA's four -- does create more constitutional surface area for challenge. Each additional Title (ballot access standardization, party recognition, FCAO examinations, compensation provisions) is an additional point that opponents can characterize as federal overreach. This is an accepted tradeoff. The Act's severability clause (Title VIII, Section 801) is designed to be load-bearing: each Title's constitutional authority stands independently, and judicial invalidation of any single provision does not affect the remainder.
+The Act's broader scope -- seven Titles versus the FRA's four -- does create more constitutional surface area for challenge. Each additional Title (ballot access standardization, party recognition, compensation provisions) is an additional point that opponents can characterize as federal overreach. This is an accepted tradeoff. The Act's severability clause (Title VII, Section 701) is designed to be load-bearing: each Title's constitutional authority stands independently, and judicial invalidation of any single provision does not affect the remainder.
 
-**Residual Exposure.** The FCAO competency examination provisions (Title V) and the elimination of state-administered primaries through the Unified General Election Structure are the two provisions most likely to attract novel constitutional challenge. Both are addressed in the Constitutional Authority Technical Memorandum, but neither has direct judicial precedent. The Act's architecture is designed so that these provisions can be severed without compromising the core electoral reform (Titles III and IV).
+**Residual Exposure.** The elimination of state-administered primaries through the Unified General Election Structure is the provision most likely to attract novel constitutional challenge. It is addressed in the Constitutional Authority Technical Memorandum, but it does not have direct judicial precedent. The Act's architecture is designed so that this provision can be severed without compromising the core electoral reform (Titles III and IV).
 
 ---
 
 ### 6. Implementation Cost and Complexity
 
-**The Critique.** National implementation of a new voting method, House expansion to 720 members, physical infrastructure for an expanded chamber, standup of two new federal agencies (ESO and FCAO), algorithmic districting certification, and federal ballot access administration represent an enormous administrative and fiscal undertaking.
+**The Critique.** National implementation of a new voting method, House expansion to 720 members, physical infrastructure for an expanded chamber, standup of the Electoral Science Office, algorithmic districting certification, and federal ballot access administration represent an enormous administrative and fiscal undertaking.
 
 **The Design Response.** The cost critique presupposes that the legislative branch is adequately resourced and that expansion represents discretionary new spending. Neither assumption withstands scrutiny.
 
@@ -110,9 +106,9 @@ The cost critique also fails to account for the executive branch comparison. The
 
 Every implementation cost must be evaluated against the cost of the status quo. The current system generates redistricting litigation in nearly every state after every census cycle, consuming tens of millions in legal fees and court resources. Fragmented ballot access regimes across fifty states create their own litigation burden. An undersized House produces legislative dysfunction with cascading economic consequences. Congressional oversight agencies demonstrate extraordinary returns: the GAO consistently reports that its work produces returns exceeding $100 for every $1 invested. A better-resourced Congress generates returns that substantially exceed its cost through improved oversight of trillions in executive branch spending.
 
-The Act's tiered effective date structure (Section 804) distributes implementation across approximately 14 years rather than requiring simultaneous standup of all components. Title I (ballot access) and Title II (party recognition) take effect 24 months post-enactment -- administratively light provisions that require no new infrastructure. Titles III and IV (House expansion, STAR voting, multi-member districts) take effect at the First FEMA Election, approximately 24 months after enactment, with the expansion schedule continuing biennially. Title V (FCAO scores on ballots) is deliberately decoupled to the Second FEMA Election, providing additional development time for the most operationally complex new institution. Capital expenditure for infrastructure -- chamber renovation, office space -- phases in incrementally over the 14-year expansion window, layered onto an already-substantial AOC maintenance program rather than requiring a single disruptive construction project.
+The Act's tiered effective date structure (Section 704) distributes implementation across approximately 14 years rather than requiring simultaneous standup of all components. Titles V, VI, and VII (compensation, enforcement, general provisions) take effect upon enactment -- administratively light provisions that require no new election infrastructure. Titles I through IV (ballot access, party recognition, House expansion, STAR voting, multi-member districts) take effect at the First FEMA Election, with the expansion schedule continuing biennially. Capital expenditure for infrastructure -- chamber renovation, office space -- phases in incrementally over the 14-year expansion window, layered onto an already-substantial AOC maintenance program rather than requiring a single disruptive construction project.
 
-The State Election Administration Funding provision (Section 609) provides federal resources for implementation. Title VI's compensation and capacity provisions serve a dual purpose: improving institutional capacity and aligning incumbent self-interest with reform passage.
+The State Election Administration Funding provision (Section 509) provides federal resources for implementation. Title V's compensation and capacity provisions serve a dual purpose: improving institutional capacity and aligning incumbent self-interest with reform passage.
 
 **Residual Exposure.** The Act does not include comprehensive cost estimates in the legislative text; Section 302(d) mandates a joint GAO/CBO report analyzing costs within 180 days of enactment. Full economic analysis will be necessary during the legislative process to satisfy CBO scoring and appropriations requirements. The fiscal data in the Act's supporting documentation -- detailed in the Policy Rationale, Section XII -- demonstrates that costs are manageable in context, but official scoring remains a prerequisite. This is a normal feature of major legislation, not a design deficiency.
 
@@ -128,7 +124,7 @@ The Act's tabulation process is fully deterministic: identical inputs produce id
 
 The expectation that voters must understand tabulation mechanics to trust the system sets a standard that no existing electoral system meets. Voters do not understand the Electoral College's allocation formulas, the Huntington-Hill apportionment method, or the mechanics of provisional ballot adjudication. They do not need to. They need to understand how to vote (score candidates 0-5), they need to trust that the counting is honest (auditable, certified, deterministic), and they need to see that the results reflect the electorate's preferences (proportional outcomes). The Act satisfies all three requirements.
 
-The STAR ballot interface is itself a transparency asset. Scoring candidates on a 0-5 scale is a familiar interaction -- people rate products, restaurants, and services on star scales daily. The cognitive load of scoring is lower than the cognitive load of ranking ten or more candidates in strict preference order, and the ballot action is identical regardless of contest type (single-winner or multi-winner), providing a consistent voter experience across all federal elections.
+The STAR ballot interface is itself a transparency asset. Scoring candidates on a 0-5 scale is a familiar interaction -- people rate products, restaurants, and services on star scales daily. The cognitive load of scoring is lower than the cognitive load of ranking ten or more candidates in strict preference order, and the ballot action is identical regardless of contest type (single-winner or multi-winner), providing a consistent voter experience across all congressional elections.
 
 ---
 
@@ -184,7 +180,7 @@ The IRC failure literature is, in fact, an affirmative argument for the Act's ap
 
 **The Critique.** Research by Nolan McCarty and others finds that changes to primary election rules -- open vs. closed, partisan vs. nonpartisan blanket -- have "little to no effect" on the ideological positions of elected officials. Party elites, activists, and donors control the candidate pool upstream of the primary, and primary voters tend to be ideologically motivated regardless of primary type.
 
-**Does Not Apply.** The Act does not reform primaries. It eliminates state-administered primaries for federal offices entirely through the Unified General Election Structure. All qualified candidates appear directly on the November general election ballot. Parties retain full autonomy to conduct internal nominations through caucuses, conventions, or other processes at their own expense, without state election infrastructure.
+**Does Not Apply.** The Act does not reform primaries. It eliminates state-administered primaries for congressional offices entirely through the Unified General Election Structure. All qualified candidates appear directly on the November general election ballot. Parties retain full autonomy to conduct internal nominations through caucuses, conventions, or other processes at their own expense, without state election infrastructure.
 
 The McCarty critique is actually an affirmative argument for the Act's approach. If primary rule changes do not moderate outcomes because the primary itself is the structural bottleneck -- a low-turnout, high-intensity selection process dominated by engaged partisans -- then the correct response is to remove the bottleneck rather than to optimize its parameters. The Act lets STAR voting sort the full candidate field in a single high-turnout general election, bypassing the structural dynamics that make primary reform ineffective.
 
@@ -253,12 +249,26 @@ The standard for evaluation is not perfection. It is improvement -- measurable, 
 ---
 
 <!--
+
 ## Revision History
 
-**Revision 1.2** (Current)
+**Revision 5.6** (Current)
+
+- Aligned with Rev 5.6 of the FEMA legislative text
+- Presidential scope narrowing: removed "Presidential elections" from STAR voting applicability in Section 2 (Institutional Mismatch); removed "Presidency" from structural convergence analysis in same section
+- FCAO references removed: Title V (FCAO) extracted from FEMA into planned standalone statute under the CMF; removed "FCAO examinations" from constitutional surface area Title list in Section 5; removed FCAO Title V from Residual Exposure in Section 5 (rewritten as single-provision exposure for UGES only); removed FCAO from agency standup list in Section 6 Critique ("two new federal agencies (ESO and FCAO)" → "the Electoral Science Office")
+- Title/section renumbering: Title VIII Section 801 → Title VII Section 701 (severability); Section 804 → 704 (effective dates); Section 609 → 509 (election administration funding, two instances); Title VI → Title V (compensation provisions)
+- Tiered implementation paragraph rewritten: removed Title V/FCAO/Second FEMA Election decoupling sentence; updated tier structure to reflect Rev 5.6 two-tier architecture (Titles V-VII at enactment; Titles I-IV at First FEMA Election)
+- Scope narrowing: "all federal elections" → "all congressional elections" in Section 7 (ballot transparency); "federal offices" → "congressional offices" in Section 13 (primary elimination); "federal elections" → "elections for Senators and Representatives" in Section 5 Elections Clause paraphrase
+- Section numbering verified: 1-19 sequential, no gaps (no Condorcet insertion issue)
+- DPS 3.1 formatting compliance: removed "Published March 2026" and "Based on Rev 5.3" header metadata; removed "Last revised April 2026" footer line
+
+**Revision 1.2**
+
 - DPS 2.8 compliance pass: added missing download link per DPS Rev 2.8 Section 1.9 (with 📥 prefix and ⬇ parenthetical emojis); added "Last revised April 2026" line per DPS Rev 2.5 Section 1.3
 
 **Revision 1.1**
+
 - Updated reference line from Rev 5.2 to Rev 5.3
 - Expanded Section 1 (Coalition Governance and Legislative Fragmentation): added "The Procedural Scalability Distinction" paragraphs after Residual Exposure, distinguishing electoral structure from procedural design as separate variables; introduced the Office of Congressional Procedure Act (OCP) as the CMF's architectural answer to the effective governance concern, citing proportional procedural allocation, anti-bottleneck provisions, budget process enforcement, and acceleration triggers tied to multi-party conditions
 - Major expansion of Section 6 (Implementation Cost and Complexity): added inter-branch investment asymmetry data (67-to-1 personnel ratio, department-level budget comparisons); added fiscal context (0.005% of federal spending, $2.5M marginal cost per seat, peer democracy budget share comparison); added executive branch political appointee cost asymmetry ($20B estimated overhead vs. $713M for full House expansion); added GAO oversight ROI data; updated Residual Exposure to reference Section 302(d) joint GAO/CBO report mandate and Policy Rationale Section XII
@@ -266,16 +276,15 @@ The standard for evaluation is not perfection. It is improvement -- measurable, 
 - Updated Conclusion: added fiscal impact reference ("below 0.01% of federal spending"); added sentence acknowledging OCP as the CMF's response to procedural scalability concerns that lie outside the Act's electoral scope
 
 **Revision 1.0**
+
 - Initial publication
 - Covers coalition governance, institutional mismatch, geographic inequality, constituent-representative link, constitutional attack surface, implementation cost, tabulation complexity, and differentiation from RCV-specific, IRC-specific, fusion voting, and primary reform critiques
 - Includes affirmative arguments from the comparative electoral systems literature
--->
+  -->
 
 *Revision history available in the raw file.*
 
 > 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/fema/design-response-memorandum.md) (opens on GitHub -- click the ⬇ download button)
-
-*Last revised April 2026*
 
 ---
 
