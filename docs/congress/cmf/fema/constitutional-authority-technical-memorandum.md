@@ -2,15 +2,11 @@
 
 ## Constitutional Authority Technical Memorandum
 
-### Published March 2026
-
-Based on Rev 5.2 of the Federal Elections Modernization Act
-
 ---
 
 ## I. The Question Presented
 
-Can Congress enact the Federal Elections Modernization Act's electoral provisions -- including STAR voting mandates, multi-member districts with proportional representation, algorithmically neutral districting, unified general elections, Joint Endorsement Lists, and competency transparency requirements -- through ordinary legislation, or do such reforms require constitutional amendment? All subsequent references to the Federal Elections Modernization Act use "the Act."
+Can Congress enact the Federal Elections Modernization Act's electoral provisions -- including STAR voting mandates, multi-member districts with proportional representation, algorithmically neutral districting, unified general elections, and Joint Endorsement Lists -- through ordinary legislation, or do such reforms require constitutional amendment? All subsequent references to the Federal Elections Modernization Act use "the Act."
 
 Some scholars argue that mandating specific voting methods or fundamentally restructuring electoral systems represents such foundational change that only constitutional amendment can authorize it. They worry that statutory reform will face judicial invalidation by a Supreme Court skeptical of major structural changes enacted without supermajority consensus.
 
@@ -28,7 +24,7 @@ Article I, Section 4, Clause 1 of the Constitution provides:
 
 > "The Times, Places and Manner of holding Elections for Senators and Representatives, shall be prescribed in each State by the Legislature thereof; but the Congress may at any time by Law make or alter such Regulations..."
 
-This text grants Congress authority to regulate three aspects of federal elections: times, places, and manner. The Supreme Court has consistently interpreted "manner" broadly to encompass virtually all procedural and structural aspects of how elections are conducted.
+This text grants Congress authority to regulate three aspects of elections for Senators and Representatives: times, places, and manner. The Supreme Court has consistently interpreted "manner" broadly to encompass virtually all procedural and structural aspects of how elections are conducted.
 
 ### B. What "Manner" Includes
 
@@ -39,7 +35,7 @@ The "manner of holding elections" necessarily encompasses:
 3. Vote counting procedures: How ballots are tabulated and validated
 4. Vote allocation formulas: How votes translate into winning candidates
 5. District structure: Whether representatives are elected from single-member or multi-member districts
-6. Election structure: Whether federal elections use primaries, unified general elections, or other formats
+6. Election structure: Whether congressional elections use primaries, unified general elections, or other formats
 7. Ballot design and information: What information appears on ballots
 
 The Act regulates all seven aspects. If "manner" doesn't include these elements, the word has no meaningful content. Congress cannot regulate election "manner" without addressing how votes determine winners -- that is the essence of electoral procedure.
@@ -58,25 +54,25 @@ The power to "alter" necessarily includes the power to fundamentally change.
 
 ### A. U.S. Term Limits, Inc. v. Thornton (1995)
 
-The Supreme Court struck down state-imposed term limits on federal congressional candidates, holding that states cannot add qualifications beyond those specified in the Constitution. The Court emphasized that regulation of federal elections is a core Congressional power:
+The Supreme Court struck down state-imposed term limits on federal congressional candidates, holding that states cannot add qualifications beyond those specified in the Constitution. The Court emphasized that regulation of congressional elections is a core Congressional power:
 
 > "The power granted to Congress to regulate the election of federal legislators is both comprehensive and preemptive... The Framers intended the Elections Clause to grant Congress 'the power to override state regulations' by establishing uniform national rules."
 
-Relevance to the Act: If Congress has "comprehensive and preemptive" power over federal election regulation, this necessarily includes the power to establish voting methods, proportional representation, and ballot information requirements. The Court's language admits no carve-out for "fundamental" versus "procedural" electoral changes.
+Relevance to the Act: If Congress has "comprehensive and preemptive" power over congressional election regulation, this necessarily includes the power to establish voting methods, proportional representation, and ballot information requirements. The Court's language admits no carve-out for "fundamental" versus "procedural" electoral changes.
 
 ### B. Arizona State Legislature v. Arizona Independent Redistricting Commission (2015)
 
-The Court upheld Arizona's use of an independent commission for congressional redistricting, rejecting the argument that only state legislatures could regulate federal elections. The Court reaffirmed that "manner" includes structural choices:
+The Court upheld Arizona's use of an independent commission for congressional redistricting, rejecting the argument that only state legislatures could regulate congressional elections. The Court reaffirmed that "manner" includes structural choices:
 
 > "As to 'Manner,' we instruct that the word covers... a 'way,' 'method,' or 'system' of carrying something into effect... [It includes] matters like 'notices, registration, supervision of voting, protection of voters, prevention of fraud and corrupt practices, counting of votes, duties of inspectors and canvassers, and making and publication of election returns.'"
 
-Relevance to the Act: If "manner" includes "way," "method," or "system" of conducting elections, it plainly includes the choice between plurality and proportional vote allocation systems, the specific tabulation method (STAR voting's score-then-runoff procedure), election structure (unified general elections versus partisan primaries), and ballot information requirements (party endorsements, FCAO scores).
+Relevance to the Act: If "manner" includes "way," "method," or "system" of conducting elections, it plainly includes the choice between plurality and proportional vote allocation systems, the specific tabulation method (STAR voting's score-then-runoff procedure), election structure (unified general elections versus partisan primaries), and ballot information requirements (party endorsements).
 
 These are different methods of translating votes into representation -- precisely the kind of structural choice the Elections Clause authorizes Congress to make.
 
 ### C. Ex parte Yarbrough (1884)
 
-The Court upheld federal criminal penalties for interfering with voting in federal elections, establishing that Congress has broad authority to protect federal election integrity:
+The Court upheld federal criminal penalties for interfering with voting in congressional elections, establishing that Congress has broad authority to protect congressional election integrity:
 
 > "If this government is anything more than a mere aggregation of delegated agents of other States and governments, each of which is superior to the general government, it must have the power to protect the elections on which its existence depends from violence and corruption."
 
@@ -84,13 +80,13 @@ Relevance to the Act: The principle that Congress can protect "elections on whic
 
 ### D. Foster v. Love (1997)
 
-The Court held that federal authority over timing and structure of federal elections is plenary, and that states cannot add requirements or structures that conflict with federal standards for federal elections.
+The Court held that federal authority over timing and structure of congressional elections is plenary, and that states cannot add requirements or structures that conflict with federal standards for congressional elections.
 
-Relevance to the Act: States cannot maintain conflicting election structures or voting methods for federal elections once Congress establishes national standards.
+Relevance to the Act: States cannot maintain conflicting election structures or voting methods for congressional elections once Congress establishes national standards.
 
 ### E. Oregon v. Mitchell (1970)
 
-The Court upheld federal power to set voting age for federal elections, recognizing that federal standards can override state preferences in federal contests.
+The Court upheld federal power to set voting age for congressional elections, recognizing that federal standards can override state preferences in congressional contests.
 
 Relevance to the Act: Federal mandates for voting method (STAR), district structure (multi-member districts), and election structure (unified general elections) can override state preferences.
 
@@ -98,10 +94,10 @@ Relevance to the Act: Federal mandates for voting method (STAR), district struct
 
 Five principles emerge from Supreme Court precedent:
 
-1. Congressional authority over federal elections is comprehensive and plenary
+1. Congressional authority over congressional elections is comprehensive and plenary
 2. "Manner" includes structural and systemic electoral choices, not merely administrative details
 3. Congress can override state electoral choices when exercising Elections Clause authority
-4. Federal standards for federal elections preempt conflicting state procedures
+4. Federal standards for congressional elections preempt conflicting state procedures
 5. The power extends to protecting electoral integrity and representative quality
 
 Nothing in this precedent suggests that choosing proportional over plurality allocation, or STAR over plurality voting, exceeds Congressional authority. The Court has never held that any particular electoral structure or voting method is constitutionally mandated.
@@ -148,7 +144,7 @@ Relevance to the Act: These cases validate the constitutional permissibility of 
 
 ### A. STAR Voting Method Mandate (Title IV, Section 404)
 
-The Question: Can Congress mandate a specific voting method (STAR -- Score Then Automatic Runoff) for federal elections?
+The Question: Can Congress mandate a specific voting method (STAR -- Score Then Automatic Runoff) for congressional elections?
 
 Constitutional Authority:
 
@@ -166,19 +162,19 @@ Response: This distinction has no textual or precedential basis. If Congress can
 
 ### B. Unified General Election Structure (Title IV, Section 404(d))
 
-The Question: Can Congress eliminate state-administered primaries for federal offices and require all qualified candidates to appear directly on the general election ballot?
+The Question: Can Congress eliminate state-administered primaries for congressional offices and require all qualified candidates to appear directly on the general election ballot?
 
 Constitutional Authority:
 
 1. Election structure is "manner" regulation: How the overall election process is organized -- whether through primary-then-general, unified general, or other formats -- is part of the "manner of holding elections."
 
-2. Precedent for federal election structure regulation: The Voting Rights Act regulates primary elections. *Smith v. Allwright* (1944) and *Terry v. Adams* (1953) established federal authority over primary processes for federal offices. If Congress can regulate primaries, Congress can eliminate them.
+2. Precedent for congressional election structure regulation: The Voting Rights Act regulates primary elections. *Smith v. Allwright* (1944) and *Terry v. Adams* (1953) established federal authority over primary processes for congressional offices. If Congress can regulate primaries, Congress can eliminate them.
 
-3. No constitutional right to state-administered primaries: The Constitution does not require primaries. Primary elections are a 20th-century innovation; the Founders' elections used no primaries. State-administered primaries for federal offices exist by state legislative choice, not constitutional mandate.
+3. No constitutional right to state-administered primaries: The Constitution does not require primaries. Primary elections are a 20th-century innovation; the Founders' elections used no primaries. State-administered primaries for congressional offices exist by state legislative choice, not constitutional mandate.
 
 4. Distinction from *California Democratic Party v. Jones* (2000): *Jones* struck down California's blanket primary on First Amendment associational grounds. The Unified General Election Structure differs fundamentally because it does not conscript party processes into state machinery. Parties retain full internal autonomy -- caucuses, conventions, endorsement procedures -- conducted at their own expense. The Act separates party processes from state-administered elections rather than forcing parties to participate in state-run primaries.
 
-5. Federal preemption is explicit: The Elections Clause grants Congress authority to "make or alter" state election regulations. Replacing state-administered primaries with a unified general election for federal offices falls squarely within this power.
+5. Federal preemption is explicit: The Elections Clause grants Congress authority to "make or alter" state election regulations. Replacing state-administered primaries with a unified general election for congressional offices falls squarely within this power.
 
 Addressing First Amendment Concerns:
 
@@ -212,33 +208,11 @@ Constitutional Authority:
 
 Potential Objection: "Ballot format is traditionally state prerogative."
 
-Response: Elections Clause authority explicitly allows Congress to "alter" state regulations. Ballot format for federal elections is federal "manner" regulation. States retain full authority over ballot format for state and local elections.
+Response: Elections Clause authority explicitly allows Congress to "alter" state regulations. Ballot format for congressional elections is federal "manner" regulation. States retain full authority over ballot format for state and local elections.
 
-### E. FCAO Non-Qualifying Structure (Title V)
+### E. Federal Ballot Access Standards (Title I)
 
-The Question: Can Congress require competency examinations for federal candidates without violating *U.S. Term Limits v. Thornton*?
-
-Constitutional Authority:
-
-The *Thornton* analysis is straightforward: States (and by extension, Congress) cannot add qualifications for federal office beyond those specified in the Constitution (age, citizenship, residency). Any requirement that prevents candidates from running or serving based on additional criteria would violate this principle.
-
-The Act's design avoids the *Thornton* problem:
-
-1. Non-qualifying structure: FCAO examinations are explicitly non-qualifying. No minimum score is required. Candidates scoring 0% appear on ballots and may serve if elected.
-
-2. Transparency mechanism, not qualification: FCAO provides information to voters, like nutritional labels on food. It does not gatekeep ballot access.
-
-3. Elections Clause authority for disclosure: Congress routinely requires disclosure in federal elections (campaign finance, candidate statements, etc.). Competency scores are additional disclosed information.
-
-4. Voters remain sole gatekeepers: The constitutional structure vests qualification decisions in voters, not agencies. FCAO preserves this -- voters see scores and decide.
-
-Judicial Review Protections:
-
-Title V includes extensive enforcement mechanisms to prevent any use of FCAO scores as qualifications: mandatory preliminary injunctions for any attempt to exclude low-scoring candidates, civil and criminal penalties for officials violating the non-qualifying principle, expedited judicial review with direct circuit court appeals, and standing for candidates, voters, and public interest organizations.
-
-### F. Federal Ballot Access Standards (Title I)
-
-The Question: Can Congress establish uniform ballot access standards that preempt state requirements for federal elections?
+The Question: Can Congress establish uniform ballot access standards that preempt state requirements for congressional elections?
 
 Constitutional Authority:
 
@@ -250,7 +224,7 @@ Constitutional Authority:
 
 4. State flexibility preserved: Title I establishes minimum federal standards while allowing states to provide easier access. States retain authority over state and local election ballot access.
 
-### G. Electoral Science Office Delegation (Title IV, Sections 409-410)
+### F. Electoral Science Office Delegation (Title IV, Sections 409-410)
 
 The Question: Can Congress delegate authority to an independent agency to evaluate and propose modifications to voting method specifications and to certify, generate, and maintain the districting algorithm, subject to Congressional review?
 
@@ -268,9 +242,9 @@ Districting Delegation Considerations: Delegating the districting function raise
 
 Major Questions Doctrine Considerations: The ESO's Tier 3 authority might face scrutiny under *West Virginia v. EPA* (2022), which requires clear Congressional authorization for agency decisions of major political and economic significance. However, the ESO's authority is distinguishable on multiple grounds. First, Congress explicitly created the ESO for this specific purpose with detailed statutory parameters -- unlike the EPA invoking broad statutory language for novel authority. Second, the modifications are technical, not policy-changing: adjusting a quota formula, tie-breaking procedure, or districting algorithm within boundary conditions that preserve proportionality and algorithmic neutrality is not a "major question" comparable to restructuring an industry. Third, Congressional review is built into every tier, with disapproval authority for Tier 3 and affirmative approval required for Tier 2. Fourth, the graduated protection architecture itself demonstrates clear Congressional intent to delegate precisely this scope of authority -- the statute's specificity is evidence of deliberate authorization, not the kind of ambiguous grant the Major Questions Doctrine targets.
 
-### H. Algorithmically Neutral Districting (Title IV, Sections 403, 410)
+### G. Algorithmically Neutral Districting (Title IV, Sections 403, 410)
 
-The Question: Can Congress mandate that congressional district boundaries be determined by algorithmically neutral, deterministic methods, displacing state legislatures and redistricting commissions from the boundary-drawing process for federal elections?
+The Question: Can Congress mandate that congressional district boundaries be determined by algorithmically neutral, deterministic methods, displacing state legislatures and redistricting commissions from the boundary-drawing process for congressional elections?
 
 Constitutional Authority:
 
@@ -450,7 +424,7 @@ But requiring amendment first guarantees failure. No constitutional amendment fo
 
 Concerns about conservative judicial skepticism toward major statutory reforms are legitimate. The current Supreme Court has shown preference for textualist/originalist interpretation, skepticism of "major questions" decided by agencies or implied in statutes, and deference to state sovereignty in some contexts.
 
-However, the Elections Clause is explicit, not implied -- unlike agency authority based on statutory interpretation, Congressional authority over federal elections is constitutionally explicit. Originalist interpretation supports the Act -- multi-member districts were original practice, and the 1967 ban was modern innovation. Textualism supports the Act -- "manner of holding elections" plainly includes vote allocation methods. The Court has consistently recognized broad Congressional authority -- *Thornton* and *Arizona State Legislature* were decided by Courts with conservative members.
+However, the Elections Clause is explicit, not implied -- unlike agency authority based on statutory interpretation, Congressional authority over elections for Senators and Representatives is constitutionally explicit. Originalist interpretation supports the Act -- multi-member districts were original practice, and the 1967 ban was modern innovation. Textualism supports the Act -- "manner of holding elections" plainly includes vote allocation methods. The Court has consistently recognized broad Congressional authority -- *Thornton* and *Arizona State Legislature* were decided by Courts with conservative members.
 
 ### B. Building the Constitutional Record
 
@@ -481,7 +455,7 @@ By conceding the stronger case (party lists likely need amendment), the Act make
 The Act rests on solid constitutional foundations:
 
 1. Clear textual authority: The Elections Clause grants Congress power to regulate election "manner," which necessarily includes voting methods, vote allocation formulas, and the methodology by which district boundaries are determined
-2. Established precedent: Supreme Court cases recognize comprehensive Congressional authority over federal elections, including redistricting methodology
+2. Established precedent: Supreme Court cases recognize comprehensive Congressional authority over congressional elections, including redistricting methodology
 3. Historical practice: Multi-member districts were used for 178 years without constitutional objection
 4. Statutory precedent: The 1967 ban on multi-member districts was enacted by statute, proving such changes don't require amendment
 5. Electoral science support: Modern understanding of electoral systems shows proportional methods better achieve constitutional goals
@@ -504,7 +478,7 @@ But most likely, amendment will prove unnecessary. The Constitution already gran
 
 The Constitution establishes a government of, by, and for the people. Representative government cannot function properly when electoral systems systematically waste 40-60% of votes, entrench two-party duopoly, enable partisan gerrymandering, and produce counter-majoritarian outcomes.
 
-The Constitution does not mandate these pathologies. It grants Congress broad authority to regulate federal elections precisely so that electoral systems can evolve to better serve representative democracy.
+The Constitution does not mandate these pathologies. It grants Congress broad authority to regulate congressional elections precisely so that electoral systems can evolve to better serve representative democracy.
 
 The Act exercises that authority to ensure every vote counts and representation reflects voter preferences. This is not a radical departure from constitutional principles -- it is the fulfillment of them.
 
@@ -559,28 +533,39 @@ Delegation Doctrine:
 
 ## Appendix B: Provisions Analyzed
 
-| Provision | Title/Section | Constitutional Basis |
-|-----------|---------------|---------------------|
-| STAR Voting Mandate | Title IV, Section 404 | Elections Clause ("manner") |
-| Unified General Elections | Title IV, Section 404(d) | Elections Clause + preemption authority |
-| Multi-Member Districts | Title IV, Section 402 | Historical practice + 1967 Act repeal authority |
-| STAR-PR Allocation | Title IV, Section 404(g) | Elections Clause ("manner") |
-| Algorithmically Neutral Districting | Title IV, Section 403 | Elections Clause ("manner") + *Arizona State Legislature* |
-| ESO Independence Protections | Title IV, Section 410 | Elections Clause + delegation doctrine + structural safeguards |
-| Electoral Science Office | Title IV, Section 409 | Elections Clause + delegation doctrine |
-| Joint Endorsement Lists | Title II | Elections Clause (ballot format) |
-| FCAO Examinations | Title V | Elections Clause (disclosure) + non-qualifying structure |
-| Federal Ballot Access | Title I | Elections Clause ("manner") |
+| Provision                           | Title/Section            | Constitutional Basis                                         |
+| ----------------------------------- | ------------------------ | ------------------------------------------------------------ |
+| STAR Voting Mandate                 | Title IV, Section 404    | Elections Clause ("manner")                                  |
+| Unified General Elections           | Title IV, Section 404(d) | Elections Clause + preemption authority                      |
+| Multi-Member Districts              | Title IV, Section 402    | Historical practice + 1967 Act repeal authority              |
+| STAR-PR Allocation                  | Title IV, Section 404(g) | Elections Clause ("manner")                                  |
+| Algorithmically Neutral Districting | Title IV, Section 403    | Elections Clause ("manner") + *Arizona State Legislature*    |
+| ESO Independence Protections        | Title IV, Section 410    | Elections Clause + delegation doctrine + structural safeguards |
+| Electoral Science Office            | Title IV, Section 409    | Elections Clause + delegation doctrine                       |
+| Joint Endorsement Lists             | Title II                 | Elections Clause (ballot format)                             |
+| Federal Ballot Access               | Title I                  | Elections Clause ("manner")                                  |
 
 ---
 
 <!--
+
 ## Revision History
 
-**Revision 3.1** (Current)
+**Revision 5.6** (Current)
+
+- Aligned with Rev 5.6 of the FEMA legislative text
+- FCAO references removed: Title V (FCAO) extracted from FEMA into planned standalone statute under the CMF; removed "competency transparency requirements" from Section I question presented; removed "FCAO scores" from Section III.B ballot information requirements list; removed Section V.E (FCAO Non-Qualifying Structure) entirely; removed FCAO Examinations row from Appendix B; re-lettered remaining Part V sections (former F→E, G→F, H→G)
+- "Federal election/office" references corrected: 22 instances of "federal elections" or "federal offices" in body text changed to "congressional elections," "congressional offices," or "elections for Senators and Representatives" as appropriate to context. Direct Elections Clause paraphrases use the actual constitutional text ("elections for Senators and Representatives"); questions presented, case law characterizations, and analytical discussion use "congressional elections/offices." No instance in the constitutional analysis was describing authority beyond the Elections Clause, making "federal elections" imprecise in every case
+- No presidential references to remove (none in body text outside revision history)
+- No Title VI/VII/VIII renumbering needed (document does not reference these Titles in body text)
+- DPS 3.1 formatting compliance: removed "Published March 2026" and "Based on Rev 5.2" header metadata; removed "Last revised April 2026" footer line
+
+**Revision 3.1**
+
 - DPS 2.8 compliance pass: migrated download link path from electoral/cmf/fema/ to congress/cmf/fema/; added 📥 prefix and ⬇ parenthetical emojis per DPS Rev 2.8 Section 1.9; added "Last revised April 2026" line per DPS Rev 2.5 Section 1.3
 
 **Revision 3.0**
+
 - Updated reference line from Rev 5.0 to Rev 5.2
 - Moved revision history from header to footer per DPS Section 1.3
 - Removed "Document Status: Draft -- Working Document" line per DPS Rev 1.6
@@ -599,6 +584,7 @@ Delegation Doctrine:
 - Removed "END OF DOCUMENT" marker
 
 **Revision 2.0**
+
 - Updated all references for Federal Elections Modernization Act (FEMA) Rev 5.0 branding.
 - Reframed nonpartisan primary analysis as Unified General Election Structure (UGES) analysis reflecting Rev 4.2+ architecture.
 - Added Section V.G: Electoral Science Office delegation doctrine analysis covering graduated protection architecture.
@@ -609,6 +595,7 @@ Delegation Doctrine:
 - Aligned header structure with APAI Document Production Standards Rev 1.3.
 
 **Revision 1.0**
+
 - Initial version adapted from RCEA Constitutional Authority document.
 - Updated all references to reflect CMA branding and current provisions.
 - Expanded analysis of STAR voting method mandates (Title IV).
@@ -618,13 +605,11 @@ Delegation Doctrine:
 - Integrated analysis of 1967 Uniform Congressional District Act repeal authority.
 - Added Voting Rights Act considerations for multi-member districts.
 - Expanded judicial review strategy section.
--->
+  -->
 
 *Revision history available in the raw file.*
 
 > 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/fema/constitutional-authority-technical-memorandum.md) (opens on GitHub -- click the ⬇ download button)
-
-*Last revised April 2026*
 
 ---
 
