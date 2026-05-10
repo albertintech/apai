@@ -2,10 +2,6 @@
 
 ## Overview
 
-### Published March 2026
-
-Based on H.R. 4632 of the Fair Representation Act (119th Congress)
-
 ---
 
 The Fair Representation Act (FRA) is a federal electoral reform proposal that replaces winner-take-all single-member congressional districts with multi-member districts using ranked choice voting, hereafter referred to as "the Act." Introduced in the 119th Congress by Representatives Beyer, Raskin, Peters, McGovern, and Khanna, the Act combines three interdependent reforms -- ranked choice voting for all federal elections, multi-member House districts, and nonpartisan redistricting criteria -- into a single legislative package. It amends the Help America Vote Act of 2002 and repeals the 1967 single-member district mandate.
@@ -59,21 +55,28 @@ The Act represents a structural approach to representational distortion, treatin
 ---
 
 <!--
+
 ## Revision History
 
-**Revision 1.1** (Current)
+**Revision 5.6** (Current)
+
+- Aligned with Rev 5.6 cascade pass across the FEMA document suite
+- No substantive content changes: all "federal election/office" references describe the FRA's provisions or constitutional context, not FEMA's scope; presidential reference is factual description of FRA redistricting criteria (presidential nominee vote thresholds); no FCAO, Title, or Section references present
+- DPS 3.1 formatting compliance: removed "Published March 2026" and "Based on H.R. 4632" header metadata; removed "Last revised April 2026" footer line
+
+**Revision 1.1**
+
 - DPS 2.8 compliance pass: added missing download link per DPS Rev 2.8 Section 1.9 (with 📥 prefix and ⬇ parenthetical emojis); download link URL points to publishing name fair-representation-act-overview.md per mkdocs.yml; added "Last revised April 2026" line per DPS Rev 2.5 Section 1.3
 
 **Revision 1.0**
+
 - Initial publication based on H.R. 4632 as introduced (119th Congress)
 - Written to APAI Document Production Standards Section 3.1 (Overview) specification
--->
+  -->
 
 *Revision history available in the raw file.*
 
 > 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/fema/fair-representation-act-overview.md) (opens on GitHub -- click the ⬇ download button)
-
-*Last revised April 2026*
 
 ---
 
