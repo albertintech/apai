@@ -1,10 +1,10 @@
-# Federal Elections Modernization Act
+# Congressional Elections Modernization Act
 
 ## Comprehensive Reform of Congressional Elections and Legislative Structure
 
 ---
 
-The Federal Elections Modernization Act (FEMA) addresses structural dysfunction in Congress through integrated electoral and institutional reforms. All subsequent references to FEMA use "the Act." Rather than treating symptoms individually, the Act combines House expansion, voting method reform, proportional representation, algorithmically neutral districting, and enhanced legislative capacity into a unified system that launches together.
+The Congressional Elections Modernization Act (CEMA) addresses structural dysfunction in Congress through integrated electoral and institutional reforms. All subsequent references to CEMA use "the Act." Rather than treating symptoms individually, the Act combines House expansion, voting method reform, proportional representation, algorithmically neutral districting, and enhanced legislative capacity into a unified system that launches together.
 
 The House of Representatives has not grown since 1913, while the U.S. population has tripled. Each representative now serves approximately 760,000 constituents -- six times larger than comparable democracies. Congressional staff drain to better-paying positions in executive agencies and lobbying firms, hollowing out legislative expertise. Winner-take-all elections in single-member districts produce representation that fails to reflect community diversity, while fifty different state ballot access regimes create administrative burden and litigation risk.
 
@@ -16,7 +16,7 @@ The Act treats these as maintenance needs rather than moral failures -- infrastr
 
 - **STAR Voting** -- Replaces plurality voting with Score Then Automatic Runoff for all congressional elections. Voters score candidates 0-5; the two highest-scoring candidates advance to an automatic runoff. Eliminates vote-splitting and spoiler effects.
 
-- **Multi-Member Districts with Algorithmic Districting** -- All qualifying states elect Representatives from multi-member districts (3-7 seats) using proportional representation beginning at the First FEMA Election. District boundaries are determined by algorithmically neutral, deterministic methods certified by the Electoral Science Office, eliminating human discretion from boundary placement.
+- **Multi-Member Districts with Algorithmic Districting** -- All qualifying states elect Representatives from multi-member districts (3-7 seats) using proportional representation beginning at the First CEMA Election. District boundaries are determined by algorithmically neutral, deterministic methods certified by the Electoral Science Office, eliminating human discretion from boundary placement.
 
 - **Unified General Elections** -- Eliminates state-administered primaries for congressional offices. All qualified candidates appear directly on the November ballot with party endorsements displayed.
 
@@ -28,7 +28,7 @@ The Act uses a tiered effective date structure:
 
 - **Upon enactment** -- Compensation and professional development provisions take effect immediately. Members who vote for the Act see benefits during their careers.
 
-- **First FEMA Election** (~3 years after enactment) -- Electoral reforms launch together: STAR voting, multi-member districts for all qualifying states, algorithmically neutral districting, House expansion to 510 seats, and unified general elections debut simultaneously.
+- **First CEMA Election** (~3 years after enactment) -- Electoral reforms launch together: STAR voting, multi-member districts for all qualifying states, algorithmically neutral districting, House expansion to 510 seats, and unified general elections debut simultaneously.
 
 - **Cube root compliance** (~14 years after enactment) -- House reaches approximately 720 members through biennial 35-seat increases. Smaller states with fewer than three Representatives retain single-member districts throughout.
 
@@ -46,7 +46,7 @@ The Act operates within established constitutional authority:
 
 See the full legislative text and policy rationale for comprehensive details.
 
-> 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/fema/introduction.md) (opens on GitHub -- click the ⬇ download button)
+> 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/cema/introduction.md) (opens on GitHub -- click the ⬇ download button)
 
 ---
 
