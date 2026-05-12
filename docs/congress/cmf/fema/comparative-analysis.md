@@ -1,4 +1,4 @@
-# Federal Elections Modernization Act
+# Congressional Elections Modernization Act
 
 ## Comparative Analysis of American Electoral Reform Proposals
 
@@ -157,19 +157,19 @@ The bill's coverage of the problem set is concentrated rather than broad. It doe
 
 ---
 
-## Part IV: Comprehensive Systematic Reform -- The Federal Elections Modernization Act
+## Part IV: Comprehensive Systematic Reform -- The Congressional Elections Modernization Act
 
-The Federal Elections Modernization Act (FEMA, Rev 5.6) operates on a different theory of change. Rather than bundling several fixes into a comprehensive package, it treats electoral modernization as a systems engineering problem: the components are designed to depend on and reinforce each other, and the Act's central architectural claim is that they must launch together to produce the intended results.
+The Congressional Elections Modernization Act (CEMA, Rev 5.6) operates on a different theory of change. Rather than bundling several fixes into a comprehensive package, it treats electoral modernization as a systems engineering problem: the components are designed to depend on and reinforce each other, and the Act's central architectural claim is that they must launch together to produce the intended results.
 
-This distinction between "comprehensive" and "comprehensive systematic" is not merely one of scope. The FRA is comprehensive in the sense that it addresses multiple problems. FEMA is systematic in the sense that its components are engineered as an integrated system where removing any major element degrades the others. A 510-member House elected under winner-take-all plurality is still a dysfunctional House -- just a larger one. STAR voting in single-member gerrymandered districts changes the counting method but not the representational geometry. The Act therefore requires simultaneous integrated launch.
+This distinction between "comprehensive" and "comprehensive systematic" is not merely one of scope. The FRA is comprehensive in the sense that it addresses multiple problems. CEMA is systematic in the sense that its components are engineered as an integrated system where removing any major element degrades the others. A 510-member House elected under winner-take-all plurality is still a dysfunctional House -- just a larger one. STAR voting in single-member gerrymandered districts changes the counting method but not the representational geometry. The Act therefore requires simultaneous integrated launch.
 
-### What FEMA Does
+### What CEMA Does
 
 **STAR voting for all congressional elections.** Title IV mandates Score Then Automatic Runoff voting for single-winner contests (Senate and House in small states) and STAR-PR (Allocated Score) for multi-member House districts. Voters score all candidates 0-5 stars on the same ballot format regardless of contest type. The scoring mechanism captures preference intensity and avoids the center-squeeze and non-monotonicity vulnerabilities of elimination-based methods.
 
 **Multi-member House districts with algorithmic districting.** Title IV requires all states with three or more Representatives to elect from multi-member districts of three to seven seats. States with one Representative elect at-large; states with two use algorithmically drawn single-member districts. All district boundaries are determined by algorithmically neutral, deterministic methods -- the certified algorithm accepts only seat counts, state boundaries, and census population data, and operates without reference to racial, ethnic, linguistic, partisan, or incumbent-residence data. Shortest splitline serves as the statutory default.
 
-**House expansion.** Title III grows the House from 435 to approximately 720 members over 14 years using the cube root rule: initial expansion to 510 at the First FEMA Election, then biennial increases of 35 until cube root compliance. Average district population drops from approximately 760,000 to approximately 465,000 at full implementation. Enhanced Member Representational Allowances (35% increase) accompany the expansion.
+**House expansion.** Title III grows the House from 435 to approximately 720 members over 14 years using the cube root rule: initial expansion to 510 at the First CEMA Election, then biennial increases of 35 until cube root compliance. Average district population drops from approximately 760,000 to approximately 465,000 at full implementation. Enhanced Member Representational Allowances (35% increase) accompany the expansion.
 
 **Unified General Election Structure.** Title IV eliminates state-administered primaries for congressional offices. All qualified candidates appear directly on the November general election ballot. Parties retain full autonomy to conduct internal nomination processes at their own expense, but these do not use state election infrastructure or restrict ballot access.
 
@@ -181,9 +181,9 @@ This distinction between "comprehensive" and "comprehensive systematic" is not m
 
 **Electoral Science Office.** Title IV establishes an independent agency responsible for ongoing evaluation of voting method performance and certification of the districting algorithm. The ESO operates within a three-tier graduated protection architecture: statutory principles (requiring an Act of Congress to change), protected design elements (requiring affirmative Congressional approval), and adjustable technical parameters (modifiable by the ESO subject to Congressional disapproval). This creates institutional capacity for the electoral system to evolve based on evidence.
 
-### FEMA Coverage Against the Problem Set
+### CEMA Coverage Against the Problem Set
 
-| Problem                               | FEMA Impact                                                  |
+| Problem                               | CEMA Impact                                                  |
 | ------------------------------------- | ------------------------------------------------------------ |
 | Winner-take-all distortions           | Substantially mitigated -- STAR-PR in MMDs produces proportional outcomes with stronger monotonicity properties |
 | Gerrymandering                        | Eliminated as a meaningful threat -- algorithmic districting removes human discretion; PR makes boundary placement largely irrelevant to outcomes |
@@ -206,9 +206,9 @@ This distinction between "comprehensive" and "comprehensive systematic" is not m
 
 ## Part V: Side-by-Side Impact Comparison
 
-The matrix below places the FRA and FEMA coverage assessments in a single table for direct comparison.
+The matrix below places the FRA and CEMA coverage assessments in a single table for direct comparison.
 
-| Systemic Problem                     | FRA Impact                                                | FEMA Impact                                                  |
+| Systemic Problem                     | FRA Impact                                                | CEMA Impact                                                  |
 | ------------------------------------ | --------------------------------------------------------- | ------------------------------------------------------------ |
 | **Winner-take-all distortions**      | Substantially mitigated                                   | Substantially mitigated (stronger monotonicity)              |
 | **Gerrymandering**                   | Substantially mitigated (criteria-constrained human maps) | Eliminated as meaningful threat (algorithmic + PR)           |
@@ -227,7 +227,7 @@ The matrix below places the FRA and FEMA coverage assessments in a single table 
 | **Incumbent resistance to reform**   | Not addressed                                             | Directly addressed                                           |
 | **Electoral system maintenance**     | Not addressed                                             | Directly addressed                                           |
 
-The pattern is clear without editorial emphasis. On the seven problems that both proposals address, the FRA delivers strong results on four and moderate-to-partial results on three. FEMA delivers strong results on all seven. Of the nine remaining problems, FEMA addresses eight; the FRA addresses none. One problem -- candidate quality transparency -- is addressed by neither proposal.
+The pattern is clear without editorial emphasis. On the seven problems that both proposals address, the FRA delivers strong results on four and moderate-to-partial results on three. CEMA delivers strong results on all seven. Of the nine remaining problems, CEMA addresses eight; the FRA addresses none. One problem -- candidate quality transparency -- is addressed by neither proposal.
 
 ---
 
@@ -235,7 +235,7 @@ The pattern is clear without editorial emphasis. On the seven problems that both
 
 For readers who want to understand the specific design choices behind each proposal, the table below compares provisions point by point.
 
-| Dimension                    | Fair Representation Act (H.R. 4632)                          | Federal Elections Modernization Act (Rev 5.6)                |
+| Dimension                    | Fair Representation Act (H.R. 4632)                          | Congressional Elections Modernization Act (Rev 5.6)          |
 | ---------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | **Voting Method**            | IRV (single-seat); STV (multi-seat)                          | STAR (single-winner); STAR-PR / Allocated Score (multi-member) |
 | **Ballot Interface**         | Rank candidates in order of preference                       | Score all candidates 0-5 stars; same action for all contest types |
@@ -251,7 +251,7 @@ For readers who want to understand the specific design choices behind each propo
 | **Technical Oversight**      | None                                                         | Electoral Science Office; three-tier graduated protection architecture |
 | **Fallback Provisions**      | Any proportional method meeting Droop quota                  | Shortest splitline default; FEC implementation extensions    |
 | **Federal Funding**          | $4-$8 per registered voter (EAC)                             | 35% MRA increase; infrastructure appropriations; ESO independently funded |
-| **Effective Dates**          | Senate RCV 2026; House MMDs post-2030 reapportionment        | Tiered: Titles V-VII at enactment; Titles I-IV at First FEMA Election |
+| **Effective Dates**          | Senate RCV 2026; House MMDs post-2030 reapportionment        | Tiered: Titles V-VII at enactment; Titles I-IV at First CEMA Election |
 | **Scope**                    | House and Senate only                                        | All congressional elections                                  |
 | **Constitutional Authority** | Elections Clause; 14th Amendment Section 5                   | Elections Clause; Article I, Section 2 (House size)          |
 | **Status**                   | Introduced in 119th Congress (5 sponsors)                    | Policy architecture (APAI); not yet introduced               |
@@ -269,7 +269,7 @@ A useful way to think about where each reform sits in this landscape is through 
 
 **The Fair Representation Act** replaces the engine with a proven off-the-shelf system. STV has decades of operational history in Ireland and Australia. Multi-member districts with proportional representation eliminate the worst winner-take-all distortions. It is a real upgrade with a known performance envelope. But it is dropped into an existing chassis -- the 435-seat frame, the primary system, the fragmented ballot access regime, the institutional capacity problems -- that wasn't designed for it. The new engine runs better, but it's constrained by everything around it.
 
-**FEMA** is a ground-up powertrain redesign. The voting method, the district structure, the chamber size, the districting process, the ballot access system, the party infrastructure, the institutional capacity provisions, and the incumbent incentive alignment are all engineered to work together. The chassis is built around the engine. And the Electoral Science Office is the diagnostic computer and service schedule built in from the factory -- so the system can be tuned over time rather than running until something breaks.
+**CEMA** is a ground-up powertrain redesign. The voting method, the district structure, the chamber size, the districting process, the ballot access system, the party infrastructure, the institutional capacity provisions, and the incumbent incentive alignment are all engineered to work together. The chassis is built around the engine. And the Electoral Science Office is the diagnostic computer and service schedule built in from the factory -- so the system can be tuned over time rather than running until something breaks.
 
 The choice between these tiers is not primarily a technical question about which voting method is superior or which redistricting philosophy is more robust. It is a question about theory of change. Do you fix the most urgent problem now with the tools that are politically available? Do you build the comprehensive solution and wait for the political conditions that make it possible? Or is there a path that moves on both fronts simultaneously -- building institutional support for the comprehensive solution while the targeted and comprehensive reforms demonstrate that structural change is feasible?
 
@@ -283,12 +283,13 @@ This document provides the analytical foundation for making that choice with ful
 
 **Revision 5.6** (Current)
 
-- Aligned with Rev 5.6 of the FEMA legislative text
-- Presidential scope narrowing: removed "Spoiler effects (Presidential)" row from all three coverage tables (FRA, FEMA, side-by-side); removed "Presidential: STAR (severable)" row from detailed architectural comparison; updated Scope row from "All federal elections including Presidential" to "All congressional elections"; removed "President" from STAR voting single-winner contest list; narrowed "federal offices" to "congressional offices" in UGES and Primary Elections rows
-- FCAO references removed: Title V (FCAO) extracted from FEMA into planned standalone statute under the CMF; removed "Candidate competency transparency" paragraph from What FEMA Does; changed "Candidate quality transparency" from "Directly addressed" to "Not addressed" in FEMA coverage table and side-by-side; removed "Candidate Transparency" row from detailed architectural comparison; removed FCAO from Federal Funding row; removed "candidate transparency layer" from engine analogy
-- Title/section renumbering: Title VI (Compensation) → Title V in Incumbent Incentives description and detailed comparison; updated Effective Dates row to reflect two-tier structure (Titles V-VII at enactment; Titles I-IV at First FEMA Election)
-- Updated summary prose: adjusted problem counts to reflect removal of Presidential spoiler row and FCAO coverage change (seven shared problems, eight FEMA-only, one addressed by neither)
-- Updated FEMA version reference from Rev 5.2 to Rev 5.6 in Part IV opening and detailed comparison table header
+- Aligned with Rev 5.6 of the CEMA legislative text
+- Renamed from "Federal Elections Modernization Act (FEMA)" to "Congressional Elections Modernization Act (CEMA)"; all references, defined terms, and download paths updated throughout; no substantive policy changes
+- Presidential scope narrowing: removed "Spoiler effects (Presidential)" row from all three coverage tables (FRA, CEMA, side-by-side); removed "Presidential: STAR (severable)" row from detailed architectural comparison; updated Scope row from "All federal elections including Presidential" to "All congressional elections"; removed "President" from STAR voting single-winner contest list; narrowed "federal offices" to "congressional offices" in UGES and Primary Elections rows
+- FCAO references removed: Title V (FCAO) extracted from CEMA into planned standalone statute under the CMF; removed "Candidate competency transparency" paragraph from What CEMA Does; changed "Candidate quality transparency" from "Directly addressed" to "Not addressed" in CEMA coverage table and side-by-side; removed "Candidate Transparency" row from detailed architectural comparison; removed FCAO from Federal Funding row; removed "candidate transparency layer" from engine analogy
+- Title/section renumbering: Title VI (Compensation) → Title V in Incumbent Incentives description and detailed comparison; updated Effective Dates row to reflect two-tier structure (Titles V-VII at enactment; Titles I-IV at First CEMA Election)
+- Updated summary prose: adjusted problem counts to reflect removal of Presidential spoiler row and FCAO coverage change (seven shared problems, eight CEMA-only, one addressed by neither)
+- Updated CEMA version reference from Rev 5.2 to Rev 5.6 in Part IV opening and detailed comparison table header
 - DPS 3.1 formatting compliance: removed "Published March 2026" and "Based on Rev 5.2" header metadata; removed "Last revised April 2026" footer line
 
 **Revision 2.1**
@@ -298,23 +299,23 @@ This document provides the analytical foundation for making that choice with ful
 **Revision 2.0**
 
 - Complete structural rebuild from prior version
-- Reorganized around problem-set-first architecture: Part I establishes systemic problems, Part II surveys targeted reforms, Part III evaluates FRA as comprehensive reform, Part IV evaluates FEMA as comprehensive systematic reform, Part V provides side-by-side impact matrix, Part VI provides detailed architectural comparison
+- Reorganized around problem-set-first architecture: Part I establishes systemic problems, Part II surveys targeted reforms, Part III evaluates FRA as comprehensive reform, Part IV evaluates CEMA as comprehensive systematic reform, Part V provides side-by-side impact matrix, Part VI provides detailed architectural comparison
 - Moved engine analogy from introduction to conclusion
 - Eliminated evaluative framing in targeted reform assessments; replaced with descriptive "target / effectiveness / limitations" structure
 - Added twelve-item problem set as explicit analytical framework
-- Separated FRA and FEMA coverage tables for independent evaluation before side-by-side comparison
+- Separated FRA and CEMA coverage tables for independent evaluation before side-by-side comparison
 - Incorporated material from prior FRA Systemic Impact Assessment (absorbed into this document)
 - Draws on FEMA Rev 5.2 legislative text and supporting documents, FRA (H.R. 4632) statutory text, Equal Vote Coalition proportional representation and multi-winner election analyses, APAI position papers on fusion voting and STV
 
 **Revision 1.0**
 
 - Initial publication as FRA-FEMA Comparative Analysis
-- Included engine analogy, targeted reform assessments, FRA-FEMA comparison matrix, and systemic impact matrix
+- Included engine analogy, targeted reform assessments, FRA-CEMA comparison matrix, and systemic impact matrix
   -->
 
 *Revision history available in the raw file.*
 
-> 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/fema/comparative-analysis.md) (opens on GitHub -- click the ⬇ download button)
+> 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/cema/comparative-analysis.md) (opens on GitHub -- click the ⬇ download button)
 
 ---
 
