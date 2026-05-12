@@ -1,16 +1,12 @@
-# Federal Elections Modernization Act
+# Congressional Elections Modernization Act
 
 ## The Case for Blind Districting
-
-### Published April 2026
-
-Based on Rev 5.3 of the Federal Elections Modernization Act
 
 ---
 
 Every redistricting cycle, Americans watch the same drama unfold. A census is conducted. Mapmakers -- legislators, commissions, consultants -- begin drawing lines. Lawsuits follow. Courts intervene. Maps are redrawn, sometimes multiple times. Elections are held under boundaries that may be struck down next year. The process consumes years, hundreds of millions of dollars, and whatever residual public trust remains in the fairness of the system. Then the next census arrives, and the cycle repeats.
 
-The Federal Elections Modernization Act (FEMA), hereafter referred to as "the Act," proposes to end this cycle by removing human judgment from congressional boundary placement entirely. Under the Act's Blind Districting architecture, all congressional district boundaries are determined by algorithmically neutral, deterministic methods -- no mapmaker, no commission, no discretion. The algorithm accepts census population data and a seat count. It produces one and only one output. Anyone with the same inputs can verify they get the same map.
+The Congressional Elections Modernization Act (CEMA), hereafter referred to as "the Act," proposes to end this cycle by removing human judgment from congressional boundary placement entirely. Under the Act's Blind Districting architecture, all congressional district boundaries are determined by algorithmically neutral, deterministic methods -- no mapmaker, no commission, no discretion. The algorithm accepts census population data and a seat count. It produces one and only one output. Anyone with the same inputs can verify they get the same map.
 
 This paper makes the case that Blind Districting is not merely feasible but structurally superior to every alternative -- including the independent redistricting commissions that represent the current reform consensus. That case, however, depends on a specific architectural pairing: algorithmic districting works because the Act pairs it with proportional representation in multi-member districts, which eliminates the representational harm that suboptimal boundaries would otherwise cause. Neither component achieves this result alone. Together, they produce manipulation-proof, litigation-proof, representation-preserving districting that no human-drawn process can match.
 
@@ -221,16 +217,21 @@ Warshaw, Christopher, Eric McGhee, and Michal Migurski. 2022. "Districts for a N
 <!--
 ## Revision History
 
-**Revision 1.0** (Current)
+**Revision 5.6** (Current)
+- Aligned with Rev 5.6 of the CEMA legislative text
+- Renamed from "Federal Elections Modernization Act (FEMA)" to "Congressional Elections Modernization Act (CEMA)"; all references, defined terms, and download paths updated throughout; no substantive policy changes
+- No FCAO, presidential, or Title/Section references to update (none present in body text)
+- "Federal election/office" references evaluated: all instances are document title or full name establishment; none describe CEMA's specific scope; all retained
+- DPS 3.1 formatting compliance: removed "Published April 2026" and "Based on Rev 5.3" header metadata; removed "Last revised April 2026" footer line
+
+**Revision 1.0**
 - Initial publication
 - Covers: computational redistricting literature, counterarguments (communities of interest, VRA compliance, algorithmic gerrymandering, international precedent), affirmative case for algorithmic-plus-PR pairing, comparative evidence (Mexico, international commissions), quantified gerrymandering effects, independence architecture
 -->
 
 *Revision history available in the raw file.*
 
-> 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/fema/the-case-for-blind-districting.md) (opens on GitHub -- click the ⬇ download button)
-
-*Last revised April 2026*
+> 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/cema/the-case-for-blind-districting.md) (opens on GitHub -- click the ⬇ download button)
 
 ---
 
