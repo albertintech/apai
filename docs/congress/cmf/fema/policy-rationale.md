@@ -1,10 +1,6 @@
-# Federal Elections Modernization Act
+# Congressional Elections Modernization Act
 
 ## Policy Rationale
-
-### Published March 2026
-
-Based on Rev 5.3 of the Federal Elections Modernization Act
 
 ---
 
@@ -14,7 +10,7 @@ America's electoral system is running on outdated machinery. Congress operates w
 
 The question isn't whether constitutional machinery needs updating. The question is whether we modernize it methodically with safeguards and tested methods, or wait for crisis-driven improvisation.
 
-The Federal Elections Modernization Act (FEMA) is scheduled maintenance -- nothing more, nothing less. All subsequent references to FEMA use "the Act."
+The Congressional Elections Modernization Act (CEMA) is scheduled maintenance -- nothing more, nothing less. All subsequent references to CEMA use "the Act."
 
 The Act delivers this modernization on a human timescale. Rather than defer reform impacts to a distant 25-year horizon, the accelerated implementation architecture achieves cube root compliance within approximately 14 years -- three presidential terms. Members who vote for the Act will see results during their careers. Voters will experience tangible improvements in representation quality within a single political generation.
 
@@ -94,7 +90,7 @@ A 510-member House elected under winner-take-all plurality is still a dysfunctio
 
 The promise is not "more seats." It is "a different operating system for American democracy."
 
-That operating system must debut as a unified whole. The First FEMA Election must therefore be:
+That operating system must debut as a unified whole. The First CEMA Election must therefore be:
 
 - The first expanded election (510 seats)
 - The first STAR voting election
@@ -119,12 +115,12 @@ The Act uses a tiered effective date structure:
 
 **Tier 1 -- Immediate upon enactment:**
 
-- Title VI (Compensation and capacity improvements)
-- Title VII (Enforcement and administrative authority)
-- Title VIII (General provisions and definitions)
+- Title V (Compensation and capacity improvements)
+- Title VI (Enforcement and administrative authority)
+- Title VII (General provisions and definitions)
 - Electoral Science Office establishment (Section 409)
 
-**Tier 2 -- First FEMA Election:**
+**Tier 2 -- First CEMA Election:**
 
 - Title I (Ballot access standardization)
 - Title II (Party recognition and Joint Endorsement Lists)
@@ -132,11 +128,12 @@ The Act uses a tiered effective date structure:
 - Title IV (Multi-member districts and STAR-PR)
 - ESO operational authority begins
 
-**Tier 3 -- Second FEMA Election:**
+**Ongoing:**
 
-- Title V (FCAO examinations)
+- Biennial House expansion (+35 seats per Congress until cube root compliance)
+- ESO mandatory decennial review cycle (beginning after the Second CEMA Election)
 
-This structure ensures members receive immediate benefits (Title VI) while electoral reforms launch simultaneously as an integrated system (Titles I-IV). FCAO examinations receive adequate development runway without delaying core reforms.
+This structure ensures members receive immediate benefits (Title V) while electoral reforms launch simultaneously as an integrated system (Titles I-IV).
 
 ---
 
@@ -148,7 +145,7 @@ Fifty different state ballot access regimes create predictable problems for cand
 
 ### The Standardization Solution
 
-Title I establishes uniform federal standards for federal elections under clear Elections Clause authority (Article I, Section 4, Clause 1). States maintain flexibility in administration while working within federal parameters.
+Title I establishes uniform federal standards for congressional elections under clear Elections Clause authority (Article I, Section 4, Clause 1). States maintain flexibility in administration while working within federal parameters.
 
 Three paths to ballot access:
 
@@ -168,11 +165,11 @@ The filing fee alternative provides efficiency for candidates with resources whi
 
 **For candidates:** Predictable requirements across all states; no state-by-state navigation burden; electronic signature options reduce logistical complexity; 120-day collection window provides adequate time.
 
-**For the federal system:** Reduced litigation over ballot access disputes; consistent standards prevent arbitrary exclusion; federal grants offset state implementation costs (Title VI, Section 609).
+**For the federal system:** Reduced litigation over ballot access disputes; consistent standards prevent arbitrary exclusion; federal grants offset state implementation costs (Title V, Section 509).
 
 ### Effective Date
 
-Title I takes effect at the First FEMA Election, launching simultaneously with party recognition, House expansion, and multi-member districts as part of the integrated reform package.
+Title I takes effect at the First CEMA Election, launching simultaneously with party recognition, House expansion, and multi-member districts as part of the integrated reform package.
 
 ---
 
@@ -188,7 +185,7 @@ Title II establishes clear federal recognition criteria under Elections Clause a
 
 Two paths to federal recognition:
 
-1. **Electoral performance:** Party's candidate received 5% in most recent federal election in 15+ states
+1. **Electoral performance:** Party's candidate received 5% in most recent congressional election in 15+ states
 2. **Organizational demonstration:** 100,000 registered members nationally from 25+ states
 
 **Maintenance requirement:** Meet either standard or field candidates receiving 2% nationally each cycle
@@ -205,7 +202,7 @@ This serves operational purposes: voter information (shows which parties support
 
 ### Effective Date
 
-Title II takes effect at the First FEMA Election, launching simultaneously with ballot access standardization, House expansion, and multi-member districts.
+Title II takes effect at the First CEMA Election, launching simultaneously with ballot access standardization, House expansion, and multi-member districts.
 
 ---
 
@@ -227,7 +224,7 @@ The representation ratio matters for operational reasons. At 30,000:1, represent
 
 Title III expands the House to cube root compliance within approximately 14 years through an initial expansion followed by predictable biennial increases:
 
-**Initial Expansion (First FEMA Election): 435 to 510 members (+75 seats)**
+**Initial Expansion (First CEMA Election): 435 to 510 members (+75 seats)**
 
 - Representation ratio: 760,000:1 to approximately 657,000:1
 - Launches simultaneously with STAR voting and multi-member districts
@@ -241,7 +238,7 @@ Beginning with the second Congress after initial expansion, House membership inc
 
 | Election Year | House Size | Representation Ratio |
 |---------------|------------|---------------------|
-| First FEMA Election | 510 | ~657,000:1 |
+| First CEMA Election | 510 | ~657,000:1 |
 | +2 years | 545 | ~615,000:1 |
 | +4 years | 580 | ~578,000:1 |
 | +6 years | 615 | ~545,000:1 |
@@ -318,9 +315,9 @@ STAR Proportional Representation (STAR-PR, also known as Allocated Score) extend
 
 **Example:** Five-seat district using STAR-PR -- candidates appear on ballot, voters score each candidate 0-5 stars, system allocates seats proportionally based on scores. Result: Seat shares reflect vote shares (unlike winner-take-all).
 
-### Single Implementation: All Qualifying States at the First FEMA Election
+### Single Implementation: All Qualifying States at the First CEMA Election
 
-The Act implements multi-member districts for all qualifying states simultaneously at the First FEMA Election. There is no graduated phase-in, no transition cycles, and no percentage-based rollout schedule.
+The Act implements multi-member districts for all qualifying states simultaneously at the First CEMA Election. There is no graduated phase-in, no transition cycles, and no percentage-based rollout schedule.
 
 **Why single implementation is superior to phased rollout:**
 
@@ -328,7 +325,7 @@ The Act implements multi-member districts for all qualifying states simultaneous
 
 **No two-tier Congress.** A phased rollout creates a period where some members serve under the new system and others under the old -- different electoral incentives, different constituency structures, different accountability mechanisms operating in the same chamber simultaneously. Single implementation ensures every qualifying state enters the new system together, producing a unified Congress operating under consistent rules.
 
-**Eliminates gaming incentives.** Under a phased approach, states and incumbents face incentives to delay, manipulate the rollout sequence, or seek exemptions. A clean mandate at the First FEMA Election removes these strategic opportunities. The rules are the same for everyone on the same day.
+**Eliminates gaming incentives.** Under a phased approach, states and incumbents face incentives to delay, manipulate the rollout sequence, or seek exemptions. A clean mandate at the First CEMA Election removes these strategic opportunities. The rules are the same for everyone on the same day.
 
 **STAR-PR's math provides the protection phased rollout was designed to deliver.** The original rationale for graduated implementation was to ease the transition for incumbents. But STAR-PR's low effective threshold -- roughly 14-17% in a five-seat district -- means that any incumbent with meaningful constituent support faces reduced, not increased, electoral risk under multi-member districts. The mathematical protection is stronger than the timeline protection.
 
@@ -374,7 +371,7 @@ The ESO operates within a three-tier graduated protection architecture that cali
 
 **Tier 3 -- Adjustable Technical Parameters:** Implementation details such as quota calculation formulas, reweighting methodology, seat allocation sequence, tie-breaking procedures, the specific districting algorithm, the magnitude allocation method, and VRA compliance adjustment methodology. The ESO may modify these through a structured process requiring supermajority Commission approval, public comment, and Congressional review with joint resolution disapproval authority. These are the parameters the ESO is best positioned to evaluate and refine based on empirical evidence.
 
-This graduated structure enables the nation to benefit from ongoing advances in electoral science without requiring full legislative action for each technical adjustment, while ensuring that protection difficulty scales to each element's significance. The ESO begins establishment immediately upon enactment, gains operational authority at the First FEMA Election, and conducts its first mandatory decennial review after the Second FEMA Election.
+This graduated structure enables the nation to benefit from ongoing advances in electoral science without requiring full legislative action for each technical adjustment, while ensuring that protection difficulty scales to each element's significance. The ESO begins establishment immediately upon enactment, gains operational authority at the First CEMA Election, and conducts its first mandatory decennial review after the Second CEMA Election.
 
 ### Independence Protections for Districting Functions
 
@@ -394,7 +391,7 @@ Each defense covers a different attack surface. Capturing appointments doesn't h
 
 ### The Unified Election Advantage
 
-The Act establishes single general elections as the universal standard for all federal offices:
+The Act establishes single general elections as the universal standard for all congressional offices:
 
 **Administrative efficiency:** One election instead of two reduces state costs by millions annually; shortened campaign cycles; reduced burden on election officials; single ballot printing and distribution cycle.
 
@@ -402,84 +399,13 @@ The Act establishes single general elections as the universal standard for all f
 
 **Letting STAR do the work:** STAR voting's scoring mechanism ensures winners have broad support -- the primary's traditional filtering function is redundant. Voters express meaningful preferences across any reasonable candidate field through 0-5 scoring, and the automatic runoff ensures the winner has majority preference between the top two. This eliminates the historical justification for primaries without sacrificing electoral quality.
 
-**Consistency of voter experience:** Every federal election works the same way: show up in November, score candidates, done. No registration games, no low-turnout summer primaries that disproportionately empower activated partisans, no two-election cognitive overhead. A voter moving between states encounters identical federal election procedures.
+**Consistency of voter experience:** Every congressional election works the same way: show up in November, score candidates, done. No registration games, no low-turnout summer primaries that disproportionately empower activated partisans, no two-election cognitive overhead. A voter moving between states encounters identical congressional election procedures.
 
 **Party autonomy preserved:** Parties remain free to conduct internal nomination processes -- caucuses, conventions, straw polls -- on their own time and at their own expense. Joint Endorsement Lists provide a streamlined mechanism for signaling preferred candidates to voters without the overhead of party-run primary infrastructure.
 
 ---
 
-## VII. TITLE V: COMPETENCY TRANSPARENCY WITHOUT BARRIERS
-
-### The Voter Information Gap
-
-Voters make decisions based on party affiliation, endorsements, campaign messaging, and personal impressions, but receive no standardized competency signal. A candidate might demonstrate eloquence in debates while lacking basic understanding of constitutional structure, legislative processes, or governmental operations.
-
-This information gap has operational consequences: voters lack objective data for candidate comparison, campaign rhetoric provides limited signal about actual governmental knowledge, no mechanism exists to assess whether candidates understand institutions they seek to join.
-
-Professional standards exist for attorneys (bar exam), engineers (PE certification), physicians (board certification) -- but not for federal officeholders. Should voters have access to objective competency information to inform their electoral decisions?
-
-### The FCAO Solution: Information Without Barriers
-
-Title V establishes the Federal Candidate Assessment Office (FCAO) as an independent agency administering office-specific examinations. This is transparency mechanism, not qualification barrier.
-
-**Critical principle: Non-qualifying nature**
-
-- No minimum score required for candidacy or service
-- Candidates scoring 0% can run and serve if voters choose them
-- Voters remain sole gatekeepers -- FCAO provides information, not authority
-- Zero power to block any candidate from ballot or office
-
-**Examination structure:** House examination (2 hours, covering legislative procedures and constitutional structure), Senate examination (4 hours, adding advice-and-consent responsibilities and oversight functions), Presidential examination (8 hours, adding executive authority and commander-in-chief responsibilities).
-
-**Score disclosure:** Scores appear on ballots as "House FCAO Score: 88%" (or similar). Voters decide what weight to give this information alongside party affiliation, endorsements, and all other factors they consider.
-
-### Independent Agency Structure Preventing Capture
-
-FCAO operates as independent agency following Federal Reserve and SEC models with nine-member Commission governance: 3 appointed by President (Senate confirmation), 2 appointed by Chief Justice, 2 appointed by House Speaker, 2 appointed by Senate Majority Leader.
-
-**Protection mechanisms:** Staggered 6-year terms prevent single-faction control, no more than 5 members from same party, removal only for cause requiring 6 of 9 votes, independent funding through examination fees (after 24-month startup).
-
-This structure makes partisan capture mathematically difficult. No single appointing authority controls majority. Terms span multiple election cycles. Removal protections insulate from political pressure.
-
-### Comparable to Nutritional Labels
-
-FCAO examinations function like nutritional labels: provide objective information about product characteristics, don't prevent anyone from purchasing products, let consumers decide what information matters to them, standardized format enables comparison, professional standards ensure accuracy.
-
-Voters remain free to elect candidates with low scores, high scores, or anything in between. FCAO provides data -- voters make choices.
-
-### Decoupled Timeline for Adequate Development
-
-FCAO requires 36-42 months for proper exam development, pilot testing, and validation. High-stakes federal examinations cannot be rushed without inviting litigation.
-
-**Title V takes effect at the Second FEMA Election** (one election cycle after the First FEMA Election), providing adequate runway for:
-
-- Commission appointment and standup
-- Psychometric expert recruitment
-- Item bank development and pilot testing
-- Field testing and validation
-- Accommodations and security protocol development
-- Appeal procedures
-- State integration guidance
-
-**First FEMA Election exemption:** No candidate is required to complete an FCAO examination for the First FEMA Election. Ballots for the First FEMA Election do not include FCAO score designations.
-
-This decoupling ensures FCAO development delays cannot hold up core electoral reforms while maintaining the exam validation standards necessary for legal defensibility.
-
-### Professional Recertification Principle
-
-The Act establishes a 10-year validity period for FCAO examination scores (Section 501(f)). After 10 years, scores expire and candidates must complete a new examination to appear on the ballot. This applies the same professional recertification logic that governs every other credentialed profession in American life.
-
-Physicians who fail to complete continuing medical education and board recertification lose their license to practice. Attorneys who miss continuing legal education requirements have their bar status suspended -- they cannot represent clients or appear in court. CPAs who do not complete continuing professional education lose their active license and cannot sign audits. Engineers, nurses, pharmacists, and architects face the same consequence across the board: failure to recertify means functional removal from practice, not a footnote on your credentials.
-
-If Congress is a professional institution -- and the Act's entire Title V architecture treats it as one -- then the recertification principle follows naturally. A score earned on an examination that has undergone multiple biennial revision cycles (Section 501(c)(4)) may no longer reflect current content domains. The knowledge base for federal governance is not static. Fiscal frameworks evolve, regulatory structures change, and constitutional jurisprudence develops. A decade-old assessment cannot credibly serve the transparency function that justifies the examination requirement in the first place.
-
-The 10-year validity period is architecturally consistent with the existing 10-year window for former officeholder exemptions (Section 501(g)(2)), creating a single temporal constant across Title V rather than competing timelines. Incumbent officeholders exempt under Section 501(g)(1) are not subject to score expiration during their current term of service, preventing any mid-service disruption. FCAO provides 12-month advance notification before expiration, consistent with the advance notice periods standard in professional licensing renewal systems.
-
-Critically, the validity period does not alter the non-qualifying principle. Expiration resets the participation requirement -- the obligation to sit for the examination established in Section 501(a) -- not a score threshold. A candidate whose score has expired must take the exam again, but can still score 0% and appear on the ballot. The gate is current engagement with the assessment process, not demonstrated proficiency. This is the same distinction that applies to every professional recertification: the requirement is that you complete the process, demonstrating continued engagement with the field's current knowledge base.
-
----
-
-## VIII. TITLE VI: INSTITUTIONAL CAPACITY IMPROVEMENTS
+## VII. TITLE V: INSTITUTIONAL CAPACITY IMPROVEMENTS
 
 ### The Political Viability Mechanism
 
@@ -489,7 +415,7 @@ This isn't cynicism -- it's mechanism design. The Framers structured Constitutio
 
 ### Immediate Capacity Enhancements
 
-All provisions in Title VI take effect immediately upon enactment:
+All provisions in Title V take effect immediately upon enactment:
 
 **Compensation adjustments:**
 
@@ -510,7 +436,7 @@ All provisions in Title VI take effect immediately upon enactment:
 
 **Senate provisions:**
 
-- Streamlined appointment authority (90-day automatic confirmation unless rejected, Section 608)
+- Streamlined appointment authority (90-day automatic confirmation unless rejected, Section 508)
 - Protection of Senate prerogatives
 - All compensation enhancements apply to Senators
 
@@ -541,15 +467,29 @@ Compensation provisions serve two functions:
 1. **Political viability:** Makes passage possible by providing immediate benefits aligning incentives
 2. **Governance improvement:** Enhances legislative capacity, professionalism, and stability
 
-Even if electoral reforms never occurred, these improvements would deliver governance benefits. But the structure ensures compensation improvements take effect immediately while electoral reforms launch at the First FEMA Election.
+Even if electoral reforms never occurred, these improvements would deliver governance benefits. But the structure ensures compensation improvements take effect immediately while electoral reforms launch at the First CEMA Election.
+
+### Voluntary Compensation Hold
+
+Section 502(e) allows any member of Congress to voluntarily forgo the salary increase delta above the pre-enactment rate ($174,000) for any calendar year. The hold is a political signal mechanism, not a structural constraint on the compensation framework.
+
+**Self-executing default.** The Act's compensation increases take effect automatically. The default is that every member receives the enhanced salary. This polarity is deliberate. Congressional pay was effectively frozen in 2009 when members began routinely blocking the scheduled cost-of-living adjustment -- a politically safe vote that slowly degraded institutional competitiveness. The Act reverses the polarity: the institutionally sound outcome (competitive compensation) is the default, and opting out requires affirmative action. A member who wants to signal fiscal restraint can do so. A member who does nothing receives the salary the Act determined is appropriate for the role.
+
+**Political cover function.** The hold exists because some members will face constituency environments where voting for the Act's structural reforms is viable but accepting a salary increase is not. The hold gives those members a clean, visible mechanism to support the legislation while managing a specific political liability. This is practical accommodation, not apology for the compensation provisions. The hold is designed to make passage easier, not to concede that the salary increases are inappropriate.
+
+**Anti-gaming provisions.** Each hold is irrevocable for the full calendar year and must be filed by December 1 of the preceding year (or within 30 days of enactment for the stub period). These constraints are load-bearing. Without irrevocability, a member could file a hold for favorable press coverage and quietly withdraw it weeks later. Without the annual commitment, members could time holds to coincide with election cycles and collect full salary in off-years. The design ensures that a hold reflects a genuine willingness to forgo compensation, not a costless gesture.
+
+**Scope limitation.** The hold applies only to the salary differential under Section 502(a) and (b). It does not affect pension accrual (Section 503), professional development allowances (Section 504), Member Representational Allowance adjustments (Section 303), or any other Title V provision. This boundary is intentional. Pension accrual, professional development, and staff resources are institutional investments that serve governance quality regardless of individual salary decisions. Allowing a member to opt out of professional development funding or staff capacity improvements would compromise institutional function for the sake of a personal political statement. The hold lets members manage their own compensation optics without degrading the institutional infrastructure the Act builds.
+
+**Public disclosure.** All holds, their duration, and their expiration or non-renewal are public record maintained by the Clerk of the House or Secretary of the Senate. Transparency makes the hold useful as a political signal -- a hold that nobody can verify is not a signal -- while the annual filing structure prevents holds from becoming permanent background noise that voters forget about. Each year, the member either actively refiles or passively reverts to the statutory rate, creating a recurring moment of visible choice.
 
 ---
 
-## IX. THE POLITICAL ECONOMY OF COMPREHENSIVE REFORM
+## VIII. THE POLITICAL ECONOMY OF COMPREHENSIVE REFORM
 
 ### Why Members Should Support the Act
 
-**Immediate benefits, integrated changes:** Current members receive capacity improvements and compensation increases immediately upon enactment. Electoral reforms launch together at the First FEMA Election as an integrated package.
+**Immediate benefits, integrated changes:** Current members receive capacity improvements and compensation increases immediately upon enactment. Electoral reforms launch together at the First CEMA Election as an integrated package.
 
 **STAR-PR's mathematical protection:** Proportional representation through STAR-PR substantially lowers the effective threshold for winning a seat. In a five-seat district, the effective threshold is approximately 14-17% -- meaning any incumbent with meaningful constituent support faces reduced, not increased, electoral risk under multi-member districts. The math protects incumbents more effectively than any transition timeline could.
 
@@ -565,7 +505,7 @@ Even if electoral reforms never occurred, these improvements would deliver gover
 
 **Constitutional restoration:** Returns to representation ratios closer to founders' intent rather than 1929 political compromise.
 
-**Federalism protection:** Explicitly preserves state authority over state/local elections. Federal standards apply only to federal offices under clear Elections Clause authority.
+**Federalism protection:** Explicitly preserves state authority over state/local elections. Federal standards apply only to congressional offices under clear Elections Clause authority.
 
 **Institutional stability:** Systematic maintenance prevents crisis-driven improvisation. Scheduled reforms with safeguards beats emergency changes under pressure.
 
@@ -585,8 +525,6 @@ Even if electoral reforms never occurred, these improvements would deliver gover
 
 **Multi-party democracy:** Joint Endorsement Lists and federal party recognition standards enable genuine multiparty competition.
 
-**Competency transparency:** FCAO examinations give voters objective information without creating barriers to candidacy.
-
 **Institutional capacity:** Better compensation and resources attract more qualified, reform-minded candidates.
 
 **Long-term structural change:** Comprehensive reform addresses root causes rather than treating symptoms.
@@ -597,70 +535,61 @@ Even if electoral reforms never occurred, these improvements would deliver gover
 
 **Reduced incumbent advantages:** Standardized ballot access eliminates state-by-state incumbent protection systems.
 
-**Voter information:** FCAO scores provide objective competency data reducing reliance on party labels and campaign spending.
-
 **Primary elimination:** The Unified General Election Structure eliminates state-administered primaries entirely, reducing barriers and costs for independent candidates.
 
 **Systemic change:** Comprehensive reform addresses multiple dysfunction sources simultaneously rather than incremental tinkering.
 
 ---
 
-## X. IMPLEMENTATION TIMELINE AND SAFEGUARDS
+## IX. IMPLEMENTATION TIMELINE AND SAFEGUARDS
 
 ### Tiered Effective Date Structure
 
-The Act uses a tiered implementation architecture ensuring immediate benefits, simultaneous electoral reform launch, and adequate FCAO development time:
+The Act uses a tiered implementation architecture ensuring immediate benefits and simultaneous electoral reform launch:
 
 **Tier 1 -- Immediate upon enactment:**
 
-- All compensation and capacity improvements (Title VI)
-- Enforcement and administrative authority (Title VII)
-- General provisions and definitions (Title VIII)
+- All compensation and capacity improvements (Title V)
+- Enforcement and administrative authority (Title VI)
+- General provisions and definitions (Title VII)
 - Electoral Science Office establishment (Section 409)
 - Planning and preparation for reforms begin
-- FCAO agency establishment commences
 
-**Tier 2 -- First FEMA Election:**
+**Tier 2 -- First CEMA Election:**
 
-The First FEMA Election is defined as the second regularly scheduled general election after enactment (with 18-month minimum runway). At this election:
+The First CEMA Election is defined as the second regularly scheduled general election after enactment (with 18-month minimum runway). At this election:
 
 - Ballot access standards take effect (Title I)
 - Party recognition framework operational (Title II)
 - House expands to 510 members (Title III)
 - Multi-member districts take effect for all qualifying states (Title IV)
-- STAR voting implemented for all federal elections
+- STAR voting implemented for all congressional elections
 - Algorithmically neutral districting operational
 - ESO operational authority begins
-
-**Tier 3 -- Second FEMA Election:**
-
-The Second FEMA Election is the first general election after the First FEMA Election. At this election:
-
-- FCAO examinations become operational (Title V)
-- FCAO scores appear on ballots for first time
-- ESO first mandatory decennial review cycle begins (following next census)
 
 **Ongoing -- Biennial Increases:**
 
 Beginning with the second Congress after initial expansion, House membership increases by 35 seats each Congress until cube root compliance (~14 years from enactment).
 
+**Ongoing -- ESO Decennial Review:**
+
+The ESO conducts its first mandatory decennial review cycle following the next census after the Second CEMA Election, and every ten years thereafter.
+
 ### Why This Architecture Works
 
-**Simultaneous integrated launch:** STAR, MMD, algorithmic districting, and expansion debut together at the First FEMA Election, producing "the new Congress" rather than "more of the old Congress."
+**Simultaneous integrated launch:** STAR, MMD, algorithmic districting, and expansion debut together at the First CEMA Election, producing "the new Congress" rather than "more of the old Congress."
 
 **Reform on a human timescale:** Cube root compliance in ~14 years means members who vote for the Act see results; voters experience tangible improvements within a political generation.
 
-**Proper FCAO development:** Decoupled timeline prevents exam development from holding up core reforms while ensuring adequate validation.
+**Immediate member benefits:** Title V takes effect upon enactment, honoring the institutional capacity investment that makes passage politically viable.
 
-**Immediate member benefits:** Title VI takes effect upon enactment, honoring the institutional capacity investment that makes passage politically viable.
-
-**Legal clarity:** Defined terms (First FEMA Election, Second FEMA Election) and objective triggers prevent ambiguity and resist litigation.
+**Legal clarity:** Defined terms (First CEMA Election, Second CEMA Election) and objective triggers prevent ambiguity and resist litigation.
 
 ### Multiple Assessment Checkpoints
 
 Each expansion provides opportunity for evaluation:
 
-**After First FEMA Election:** Assess initial expansion implementation, STAR voting rollout, multi-member district performance, algorithmically generated maps, voter response.
+**After First CEMA Election:** Assess initial expansion implementation, STAR voting rollout, multi-member district performance, algorithmically generated maps, voter response.
 
 **After biennial increases:** Evaluate constituent service improvements, infrastructure adequacy, operational adjustments.
 
@@ -670,7 +599,7 @@ If problems emerge at any checkpoint, adjustments occur before further expansion
 
 ### Federal Implementation Support
 
-Title VI, Section 609 authorizes substantial federal grants to states for implementation:
+Title V, Section 509 authorizes substantial federal grants to states for implementation:
 
 **Funding:** $500 million first year, $300 million for subsequent four years, $150 million annually thereafter (inflation-adjusted).
 
@@ -682,7 +611,7 @@ This ensures states have resources to implement reforms without bearing full cos
 
 ---
 
-## XI. COMPARATIVE ADVANTAGE OVER STATUS QUO
+## X. COMPARATIVE ADVANTAGE OVER STATUS QUO
 
 ### Current System Vulnerabilities
 
@@ -708,8 +637,6 @@ The Act addresses these vulnerabilities through coordinated reforms:
 
 **Institutional stability:** Enhanced compensation and capacity improvements reduce talent drain, lobbying dependency, and individual obstruction power.
 
-**Transparent competency information:** FCAO examinations provide voters with objective data without creating qualification barriers.
-
 ### Risk Reduction Through Modernization
 
 The status quo creates increasing vulnerability: population growth continues while House size remains frozen; geographic sorting intensifies winner-take-all distortions; litigation over ballot access and redistricting consumes resources; legislative branch talent increasingly uncompetitive with executive and private sectors.
@@ -718,13 +645,13 @@ The Act reduces these risks through systematic infrastructure updates. This trea
 
 ---
 
-## XII. IMPLEMENTATION COST-BENEFIT ANALYSIS
+## XI. IMPLEMENTATION COST-BENEFIT ANALYSIS
 
 ### Upfront Costs
 
 The Act requires substantial initial investment:
 
-**Direct costs:** Enhanced congressional compensation (approximately $46M annually for salary increases), House expansion infrastructure ($200-300M for chamber renovation and office space, phased over 14 years), voting equipment procurement ($500M initial, $300M ongoing for 4 years), FCAO agency establishment ($25-35M for first 24 months), ESO agency establishment ($15M first year, $10M for subsequent two years, $8M annually thereafter), state implementation grants ($500M initial, $300M for 4 years, $150M ongoing).
+**Direct costs:** Enhanced congressional compensation (approximately $46M annually for salary increases), House expansion infrastructure ($200-300M for chamber renovation and office space, phased over 14 years), voting equipment procurement ($500M initial, $300M ongoing for 4 years), ESO agency establishment ($15M first year, $10M for subsequent two years, $8M annually thereafter), state implementation grants ($500M initial, $300M for 4 years, $150M ongoing).
 
 **Total estimated initial investment:** $1.5-2B over first 5 years
 
@@ -742,7 +669,7 @@ The Act requires substantial initial investment:
 
 ---
 
-## XIII. WHY COMPREHENSIVE REFORM BEATS PIECEMEAL APPROACHES
+## XII. WHY COMPREHENSIVE REFORM BEATS PIECEMEAL APPROACHES
 
 ### The Political Economy of Incremental Reform
 
@@ -791,7 +718,7 @@ The Act takes the opposite approach: Fix everything that needs fixing in one coo
 
 **Synergistic benefits** where reforms reinforce each other: Multi-member districts work better with proportional voting methods. House expansion enables multi-member districts. Ballot access standardization supports multiparty infrastructure. Algorithmically neutral districting eliminates the political distortion that makes every other reform harder. Enhanced capacity makes all reforms more effective.
 
-**Immediate benefits** (compensation, capacity improvements) fund political capital for electoral reforms that launch together at the First FEMA Election.
+**Immediate benefits** (compensation, capacity improvements) fund political capital for electoral reforms that launch together at the First CEMA Election.
 
 **Predictable timeline** rather than uncertain sequential reforms where each depends on the previous one's success.
 
@@ -817,7 +744,7 @@ The Act is scheduled maintenance on constitutional machinery. The comprehensive 
 
 ---
 
-## XIV. CONCLUSION: REFORM ON A HUMAN TIMESCALE
+## XIII. CONCLUSION: REFORM ON A HUMAN TIMESCALE
 
 ### The Maintenance Imperative
 
@@ -843,7 +770,7 @@ The Act doesn't ask Congress to vote for uncertain future changes. It provides:
 - Better working conditions and career security
 - Improved legislative functionality
 
-**Integrated reform launch (First FEMA Election):**
+**Integrated reform launch (First CEMA Election):**
 
 - Ballot access standardization
 - Party recognition and Joint Endorsement Lists
@@ -903,8 +830,6 @@ Supreme Court interpretation confirms this grants Congress plenary power over fe
 
 **Algorithmic Districting Authority:** Congressional authority to prescribe the "Manner" of elections encompasses the method by which district boundaries are determined. Mandating a neutral algorithm rather than human-drawn boundaries falls squarely within Elections Clause authority. No constitutional provision requires that district lines be drawn by human judgment.
 
-**FCAO Non-Qualifying Structure:** Avoids U.S. Term Limits concerns because examinations are disclosure requirements under Elections Clause authority, not additional qualifications for office. No minimum score required; 0% scorers can run and serve.
-
 (Full constitutional analysis available in separate technical memorandum)
 
 ---
@@ -912,7 +837,17 @@ Supreme Court interpretation confirms this grants Congress plenary power over fe
 <!--
 ## Revision History
 
-**Revision 5.4** (Current)
+**Revision 5.6** (Current)
+- Aligned with Rev 5.6 of the legislative text
+- Renamed from "Federal Elections Modernization Act (FEMA)" to "Congressional Elections Modernization Act (CEMA)"; all references, defined terms, and download paths updated throughout; no substantive policy changes
+- Presidential election scope narrowed: CEMA now governs congressional elections only; removed or reframed all references implying CEMA covers presidential elections
+- FCAO references removed: Title V (Federal Candidate Assessment Office) extracted from CEMA into planned standalone statute under CMF; removed entire Section VII (FCAO rationale), FCAO entries from feature lists, cost estimates, implementation tiers, and Appendix A
+- Title and section renumbering: Title VI (Compensation) → Title V, Title VII (Enforcement) → Title VI, Title VIII (General Provisions) → Title VII; section numbers shifted accordingly (6XX → 5XX)
+- Removed Tier 3 implementation tier (Second CEMA Election / FCAO); restored ESO mandatory decennial review cycle to Ongoing section (not FCAO-dependent)
+- Added Section 502(e) Voluntary Compensation Hold rationale subsection to Section VII (Title V): self-executing default polarity, political cover function, anti-gaming provisions (irrevocability and annual commitment), scope limitation (salary only; pension, professional development, MRA excluded), public disclosure structure
+- DPS 3.1 formatting compliance: removed Published line and Based on Rev line from header; removed Last revised line from footer
+
+**Revision 5.4**
 - DPS 2.8 compliance pass: migrated download link path from electoral/cmf/fema/ to congress/cmf/fema/; added 📥 prefix and ⬇ parenthetical emojis per DPS Rev 2.8 Section 1.9; added "Last revised April 2026" line per DPS Rev 2.5 Section 1.3
 
 **Revision 5.3**
@@ -921,7 +856,7 @@ Supreme Court interpretation confirms this grants Congress plenary power over fe
 
 **Revision 5.2**
 - Updated reference line from Rev 5.0 to Rev 5.2
-- Replaced "Phased Implementation Within Accelerated Timeline" subsection (former Section VI) with "Single Implementation" rationale: all qualifying states at the First FEMA Election; eliminated five-cycle phase-in schedule (25%/50%/75%/90%/100%), transition cycle references, and Section 605 incumbent protection references
+- Replaced "Phased Implementation Within Accelerated Timeline" subsection (former Section VI) with "Single Implementation" rationale: all qualifying states at the First CEMA Election; eliminated five-cycle phase-in schedule (25%/50%/75%/90%/100%), transition cycle references, and Section 605 incumbent protection references
 - Added "Algorithmically Neutral Districting" subsection explaining ESO-certified algorithms, shortest splitline default, mutual reinforcement with STAR-PR, and elimination of human discretion from boundary placement
 - Added "Minority Representation Under Algorithmic Districting" subsection: VRA compliance through minimum boundary adjustment, proportional representation as stronger protection mechanism than majority-minority districts, Section 410(d) safeguards
 - Added "Deterministic District Magnitude Allocation" subsection: preference ordering (5, 6, 4, 7, 3), Carey-Hix empirical basis, Tier 3 classification
@@ -1013,9 +948,7 @@ Supreme Court interpretation confirms this grants Congress plenary power over fe
 
 *Revision history available in the raw file.*
 
-> 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/fema/policy-rationale.md) (opens on GitHub -- click the ⬇ download button)
-
-*Last revised April 2026*
+> 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/cema/policy-rationale.md) (opens on GitHub -- click the ⬇ download button)
 
 ---
 
