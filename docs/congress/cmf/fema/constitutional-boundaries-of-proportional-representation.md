@@ -1,4 +1,4 @@
-# Federal Elections Modernization Act
+# Congressional Elections Modernization Act
 
 ## Constitutional Boundaries of Proportional Representation: When Federal PR Implementation Requires Constitutional Amendment
 
@@ -8,7 +8,7 @@
 
 Electoral reform advocates frequently assert that proportional representation at the federal level would require a constitutional amendment. This claim is both correct and incorrect -- the answer depends entirely on *which form* of proportional representation is under consideration.
 
-Some PR implementations would indeed require constitutional amendment because they conflict with structural provisions of Articles I and II that the Elections Clause cannot override. Other implementations -- including the Federal Elections Modernization Act's (FEMA) approach -- operate comfortably within existing constitutional authority. This document refers to FEMA hereafter as "the Act."
+Some PR implementations would indeed require constitutional amendment because they conflict with structural provisions of Articles I and II that the Elections Clause cannot override. Other implementations -- including the Congressional Elections Modernization Act's (CEMA) approach -- operate comfortably within existing constitutional authority. This document refers to CEMA hereafter as "the Act."
 
 This document identifies the constitutional boundaries separating statutory PR (achievable through ordinary legislation) from constitutional PR (requiring amendment). Understanding these boundaries clarifies why the Act's specific design choices are not merely policy preferences but constitutional necessities.
 
@@ -290,22 +290,22 @@ Artificial thresholds may not require constitutional amendment per se, but they 
 
 ---
 
-## How FEMA Navigates Constitutional Constraints
+## How CEMA Navigates Constitutional Constraints
 
 The Act's proportional representation provisions are specifically designed to operate within constitutional boundaries. Each design choice reflects constitutional necessity, not merely policy preference.
 
 ### Design Choices and Constitutional Rationale
 
-| Constitutional Constraint            | FEMA Design Choice                  | Rationale                                   |
-| ------------------------------------ | ----------------------------------- | ------------------------------------------- |
-| National constituency prohibited     | State-by-state districts only       | Preserves Article I apportionment structure |
-| Party lists constitutionally suspect | Candidate-centered STAR-PR          | Maintains "chosen by the People"            |
-| MMP components problematic           | No compensatory mechanism           | Avoids party lists and variable House size  |
-| Cannot mandate 3+ seat minimums      | Single-winner STAR for small states | Accepts constitutional constraints          |
-| Cannot abolish geography             | Enumerated geographic districts     | Maintains geographic representation         |
-| Cannot cross state boundaries        | Districts wholly within states      | Respects state-based apportionment          |
-| Senate structure fixed               | No Senate PR attempted              | Recognizes insurmountable barriers          |
-| Artificial thresholds vulnerable     | No imposed thresholds               | Relies on natural mathematics only          |
+| Constitutional Constraint | CEMA Design Choice | Rationale |
+|--------------------------|---------------------|-----------|
+| National constituency prohibited | State-by-state districts only | Preserves Article I apportionment structure |
+| Party lists constitutionally suspect | Candidate-centered STAR-PR | Maintains "chosen by the People" |
+| MMP components problematic | No compensatory mechanism | Avoids party lists and variable House size |
+| Cannot mandate 3+ seat minimums | Single-winner STAR for small states | Accepts constitutional constraints |
+| Cannot abolish geography | Enumerated geographic districts | Maintains geographic representation |
+| Cannot cross state boundaries | Districts wholly within states | Respects state-based apportionment |
+| Senate structure fixed | No Senate PR attempted | Recognizes insurmountable barriers |
+| Artificial thresholds vulnerable | No imposed thresholds | Relies on natural mathematics only |
 
 ### The Candidate-Centered Distinction
 
@@ -390,35 +390,29 @@ The Constitution grants Congress broad power to regulate the manner of congressi
 ## Appendix: Constitutional Provisions Referenced
 
 **Article I, Section 2, Clause 1:**
-
 > "The House of Representatives shall be composed of Members chosen every second Year by the People of the several States..."
 
 **Article I, Section 2, Clause 3:**
-
 > "Representatives...shall be apportioned among the several States which may be included within this Union, according to their respective Numbers..."
 > "...each State shall have at Least one Representative..."
 
 **Article I, Section 4, Clause 1 (Elections Clause):**
-
 > "The Times, Places and Manner of holding Elections for Senators and Representatives, shall be prescribed in each State by the Legislature thereof; but the Congress may at any time by Law make or alter such Regulations..."
 
 **Article V (Entrenchment Clause):**
-
 > "...no State, without its Consent, shall be deprived of its equal Suffrage in the Senate."
 
 **Seventeenth Amendment:**
-
 > "The Senate of the United States shall be composed of two Senators from each State, elected by the people thereof..."
 
 ---
 
 <!--
-
 ## Revision History
 
 **Revision 5.6** (Current)
-
-- Aligned with Rev 5.6 of the FEMA legislative text
+- Aligned with Rev 5.6 of the CEMA legislative text
+- Renamed from "Federal Elections Modernization Act (FEMA)" to "Congressional Elections Modernization Act (CEMA)"; all references, defined terms, and download paths updated throughout; no substantive policy changes
 - No FCAO references to remove (none present)
 - No presidential references to remove (none present)
 - No Title or Section renumbering needed (none referenced in body text)
@@ -426,11 +420,9 @@ The Constitution grants Congress broad power to regulate the manner of congressi
 - DPS 3.1 formatting compliance: removed "Published March 2026" and "Based on Rev 5.2" header metadata; removed "Last revised April 2026" footer line
 
 **Revision 3.1**
-
 - DPS 2.8 compliance pass: migrated download link path from electoral/cmf/fema/ to congress/cmf/fema/; added 📥 prefix and ⬇ parenthetical emojis per DPS Rev 2.8 Section 1.9; added "Last revised April 2026" line per DPS Rev 2.5 Section 1.3
 
 **Revision 3.0**
-
 - Updated reference line from Rev 5.0 to Rev 5.2
 - Updated State-by-State Implementation section: replaced "Each state divides its seats into multi-member districts" with ESO-certified algorithmically neutral districting per Rev 5.1 Section 403
 - Updated Small State Accommodation section: split into two tiers matching Rev 5.1 Section 402(d) -- one-Representative states (at-large, exempt from algorithmic districting) and two-Representative states (algorithmically drawn SMDs using single-winner STAR); corrected cross-references from Section 402(e)/404(h) to Section 402(d)(1), 402(d)(2), and 404(e)
@@ -440,7 +432,6 @@ The Constitution grants Congress broad power to regulate the manner of congressi
 - No changes to constitutional boundary analysis (Scenarios 1-8), design rationale table, candidate-centered distinction, historical precedent, or conclusion
 
 **Revision 2.0**
-
 - Rebranded from Congressional Modernization Act (CMA) to Federal Elections Modernization Act (FEMA) throughout
 - Applied DPS Section 1.7 self-reference conventions (establish name once, use "the Act" thereafter)
 - Updated header structure to DPS Section 1.2 supporting document format
@@ -452,16 +443,15 @@ The Constitution grants Congress broad power to regulate the manner of congressi
 - Companion document to FEMA Rev 5.0 Constitutional Authority Technical Memorandum
 
 **Revision 1.0**
-
 - Initial version analyzing constitutional boundaries for federal proportional representation
 - Identified eight PR implementation scenarios requiring constitutional amendment
 - Explained how CMA's design navigates each constitutional constraint
 - Companion document to CMA Constitutional Authority Technical Memorandum
-  -->
+-->
 
 *Revision history available in the raw file.*
 
-> 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/fema/constitutional-boundaries-of-proportional-representation.md) (opens on GitHub -- click the ⬇ download button)
+> 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/cema/constitutional-boundaries-of-proportional-representation.md) (opens on GitHub -- click the ⬇ download button)
 
 ---
 
