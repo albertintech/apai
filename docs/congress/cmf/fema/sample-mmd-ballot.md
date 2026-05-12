@@ -30,104 +30,104 @@ Your scores help determine which candidates are elected proportionally. The high
 
 **Rate each candidate from 0 to 5 stars**
 
-| Candidate | Party Registration | Party Endorsements | FCAO Exam | Rating (Worst → Best) |
-|-----------|-------------------|-------------------|-------------|----------------------|
-| **Sarah Martinez** | Democratic | Democratic, Working Families | 88% | ⓪ ① ② ③ ④ ⑤ |
-| **James Chen** | Republican | Republican | 92% | ⓪ ① ② ③ ④ ⑤ |
-| **Maria Rodriguez** | Democratic | Democratic, Green | 85% | ⓪ ① ② ③ ④ ⑤ |
-| **Thomas Anderson** | Republican | Republican, Forward | 79% | ⓪ ① ② ③ ④ ⑤ |
-| **Jennifer Kim** | none | Independent | 95% | ⓪ ① ② ③ ④ ⑤ |
-| **Robert Wilson** | Libertarian | Libertarian | 91% | ⓪ ① ② ③ ④ ⑤ |
-| **Patricia O'Brien** | Democratic | Democratic, Working Families, Green | 83% | ⓪ ① ② ③ ④ ⑤ |
-| **Michael Torres** | Republican | none | 77% | ⓪ ① ② ③ ④ ⑤ |
-| **David Park** | none | Forward | 89% | ⓪ ① ② ③ ④ ⑤ |
-| **Elizabeth Harris** | Republican | Republican | 84% | ⓪ ① ② ③ ④ ⑤ |
-| **Carlos Mendez** | Democratic | none | 81% | ⓪ ① ② ③ ④ ⑤ |
-| **Sophia Patel** | Green | Green, Working Families | 87% | ⓪ ① ② ③ ④ ⑤ |
+| Candidate | Party Registration | Party Endorsements | Rating (Worst → Best) |
+|-----------|-------------------|-------------------|----------------------|
+| **Sarah Martinez** | Democratic | Democratic, Working Families | ⓪ ① ② ③ ④ ⑤ |
+| **James Chen** | Republican | Republican | ⓪ ① ② ③ ④ ⑤ |
+| **Maria Rodriguez** | Democratic | Democratic, Green | ⓪ ① ② ③ ④ ⑤ |
+| **Thomas Anderson** | Republican | Republican, Forward | ⓪ ① ② ③ ④ ⑤ |
+| **Jennifer Kim** | none | Independent | ⓪ ① ② ③ ④ ⑤ |
+| **Robert Wilson** | Libertarian | Libertarian | ⓪ ① ② ③ ④ ⑤ |
+| **Patricia O'Brien** | Democratic | Democratic, Working Families, Green | ⓪ ① ② ③ ④ ⑤ |
+| **Michael Torres** | Republican | none | ⓪ ① ② ③ ④ ⑤ |
+| **David Park** | none | Forward | ⓪ ① ② ③ ④ ⑤ |
+| **Elizabeth Harris** | Republican | Republican | ⓪ ① ② ③ ④ ⑤ |
+| **Carlos Mendez** | Democratic | none | ⓪ ① ② ③ ④ ⑤ |
+| **Sophia Patel** | Green | Green, Working Families | ⓪ ① ② ③ ④ ⑤ |
 
 ---
 
 ## CANDIDATE INFORMATION
 
 ### Sarah Martinez
-**Party Registration:** Democratic | **Party Endorsements:** Democratic, Working Families | **FCAO Exam:** 88%
+**Party Registration:** Democratic | **Party Endorsements:** Democratic, Working Families
 
 Small business owner and former city council member. Focuses on affordable housing, workforce development, and small business support. Advocates for community-driven economic development and accessible childcare programs. Coalition support from Working Families Party signals strong labor ties.
 
 ---
 
 ### James Chen
-**Party Registration:** Republican | **Party Endorsements:** Republican | **FCAO Exam:** 92%
+**Party Registration:** Republican | **Party Endorsements:** Republican
 
-Attorney and community leader with 15 years in private practice. Priorities include tax reform, public safety, and regulatory streamlining. Supports evidence-based criminal justice reform while maintaining law-and-order credentials. Highest FCAO score among Republicans.
+Attorney and community leader with 15 years in private practice. Priorities include tax reform, public safety, and regulatory streamlining. Supports evidence-based criminal justice reform while maintaining law-and-order credentials.
 
 ---
 
 ### Maria Rodriguez
-**Party Registration:** Democratic | **Party Endorsements:** Democratic, Green | **FCAO Exam:** 85%
+**Party Registration:** Democratic | **Party Endorsements:** Democratic, Green
 
 Environmental scientist and education advocate with Ph.D. in climate science. Emphasizes climate action, renewable energy transition, and public education funding. Green Party endorsement reflects strong environmental credentials while maintaining Democratic Party support.
 
 ---
 
 ### Thomas Anderson
-**Party Registration:** Republican | **Party Endorsements:** Republican, Forward | **FCAO Exam:** 79%
+**Party Registration:** Republican | **Party Endorsements:** Republican, Forward
 
 Military veteran (Major, U.S. Marine Corps, retired) and technology entrepreneur. Focuses on infrastructure modernization, veteran services, and bipartisan problem-solving. Forward Party endorsement signals reform-minded approach and willingness to work across party lines.
 
 ---
 
 ### Jennifer Kim
-**Party Registration:** none | **Party Endorsements:** Independent | **FCAO Exam:** 95%
+**Party Registration:** none | **Party Endorsements:** Independent
 
-Healthcare administrator with 20 years experience in hospital management. Advocates for healthcare access, mental health services, senior care, and rural healthcare infrastructure. Highest FCAO score among all candidates. True independent with no party registration or major party endorsement.
+Healthcare administrator with 20 years experience in hospital management. Advocates for healthcare access, mental health services, senior care, and rural healthcare infrastructure. True independent with no party registration or major party endorsement.
 
 ---
 
 ### Robert Wilson
-**Party Registration:** Libertarian | **Party Endorsements:** Libertarian | **FCAO Exam:** 91%
+**Party Registration:** Libertarian | **Party Endorsements:** Libertarian
 
-Economics professor at state university and civil liberties advocate. Priorities include fiscal responsibility, individual freedom, criminal justice reform, and ending qualified immunity. Supports reducing government intervention while protecting civil liberties. Strong academic credentials with second-highest FCAO score.
+Economics professor at state university and civil liberties advocate. Priorities include fiscal responsibility, individual freedom, criminal justice reform, and ending qualified immunity. Supports reducing government intervention while protecting civil liberties.
 
 ---
 
 ### Patricia O'Brien
-**Party Registration:** Democratic | **Party Endorsements:** Democratic, Working Families, Green | **FCAO Exam:** 83%
+**Party Registration:** Democratic | **Party Endorsements:** Democratic, Working Families, Green
 
 Labor union organizer with 25 years experience in public sector unions. Champions workers' rights, environmental justice, progressive taxation, and union organizing protections. Maximum three-party endorsement demonstrates broad progressive coalition support.
 
 ---
 
 ### Michael Torres
-**Party Registration:** Republican | **Party Endorsements:** none | **FCAO Exam:** 77%
+**Party Registration:** Republican | **Party Endorsements:** none
 
-Former state senator who did not receive Republican Party endorsement. Emphasizes traditional conservative values, border security, agricultural policy, and rural community development. Running without party endorsement after internal party disputes. Lowest FCAO score among all candidates.
+Former state senator who did not receive Republican Party endorsement. Emphasizes traditional conservative values, border security, agricultural policy, and rural community development. Running without party endorsement after internal party disputes.
 
 ---
 
 ### David Park
-**Party Registration:** none | **Party Endorsements:** Forward | **FCAO Exam:** 89%
+**Party Registration:** none | **Party Endorsements:** Forward
 
 Software engineer and civic tech advocate with background in government technology systems. Focuses on government modernization, electoral reform, anti-corruption measures, and digital infrastructure. Not registered with any party but endorsed by reform-focused Forward Party.
 
 ---
 
 ### Elizabeth Harris
-**Party Registration:** Republican | **Party Endorsements:** Republican | **FCAO Exam:** 84%
+**Party Registration:** Republican | **Party Endorsements:** Republican
 
 Small business owner (retail and e-commerce) and local chamber president. Priorities include economic development, Main Street revitalization, regulatory reform, and supporting local entrepreneurship. Moderate Republican focused on practical business solutions rather than culture war issues.
 
 ---
 
 ### Carlos Mendez
-**Party Registration:** Democratic | **Party Endorsements:** none | **FCAO Exam:** 81%
+**Party Registration:** Democratic | **Party Endorsements:** none
 
 Community college instructor and immigrant rights advocate. Focuses on education access, immigration reform, student debt relief, and expanding career technical education. Registered Democrat but has not received party endorsement, possibly due to crowded Democratic field.
 
 ---
 
 ### Sophia Patel
-**Party Registration:** Green | **Party Endorsements:** Green, Working Families | **FCAO Exam:** 87%
+**Party Registration:** Green | **Party Endorsements:** Green, Working Families
 
 Organic farmer and sustainable agriculture advocate with 15 years farming experience. Emphasizes agricultural policy, environmental protection, food security, climate-resilient agriculture, and supporting family farms. Coalition endorsement from Working Families Party shows labor-environmental alliance.
 
@@ -156,28 +156,6 @@ Organic farmer and sustainable agriculture advocate with 15 years farming experi
 - **none | Independent** (Kim) = True independent, not registered with any party
 - **none | Forward** (Park) = Not registered with a party, but endorsed by Forward Party
 - **Green | Green, Working Families** (Patel) = Green Party member with coalition endorsement
-
----
-
-### About the FCAO Exam
-
-All candidates for federal office are required to take the **Federal Candidate Assessment Office (FCAO)** examination, which tests knowledge of:
-
-- U.S. Constitutional structure and principles
-- Federal government powers and limitations
-- Bill of Rights and civil liberties
-- Legislative, executive, and judicial branch functions
-- Historical context of American governance
-
-The FCAO examination is a **transparency mechanism, not a qualification barrier**. No minimum score is required -- candidates scoring 0% may still run and serve if voters choose them. Scores are displayed on ballots to help voters assess candidates' understanding of constitutional governance and federal office responsibilities.
-
-Candidates may retake the exam unlimited times, with only their highest score reported. This allows candidates to demonstrate improvement and commitment to learning.
-
-**FCAO Exam Range in This Election:**
-- **Highest:** Jennifer Kim (Independent) - 95%
-- **90%+ (3 candidates):** Kim (95%), Chen (92%), Wilson (91%)
-- **80-89% (7 candidates):** Park (89%), Martinez (88%), Patel (87%), Rodriguez (85%), Harris (84%), O'Brien (83%), Mendez (81%)
-- **Below 80% (2 candidates):** Anderson (79%), Torres (77%)
 
 ---
 
@@ -212,7 +190,7 @@ This demonstrates how proportional representation allows parties to run multiple
 
 ### Republican Party Division
 The **four Republican candidates** show conservative diversity:
-- **James Chen** (Rep) - High Civics score (92%), law-and-order moderate
+- **James Chen** (Rep) - Law-and-order moderate with legal background
 - **Thomas Anderson** (Rep, Forward) - Reform-minded veteran with cross-party appeal
 - **Elizabeth Harris** (Rep) - Business-focused pragmatist
 - **Michael Torres** (Rep, none) - Lost party endorsement, running independently
@@ -221,7 +199,7 @@ Torres's lack of endorsement signals internal party conflict - voters can see cl
 
 ### Independent and Third-Party Options
 **Five candidates** outside the Democratic-Republican binary:
-- **Jennifer Kim** (none, Ind) - Highest Civics score, true independent
+- **Jennifer Kim** (none, Ind) - Healthcare-focused true independent
 - **Robert Wilson** (Lib) - Academic libertarian, civil liberties focus
 - **David Park** (none, Forward) - Tech-focused reformer
 - **Sophia Patel** (Green, WF) - Environmental-labor coalition
@@ -269,7 +247,7 @@ A progressive voter might rate:
 
 ### Conservative Voter
 A conservative voter might rate:
-- Chen: ⑤ (highest Civics score, solid conservative)
+- Chen: ⑤ (solid conservative, legal expertise)
 - Harris: ⑤ (business-focused, practical)
 - Anderson: ④ (veteran, reform-minded)
 - Torres: ③ (conservative but no party support)
@@ -284,7 +262,7 @@ A conservative voter might rate:
 
 ### Independent/Moderate Voter
 An independent voter might rate:
-- Kim: ⑤ (highest Civics score, true independent)
+- Kim: ⑤ (true independent, healthcare expertise)
 - Park: ⑤ (reformer, good governance focus)
 - Anderson: ④ (bipartisan veteran)
 - Martinez: ④ (pragmatic Democrat)
@@ -314,13 +292,6 @@ An independent voter might rate:
 - **One endorsement (4):** Chen (Rep), Wilson (Lib), Harris (Rep), Kim (Ind), Park (Forward)
 - **No endorsement (2):** Torres (Rep registered), Mendez (Dem registered)
 
-### By FCAO Exam
-- **95%:** Kim
-- **90-94%:** Chen (92%), Wilson (91%)
-- **85-89%:** Park (89%), Martinez (88%), Patel (87%), Rodriguez (85%)
-- **80-84%:** Harris (84%), O'Brien (83%), Mendez (81%)
-- **75-79%:** Anderson (79%), Torres (77%)
-
 ---
 
 **VOTE BOTH SIDES OF BALLOT**  
@@ -328,9 +299,9 @@ Turn ballot over for additional races →
 
 ---
 
-*This is a mock ballot created for educational purposes to demonstrate STAR Proportional Representation voting, Joint Endorsement Lists, and Federal Candidate Assessment Office (FCAO) examination requirements as proposed in the Federal Elections Modernization Act (FEMA).*
+*This is a mock ballot created for educational purposes to demonstrate STAR Proportional Representation voting and Joint Endorsement Lists as proposed in the Congressional Elections Modernization Act (CEMA).*
 
-> 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/fema/sample-mmd-ballot.md) (opens on GitHub -- click the ⬇ download button)
+> 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/cema/sample-mmd-ballot.md) (opens on GitHub -- click the ⬇ download button)
 
 ---
 
