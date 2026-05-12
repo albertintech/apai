@@ -1,16 +1,12 @@
-# Federal Elections Modernization Act
+# Congressional Elections Modernization Act
 
 ## Why Not STV?
-
-### Published March 2026
-
-Based on Rev 5.2 of the Federal Elections Modernization Act
 
 ---
 
 Proportional representation is the most important structural reform available to American democracy. The diagnosis is shared across the reform community: winner-take-all, single-member districts distort representation, suppress political competition, and entrench a two-party system that leaves millions of voters without meaningful representation. The question is not whether to adopt proportional representation. The question is which proportional method to use.
 
-The Federal Elections Modernization Act (FEMA), hereafter referred to as "the Act," uses Allocated Score -- also called STAR Proportional Representation or STAR-PR -- for multi-member House elections. Voters score candidates from 0 to 5 stars on the same ballot used for single-winner STAR elections. Seats are filled in rounds: each round elects the highest-scoring candidate, then reduces the ballot weight of that candidate's supporters proportionally, ensuring the next round reflects the preferences of voters who are not yet fully represented.
+The Congressional Elections Modernization Act (CEMA), hereafter referred to as "the Act," uses Allocated Score -- also called STAR Proportional Representation or STAR-PR -- for multi-member House elections. Voters score candidates from 0 to 5 stars on the same ballot used for single-winner STAR elections. Seats are filled in rounds: each round elects the highest-scoring candidate, then reduces the ballot weight of that candidate's supporters proportionally, ensuring the next round reflects the preferences of voters who are not yet fully represented.
 
 The Single Transferable Vote (STV) -- now marketed in the United States as "Proportional Ranked Choice Voting" or PRCV -- is the most prominent competing proportional method and the one proposed in the Fair Representation Act (H.R. 4632), the only live federal proportional representation bill in Congress. FairVote, RepresentWomen, the League of Women Voters, the RCV Resource Center, and allied organizations have invested substantial institutional resources in positioning STV as the natural next step for the American ranked-choice voting movement.
 
@@ -128,7 +124,7 @@ STV does not just have internal pathologies. It creates a dependency on external
 
 The Act's Single Unified General Election is structurally enabled by the choice of Allocated Score, whose ballot interface degrades gracefully with large candidate fields rather than catastrophically. Scoring thirty candidates on a 0-5 scale is cognitively different from ranking thirty candidates in strict preference order. A voter scores their known favorites 5, their known opponents 0, and assigns middling scores to candidates they know something about. Leaving a candidate unscored defaults to 0 and does not exhaust the ballot. The voter does not need to have an opinion about the relative ordering of their fourteenth versus fifteenth preference.
 
-Because Allocated Score does not require field winnowing, the Act eliminates state-administered primaries for federal offices entirely. Parties retain full autonomy to conduct internal nominations through caucuses, conventions, or other processes -- at their own expense, without state election infrastructure. This enfranchises the millions of voters who do not participate in primaries, returns time and money to taxpayers, and removes a structural leverage point for partisan manipulation. This is not a convenience feature. It is architecturally enabled by the proportional method's tolerance of large candidate fields. STV-based proposals cannot make the same promise without either accepting severe ballot complexity or quietly relying on the very primary architecture they claim to improve.
+Because Allocated Score does not require field winnowing, the Act eliminates state-administered primaries for congressional offices entirely. Parties retain full autonomy to conduct internal nominations through caucuses, conventions, or other processes -- at their own expense, without state election infrastructure. This enfranchises the millions of voters who do not participate in primaries, returns time and money to taxpayers, and removes a structural leverage point for partisan manipulation. This is not a convenience feature. It is architecturally enabled by the proportional method's tolerance of large candidate fields. STV-based proposals cannot make the same promise without either accepting severe ballot complexity or quietly relying on the very primary architecture they claim to improve.
 
 ---
 
@@ -148,9 +144,9 @@ Allocated Score does not produce ballot exhaustion. The 0-5 scale captures prefe
 
 Allocated Score uses deterministic weight reduction rather than surplus transfers. The formula is specified, proportional, and produces identical results from identical ballots regardless of implementation. There is no randomness, no rounding-method dependency, and no hidden design parameter.
 
-Allocated Score uses a simpler ballot interface that scales gracefully with large candidate fields. The same 0-5 star ballot is used for single-winner STAR elections (President, Senate) and multi-winner Allocated Score elections (House). Voters learn one ballot action for all federal contests. The error surface is narrower than the ranked ballot grid, and the absence of a rank-ordering constraint means there is no ballot exhaustion from incomplete expression.
+Allocated Score uses a simpler ballot interface that scales gracefully with large candidate fields. The same 0-5 star ballot is used for single-winner STAR elections (Senate) and multi-winner Allocated Score elections (House). Voters learn one ballot action for all congressional contests. The error surface is narrower than the ranked ballot grid, and the absence of a rank-ordering constraint means there is no ballot exhaustion from incomplete expression.
 
-And because the ballot interface tolerates large fields without degrading, the Act's Single Unified General Election eliminates state-administered primaries for federal offices entirely -- placing all qualified candidates directly on the November ballot and removing a structural leverage point that STV-based proposals must either preserve or replace.
+And because the ballot interface tolerates large fields without degrading, the Act's Single Unified General Election eliminates state-administered primaries for congressional offices entirely -- placing all qualified candidates directly on the November ballot and removing a structural leverage point that STV-based proposals must either preserve or replace.
 
 The tradeoff must be acknowledged honestly. Allocated Score has no century-long track record in national government elections. Ireland has used STV since 1921; no country has used Allocated Score for a parliamentary election. This is a legitimate concern that deserves transparency, not dismissal.
 
@@ -184,7 +180,7 @@ STV is a historically significant proportional method with genuine strengths. It
 
 But "tolerably" is not the correct standard when structural alternatives exist that achieve the same proportional goals without the elimination engine's pathologies. STV's sequential elimination produces non-monotonicity, enables center squeeze, generates incentive distributions more lopsided than any single-winner method studied, and creates surplus transfer arbitrariness that can change election outcomes through hidden design parameters. Its ranked ballot interface degrades under the large candidate fields that multi-member districts naturally attract, amplifying ballot exhaustion, spoiled ballot rates, and demographic disparities in error rates. And it creates an architectural dependency on primary elections or party nomination discipline to manage candidate field size -- pushing complexity outward onto surrounding institutions rather than resolving it internally.
 
-The Act selected Allocated Score because it produces proportional representation that is monotonic, resistant to center squeeze, free of ballot exhaustion and surplus transfer arbitrariness, and administratively simpler -- while using the same ballot format as single-winner STAR voting for a consistent voter experience across all federal elections. And because Allocated Score tolerates large candidate fields gracefully, it enables the Single Unified General Election -- eliminating the primary system entirely rather than depending on it.
+The Act selected Allocated Score because it produces proportional representation that is monotonic, resistant to center squeeze, free of ballot exhaustion and surplus transfer arbitrariness, and administratively simpler -- while using the same ballot format as single-winner STAR voting for a consistent voter experience across all congressional elections. And because Allocated Score tolerates large candidate fields gracefully, it enables the Single Unified General Election -- eliminating the primary system entirely rather than depending on it.
 
 The question is not whether STV is better than plurality. It is. The question is whether STV is the best available proportional method given what we now know about electoral system design. The evidence presented in this paper argues that it is not.
 
@@ -216,7 +212,7 @@ Ogren, Mark. "Voting Methods Shape Electoral Incentives: Candidate Incentive Dis
 
 Pettigrew, Stephen, and Dylan Radley. "Ballot Marking Errors in Ranked Choice Voting." Working Paper, 2024.
 
-Ramos, Albert E. *Federal Elections Modernization Act, Rev 5.2*. The American Policy Architecture Institute, February 2026.
+Ramos, Albert E. *Congressional Elections Modernization Act, Rev 5.2*. The American Policy Architecture Institute, February 2026.
 
 United States Congress. *Fair Representation Act*. H.R. 4632, 119th Congress, 1st Session. Introduced July 23, 2025.
 
@@ -227,13 +223,22 @@ Wolk, Sara, Jameson Quinn, and Mark Ogren. "STAR Voting: Considerations and Simu
 <!--
 ## Revision History
 
-**Revision 1.1** (Current)
+**Revision 5.6** (Current)
+- Aligned with Rev 5.6 of the CEMA legislative text
+- Renamed from "Federal Elections Modernization Act (FEMA)" to "Congressional Elections Modernization Act (CEMA)"; all references, defined terms, and download paths updated throughout; no substantive policy changes
+- Presidential scope narrowing: removed "President" from "President, Senate" STAR applicability list in ballot interface comparison
+- Scope narrowing: "federal offices" → "congressional offices" (primary elimination, two instances); "all federal contests" → "all congressional contests" (ballot interface paragraph); "all federal elections" → "all congressional elections" (conclusion)
+- Presidential references retained in analytical context: "single-winner presidential elections" in Irish STV/IRV analysis (line 27, describes foreign constitutional practice); "2020 presidential delegate elections" (line 159, factual historical reference to Oregon Democratic Party)
+- No FCAO, Title, or Section references to update (none present)
+- DPS 3.1 formatting compliance: removed "Published March 2026" and "Based on Rev 5.2" header metadata; removed "Last revised April 2026" footer line
+
+**Revision 1.1**
 - DPS 2.8 compliance pass: migrated download link path from electoral/cmf/fema/ to congress/cmf/fema/; added 📥 prefix and ⬇ parenthetical emojis per DPS Rev 2.8 Section 1.9; added "Last revised April 2026" line per DPS Rev 2.5 Section 1.3
 - Restructured header per DPS Rev 2.8 Section 1.2 Supporting Document format: H1 changed from paper title to proposal name; paper title moved to H2; descriptive subtitle retired (framing preserved in opening paragraphs)
 
 **Revision 1.0**
 - Initial publication
-- Evaluates STV/PRCV against Allocated Score as proportional method for the Federal Elections Modernization Act
+- Evaluates STV/PRCV against Allocated Score as proportional method for the Congressional Elections Modernization Act
 - Draws on Ogren 2024 (Candidate Incentive Distributions), Graham-Squire and McCune 2023 (empirical RCV pathology catalog), Gallagher 2013 (Irish PR-STV monotonicity), Burnett and Kogan 2015 (ballot exhaustion), Pettigrew and Radley 2024 (ballot marking errors), Cormack 2023/2026 (RCV ballot error analysis), Neely and McDaniel 2015 (demographic error disparities), Wolk Quinn and Ogren 2023 (STAR voting simulations), Equal Vote Coalition proportional representation and voting methods analyses, and the Fair Representation Act (H.R. 4632) legislative text
 - Identifies six structural pathologies carried over or amplified from IRV to STV: non-monotonicity, center squeeze, ballot exhaustion, surplus transfer arbitrariness, ballot complexity, and architectural dependency on primary elections for field size management
 - Classified as Position Paper per APAI Document Production Standards Rev 2.3
@@ -241,9 +246,7 @@ Wolk, Sara, Jameson Quinn, and Mark Ogren. "STAR Voting: Considerations and Simu
 
 *Revision history available in the raw file.*
 
-> 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/fema/why-not-stv.md) (opens on GitHub -- click the ⬇ download button)
-
-*Last revised April 2026*
+> 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/cema/why-not-stv.md) (opens on GitHub -- click the ⬇ download button)
 
 ---
 
