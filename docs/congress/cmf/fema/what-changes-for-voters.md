@@ -1,16 +1,12 @@
-# Federal Elections Modernization Act
+# Congressional Elections Modernization Act
 
 ## What Changes for Voters
-
-### Published March 2026
-
-Based on Rev 5.3 of the Federal Elections Modernization Act
 
 ---
 
 ## Overview
 
-This document describes what voting for Congress looks like under the Federal Elections Modernization Act (FEMA), hereafter referred to as "the Act." The goal is simple: you should be able to picture Election Day before reading any policy details.
+This document describes what voting for Congress looks like under the Congressional Elections Modernization Act (CEMA), hereafter referred to as "the Act." The goal is simple: you should be able to picture Election Day before reading any policy details.
 
 ---
 
@@ -24,20 +20,19 @@ Under the Act, your House ballot uses STAR voting -- Score Then Automatic Runoff
 U.S. HOUSE OF REPRESENTATIVES - District 3
 Score each candidate from 0 (worst) to 5 (best). You may give the same score to multiple candidates.
 
-                                                      FCAO
-Candidate            Party        Endorsements        Exam    Rating
+Candidate            Party        Endorsements        Rating
 ---------------------------------------------------------------------------
-Sarah Martinez       Democratic   Dem, Working Fam    88%     0  1  2  3  4  5
+Sarah Martinez       Democratic   Dem, Working Fam    0  1  2  3  4  5
 
-James Chen           Republican   Republican          92%     0  1  2  3  4  5
+James Chen           Republican   Republican          0  1  2  3  4  5
 
-Maria Rodriguez      Democratic   Dem, Green          85%     0  1  2  3  4  5
+Maria Rodriguez      Democratic   Dem, Green          0  1  2  3  4  5
 
-Thomas Anderson      Republican   Rep, Forward        79%     0  1  2  3  4  5
+Thomas Anderson      Republican   Rep, Forward        0  1  2  3  4  5
 
-Jennifer Kim         Independent  Independent         95%     0  1  2  3  4  5
+Jennifer Kim         Independent  Independent         0  1  2  3  4  5
 
-Robert Wilson        Libertarian  Libertarian         91%     0  1  2  3  4  5
+Robert Wilson        Libertarian  Libertarian         0  1  2  3  4  5
 
 [Additional candidates listed...]
 ```
@@ -46,7 +41,6 @@ Robert Wilson        Libertarian  Libertarian         91%     0  1  2  3  4  5
 
 - Each candidate appears once, with their registered party and any endorsements displayed
 - You can see coalition relationships at a glance (who endorsed whom)
-- Each candidate's FCAO Exam result is displayed -- this tells you how they performed on a standardized test of constitutional and governmental knowledge
 - You score everyone -- your favorite gets a 5, candidates you dislike get a 0, and you can use any scores in between
 - You can give the same score to multiple candidates if you genuinely like (or dislike) them equally
 
@@ -54,17 +48,7 @@ Robert Wilson        Libertarian  Libertarian         91%     0  1  2  3  4  5
 
 ## New Information on Your Ballot
 
-The Act adds two new pieces of information to help you evaluate candidates:
-
-**FCAO Exam Results**
-
-Every candidate for federal office takes the Federal Candidate Assessment Office (FCAO) examination, which tests knowledge of constitutional structure, government operations, and civic fundamentals. The percentage shown is their exam result.
-
-What to know about FCAO scores:
-- This is information for you, not a barrier for candidates -- there's no minimum score required to run or serve
-- A candidate who scores 0% can still appear on the ballot and win if voters choose them
-- Candidates can retake the exam as many times as they want; only their highest score appears
-- Use it however you find helpful -- some voters care a lot, others don't
+The Act adds new information to help you evaluate candidates:
 
 **Joint Endorsement Lists**
 
@@ -81,7 +65,7 @@ These endorsements reveal coalition relationships that weren't visible under the
 
 ## How You Vote
 
-**Step 1: Review the candidates.** Each candidate shows their party registration, up to three party endorsements, and their FCAO Exam result. This tells you which coalitions support them and how they performed on the standardized assessment.
+**Step 1: Review the candidates.** Each candidate shows their party registration and up to three party endorsements. This tells you which coalitions support them.
 
 **Step 2: Score each candidate.** Give your favorite a 5. Give candidates you oppose a 0. Use the full range for everyone else based on your preferences. You don't have to score everyone -- leaving a candidate blank counts as a 0.
 
@@ -95,7 +79,6 @@ These endorsements reveal coalition relationships that weren't visible under the
 | Worry about "wasting" your vote on a longshot | Support your honest favorite without penalty |
 | Can't express degrees of preference | Full range from strong support to strong opposition |
 | Party shown once | Party registration plus up to 3 endorsements displayed |
-| No standardized competency information | FCAO Exam results displayed for all candidates |
 | Primary election then general election | Single general election in November |
 
 ---
@@ -123,9 +106,9 @@ The STAR-PR (STAR Proportional Representation) tabulation method handles the mat
 
 **You still vote at your normal polling place.** Election administration doesn't change. Your county runs the election the same way, with the same poll workers, the same check-in process.
 
-**You still have one Election Day.** Actually, the Act simplifies things: there's no primary election for federal offices. All qualified candidates appear on the November ballot. One trip to vote for federal offices instead of two.
+**You still have one Election Day.** Actually, the Act simplifies things: there's no primary election for congressional offices. All qualified candidates appear on the November ballot. One trip to vote for congressional offices instead of two.
 
-**Your Senate and Presidential votes work similarly.** STAR voting applies to all federal races, so you use the same scoring method for President and Senate. The only difference: those remain single-winner races, so the candidate with highest support wins outright rather than seats being allocated proportionally.
+**Your Senate vote works the same way.** STAR voting applies to Senate races too, so you use the same scoring method. The only difference: Senate races are single-winner contests, so the candidate with highest support wins outright rather than seats being allocated proportionally.
 
 ---
 
@@ -164,10 +147,15 @@ You vote honestly. The system handles the rest.
 <!--
 ## Revision History
 
-**Revision 6.0** (Current)
-- Updated reference line from Rev 5.2 to Rev 5.3
-- Corrected download link path from `electoral/` to `congress/` per DPS Rev 2.4 directory structure update
-- No substantive changes; FCAO score validity period (Rev 5.3) is a candidate-facing administrative provision with no impact on voter-facing ballot descriptions or FAQ content
+**Revision 5.6** (Current)
+- Aligned with Rev 5.6 of the CEMA legislative text
+- Renamed from "Federal Elections Modernization Act (FEMA)" to "Congressional Elections Modernization Act (CEMA)"; all references, defined terms, and download paths updated throughout; no substantive policy changes
+- Presidential scope narrowing: removed "Presidential" from "Your Senate and Presidential votes work similarly" (now "Your Senate vote works the same way"); narrowed "all federal races" to Senate-specific language; narrowed "federal offices" to "congressional offices" in no-primary description and "one trip to vote" sentence
+- FCAO references removed: Title V (FCAO) extracted from CEMA into planned standalone statute under the CMF; removed FCAO Exam column and percentage scores from sample ballot; removed FCAO bullet from "What you'll notice" list; removed entire "FCAO Exam Results" subsection from "New Information on Your Ballot" (section restructured for JEL only); removed FCAO from How You Vote Step 1; removed FCAO row from "What's different from today" comparison table
+- DPS 3.1 formatting compliance: removed "Published March 2026" and "Based on Rev 5.2" header metadata; removed "Last revised April 2026" footer line
+
+**Revision 5.1**
+- DPS 2.8 compliance pass: migrated download link path from electoral/cmf/fema/ to congress/cmf/fema/; added 📥 prefix and ⬇ parenthetical emojis per DPS Rev 2.8 Section 1.9; added "Last revised April 2026" line per DPS Rev 2.5 Section 1.3
 
 **Revision 5.0**
 - Updated reference line from Rev 5.0 to Rev 5.2
@@ -203,7 +191,7 @@ You vote honestly. The system handles the rest.
 
 *Revision history available in the raw file.*
 
-> [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/fema/what-changes-for-voters.md) (opens on GitHub -- click the download button)
+> 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/cema/what-changes-for-voters.md) (opens on GitHub -- click the ⬇ download button)
 
 ---
 
