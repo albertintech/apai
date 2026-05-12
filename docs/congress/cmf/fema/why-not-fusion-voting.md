@@ -1,10 +1,6 @@
-# Federal Elections Modernization Act
+# Congressional Elections Modernization Act
 
 ## Why Not Fusion Voting?
-
-### Published March 2026
-
-Based on Rev 5.2 of the Federal Elections Modernization Act
 
 ---
 
@@ -12,7 +8,7 @@ Fusion voting -- also called cross-endorsement or multiple party nomination -- h
 
 This paper argues that fusion voting, while not without modest historical merit, is a workaround that accepts the disease while treating one symptom. It is structurally dependent on the very electoral system it claims to improve and incapable of producing the multiparty governance its advocates promise. More importantly, substantial reform energy directed at fusion represents an opportunity cost -- resources that could instead support integrated electoral architecture changes that address the root causes of American democratic dysfunction.
 
-The Federal Elections Modernization Act (FEMA), hereafter referred to as "the Act," provides that integrated architecture: STAR voting, multi-member districts with proportional representation, algorithmically neutral districting, House expansion, and Joint Endorsement Lists -- reforms that render fusion voting not merely unnecessary, but structurally irrelevant.
+The Congressional Elections Modernization Act (CEMA), hereafter referred to as "the Act," provides that integrated architecture: STAR voting, multi-member districts with proportional representation, algorithmically neutral districting, House expansion, and Joint Endorsement Lists -- reforms that render fusion voting not merely unnecessary, but structurally irrelevant.
 
 ---
 
@@ -84,13 +80,13 @@ The Act provides an alternative approach that addresses the root causes of the d
 
 ### STAR Voting Eliminates the Spoiler Problem Entirely
 
-STAR voting replaces plurality voting for all federal elections. Voters score candidates 0-5 stars; the two highest-scoring candidates advance to an automatic runoff determined by voter preference. This eliminates vote-splitting, removes the strategic incentive to vote for the "lesser evil," and enables honest preference expression across the full candidate field.
+STAR voting replaces plurality voting for all congressional elections. Voters score candidates 0-5 stars; the two highest-scoring candidates advance to an automatic runoff determined by voter preference. This eliminates vote-splitting, removes the strategic incentive to vote for the "lesser evil," and enables honest preference expression across the full candidate field.
 
 Where fusion gives minor-party voters a way to support a major-party candidate while signaling minor-party affiliation, STAR voting makes the signal unnecessary. Voters can score their preferred minor-party candidate a 5 and a tolerable major-party candidate a 3 without any risk that their honest preference will produce a perverse outcome. The scoring mechanism does what fusion attempts through ballot mechanics -- it lets voters express nuanced preferences -- but it does so mathematically rather than through institutional workarounds.
 
 ### Proportional Representation Gives Minor Parties Actual Seats
 
-Beginning at the First FEMA Election, all qualifying states elect Representatives from multi-member districts (3-7 seats) using STAR Proportional Representation (STAR-PR). Under this system, 20% voter support yields roughly 20% of seats. Minor parties do not need endorsement leverage or bargaining chips -- they have representatives who vote on legislation.
+Beginning at the First CEMA Election, all qualifying states elect Representatives from multi-member districts (3-7 seats) using STAR Proportional Representation (STAR-PR). Under this system, 20% voter support yields roughly 20% of seats. Minor parties do not need endorsement leverage or bargaining chips -- they have representatives who vote on legislation.
 
 This is the difference between influence and power. Fusion gives minor parties influence: the ability to signal, to negotiate, to hope that their measurable vote share will be rewarded with policy concessions. Proportional representation gives them power: actual seats, actual votes, actual participation in the legislative process. No amount of ballot-line leverage can substitute for having members of Congress who answer to your voters.
 
@@ -142,7 +138,7 @@ Fusion voting is a historically interesting, modestly beneficial workaround for 
 
 But marginal improvement within a broken framework is not reform. Fusion cannot break Duverger's law. It cannot produce proportional representation. It cannot give minor parties legislative seats. It cannot eliminate the spoiler problem -- it can only create a workaround that allows voters to navigate around it. It cannot address gerrymandering or the human discretion embedded in boundary-drawing -- it operates inside whatever districts it finds. And it consumes scarce reform resources that could be directed toward structural changes that address root causes rather than symptoms.
 
-The Federal Elections Modernization Act offers those structural changes: STAR voting to eliminate vote-splitting, multi-member districts with proportional representation to give every voter's preference proportional weight, algorithmically neutral districting to eliminate human discretion from boundary placement, House expansion to create the mathematical space for proportionality, and Joint Endorsement Lists to provide coalition transparency without fusion's institutional baggage. Together, these reforms produce a system in which fusion voting has nothing to do -- because the problems it was designed to solve no longer exist.
+The Congressional Elections Modernization Act offers those structural changes: STAR voting to eliminate vote-splitting, multi-member districts with proportional representation to give every voter's preference proportional weight, algorithmically neutral districting to eliminate human discretion from boundary placement, House expansion to create the mathematical space for proportionality, and Joint Endorsement Lists to provide coalition transparency without fusion's institutional baggage. Together, these reforms produce a system in which fusion voting has nothing to do -- because the problems it was designed to solve no longer exist.
 
 The question for the reform community is not "why not fusion voting?" in isolation. It is: given finite resources and political capital, do we invest in making the broken system slightly more tolerable, or do we invest in replacing it?
 
@@ -164,7 +160,7 @@ Pope, James Gray. "Fusion, Timmons v. Twin Cities Area New Party, and the Future
 
 Pocasangre, Oscar, and Maresa Strano. "What We Know About Fusion Voting." New America, July 2024.
 
-Ramos, Albert E. *Federal Elections Modernization Act, Rev 5.2*. The American Policy Architecture Institute, February 2026.
+Ramos, Albert E. *Congressional Elections Modernization Act, Rev 5.2*. The American Policy Architecture Institute, February 2026.
 
 Rogers, Joel, and Maresa Strano. "More Than Semantics: Distinguishing Dual Labeling from Traditional Fusion Voting." *Ballot Access News*, September 16, 2023.
 
@@ -181,14 +177,22 @@ Tamas, Bernard. "Does Fusion Undermine American Third Parties? An Analysis of Ho
 <!--
 ## Revision History
 
-**Revision 1.3** (Current)
+**Revision 5.6** (Current)
+- Aligned with Rev 5.6 of the CEMA legislative text
+- Renamed from "Federal Elections Modernization Act (FEMA)" to "Congressional Elections Modernization Act (CEMA)"; all references, defined terms, and download paths updated throughout; no substantive policy changes
+- Scope narrowing: "all federal elections" → "all congressional elections" (STAR voting description)
+- "Federal Elections Clause authority" retained in constitutional analysis context (Timmons discussion)
+- No FCAO, presidential, Title, or Section references to update
+- DPS 3.1 formatting compliance: removed "Published March 2026" and "Based on Rev 5.2" header metadata; removed "Last revised April 2026" footer line
+
+**Revision 1.3**
 - DPS 2.8 compliance pass: migrated download link path from electoral/cmf/fema/ to congress/cmf/fema/; added 📥 prefix and ⬇ parenthetical emojis per DPS Rev 2.8 Section 1.9; added "Last revised April 2026" line per DPS Rev 2.5 Section 1.3
 - Restructured header per DPS Rev 2.8 Section 1.2 Supporting Document format: H1 changed from paper title to proposal name; paper title moved to H2; descriptive subtitle retired (framing preserved in opening paragraphs)
-- Added missing "Based on Rev 5.2 of the Federal Elections Modernization Act" reference line per DPS Section 1.2
+- Added missing "Based on Rev 5.2 of the Congressional Elections Modernization Act" reference line per DPS Section 1.2
 
 **Revision 1.2**
 - Updated opening paragraph reform list to include algorithmically neutral districting
-- Revised Proportional Representation subsection in Affirmative Case: replaced "transitions House elections from single-member to multi-member districts" with explicit single implementation language ("Beginning at the First FEMA Election, all qualifying states elect Representatives from multi-member districts")
+- Revised Proportional Representation subsection in Affirmative Case: replaced "transitions House elections from single-member to multi-member districts" with explicit single implementation language ("Beginning at the First CEMA Election, all qualifying states elect Representatives from multi-member districts")
 - Added new Affirmative Case subsection: "Algorithmically Neutral Districting Eliminates the Boundaries Problem Fusion Ignores" -- fusion operates inside gerrymandered districts and has no mechanism to address boundary manipulation; algorithmic districting eliminates human discretion from map-drawing; proportional representation ensures even imperfect boundaries cannot distort representation
 - Updated integrated system summary to include algorithmically neutral districting
 - Updated closing paragraph of Affirmative Case to address gerrymandering as a dimension of dysfunction fusion cannot reach
@@ -204,16 +208,14 @@ Tamas, Bernard. "Does Fusion Undermine American Third Parties? An Analysis of Ho
 
 **Revision 1.0**
 - Initial publication
-- Evaluates fusion voting against integrated electoral architecture proposed in the Federal Elections Modernization Act
+- Evaluates fusion voting against integrated electoral architecture proposed in the Congressional Elections Modernization Act
 - Draws on Brennan Center primer, Center for Ballot Freedom materials, Rogers & Strano analysis, rangevoting.org criticism, and comparative international evidence
 - Classified as Position Paper per APAI Document Production Standards Rev 2.1
 -->
 
 *Revision history available in the raw file.*
 
-> 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/fema/why-not-fusion-voting.md) (opens on GitHub -- click the ⬇ download button)
-
-*Last revised April 2026*
+> 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/cema/why-not-fusion-voting.md) (opens on GitHub -- click the ⬇ download button)
 
 ---
 
