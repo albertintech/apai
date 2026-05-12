@@ -33,29 +33,29 @@ This two-step process ensures the winner has both high overall support (scoring 
 
 **Rate each candidate from 0 to 5 stars**
 
-| Candidate | Party Registration | Party Endorsements | FCAO Exam | Rating (Worst → Best) |
-|-----------|-------------------|-------------------|-----------|----------------------|
-| **Lisa Nguyen** | Democratic | Democratic, Working Families | 93% | ⓪ ① ② ③ ④ ⑤ |
-| **Marcus Williams** | Republican | Republican | 87% | ⓪ ① ② ③ ④ ⑤ |
-| **Kevin Patterson** | Libertarian | Libertarian, Forward | 94% | ⓪ ① ② ③ ④ ⑤ |
-| **Alexandra Santos** | none | Independent | 89% | ⓪ ① ② ③ ④ ⑤ |
-| **Michelle Robinson** | Democratic | none | 85% | ⓪ ① ② ③ ④ ⑤ |
+| Candidate | Party Registration | Party Endorsements | Rating (Worst → Best) |
+|-----------|-------------------|-------------------|----------------------|
+| **Lisa Nguyen** | Democratic | Democratic, Working Families | ⓪ ① ② ③ ④ ⑤ |
+| **Marcus Williams** | Republican | Republican | ⓪ ① ② ③ ④ ⑤ |
+| **Kevin Patterson** | Libertarian | Libertarian, Forward | ⓪ ① ② ③ ④ ⑤ |
+| **Alexandra Santos** | none | Independent | ⓪ ① ② ③ ④ ⑤ |
+| **Michelle Robinson** | Democratic | none | ⓪ ① ② ③ ④ ⑤ |
 
 ---
 
 ## CANDIDATE INFORMATION
 
 ### Lisa Nguyen
-**Party Registration:** Democratic | **Party Endorsements:** Democratic, Working Families | **FCAO Exam:** 93%
+**Party Registration:** Democratic | **Party Endorsements:** Democratic, Working Families
 
-Public school teacher and education policy advocate with 15 years classroom experience. Priorities include education funding, teacher pay, student mental health services, and expanding career technical education. **Second-highest FCAO score.**
+Public school teacher and education policy advocate with 15 years classroom experience. Priorities include education funding, teacher pay, student mental health services, and expanding career technical education.
 
 **Coalition Support:** Working Families Party endorsement indicates strong labor and progressive coalition support.
 
 ---
 
 ### Marcus Williams
-**Party Registration:** Republican | **Party Endorsements:** Republican | **FCAO Exam:** 87%
+**Party Registration:** Republican | **Party Endorsements:** Republican
 
 Small business owner and Chamber of Commerce president. Emphasizes economic development, reduced regulatory burden, and infrastructure investment. Supports public-private partnerships and workforce training programs.
 
@@ -64,16 +64,16 @@ Small business owner and Chamber of Commerce president. Emphasizes economic deve
 ---
 
 ### Kevin Patterson
-**Party Registration:** Libertarian | **Party Endorsements:** Libertarian, Forward | **FCAO Exam:** 94%
+**Party Registration:** Libertarian | **Party Endorsements:** Libertarian, Forward
 
-Constitutional law attorney and civil liberties advocate. **Highest FCAO score among all candidates.** Priorities include individual freedom, limited government, criminal justice reform, and ending qualified immunity. Opposes government overreach across all policy areas.
+Constitutional law attorney and civil liberties advocate. Priorities include individual freedom, limited government, criminal justice reform, and ending qualified immunity. Opposes government overreach across all policy areas.
 
 **Coalition Support:** Forward Party endorsement signals appeal to reform-minded voters beyond traditional Libertarian base.
 
 ---
 
 ### Alexandra Santos
-**Party Registration:** none | **Party Endorsements:** Independent | **FCAO Exam:** 89%
+**Party Registration:** none | **Party Endorsements:** Independent
 
 Healthcare administrator and patient advocacy director. Independent candidate focused on healthcare access, prescription drug costs, insurance reform, and rural healthcare infrastructure. Not affiliated with any political party.
 
@@ -82,7 +82,7 @@ Healthcare administrator and patient advocacy director. Independent candidate fo
 ---
 
 ### Michelle Robinson
-**Party Registration:** Democratic | **Party Endorsements:** none | **FCAO Exam:** 85%
+**Party Registration:** Democratic | **Party Endorsements:** none
 
 Environmental engineer and clean energy entrepreneur. Emphasizes climate action, renewable energy development, environmental protection, and green jobs creation. Supports science-based environmental policy and sustainable development.
 
@@ -114,27 +114,6 @@ Environmental engineer and clean energy entrepreneur. Emphasizes climate action,
 **Why Some Candidates Have No Endorsements:**
 
 Robinson is a registered Democrat but doesn't have her party's endorsement. This could mean the party chose to endorse a different candidate, the candidate is running without seeking party endorsement, or there are internal party disagreements. This information helps you understand party dynamics and coalition relationships.
-
----
-
-### About the FCAO Exam
-
-All candidates for federal office are required to take the **Federal Candidate Assessment Office (FCAO)** examination, which tests knowledge of:
-
-- U.S. Constitutional structure and principles
-- Federal government powers and limitations
-- Bill of Rights and civil liberties
-- Legislative, executive, and judicial branch functions
-- Historical context of American governance
-
-The FCAO examination is a **transparency mechanism, not a qualification barrier**. No minimum score is required -- candidates scoring 0% may still run and serve if voters choose them. Scores are displayed on ballots to help voters assess candidates' understanding of constitutional governance and federal office responsibilities.
-
-Candidates may retake the exam unlimited times, with only their highest score reported.
-
-**FCAO Exam Scores in This Election:**
-- **90%+ (2 candidates):** Patterson (94%), Nguyen (93%)
-- **85-89% (2 candidates):** Santos (89%), Williams (87%), Robinson (85%)
-- **Below 85% (0 candidates)**
 
 ---
 
@@ -207,10 +186,6 @@ Rating all five candidates is important because:
 - **Libertarian (1):** Patterson (endorsed + Forward)
 - **Independent (1):** Santos
 
-### By FCAO Exam Performance
-- **90%+ (2 candidates):** Patterson (94%), Nguyen (93%)
-- **85-89% (3 candidates):** Santos (89%), Williams (87%), Robinson (85%)
-
 ### By Coalition/Endorsement Pattern
 - **Cross-party coalition:** Patterson (Libertarian + Forward)
 - **Progressive coalition:** Nguyen (Democratic + Working Families)
@@ -232,7 +207,7 @@ With five candidates, several runoff combinations are possible. Here are some li
 
 **Reform vs. Progressive:** Patterson vs. Nguyen
 - Tests whether voters prioritize civil liberties and limited government or education and worker protections
-- Both have the highest FCAO scores; represents clear ideological choice
+- Represents clear ideological choice between reform-oriented and progressive candidates
 
 **Traditional Partisan:** Nguyen vs. Williams
 - Classic Democratic vs. Republican contest
@@ -252,7 +227,7 @@ Your ratings for all five candidates will help determine which scenario unfolds 
 
 The winner of this election will represent Congressional District 1 in the U.S. House of Representatives for a two-year term beginning January 3, 2033.
 
-This district is one of two single-member congressional districts in this state. Under the Federal Elections Modernization Act, states with two Representatives elect from two districts drawn by the algorithmically neutral method certified by the Electoral Science Office. Both districts use single-winner STAR voting.
+This district is one of two single-member congressional districts in this state. Under the Congressional Elections Modernization Act, states with two Representatives elect from two districts drawn by the algorithmically neutral method certified by the Electoral Science Office. Both districts use single-winner STAR voting.
 
 ---
 
@@ -261,9 +236,9 @@ Turn ballot over for additional races →
 
 ---
 
-*This is a mock ballot created for educational purposes to demonstrate STAR Voting in general elections for single-member districts in states with two Representatives, Joint Endorsement Lists, and Federal Candidate Assessment Office (FCAO) examination requirements as proposed in the Federal Elections Modernization Act (FEMA).*
+*This is a mock ballot created for educational purposes to demonstrate STAR Voting in general elections for single-member districts in states with two Representatives and Joint Endorsement Lists as proposed in the Congressional Elections Modernization Act (CEMA).*
 
-> 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/fema/sample-smd-ballot.md) (opens on GitHub -- click the ⬇ download button)
+> 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/cema/sample-smd-ballot.md) (opens on GitHub -- click the ⬇ download button)
 
 ---
 
