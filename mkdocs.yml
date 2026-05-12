@@ -35,29 +35,29 @@ nav:
           - Congressional Modernization Framework:
                 - Introduction: congress/cmf/introduction.md
                 - Integration Analysis: congress/cmf/integration-analysis.md
-                - Federal Elections Modernization Act:
-                      - Introduction: congress/cmf/fema/introduction.md
-                      - Overview: congress/cmf/fema/overview.md
-                      - Legislative Text: congress/cmf/fema/legislative-text.md
-                      - Policy Rationale: congress/cmf/fema/policy-rationale.md
+                - Congressional Elections Modernization Act:
+                      - Introduction: congress/cmf/cema/introduction.md
+                      - Overview: congress/cmf/cema/overview.md
+                      - Legislative Text: congress/cmf/cema/legislative-text.md
+                      - Policy Rationale: congress/cmf/cema/policy-rationale.md
                       - Reference Materials:
-                            - What Changes For Voters: congress/cmf/fema/what-changes-for-voters.md
-                            - Sample Ballot (Multi-Member District): congress/cmf/fema/sample-mmd-ballot.md
-                            - Sample Ballot (Single-Member District): congress/cmf/fema/sample-smd-ballot.md
-                            - House Member Guide: congress/cmf/fema/house-member-guide.md
-                            - Voting Methods Explainer: congress/cmf/fema/voting-methods-technical-explainer.md
-                            - FCAO Explainer: congress/cmf/fema/fcao-explainer.md
-                            - Constitutional Authority Memorandum: congress/cmf/fema/constitutional-authority-technical-memorandum.md
-                            - Constitutional Boundaries of PR: congress/cmf/fema/constitutional-boundaries-of-proportional-representation.md
-                            - Design Response Memorandum: congress/cmf/fema/design-response-memorandum.md
+                            - What Changes For Voters: congress/cmf/cema/what-changes-for-voters.md
+                            - Sample Ballot (Multi-Member District): congress/cmf/cema/sample-mmd-ballot.md
+                            - Sample Ballot (Single-Member District): congress/cmf/cema/sample-smd-ballot.md
+                            - House Member Guide: congress/cmf/cema/house-member-guide.md
+                            - Voting Methods Explainer: congress/cmf/cema/voting-methods-technical-explainer.md
+                            - Constitutional Authority Memorandum: congress/cmf/cema/constitutional-authority-technical-memorandum.md
+                            - Constitutional Boundaries of PR: congress/cmf/cema/constitutional-boundaries-of-proportional-representation.md
+                            - Design Response Memorandum: congress/cmf/cema/design-response-memorandum.md
                       - Comparative Analysis:
-                            - Electoral Reform Comparative Analysis: congress/cmf/fema/comparative-analysis.md
-                            - Fair Representation Act Overview: congress/cmf/fema/fair-representation-act-overview.md
+                            - Electoral Reform Comparative Analysis: congress/cmf/cema/comparative-analysis.md
+                            - Fair Representation Act Overview: congress/cmf/cema/fair-representation-act-overview.md
                       - Position Papers:
-                            - The Case for Blind Districting: congress/cmf/fema/the-case-for-blind-districting.md
-                            - Why Not Single Transferable Vote: congress/cmf/fema/why-not-stv.md
-                            - Why Not Fusion Voting: congress/cmf/fema/why-not-fusion-voting.md
-                            - Why Not Condorcet: congress/cmf/fema/why-not-condorcet.md
+                            - The Case for Blind Districting: congress/cmf/cema/the-case-for-blind-districting.md
+                            - Why Not Single Transferable Vote: congress/cmf/cema/why-not-stv.md
+                            - Why Not Fusion Voting: congress/cmf/cema/why-not-fusion-voting.md
+                            - Why Not Condorcet: congress/cmf/cema/why-not-condorcet.md
+                            - Why Not Presidential Elections: congress/cmf/cema/why-not-presidential-elections.md
                 - Office of Congressional Procedure Act:
                       - Introduction: congress/cmf/ocp/introduction.md
                       - Overview: congress/cmf/ocp/overview.md
