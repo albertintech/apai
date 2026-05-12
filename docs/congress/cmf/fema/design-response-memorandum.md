@@ -1,10 +1,10 @@
-# Federal Elections Modernization Act
+# Congressional Elections Modernization Act
 
 ## Design Response Memorandum: Electoral Reform Critique Literature
 
 ---
 
-The Federal Elections Modernization Act (FEMA), hereafter referred to as "the Act," was designed with awareness of the critique literature that has developed around proportional representation, ranked choice voting, multi-member districts, redistricting reform, and related electoral system proposals. This memorandum maps that critique literature to specific design decisions in the Act, documenting where the architecture accounts for known failure modes, where it accepts acknowledged tradeoffs, and where critiques developed against other reform proposals do not transfer to the Act's distinct mechanisms.
+The Congressional Elections Modernization Act (CEMA), hereafter referred to as "the Act," was designed with awareness of the critique literature that has developed around proportional representation, ranked choice voting, multi-member districts, redistricting reform, and related electoral system proposals. This memorandum maps that critique literature to specific design decisions in the Act, documenting where the architecture accounts for known failure modes, where it accepts acknowledged tradeoffs, and where critiques developed against other reform proposals do not transfer to the Act's distinct mechanisms.
 
 This document is analytical rather than adversarial. Some critiques identify real constraints that any proportional representation proposal must navigate. Others identify pathologies specific to ranked choice voting or independent redistricting commissions that the Act's architecture avoids by design. Still others raise concerns that, while legitimate in isolation, must be evaluated against the documented failures of the status quo. In each case, the objective is to show the design reasoning -- not to dismiss the criticism.
 
@@ -106,7 +106,7 @@ The cost critique also fails to account for the executive branch comparison. The
 
 Every implementation cost must be evaluated against the cost of the status quo. The current system generates redistricting litigation in nearly every state after every census cycle, consuming tens of millions in legal fees and court resources. Fragmented ballot access regimes across fifty states create their own litigation burden. An undersized House produces legislative dysfunction with cascading economic consequences. Congressional oversight agencies demonstrate extraordinary returns: the GAO consistently reports that its work produces returns exceeding $100 for every $1 invested. A better-resourced Congress generates returns that substantially exceed its cost through improved oversight of trillions in executive branch spending.
 
-The Act's tiered effective date structure (Section 704) distributes implementation across approximately 14 years rather than requiring simultaneous standup of all components. Titles V, VI, and VII (compensation, enforcement, general provisions) take effect upon enactment -- administratively light provisions that require no new election infrastructure. Titles I through IV (ballot access, party recognition, House expansion, STAR voting, multi-member districts) take effect at the First FEMA Election, with the expansion schedule continuing biennially. Capital expenditure for infrastructure -- chamber renovation, office space -- phases in incrementally over the 14-year expansion window, layered onto an already-substantial AOC maintenance program rather than requiring a single disruptive construction project.
+The Act's tiered effective date structure (Section 704) distributes implementation across approximately 14 years rather than requiring simultaneous standup of all components. Titles V, VI, and VII (compensation, enforcement, general provisions) take effect upon enactment -- administratively light provisions that require no new election infrastructure. Titles I through IV (ballot access, party recognition, House expansion, STAR voting, multi-member districts) take effect at the First CEMA Election, with the expansion schedule continuing biennially. Capital expenditure for infrastructure -- chamber renovation, office space -- phases in incrementally over the 14-year expansion window, layered onto an already-substantial AOC maintenance program rather than requiring a single disruptive construction project.
 
 The State Election Administration Funding provision (Section 509) provides federal resources for implementation. Title V's compensation and capacity provisions serve a dual purpose: improving institutional capacity and aligning incumbent self-interest with reform passage.
 
@@ -249,26 +249,23 @@ The standard for evaluation is not perfection. It is improvement -- measurable, 
 ---
 
 <!--
-
 ## Revision History
 
 **Revision 5.6** (Current)
-
-- Aligned with Rev 5.6 of the FEMA legislative text
+- Aligned with Rev 5.6 of the CEMA legislative text
+- Renamed from "Federal Elections Modernization Act (FEMA)" to "Congressional Elections Modernization Act (CEMA)"; all references, defined terms, and download paths updated throughout; no substantive policy changes
 - Presidential scope narrowing: removed "Presidential elections" from STAR voting applicability in Section 2 (Institutional Mismatch); removed "Presidency" from structural convergence analysis in same section
-- FCAO references removed: Title V (FCAO) extracted from FEMA into planned standalone statute under the CMF; removed "FCAO examinations" from constitutional surface area Title list in Section 5; removed FCAO Title V from Residual Exposure in Section 5 (rewritten as single-provision exposure for UGES only); removed FCAO from agency standup list in Section 6 Critique ("two new federal agencies (ESO and FCAO)" → "the Electoral Science Office")
+- FCAO references removed: Title V (FCAO) extracted from CEMA into planned standalone statute under the CMF; removed "FCAO examinations" from constitutional surface area Title list in Section 5; removed FCAO Title V from Residual Exposure in Section 5 (rewritten as single-provision exposure for UGES only); removed FCAO from agency standup list in Section 6 Critique ("two new federal agencies (ESO and FCAO)" → "the Electoral Science Office")
 - Title/section renumbering: Title VIII Section 801 → Title VII Section 701 (severability); Section 804 → 704 (effective dates); Section 609 → 509 (election administration funding, two instances); Title VI → Title V (compensation provisions)
-- Tiered implementation paragraph rewritten: removed Title V/FCAO/Second FEMA Election decoupling sentence; updated tier structure to reflect Rev 5.6 two-tier architecture (Titles V-VII at enactment; Titles I-IV at First FEMA Election)
+- Tiered implementation paragraph rewritten: removed Title V/FCAO/Second CEMA Election decoupling sentence; updated tier structure to reflect Rev 5.6 two-tier architecture (Titles V-VII at enactment; Titles I-IV at First CEMA Election)
 - Scope narrowing: "all federal elections" → "all congressional elections" in Section 7 (ballot transparency); "federal offices" → "congressional offices" in Section 13 (primary elimination); "federal elections" → "elections for Senators and Representatives" in Section 5 Elections Clause paraphrase
 - Section numbering verified: 1-19 sequential, no gaps (no Condorcet insertion issue)
 - DPS 3.1 formatting compliance: removed "Published March 2026" and "Based on Rev 5.3" header metadata; removed "Last revised April 2026" footer line
 
 **Revision 1.2**
-
 - DPS 2.8 compliance pass: added missing download link per DPS Rev 2.8 Section 1.9 (with 📥 prefix and ⬇ parenthetical emojis); added "Last revised April 2026" line per DPS Rev 2.5 Section 1.3
 
 **Revision 1.1**
-
 - Updated reference line from Rev 5.2 to Rev 5.3
 - Expanded Section 1 (Coalition Governance and Legislative Fragmentation): added "The Procedural Scalability Distinction" paragraphs after Residual Exposure, distinguishing electoral structure from procedural design as separate variables; introduced the Office of Congressional Procedure Act (OCP) as the CMF's architectural answer to the effective governance concern, citing proportional procedural allocation, anti-bottleneck provisions, budget process enforcement, and acceleration triggers tied to multi-party conditions
 - Major expansion of Section 6 (Implementation Cost and Complexity): added inter-branch investment asymmetry data (67-to-1 personnel ratio, department-level budget comparisons); added fiscal context (0.005% of federal spending, $2.5M marginal cost per seat, peer democracy budget share comparison); added executive branch political appointee cost asymmetry ($20B estimated overhead vs. $713M for full House expansion); added GAO oversight ROI data; updated Residual Exposure to reference Section 302(d) joint GAO/CBO report mandate and Policy Rationale Section XII
@@ -276,15 +273,14 @@ The standard for evaluation is not perfection. It is improvement -- measurable, 
 - Updated Conclusion: added fiscal impact reference ("below 0.01% of federal spending"); added sentence acknowledging OCP as the CMF's response to procedural scalability concerns that lie outside the Act's electoral scope
 
 **Revision 1.0**
-
 - Initial publication
 - Covers coalition governance, institutional mismatch, geographic inequality, constituent-representative link, constitutional attack surface, implementation cost, tabulation complexity, and differentiation from RCV-specific, IRC-specific, fusion voting, and primary reform critiques
 - Includes affirmative arguments from the comparative electoral systems literature
-  -->
+-->
 
 *Revision history available in the raw file.*
 
-> 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/fema/design-response-memorandum.md) (opens on GitHub -- click the ⬇ download button)
+> 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/cema/design-response-memorandum.md) (opens on GitHub -- click the ⬇ download button)
 
 ---
 
