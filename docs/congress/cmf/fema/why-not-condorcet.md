@@ -1,16 +1,12 @@
-# Federal Elections Modernization Act
+# Congressional Elections Modernization Act
 
 ## Why Not Condorcet?
-
-### Published March 2026
-
-Based on Rev 5.2 of the Federal Elections Modernization Act
 
 ---
 
 The Condorcet criterion -- the principle that if a candidate would defeat every other candidate in a one-on-one majority comparison, that candidate should win -- is one of the most intuitively compelling ideas in voting theory. A candidate preferred by a majority over each alternative has a strong democratic claim to office. No serious electoral reformer disputes this.
 
-The question is not whether the Condorcet criterion is desirable. The question is whether a voting system built around satisfying that criterion -- using ranked ballots and pairwise comparison as its primary counting logic -- is the best available single-winner method for American federal elections. The Federal Elections Modernization Act (FEMA), hereafter referred to as "the Act," uses STAR voting (Score Then Automatic Runoff) rather than any Condorcet-compliant method. This paper explains why.
+The question is not whether the Condorcet criterion is desirable. The question is whether a voting system built around satisfying that criterion -- using ranked ballots and pairwise comparison as its primary counting logic -- is the best available single-winner method for American federal elections. The Congressional Elections Modernization Act (CEMA), hereafter referred to as "the Act," uses STAR voting (Score Then Automatic Runoff) rather than any Condorcet-compliant method. This paper explains why.
 
 The case for Condorcet methods -- often called "true majority rule" (TMR) in the Dasgupta-Maskin literature -- rests on a rigorous axiomatic framework developed over two decades by Partha Dasgupta and Eric Maskin, extended into practical reform proposals by Edward Foley and Wesley Holliday. This paper engages that framework at its strongest. It does not argue that Condorcet methods are bad. It argues that STAR is a better fit for the structural role it plays in the Act's architecture, and that the theoretical case for Condorcet's superiority depends on assumptions and omissions that the practical design context cannot sustain.
 
@@ -78,11 +74,11 @@ The Foley-Maskin proposal uses a nonpartisan open primary, but does not specify 
 
 One could propose using a Condorcet method for the primary as well. But this reintroduces the field-size problem at the primary stage, where candidate fields are largest. Alternatively, one could propose using STAR or Approval voting for the primary -- but this concedes that cardinal methods are suitable for at least some electoral contexts, undermining the ordinal-supremacy argument.
 
-The Act sidesteps this dependency entirely. STAR's scoring interface scales linearly with candidate field size: each candidate is evaluated independently on a 0-5 scale, regardless of how many others appear on the ballot. A voter who knows five candidates well scores those five and leaves the rest at zero. The cognitive burden does not compound the way ranking does. This is what enables the Act's Unified General Election Structure (UGES) -- the elimination of state-administered primaries for federal offices. STAR handles the full candidate field in a single stage. No preliminary filter is required, and no inferior method needs to do the work that the primary system was designed for.
+The Act sidesteps this dependency entirely. STAR's scoring interface scales linearly with candidate field size: each candidate is evaluated independently on a 0-5 scale, regardless of how many others appear on the ballot. A voter who knows five candidates well scores those five and leaves the rest at zero. The cognitive burden does not compound the way ranking does. This is what enables the Act's Unified General Election Structure (UGES) -- the elimination of state-administered primaries for congressional offices. STAR handles the full candidate field in a single stage. No preliminary filter is required, and no inferior method needs to do the work that the primary system was designed for.
 
 ### The Proportional Representation Gap
 
-The Act does not use STAR solely for single-winner elections. It uses STAR-PR (Allocated Score) for multi-member House elections, producing proportional representation. The same 0-5 scoring ballot serves both single-winner Senate/Presidential contests and multi-winner House contests. This ballot-format consistency is a deliberate design feature: voters learn one interface and use it across all federal elections.
+The Act does not use STAR solely for single-winner elections. It uses STAR-PR (Allocated Score) for multi-member House elections, producing proportional representation. The same 0-5 scoring ballot serves both single-winner Senate contests and multi-winner House contests. This ballot-format consistency is a deliberate design feature: voters learn one interface and use it across all congressional elections.
 
 Condorcet methods have no natural proportional extension. The pairwise comparison logic that identifies a single Condorcet winner does not generalize to multi-winner proportional allocation. Proportional ranked methods exist (STV/PRCV), but they use an entirely different counting logic -- sequential elimination and surplus transfer -- that shares none of Condorcet's axiomatic properties. A reform architecture built on Condorcet for single-winner elections and STV for multi-winner elections would require voters to learn two different counting logics, use the same ranked ballot for fundamentally different purposes, and accept that the proportional method does not satisfy the Condorcet criterion that justified the single-winner method.
 
@@ -100,7 +96,7 @@ Theoretical optimality that cannot be implemented is not optimality in any pract
 
 ## The Affirmative Case: STAR
 
-The Act selects STAR voting for single-winner federal elections because it satisfies the practical requirements that Condorcet methods struggle with, while achieving comparable or superior democratic outcomes across the dimensions that matter most.
+The Act selects STAR voting for single-winner congressional elections because it satisfies the practical requirements that Condorcet methods struggle with, while achieving comparable or superior democratic outcomes across the dimensions that matter most.
 
 STAR captures preference intensity without requiring strategic sophistication. The 0-5 scoring scale is a familiar interaction -- people rate products, restaurants, and services on star scales routinely. The ballot action is identical regardless of candidate field size. No ranking is required, no transitivity is demanded, and a voter who knows only three candidates in a ten-candidate field scores those three and leaves the rest at zero without penalty.
 
@@ -108,7 +104,7 @@ STAR satisfies monotonicity: giving a candidate a higher score never causes them
 
 STAR's two-stage structure -- scoring to determine finalists, automatic runoff to determine the winner -- ensures that the winner has both broad aggregate support (reflected in advancing to the top two) and majority preference against the other finalist (reflected in winning the runoff). This is not the Condorcet criterion, but it is a meaningful majority-confirmation mechanism that applies to every election, not only those where a Condorcet winner happens to exist.
 
-STAR enables the Act's Unified General Election Structure by tolerating large candidate fields without degradation. And STAR-PR extends the same ballot format and scoring logic to proportional representation, providing architectural coherence across all federal elections.
+STAR enables the Act's Unified General Election Structure by tolerating large candidate fields without degradation. And STAR-PR extends the same ballot format and scoring logic to proportional representation, providing architectural coherence across all congressional elections.
 
 ---
 
@@ -142,7 +138,7 @@ Graham-Squire, Adam T., and David McCune. "An Examination of Ranked-Choice Votin
 
 Holliday, Wesley H. "A Simple Condorcet Voting Method for Final Four Elections." *Representation* (2025). https://www.tandfonline.com/doi/full/10.1080/00344893.2025.2473397
 
-Ramos, Albert E. *Federal Elections Modernization Act, Rev 5.2*. The American Policy Architecture Institute, February 2026.
+Ramos, Albert E. *Congressional Elections Modernization Act, Rev 5.2*. The American Policy Architecture Institute, February 2026.
 
 Satterthwaite, Mark Allen. "Strategy-Proofness and Arrow's Conditions: Existence and Correspondence Theorems for Voting Procedures and Social Welfare Functions." *Journal of Economic Theory* 10, no. 2 (1975): 187-217.
 
@@ -153,13 +149,22 @@ Wolk, Sara, Jameson Quinn, and Mark Ogren. "STAR Voting, Equality of Voice, and 
 <!--
 ## Revision History
 
-**Revision 1.1** (Current)
+**Revision 5.6** (Current)
+- Aligned with Rev 5.6 of the CEMA legislative text
+- Renamed from "Federal Elections Modernization Act (FEMA)" to "Congressional Elections Modernization Act (CEMA)"; all references, defined terms, and download paths updated throughout; no substantive policy changes
+- Presidential scope narrowing: removed "Presidential" from "Senate/Presidential contests" in ballot-format consistency paragraph
+- Scope narrowing: "federal offices" → "congressional offices" (UGES description); "all federal elections" → "all congressional elections" (ballot consistency and architectural coherence, two instances); "single-winner federal elections" → "single-winner congressional elections" (conclusion)
+- "American federal elections" retained in opening paragraph — general analytical context, not CEMA scope description
+- No FCAO, Title, or Section references to update (none present)
+- DPS 3.1 formatting compliance: removed "Published March 2026" and "Based on Rev 5.2" header metadata; removed "Last revised April 2026" footer line
+
+**Revision 1.1**
 - DPS 2.8 compliance pass: added 📥 prefix and ⬇ parenthetical emojis to download link per DPS Rev 2.8 Section 1.9; added "Last revised April 2026" line per DPS Rev 2.5 Section 1.3
 - Restructured header per DPS Rev 2.8 Section 1.2 Supporting Document format: H1 changed from paper title to proposal name; paper title moved to H2; descriptive subtitle retired (framing preserved in opening paragraphs)
 
 **Revision 1.0**
 - Initial publication
-- Evaluates Condorcet/TMR family against STAR as single-winner method for the Federal Elections Modernization Act
+- Evaluates Condorcet/TMR family against STAR as single-winner method for the Congressional Elections Modernization Act
 - Engages the Dasgupta-Maskin axiomatic framework (2004, 2008, 2020), the Foley-Maskin "Maximum Convergence Voting" proposal (2025), and the Holliday "Final Four" simplification (2025)
 - Identifies five structural limitations: strategy-proofness gatekeeping, preference intensity loss, field-size scaling, primary dependency, and proportional representation gap
 - Draws on Wolk Quinn and Ogren 2023 (PVSI strategic incentive modeling), Gibbard 1973 and Satterthwaite 1975 (universal strategic vulnerability), Graham-Squire and McCune 2023 (empirical RCV data), and the Equal Vote Coalition analytical framework
@@ -168,9 +173,7 @@ Wolk, Sara, Jameson Quinn, and Mark Ogren. "STAR Voting, Equality of Voice, and 
 
 *Revision history available in the raw file.*
 
-> 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/fema/why-not-condorcet.md) (opens on GitHub -- click the ⬇ download button)
-
-*Last revised April 2026*
+> 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/cema/why-not-condorcet.md) (opens on GitHub -- click the ⬇ download button)
 
 ---
 
