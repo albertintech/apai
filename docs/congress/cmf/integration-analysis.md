@@ -1,16 +1,12 @@
 # Congressional Modernization Framework
 
-## From Adversaries to Partners: How the Federal Elections Modernization Act and Office of Congressional Procedure Act Enable Coalition Governance
-
-### Published March 2026
-
-Based on Rev 5.2 of the Federal Elections Modernization Act and Rev 1.3 of the Office of Congressional Procedure Act
+## From Adversaries to Partners: How the Congressional Elections Modernization Act and Office of Congressional Procedure Act Enable Coalition Governance
 
 ---
 
 ## Overview
 
-The Federal Elections Modernization Act (FEMA) and Office of Congressional Procedure Act (OCP) address different but interconnected dimensions of the winner-take-all problem in American governance. FEMA transforms *who gets elected* while the OCP transforms *how those who are elected govern*. Neither can fully achieve its democratic potential without the other.
+The Congressional Elections Modernization Act (CEMA) and Office of Congressional Procedure Act (OCP) address different but interconnected dimensions of the winner-take-all problem in American governance. CEMA transforms *who gets elected* while the OCP transforms *how those who are elected govern*. Neither can fully achieve its democratic potential without the other.
 
 Together, they create a self-reinforcing system where multi-party electoral outcomes generate organic demand for proportional procedure, and proportional procedure makes multi-party governance functional.
 
@@ -20,23 +16,23 @@ Together, they create a self-reinforcing system where multi-party electoral outc
 
 American legislative dysfunction operates at two distinct levels, and this reform architecture addresses both.
 
-**Electoral winner-take-all** (addressed by FEMA): Single-member districts with plurality voting produce legislatures that fail to reflect voter preferences proportionally. A party with 45% of votes in a state might capture 80% of its seats -- or zero. This creates artificial majorities, wastes votes, and eliminates meaningful representation for political minorities. It also drives primary-focused polarization since safe seats reward base-only appeal.
+**Electoral winner-take-all** (addressed by CEMA): Single-member districts with plurality voting produce legislatures that fail to reflect voter preferences proportionally. A party with 45% of votes in a state might capture 80% of its seats -- or zero. This creates artificial majorities, wastes votes, and eliminates meaningful representation for political minorities. It also drives primary-focused polarization since safe seats reward base-only appeal.
 
 **Procedural winner-take-all** (addressed by OCP): Even if the electoral system accurately reflected voter preferences, the current procedural framework would still concentrate power in whoever holds the gavel. The Speaker, Majority Leader, and committee chairs control what legislation lives or dies. Procedure awards total control to the largest faction regardless of how narrow their margin -- a 51% majority exercises 100% of procedural authority.
 
 Fixing only one of these problems produces incomplete reform:
 
-- FEMA without OCP: Multi-party representation emerges, but new parties have no procedural infrastructure. The largest party still monopolizes agenda control. Smaller parties become procedural supplicants despite having electoral mandates.
+- CEMA without OCP: Multi-party representation emerges, but new parties have no procedural infrastructure. The largest party still monopolizes agenda control. Smaller parties become procedural supplicants despite having electoral mandates.
 
-- OCP without FEMA: Proportional procedural allocation operates, but the two-party duopoly persists electorally. Neither party has incentive to share power since they alternate between total control. The OCP faces sustained political resistance from whichever party currently holds the gavel.
+- OCP without CEMA: Proportional procedural allocation operates, but the two-party duopoly persists electorally. Neither party has incentive to share power since they alternate between total control. The OCP faces sustained political resistance from whichever party currently holds the gavel.
 
 Together, the reforms create conditions where multi-party electoral outcomes generate organic demand for proportional procedure, and proportional procedure makes multi-party governance functional.
 
 ---
 
-## How FEMA Creates Conditions for Coalition Governance
+## How CEMA Creates Conditions for Coalition Governance
 
-FEMA's electoral reforms produce structural changes essential to coalition formation.
+CEMA's electoral reforms produce structural changes essential to coalition formation.
 
 **Multi-member districts with STAR-PR** eliminate the winner-take-all dynamic at the district level. A 3-seat district with proportional allocation ensures that a party with 35% support wins approximately one seat rather than potentially capturing all seats or none. Political minorities gain guaranteed representation proportional to their support.
 
@@ -80,7 +76,7 @@ The OCP's nomination consideration provisions illustrate a broader design patter
 
 Section 505B includes an explicit yielding clause: when the FJBAA takes effect, Section 505B's enforcement provisions -- deadlines, privileged status, and supermajority waiver -- yield to the FJBAA's own procedures. The OCP's transparency provisions remain operative, adapted to track the slate-based process rather than single-nominee timelines.
 
-This coordination prevents conflict between overlapping procedural regimes while ensuring that the earlier reform does not need active repeal once the more comprehensive architecture is in place. The scaffolding supported the structure during construction; once the permanent architecture arrives, it recedes naturally. This same pattern -- independent value now, graceful integration later -- characterizes the relationship between FEMA and OCP themselves.
+This coordination prevents conflict between overlapping procedural regimes while ensuring that the earlier reform does not need active repeal once the more comprehensive architecture is in place. The scaffolding supported the structure during construction; once the permanent architecture arrives, it recedes naturally. This same pattern -- independent value now, graceful integration later -- characterizes the relationship between CEMA and OCP themselves.
 
 ---
 
@@ -88,9 +84,9 @@ This coordination prevents conflict between overlapping procedural regimes while
 
 The optimal sequencing for these reforms:
 
-1. **FEMA passes and begins implementation** -- compensation provisions take immediate effect; electoral infrastructure preparation begins for the First FEMA Election, at which STAR voting, multi-member districts, algorithmically neutral districting, and House expansion launch together
+1. **CEMA passes and begins implementation** -- compensation provisions take immediate effect; electoral infrastructure preparation begins for the First CEMA Election, at which STAR voting, multi-member districts, algorithmically neutral districting, and House expansion launch together
 2. **OCP established in Phase 0** -- builds institutional credibility, develops database, issues advisory opinions
-3. **Multi-party conditions emerge** (FEMA effect) -- third parties win seats, possibly no single majority
+3. **Multi-party conditions emerge** (CEMA effect) -- third parties win seats, possibly no single majority
 4. **OCP acceleration triggers activate** -- proportional procedural infrastructure acquires authority precisely as coalition governance becomes necessary
 
 The OCP's phased authority model includes acceleration triggers specifically designed to respond to multi-party conditions:
@@ -102,11 +98,11 @@ The OCP's phased authority model includes acceleration triggers specifically des
 | Coalition Governance Condition | Speaker elected with multi-party support | Phase 3 activates within one Congress |
 | Sustained Coalition Condition | Coalition Speaker in two consecutive Congresses | Phase 4 activates immediately |
 
-This produces dramatically compressed timelines when FEMA effects materialize:
+This produces dramatically compressed timelines when CEMA effects materialize:
 
 **OCP Alone (Scenario A):** Approximately 16 years to mature regime, relying on current leadership retiring before binding authority threatens their power.
 
-**OCP + FEMA (Scenario B):** Approximately 8-10 years to mature regime. Multi-party conditions create organic demand for proportional procedure. New parties need the OCP's infrastructure immediately. Current leadership cannot block reform because they need coalition partners who demand fair procedural treatment.
+**OCP + CEMA (Scenario B):** Approximately 8-10 years to mature regime. Multi-party conditions create organic demand for proportional procedure. New parties need the OCP's infrastructure immediately. Current leadership cannot block reform because they need coalition partners who demand fair procedural treatment.
 
 ---
 
@@ -149,9 +145,9 @@ The most elegant aspect of this reform architecture is its self-reinforcing logi
 - In a two-party duopoly, proportional procedure threatens whoever currently holds power. They have no incentive to share.
 - In a multi-party environment, every faction knows they may find themselves frozen out under winner-take-all procedure. Fair rules become insurance.
 
-FEMA creates the multi-party conditions. The OCP provides the infrastructure those conditions require. Each reform makes the other both more necessary and more politically sustainable.
+CEMA creates the multi-party conditions. The OCP provides the infrastructure those conditions require. Each reform makes the other both more necessary and more politically sustainable.
 
-The institutional architecture reinforces this logic at a structural level. FEMA's independence protections for the Electoral Science Office and its districting functions ensure that the electoral rules producing multi-party outcomes cannot be manipulated by incumbents. The OCP's tenure-protected procedural staff ensure that the procedural rules governing multi-party governance cannot be subverted by whoever temporarily holds the gavel. Both acts build professional, insulated institutions that prevent democratic competition from being rigged by the competitors -- one on the electoral side, the other on the procedural side. The parallel architecture means that neither the inputs to Congress (who gets elected) nor the operations of Congress (how they govern) can be captured by a single faction.
+The institutional architecture reinforces this logic at a structural level. CEMA's independence protections for the Electoral Science Office and its districting functions ensure that the electoral rules producing multi-party outcomes cannot be manipulated by incumbents. The OCP's tenure-protected procedural staff ensure that the procedural rules governing multi-party governance cannot be subverted by whoever temporarily holds the gavel. Both acts build professional, insulated institutions that prevent democratic competition from being rigged by the competitors -- one on the electoral side, the other on the procedural side. The parallel architecture means that neither the inputs to Congress (who gets elected) nor the operations of Congress (how they govern) can be captured by a single faction.
 
 This is not utopian aspiration. Every other advanced democracy has procedural infrastructure preventing the abuses Americans accept as normal. Many have proportional allocation systems making coalition governance routine. This architecture simply builds the institutions that make functionality possible -- bringing American legislative procedure into alignment with international best practices.
 
@@ -160,44 +156,45 @@ This is not utopian aspiration. Every other advanced democracy has procedural in
 <!--
 ## Revision History
 
-**Revision 5.0** (Current)
+**Revision 6.0** (Current)
+- Aligned with CEMA Rev 5.6 and OCP Rev 1.3
+- Renamed "Federal Elections Modernization Act (FEMA)" to "Congressional Elections Modernization Act (CEMA)" throughout; all acronym, full name, and "First CEMA Election" references updated
+- DPS 3.1 compliance: removed "Published March 2026" and "Based on Rev 5.2" header metadata per Section 1.2 (supporting documents carry no header metadata); corrected download link path from electoral/cmf/ to congress/cmf/ per mkdocs.yml; added 📥 and ⬇ emojis to download link per Section 1.9
+- No substantive analytical changes; CEMA Rev 5.6 scope narrowing (presidential elections, FCAO extraction) does not affect this document's content, which already focused exclusively on congressional electoral architecture and contained no FCAO references
 
-- Updated FEMA reference from Rev 5.0 to Rev 5.2
+**Revision 5.0**
+- Updated CEMA reference from Rev 5.0 to Rev 5.2
 - Updated H1/H2 header structure to APAI Document Production Standards Rev 2.3: H1 is now the framework name; former rhetorical title moved to H2 subtitle
-- Added algorithmically neutral districting to "How FEMA Creates Conditions for Coalition Governance" section, including independence protections and parallel institutional architecture with OCP
-- Updated "Optimal Sequencing and Acceleration Triggers" Step 1: replaced "phase in" language with single integrated launch at First FEMA Election
+- Added algorithmically neutral districting to "How CEMA Creates Conditions for Coalition Governance" section, including independence protections and parallel institutional architecture with OCP
+- Updated "Optimal Sequencing and Acceleration Triggers" Step 1: replaced "phase in" language with single integrated launch at First CEMA Election
 - Updated "Democratic Quality Outcomes" to reference algorithmically neutral districting
-- Added institutional architecture paragraph to "The Self-Reinforcing Logic" section, describing parallel independence protections across FEMA and OCP
+- Added institutional architecture paragraph to "The Self-Reinforcing Logic" section, describing parallel independence protections across CEMA and OCP
 - Wrapped revision history in HTML comment block per Section 1.4 Rendering Convention
 - Removed emoji characters from download link per Rev 2.3 standards
 - Updated download link path from congress/ to electoral/ per Rev 2.3 directory structure
 - Updated published date
 
 **Revision 4.0**
-
 - Updated OCP reference from Rev 1.1 to Rev 1.3
 - Added Supreme Court nomination consideration deadlines to "How the OCP Provides Infrastructure for Coalition Governance" section, including 60/120-day deadline structure, privileged calendar status mechanism, and coalition governance incentive analysis
 - Added new section: "Cross-Portfolio Coordination: The Scaffolding Principle" covering Section 505B yielding clause, FJBAA coordination, and scaffolding design pattern
-- No changes to FEMA-related content, acceleration triggers, expected outcomes, or self-reinforcing logic analysis
+- No changes to CEMA-related content, acceleration triggers, expected outcomes, or self-reinforcing logic analysis
 
 **Revision 3.0**
-
 - Reframed as Congressional Modernization Framework (CMF) document
-- Renamed from FEMA-OCP Integration Analysis to CMF Integration Analysis
-- Updated subtitle; removed "FEMA-OCP Framework" branding in favor of CMF identity
+- Renamed from CEMA-OCP Integration Analysis to CMF Integration Analysis
+- Updated subtitle; removed "CEMA-OCP Framework" branding in favor of CMF identity
 - Updated reference line to identify document as CMF-level analysis
 - No substantive analytical changes
 
 **Revision 2.0**
-
-- Updated from CMA Rev 4.2 to FEMA Rev 5.0
-- Rebranded all references from "Congressional Modernization Act (CMA)" to "Federal Elections Modernization Act (FEMA)"
+- Updated from CMA Rev 4.2 to CEMA Rev 5.0
+- Rebranded all references from "Congressional Modernization Act (CMA)" to "Congressional Elections Modernization Act (CEMA)"
 - Reformatted header and footer to APAI Document Production Standards
 - Added Revision History section
 - No substantive policy or analytical changes
 
 **Revision 1.0**
-
 - Initial publication as CMA-OCP Integration Analysis
 - Framework analysis of dual enactment benefits
 - Acceleration trigger timeline comparison
@@ -205,7 +202,7 @@ This is not utopian aspiration. Every other advanced democracy has procedural in
 
 *Revision history available in the raw file.*
 
-> [Download this document](https://github.com/albertintech/apai/blob/main/docs/electoral/cmf/integration-analysis.md) (opens on GitHub -- click the download button)
+> 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/integration-analysis.md) (opens on GitHub -- click the ⬇ download button)
 
 ---
 
