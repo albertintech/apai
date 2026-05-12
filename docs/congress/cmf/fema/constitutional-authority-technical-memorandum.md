@@ -1,4 +1,4 @@
-# Federal Elections Modernization Act
+# Congressional Elections Modernization Act
 
 ## Constitutional Authority Technical Memorandum
 
@@ -6,7 +6,7 @@
 
 ## I. The Question Presented
 
-Can Congress enact the Federal Elections Modernization Act's electoral provisions -- including STAR voting mandates, multi-member districts with proportional representation, algorithmically neutral districting, unified general elections, and Joint Endorsement Lists -- through ordinary legislation, or do such reforms require constitutional amendment? All subsequent references to the Federal Elections Modernization Act use "the Act."
+Can Congress enact the Congressional Elections Modernization Act's electoral provisions -- including STAR voting mandates, multi-member districts with proportional representation, algorithmically neutral districting, unified general elections, and Joint Endorsement Lists -- through ordinary legislation, or do such reforms require constitutional amendment? All subsequent references to the Congressional Elections Modernization Act use "the Act."
 
 Some scholars argue that mandating specific voting methods or fundamentally restructuring electoral systems represents such foundational change that only constitutional amendment can authorize it. They worry that statutory reform will face judicial invalidation by a Supreme Court skeptical of major structural changes enacted without supermajority consensus.
 
@@ -533,39 +533,36 @@ Delegation Doctrine:
 
 ## Appendix B: Provisions Analyzed
 
-| Provision                           | Title/Section            | Constitutional Basis                                         |
-| ----------------------------------- | ------------------------ | ------------------------------------------------------------ |
-| STAR Voting Mandate                 | Title IV, Section 404    | Elections Clause ("manner")                                  |
-| Unified General Elections           | Title IV, Section 404(d) | Elections Clause + preemption authority                      |
-| Multi-Member Districts              | Title IV, Section 402    | Historical practice + 1967 Act repeal authority              |
-| STAR-PR Allocation                  | Title IV, Section 404(g) | Elections Clause ("manner")                                  |
-| Algorithmically Neutral Districting | Title IV, Section 403    | Elections Clause ("manner") + *Arizona State Legislature*    |
-| ESO Independence Protections        | Title IV, Section 410    | Elections Clause + delegation doctrine + structural safeguards |
-| Electoral Science Office            | Title IV, Section 409    | Elections Clause + delegation doctrine                       |
-| Joint Endorsement Lists             | Title II                 | Elections Clause (ballot format)                             |
-| Federal Ballot Access               | Title I                  | Elections Clause ("manner")                                  |
+| Provision | Title/Section | Constitutional Basis |
+|-----------|---------------|---------------------|
+| STAR Voting Mandate | Title IV, Section 404 | Elections Clause ("manner") |
+| Unified General Elections | Title IV, Section 404(d) | Elections Clause + preemption authority |
+| Multi-Member Districts | Title IV, Section 402 | Historical practice + 1967 Act repeal authority |
+| STAR-PR Allocation | Title IV, Section 404(g) | Elections Clause ("manner") |
+| Algorithmically Neutral Districting | Title IV, Section 403 | Elections Clause ("manner") + *Arizona State Legislature* |
+| ESO Independence Protections | Title IV, Section 410 | Elections Clause + delegation doctrine + structural safeguards |
+| Electoral Science Office | Title IV, Section 409 | Elections Clause + delegation doctrine |
+| Joint Endorsement Lists | Title II | Elections Clause (ballot format) |
+| Federal Ballot Access | Title I | Elections Clause ("manner") |
 
 ---
 
 <!--
-
 ## Revision History
 
 **Revision 5.6** (Current)
-
-- Aligned with Rev 5.6 of the FEMA legislative text
-- FCAO references removed: Title V (FCAO) extracted from FEMA into planned standalone statute under the CMF; removed "competency transparency requirements" from Section I question presented; removed "FCAO scores" from Section III.B ballot information requirements list; removed Section V.E (FCAO Non-Qualifying Structure) entirely; removed FCAO Examinations row from Appendix B; re-lettered remaining Part V sections (former F→E, G→F, H→G)
+- Aligned with Rev 5.6 of the CEMA legislative text
+- Renamed from "Federal Elections Modernization Act (FEMA)" to "Congressional Elections Modernization Act (CEMA)"; all references, defined terms, and download paths updated throughout; no substantive policy changes
+- FCAO references removed: Title V (FCAO) extracted from CEMA into planned standalone statute under the CMF; removed "competency transparency requirements" from Section I question presented; removed "FCAO scores" from Section III.B ballot information requirements list; removed Section V.E (FCAO Non-Qualifying Structure) entirely; removed FCAO Examinations row from Appendix B; re-lettered remaining Part V sections (former F→E, G→F, H→G)
 - "Federal election/office" references corrected: 22 instances of "federal elections" or "federal offices" in body text changed to "congressional elections," "congressional offices," or "elections for Senators and Representatives" as appropriate to context. Direct Elections Clause paraphrases use the actual constitutional text ("elections for Senators and Representatives"); questions presented, case law characterizations, and analytical discussion use "congressional elections/offices." No instance in the constitutional analysis was describing authority beyond the Elections Clause, making "federal elections" imprecise in every case
 - No presidential references to remove (none in body text outside revision history)
 - No Title VI/VII/VIII renumbering needed (document does not reference these Titles in body text)
 - DPS 3.1 formatting compliance: removed "Published March 2026" and "Based on Rev 5.2" header metadata; removed "Last revised April 2026" footer line
 
 **Revision 3.1**
-
 - DPS 2.8 compliance pass: migrated download link path from electoral/cmf/fema/ to congress/cmf/fema/; added 📥 prefix and ⬇ parenthetical emojis per DPS Rev 2.8 Section 1.9; added "Last revised April 2026" line per DPS Rev 2.5 Section 1.3
 
 **Revision 3.0**
-
 - Updated reference line from Rev 5.0 to Rev 5.2
 - Moved revision history from header to footer per DPS Section 1.3
 - Removed "Document Status: Draft -- Working Document" line per DPS Rev 1.6
@@ -584,8 +581,7 @@ Delegation Doctrine:
 - Removed "END OF DOCUMENT" marker
 
 **Revision 2.0**
-
-- Updated all references for Federal Elections Modernization Act (FEMA) Rev 5.0 branding.
+- Updated all references for Congressional Elections Modernization Act (CEMA) Rev 5.0 branding.
 - Reframed nonpartisan primary analysis as Unified General Election Structure (UGES) analysis reflecting Rev 4.2+ architecture.
 - Added Section V.G: Electoral Science Office delegation doctrine analysis covering graduated protection architecture.
 - Corrected Section X.B implementation timeline reference (was 25-year, corrected to ~14-year per Rev 4.0+ architecture).
@@ -595,7 +591,6 @@ Delegation Doctrine:
 - Aligned header structure with APAI Document Production Standards Rev 1.3.
 
 **Revision 1.0**
-
 - Initial version adapted from RCEA Constitutional Authority document.
 - Updated all references to reflect CMA branding and current provisions.
 - Expanded analysis of STAR voting method mandates (Title IV).
@@ -605,11 +600,11 @@ Delegation Doctrine:
 - Integrated analysis of 1967 Uniform Congressional District Act repeal authority.
 - Added Voting Rights Act considerations for multi-member districts.
 - Expanded judicial review strategy section.
-  -->
+-->
 
 *Revision history available in the raw file.*
 
-> 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/fema/constitutional-authority-technical-memorandum.md) (opens on GitHub -- click the ⬇ download button)
+> 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/cema/constitutional-authority-technical-memorandum.md) (opens on GitHub -- click the ⬇ download button)
 
 ---
 
