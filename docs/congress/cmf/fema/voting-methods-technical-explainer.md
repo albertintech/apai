@@ -1,18 +1,14 @@
-# Federal Elections Modernization Act
+# Congressional Elections Modernization Act
 
 ## STAR Voting and Allocated Score: A Technical Explainer
-
-### Published March 2026
-
-Based on Rev 5.2 of the Federal Elections Modernization Act
 
 ---
 
 ## Purpose
 
-This document explains how votes are counted under the Federal Elections Modernization Act (FEMA), hereafter referred to as "the Act." It covers both voting methods used in federal elections:
+This document explains how votes are counted under the Congressional Elections Modernization Act (CEMA), hereafter referred to as "the Act." It covers both voting methods used in congressional elections:
 
-1. **STAR Voting** -- used when one person is being elected (President, Senate, and some House races).
+1. **STAR Voting** -- used when one person is being elected (Senate and some House races).
 2. **Allocated Score** -- used when multiple people are being elected from the same district (most House races).
 
 **This document is written for voters.** It assumes no background in math, political science, or election administration. Every step of both counting methods is explained in plain language with worked examples you can follow and verify yourself. A glossary of technical terms is included at the end.
@@ -23,7 +19,7 @@ Both methods use the same ballot. You score candidates from 0 to 5 stars. What c
 
 ## Part I: STAR Voting
 
-STAR stands for **Score Then Automatic Runoff**. It is used whenever an election is choosing one winner -- for President, for Senate, or for House districts that elect fewer than three Representatives.
+STAR stands for **Score Then Automatic Runoff**. It is used whenever an election is choosing one winner -- for Senate, or for House districts that elect fewer than three Representatives.
 
 ### How You Vote
 
@@ -350,7 +346,7 @@ And nobody had to vote strategically. Every voter simply scored each candidate h
 
 ### Same Ballot, Different Counting
 
-The Act's voting methods are designed so that you do the same thing on every federal race: score each candidate from 0 to 5 stars. Whether you are voting for President, Senator, or Representative, the ballot looks the same and your task is the same.
+The Act's voting methods are designed so that you do the same thing on every congressional race: score each candidate from 0 to 5 stars. Whether you are voting for Senator or Representative, the ballot looks the same and your task is the same.
 
 What changes is behind the scenes. For single-winner races, your scores are counted using STAR voting's two-step process (scoring round, then automatic runoff). For multi-winner House races, your scores are counted using Allocated Score's round-by-round allocation with ballot weight.
 
@@ -524,7 +520,14 @@ The total weight spent in each round equals Q (the quota), ensuring that each el
 <!--
 ## Revision History
 
-**Revision 3.0** (Current)
+**Revision 5.6** (Current)
+- Renamed from "Federal Elections Modernization Act (FEMA)" to "Congressional Elections Modernization Act (CEMA)"; all references, defined terms, and download paths updated throughout
+- Presidential scope removal: removed presidential election references from Purpose section, STAR voting introduction, and Part III overview; the Act governs congressional elections only
+- DPS 3.1 header compliance: removed "Published March 2026" and "Based on Rev 5.2" metadata lines per DPS Rev 3.1 Section 1.2
+- Download link updated: path migrated to congress/cmf/cema/; added emoji prefix and parenthetical per DPS Rev 2.8 Section 1.9
+- No changes to voting method descriptions, worked examples, or mathematical specifications
+
+**Revision 3.0**
 - Updated reference line from Rev 5.0 to Rev 5.2
 - Corrected tier classification in "Who Manages the System?" section: moved 0-5 star scoring range from statutory principles (Tier 1) to protected design elements (Tier 2); replaced with "requirement that all voters can score all candidates" as the Tier 1 principle per Section 409(c)(1) and 409(d)(1)
 - Added "treatment of unscored candidates" to protected design elements description
@@ -554,7 +557,7 @@ The total weight spent in each round equals Q (the quota), ensuring that each el
 
 *Revision history available in the raw file.*
 
-> [Download this document](https://github.com/albertintech/apai/blob/main/docs/electoral/cmf/fema/voting-methods-technical-explainer.md) (opens on GitHub -- click the download button)
+> 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/cema/voting-methods-technical-explainer.md) (opens on GitHub -- click the ⬇ download button)
 
 ---
 
