@@ -38,7 +38,7 @@ Each proposal includes an introduction, legislative text, policy rationale, and 
 docs/
   congress/       Congress & Elections (CMF, CEMA, OCP, CCC, CVTA)
   executive/      Executive Branch (CSAA, HSRA, PCA)
-  judiciary/       Federal Judiciary (FJBAA)
+  judiciary/      Federal Judiciary (FJBAA)
   justice/        Justice & Law Enforcement (FLECA)
   aspc/           Economic Stability & Security (APSA, APNA, SOCA)
   amendments/     Constitutional Architecture (EOQA, KATA, FPSA)
