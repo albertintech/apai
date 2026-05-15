@@ -148,7 +148,19 @@ Allocated Score uses a simpler ballot interface that scales gracefully with larg
 
 And because the ballot interface tolerates large fields without degrading, the Act's Single Unified General Election eliminates state-administered primaries for congressional offices entirely -- placing all qualified candidates directly on the November ballot and removing a structural leverage point that STV-based proposals must either preserve or replace.
 
-The tradeoff must be acknowledged honestly. Allocated Score has no century-long track record in national government elections. Ireland has used STV since 1921; no country has used Allocated Score for a parliamentary election. This is a legitimate concern that deserves transparency, not dismissal.
+### Accepted Tradeoffs
+
+No voting method satisfies all desirable criteria simultaneously -- the Gibbard-Satterthwaite theorem establishes this as a mathematical certainty. Allocated Score's structural advantages over STV are purchased at specific, identifiable costs that deserve the same transparency applied to STV's limitations above.
+
+**Later-no-harm failure.** Under STAR voting, honestly scoring a second-choice candidate can help that candidate defeat your first choice in the automatic runoff. STV satisfies the later-no-harm criterion: ranking a lower choice can never hurt a higher-ranked candidate. STAR does not. This is not an incidental gap -- it is the structural price of solving center squeeze. A system that satisfies later-no-harm necessarily ignores lower preferences during early rounds, which is precisely the mechanism that causes center squeeze in STV. The two properties are in direct tension: a method can protect consensus candidates or guarantee later-no-harm, but not both. The Act accepts the later-no-harm failure because the center squeeze it prevents is empirically more damaging to representational outcomes than the strategic incentive it creates.
+
+**Strategic burial vulnerability.** Voters can strategically score a strong competitor at zero even if they find that candidate acceptable, in order to prevent them from reaching the automatic runoff. This burial strategy is the mirror image of later-no-harm failure -- it exploits the fact that scores for non-preferred candidates affect the runoff composition. The incentive exists, but its practical impact is constrained by two factors: burial requires accurate knowledge of the competitive landscape (the voter must correctly identify which candidate threatens their favorite), and it carries a cost (if the burial target would have beaten an even less preferred candidate in the runoff, the voter has hurt their own interests). Simulation evidence suggests burial attempts under STAR are less likely to change outcomes than the non-monotonicity and center squeeze failures they replace, but the vulnerability is real and should not be minimized.
+
+**Centralized tabulation for multi-winner elections.** Single-winner STAR voting is precinct-summable: local precincts can report score totals and pairwise preference matrices without transmitting individual ballot data. Allocated Score is not precinct-summable. Because ballot weights change after each seat is filled, the full set of individual ballot records must be aggregated centrally before allocation rounds can proceed. This is the same tabulation requirement that STV imposes. The Act does not claim a tabulation advantage for Allocated Score over STV in multi-winner elections; it claims that advantage only for single-winner STAR in Senate and single-seat House races.
+
+**Reweighting legibility.** The deterministic weight reduction in Allocated Score -- while mathematically transparent and fully auditable -- is not intuitively obvious to voters. A voter whose ballot weight drops from 1.0 to 0.37 after the first round may not immediately understand why, even though the formula is public and the calculation is reproducible. STV's surplus transfers are arguably less transparent (especially under fractional transfer methods like Meek or Warren), but the reweighting mechanism in Allocated Score is not self-evidently clear either. The Act addresses this through the Electoral Science Office's public education mandate and the requirement for transparent, auditable tabulation records, but voter comprehension of weight reduction will require sustained institutional effort.
+
+**No operational track record at national scale.** Allocated Score has no century-long track record in national government elections. Ireland has used STV since 1921; no country has used Allocated Score for a parliamentary election. This is a legitimate concern that deserves transparency, not dismissal.
 
 But the characterization of Allocated Score as untested requires qualification. The 0-5 star ballot is not a novel interface -- it is among the most widely used rating scales in the world. Hundreds of millions of people rate products, services, drivers, and businesses on star scales through Google, Amazon, Yelp, Uber, and similar platforms every day. The cognitive task -- assign a score reflecting your assessment -- is deeply familiar to the modern electorate in a way that ranking fifteen candidates in strict preference order is not. The system was deliberately named "STAR Voting" to leverage this cultural ubiquity.
 
@@ -225,7 +237,6 @@ Wolk, Sara, Jameson Quinn, and Mark Ogren. "STAR Voting: Considerations and Simu
 
 **Revision 5.6** (Current)
 - Aligned with Rev 5.6 of the CEMA legislative text
-- Renamed from "Federal Elections Modernization Act (FEMA)" to "Congressional Elections Modernization Act (CEMA)"; all references, defined terms, and download paths updated throughout; no substantive policy changes
 - Presidential scope narrowing: removed "President" from "President, Senate" STAR applicability list in ballot interface comparison
 - Scope narrowing: "federal offices" → "congressional offices" (primary elimination, two instances); "all federal contests" → "all congressional contests" (ballot interface paragraph); "all federal elections" → "all congressional elections" (conclusion)
 - Presidential references retained in analytical context: "single-winner presidential elections" in Irish STV/IRV analysis (line 27, describes foreign constitutional practice); "2020 presidential delegate elections" (line 159, factual historical reference to Oregon Democratic Party)
@@ -233,7 +244,7 @@ Wolk, Sara, Jameson Quinn, and Mark Ogren. "STAR Voting: Considerations and Simu
 - DPS 3.1 formatting compliance: removed "Published March 2026" and "Based on Rev 5.2" header metadata; removed "Last revised April 2026" footer line
 
 **Revision 1.1**
-- DPS 2.8 compliance pass: migrated download link path from electoral/cmf/fema/ to congress/cmf/fema/; added 📥 prefix and ⬇ parenthetical emojis per DPS Rev 2.8 Section 1.9; added "Last revised April 2026" line per DPS Rev 2.5 Section 1.3
+- DPS 2.8 compliance pass: migrated download link path from electoral/cmf/cema/ to congress/cmf/cema/; added 📥 prefix and ⬇ parenthetical emojis per DPS Rev 2.8 Section 1.9; added "Last revised April 2026" line per DPS Rev 2.5 Section 1.3
 - Restructured header per DPS Rev 2.8 Section 1.2 Supporting Document format: H1 changed from paper title to proposal name; paper title moved to H2; descriptive subtitle retired (framing preserved in opening paragraphs)
 
 **Revision 1.0**
