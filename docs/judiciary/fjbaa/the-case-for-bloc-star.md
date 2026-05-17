@@ -2,12 +2,6 @@
 
 ## The Case for Bloc STAR
 
-### Position Paper
-
-### Published April 2026
-
-Based on Rev 2.3 of the Federal Judicial Balance and Accountability Act
-
 ---
 
 This paper defends the Federal Judicial Balance and Accountability Act's (FJBAA) selection of Multi-winner Bloc STAR voting as the mechanism by which the Senate selects nominees from a presidential nomination slate, hereafter referred to as "the Act." The Act's broader documentation establishes that the slate-based confirmation process transforms the strategic landscape of judicial appointments by making obstruction irrational rather than dominant. This paper addresses a narrower and prior question: given the decision to use scored multi-winner selection, why is Bloc STAR the right method -- and not Approval Voting, Score Voting, Ranked Choice, or any of the other alternatives the election science literature has considered?
@@ -34,7 +28,7 @@ Voting methods divide into two fundamental families based on the information a b
 
 The Act's slate confirmation process has specific structural requirements that constrain the appropriate voting method. These requirements are not identical to those of general elections, which has implications for which methods transfer well.
 
-**Multi-winner selection.** The Senate selects n nominees from a presidential slate of at least n x 2 candidates in a single proceeding. The method must handle multiple winners natively, without converting to a sequential series of single-winner races.
+**Multi-winner selection.** The Senate selects n nominees from a presidential slate of at least n+2 candidates in a single proceeding.
 
 **Consensus orientation, not proportional representation.** The Senate is not a legislature selecting representatives for distinct factions. It is a deliberative body selecting the most broadly acceptable nominees from a slate that the president has already screened for basic acceptability. The goal is consensus, not proportionality. A method designed for proportional representation -- one that allocates seats to factions in proportion to their share of voter support -- would be structurally mismatched to this purpose.
 
@@ -217,15 +211,19 @@ Smith, Warren D. "Bayesian Regret for Dummies." RangeVoting.org. Accessed April 
 <!--
 ## Revision History
 
-**Revision 1.0** (Current)
+**Revision 2.6** (Current)
+- Alignment review against FJBAA Rev 2.6
+- Updated slate sizing formula from multiplier-based (n×2) to structurally derived (n+2 minimum, no maximum)
+- Removed multi-winner criterion sentence that contradicted the correct sequential single-winner rounds procedure established in Rev 2.5
+- DPS 3.1 header and footer compliance applied
+
+**Revision 1.0**
 - Initial publication
 -->
 
 *Revision history available in the raw file.*
 
-> [Download this document](https://github.com/albertintech/apai/blob/main/docs/judiciary/fjbaa/the-case-for-bloc-star.md) (opens on GitHub -- click the download button)
-
-*Last revised April 2026*
+> 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/judiciary/fjbaa/the-case-for-bloc-star.md) (opens on GitHub -- click the ⬇ download button)
 
 ---
 
