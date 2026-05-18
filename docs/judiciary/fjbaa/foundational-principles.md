@@ -2,10 +2,6 @@
 
 ## Foundational Principles
 
-### Published February 2026
-
-Based on Rev 2.3 of the Federal Judicial Balance and Accountability Act
-
 ---
 
 ## Introduction: Pre-Constitutional Commitments
@@ -162,7 +158,12 @@ The Act's claim to legitimacy rests on this foundation. It does not seek to achi
 <!--
 ## Revision History
 
-**Revision 2.4** (Current)
+**Revision 2.6** (Current)
+- Alignment review against FJBAA Rev 2.6
+- No substantive content changes required: document's principle-level treatment does not depend on mechanisms revised in Revs 2.4-2.6 (slate sizing formula, Bloc STAR procedure, findings/purposes restructure)
+- DPS 3.1 header and footer compliance applied
+
+**Revision 2.4**
 - DPS Rev 2.7 structural alignment: wrapped revision history in HTML comment block, added revision history note, added last revised line, standardized download link format, renamed file to Production Convention
 
 **Revision 2.3**
@@ -198,9 +199,7 @@ The Act's claim to legitimacy rests on this foundation. It does not seek to achi
 
 *Revision history available in the raw file.*
 
-> 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/judiciary/fjbaa/foundational-principles.md) (opens on GitHub -- click the download button)
-
-*Last revised April 2026*
+> 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/judiciary/fjbaa/foundational-principles.md) (opens on GitHub -- click the ⬇ download button)
 
 ---
 
