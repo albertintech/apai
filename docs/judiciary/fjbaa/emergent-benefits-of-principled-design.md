@@ -2,10 +2,6 @@
 
 ## Emergent Benefits of Principled Design
 
-### Published February 2026
-
-Based on Rev 2.2 of the Federal Judicial Balance and Accountability Act
-
 ---
 
 ## Introduction
@@ -52,7 +48,7 @@ The derivation proceeded through three interlocking principles, each building on
 
 The existing circuit system creates population disparities approaching 5:1. The Ninth Circuit serves over 68 million people; the First Circuit serves under 14 million. These disparities produce unequal workloads, inconsistent case processing, and fundamentally unequal access to federal justice.
 
-The Act's response begins with the foundational commitment that citizens should have roughly equal access to federal justice regardless of where they reside. Working from 2020 Census data and using federal judicial districts as building blocks, the Act constructs circuits of approximately equal population within a tolerance band of plus or minus 10%. The mathematical optimization across 89 federal judicial districts produces fifteen regional circuits -- not because fifteen was chosen, but because fifteen is what the population data and geographic constraints require. As the design process revealed: the number was not picked; it picked itself.
+The Act's response begins with the foundational commitment that citizens should have roughly equal access to federal justice regardless of where they reside. Working from 2020 Census data and using federal judicial districts as building blocks, the Act constructs circuits of approximately equal population within a tolerance band of plus or minus 10%. The mathematical optimization across 89 federal judicial districts produces fifteen regional circuits -- not because fifteen was chosen as a design preference, but because fifteen is the minimum the population data and geographic constraints require.
 
 ### Principle Two: One Justice Per Circuit
 
@@ -125,8 +121,14 @@ The lesson extends beyond judicial reform. It suggests that the most durable ins
 <!--
 ## Revision History
 
-**Revision 1.1** (Current)
-- DPS Rev 2.7 structural alignment: wrapped revision history in HTML comment block, added revision history note, added last revised line, standardized download link format, renamed file to Production Convention, corrected header "Based on" line per DPS Rev 2.7
+**Revision 2.6** (Current)
+- Alignment review against FJBAA Rev 2.6
+- Replaced prohibited phrase variant ("the number was not picked; it picked itself") with principled derivation language
+- No substantive content changes required: document's high-level treatment of the moving average effect does not depend on mechanisms revised in Revs 2.3-2.6
+- DPS 3.1 header and footer compliance applied
+
+**Revision 1.1**
+- DPS Rev 2.7 structural alignment: wrapped revision history in HTML comment block, added revision history note, standardized download link format, renamed file to Production Convention, corrected header "Based on" line per DPS Rev 2.7
 
 **Revision 1.0**
 - Initial publication
@@ -134,9 +136,7 @@ The lesson extends beyond judicial reform. It suggests that the most durable ins
 
 *Revision history available in the raw file.*
 
-> 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/judiciary/fjbaa/emergent-benefits-of-principled-design.md) (opens on GitHub -- click the download button)
-
-*Last revised April 2026*
+> 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/judiciary/fjbaa/emergent-benefits-of-principled-design.md) (opens on GitHub -- click the ⬇ download button)
 
 ---
 
