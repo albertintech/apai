@@ -2,10 +2,6 @@
 
 ## The Case for Evidence-Based Nominee Evaluation
 
-### Published April 2026
-
-Based on Rev 2.6 of the Federal Judicial Balance and Accountability Act
-
 ---
 
 ## Introduction
@@ -181,8 +177,6 @@ U.S. Congressional Research Service. "Supreme Court Appointment Process: Conside
 *Revision history available in the raw file.*
 
 > 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/judiciary/fjbaa/the-case-for-evidence-based-nominee-evaluation.md) (opens on GitHub -- click the ⬇ download button)
-
-*Last revised April 2026*
 
 ---
 
