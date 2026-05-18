@@ -6,13 +6,13 @@
 
 ---
 
-## SECTION 1: SHORT TITLE
+### Section 1. Short Title
 
 This Act may be cited as the "Federal Judicial Balance and Accountability Act."
 
-## SECTION 2: FINDINGS AND PURPOSES
+### Section 2. Findings and Purposes
 
-### (a) Findings
+#### (a) Findings
 
 Congress finds that:
 
@@ -40,7 +40,7 @@ Congress finds that:
 
 12. The Supreme Court is the only court in the federal judiciary not subject to binding ethical standards and enforceable accountability mechanisms, and public confidence in the judiciary requires transparent and enforceable standards of ethical conduct applicable to all federal judges, including justices of the Supreme Court;
 
-### (b) Purposes
+#### (b) Purposes
 
 The purposes of this Act are to:
 
@@ -64,7 +64,7 @@ The purposes of this Act are to:
 
 10. Establish binding ethical standards and accountability mechanisms for the Supreme Court to ensure that no justice is exempt from the rule of law;
 
-## SECTION 3: DEFINITIONS
+### Section 3. Definitions
 
 In this Act:
 
@@ -1250,8 +1250,6 @@ Nothing in this Title shall be construed to immunize any person from criminal li
 *Revision history available in the raw file.*
 
 > 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/judiciary/fjbaa/legislative-text.md) (opens on GitHub -- click the ⬇ download button)
-
-*Last revised April 2026*
 
 ---
 
