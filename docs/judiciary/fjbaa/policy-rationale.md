@@ -2,10 +2,6 @@
 
 ## Policy Rationale
 
-### Published February 2026
-
-Based on Rev 2.6 of the Federal Judicial Balance and Accountability Act
-
 ---
 
 ## Design Philosophy
@@ -548,8 +544,6 @@ The reform is deliberately focused on structural problems -- circuit imbalance, 
 *Revision history available in the raw file.*
 
 > 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/judiciary/fjbaa/policy-rationale.md) (opens on GitHub -- click the ⬇ download button)
-
-*Last revised April 2026*
 
 ---
 
