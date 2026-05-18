@@ -2,10 +2,6 @@
 
 ## Evaluation Against the Chilton et al. Design Framework
 
-### Published February 2026
-
-Based on Rev 2.2 of the Federal Judicial Balance and Accountability Act
-
 ---
 
 ## Introduction
@@ -98,7 +94,7 @@ The Act's approach is more structurally robust than the comparable mechanism in 
 
 Chilton et al. note that proposals using senior status for term-limited justices raise questions about what role former active justices should play. The Act's three-phase career structure provides the most comprehensive answer in the literature.
 
-Senior Justices under the Act retain full Article III protections, life tenure, and full compensation. They may continue hearing cases, sit on circuit courts by designation, serve on the Ethics Review Panel, participate in vacancy coverage rotation, or decline discretionary assignments without penalty. The transition to Senior Justice status is a change in duty assignment, not in tenure -- the constitutional distinction at the heart of the Amar framework that provides the Act's statutory basis.
+Senior Justices under the Act retain full Article III protections, life tenure, and full compensation. They may continue hearing cases, sit on circuit courts by designation, serve on the Ethics Review Panel (when not currently assigned to vacancy coverage rotation), participate in vacancy coverage rotation, or decline discretionary assignments without penalty. The transition to Senior Justice status is a change in duty assignment, not in tenure -- the constitutional distinction at the heart of the Amar framework that provides the Act's statutory basis.
 
 Regarding the final-period problem that Chilton et al. identify -- the concern that justices nearing the end of their terms may adjust their behavior in anticipation of future employment -- the Act's structure provides some mitigation. First, the twelve-year active service period means justices transition at a relatively advanced age (assuming appointment in their fifties or early sixties, they transition in their late sixties or seventies). As Oliver observes, at these ages many justices are unlikely to have ambitious post-Court career plans. Second, the transition to Senior Justice status rather than full departure reduces the sharpness of the "final period" -- justices are not leaving the judiciary entirely but moving to a different role within it. Third, the Co-Chief Justice phase (years eleven and twelve) provides an affirmative institutional role during the final period, potentially reducing the temptation to signal to future employers through voting behavior.
 
@@ -112,7 +108,7 @@ This is where the Act makes its most significant contribution relative to the ex
 
 Chilton et al. demonstrate empirically that sixty-two to seventy-five percent of Court vacancies under the five major proposals would arise during divided government. They conclude that some method for handling Senate impasse is necessary if term-limits reform is to accomplish its goals. Yet none of the five proposals they evaluate provides a structurally adequate solution. The Khanna Bill's 120-day automatic seating provision addresses inaction but, as the authors note, would not prevent the Senate from simply voting down nominees. The other proposals either lack impasse provisions entirely or propose mechanisms the authors themselves characterize as inadequate.
 
-The Act replaces the binary single-nominee confirmation model entirely with slate-based nomination and Bloc STAR voting (Section 202). Rather than submitting one nominee for an up-or-down vote -- a structure that concentrates maximum leverage in the Senate's ability to reject -- the President submits a slate of multiple qualified candidates, and the Senate selects from among them using a scored voting procedure in which each senator assigns each nominee a score from 0 to 5.
+The Act replaces the binary single-nominee confirmation model entirely with slate-based nomination and Bloc STAR voting (Section 202). Rather than submitting one nominee for an up-or-down vote -- a structure that concentrates maximum leverage in the Senate's ability to reject -- the President submits a slate of multiple qualified candidates, and the Senate selects from among them through sequential single-winner rounds. In each round, every senator assigns each remaining nominee a score from 0 to 5; the two highest-scoring nominees advance to a mandatory pairwise preference runoff; the runoff winner is confirmed and removed from the pool; and the process repeats for any remaining seats.
 
 This transformation addresses the structural vulnerability at its source rather than bolting on remedial provisions. Several features warrant emphasis in the Chilton context.
 
@@ -192,13 +188,13 @@ The Chilton framework does not address judicial ethics, but the Act's Title V bi
 
 The graduated sanction structure -- from private admonition through public censure, mandatory recusal, and administrative reassignment to Mandatory Early Transition to Senior Justice status -- operates within the same constitutional framework as the career structure itself. Mandatory Early Transition is a sanction that changes duty assignment while preserving tenure, the same Article III analysis that supports the three-phase career structure.
 
-The Ethics Review Panel composed of Senior Justices ensures that the adjudicators are peers of equal constitutional stature rather than external regulators. The Bridge Panel (retired circuit chief judges selected by lottery) provides transitional capacity before enough expansion-appointed Senior Justices are available. The Judicial Inspector General provides independent investigation capacity with structural protections for independence: nominating committee selection, ten-year non-renewable term, and unanimous removal protection.
+The Ethics Review Panel composed of Senior Justices ensures that the adjudicators are peers of equal constitutional stature rather than external regulators. The Bridge Panel (retired circuit chief judges selected by lottery) provides supplemental capacity -- during the transition period before enough expansion-appointed Senior Justices are available, and in steady-state operation when vacancy coverage rotation assignments, recusals, or combinations thereof reduce available Senior Justices below the required minimum. The Judicial Inspector General provides independent investigation capacity with structural protections for independence: nominating committee selection, ten-year non-renewable term, and unanimous removal protection.
 
 ### Circuit Reorganization as Structural Foundation
 
 The Chilton framework treats the size of the Court as given. The Act treats it as derived. The population-based circuit reorganization in Title I provides the structural foundation for the Court expansion in Title II -- and in doing so, creates a principled basis that constrains both the initial expansion and future manipulation.
 
-Fifteen circuits derive from the minimum number needed to satisfy the Act's population equity requirements (no circuit serving more than 110% or less than 90% of the average circuit population) while maintaining geographic contiguity. Computational modeling demonstrates that this tolerance band requires at least fifteen circuits to achieve population balance across eighty-nine federal judicial districts. The Act's Foundational Principles document captures this: "We didn't pick 15 -- 15 picked us!"
+Fifteen circuits derive from the minimum number needed to satisfy the Act's population equity requirements (no circuit serving more than 110% or less than 90% of the average circuit population) while maintaining geographic contiguity. Computational modeling demonstrates that this tolerance band requires at least fifteen circuits to achieve population balance across eighty-nine federal judicial districts. The number fifteen was not selected as a design preference -- it was derived from the population equity mathematics, making the circuit count a structural output rather than a political input.
 
 This principled derivation provides a structural defense against the court-packing accusation that haunts any expansion proposal. The circuit-aligned rationale limits the Court's size to the number of regional circuits rather than leaving it open to future manipulation.
 
@@ -262,7 +258,7 @@ This evaluation draws on the following primary sources:
 
 **Khanna Bill:** H.R. 8424, 116th Congress. The strongest statutory proposal under the Chilton framework, particularly for its 120-day automatic seating provision addressing Senate obstruction.
 
-**FJBAA Supporting Documents:** Policy Rationale (Rev 2.1), Foundational Principles (Rev 1.7), Legal Analysis (Rev 2.1), Overview (Rev 2.1), and Implementation Timeline (Rev 2.1) provide the substantive basis for the Act's design choices discussed throughout this evaluation.
+**FJBAA Supporting Documents:** Policy Rationale, Foundational Principles, Legal Analysis, Overview, and Implementation Timeline provide the substantive basis for the Act's design choices discussed throughout this evaluation. Current versions of all supporting documents are aligned to the legislative text revision corresponding to this evaluation.
 
 **Comparative Proposals:** The Renewal Act (Carrington & Cramton, 2006), Justices on Deck (Fix the Court, 2020), Oliver Plan (1986), UVA Plan, and Northwestern Plan are evaluated as documented in the prepared research summary, "Supreme Court Term Limits -- Comparative Guide with Pros/Cons and Chilton et al Evaluation" (2025).
 
@@ -271,8 +267,17 @@ This evaluation draws on the following primary sources:
 <!--
 ## Revision History
 
-**Revision 1.1** (Current)
-- DPS Rev 2.7 structural alignment: wrapped revision history in HTML comment block, added revision history note, added last revised line, standardized download link format, renamed file to Production Convention, renamed "Notes on Sources and Citations" to "Works Cited"
+**Revision 2.6** (Current)
+- Alignment review against FJBAA Rev 2.6
+- Replaced prohibited "We didn't pick 15" phrasing with principled derivation language
+- Updated Bridge Panel description to reflect expanded steady-state scope (Rev 2.3)
+- Added vacancy coverage rotation exclusion to Senior Justice role description (Rev 2.3)
+- Updated Bloc STAR voting description to reflect sequential single-winner rounds with mandatory pairwise runoff (Rev 2.5)
+- Removed version-specific revision numbers from Works Cited supporting document references
+- DPS 3.1 header and footer compliance applied
+
+**Revision 1.1**
+- DPS Rev 2.7 structural alignment: wrapped revision history in HTML comment block, added revision history note, standardized download link format, renamed file to Production Convention, renamed "Notes on Sources and Citations" to "Works Cited"
 
 **Revision 1.0**
 - Initial publication
@@ -284,9 +289,7 @@ This evaluation draws on the following primary sources:
 
 *Revision history available in the raw file.*
 
-> 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/judiciary/fjbaa/chilton-framework-evaluation.md) (opens on GitHub -- click the download button)
-
-*Last revised April 2026*
+> 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/judiciary/fjbaa/chilton-framework-evaluation.md) (opens on GitHub -- click the ⬇ download button)
 
 ---
 
