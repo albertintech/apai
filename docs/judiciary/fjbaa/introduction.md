@@ -2,10 +2,6 @@
 
 ## Policy Introduction
 
-### Published February 2026
-
-Based on Rev 2.5 of the Federal Judicial Balance and Accountability Act
-
 ---
 
 The Federal Judicial Balance and Accountability Act (FJBAA) restructures the federal judiciary to address population-based representation, predictable appointments, transparent evaluation of nominees, and enforceable ethics. The Act reorganizes federal circuits according to population, aligns Supreme Court composition with circuit structure, replaces the binary single-nominee confirmation model with slate-based selection, establishes evidence-based documentation requirements ensuring nominees possess evaluable records, and creates binding ethical standards with meaningful enforcement mechanisms.
@@ -24,15 +20,27 @@ FJBAA addresses these structural problems through integrated reforms: circuit re
 
 **Title IV: Implementation and Fairness Provisions** phases the reforms over multiple years. Circuit reorganization takes effect two years after enactment. Court composition alignment begins in the first odd-numbered year of the Appointment Schedule and continues until full composition is achieved. The slate-based nomination process and transparency requirements apply immediately to all appointments. The regular replacement schedule and Co-Chief Justice service begin when justices appointed under the expansion schedule reach their eleventh year of active service. Constitutional protections are explicitly preserved: no sitting justice is removed, no judicial salary is reduced, and "good behavior" tenure remains intact. The Senior Justice provisions build on existing precedent in 28 U.S.C. Section 371. The Chief Justice serving on the effective date continues in that capacity while Co-Chief Justices appointed under the Act gradually share administrative duties. Legacy Associate Justices may voluntarily elect to enter the Act's career structure through an opt-in mechanism -- claiming a Co-Chief Justice slot, serving a two-year capstone, and transitioning to Senior Justice status -- but no justice is compelled to participate.
 
-**Title V: Judicial Ethics and Accountability** establishes binding ethical standards and enforcement for the Supreme Court. The Code of Conduct for United States Judges applies to all justices, with compliance mandatory. An Ethics Review Panel of five Senior Justices adjudicates complaints, with an independent Judicial Inspector General (ten-year term, unanimous-vote removal protection) conducting investigations. Sanctions range from private admonition to mandatory early transition to Senior Justice status, with serious sanctions requiring a four-of-five supermajority to prevent partisan weaponization. Mandatory Early Transition may be imposed only for enumerated objective violations -- undisclosed financial interests, conflicts of interest, ex parte contacts, false statements, acceptance of substantial undisclosed benefits -- not for disfavored judicial philosophies. Robust due process protections and en banc appellate review by all Senior Justices ensure fairness. During the transition period before sufficient Senior Justices are available, a Bridge Panel of retired circuit chief judges selected by lottery provides immediate capacity.
+**Title V: Judicial Ethics and Accountability** establishes binding ethical standards and enforcement for the Supreme Court. The Code of Conduct for United States Judges applies to all justices, with compliance mandatory. An Ethics Review Panel of five Senior Justices adjudicates complaints, with an independent Judicial Inspector General (ten-year term, unanimous-vote removal protection) conducting investigations. Sanctions range from private admonition to mandatory early transition to Senior Justice status, with serious sanctions requiring a four-of-five supermajority to prevent partisan weaponization. Mandatory Early Transition may be imposed only for enumerated objective violations -- undisclosed financial interests, conflicts of interest, ex parte contacts, false statements, acceptance of substantial undisclosed benefits -- not for disfavored judicial philosophies. Robust due process protections and en banc appellate review by all Senior Justices ensure fairness. When insufficient Senior Justices are available -- during the transition period or when vacancy coverage rotation and recusals temporarily reduce the pool -- a Bridge Panel of retired circuit chief judges selected by lottery provides supplemental capacity.
 
 ## Documentation
 
 The full legislative text provides complete statutory language for all provisions. Separate documents provide the Policy Rationale explaining design choices, Legal Analysis examining constitutional questions, Implementation Timeline detailing the phased rollout, and Overview summarizing the complete reform architecture.
 
-> 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/judiciary/fjbaa/introduction.md) (opens on GitHub -- click the download button)
+---
 
-*Last revised April 2026*
+<!--
+## Revision History
+
+**Revision 2.6** (Current)
+- Alignment review against FJBAA Rev 2.6
+- Updated Bridge Panel description to reflect both transitional and steady-state supplemental roles
+- No other substantive content changes required: document's navigational-level descriptions use generic language that does not depend on mechanisms revised in Rev 2.6
+- DPS 3.1 header and footer compliance applied; revision history added per DPS 3.1 section 1.3
+-->
+
+*Revision history available in the raw file.*
+
+> 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/judiciary/fjbaa/introduction.md) (opens on GitHub -- click the ⬇ download button)
 
 ---
 
