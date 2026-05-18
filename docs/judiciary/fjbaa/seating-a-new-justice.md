@@ -2,10 +2,6 @@
 
 ## A Guide to the FJBAA's Nomination, Selection, and Confirmation Mechanics
 
-### Published April 2026
-
-Based on Rev 2.6 of the Federal Judicial Balance and Accountability Act
-
 ---
 
 ## How to Read This Guide
@@ -50,8 +46,8 @@ The effect: beginning in Act Year 21, each four-year presidential term includes 
 
 | Phase | Act Years (odd) | Seats per appointment year | Appointments per term |
 |---|---|---|---|
-| **Expansion** | Years 1–11 | 1 | 2 |
-| **Transition** | Years 13–19 | 2 | 4 |
+| **Expansion** | Years 1-11 | 1 | 2 |
+| **Transition** | Years 13-19 | 2 | 4 |
 | **Steady State** | Year 21 onward | 2 or 3 | 5 |
 
 During the expansion phase, every odd appointment year yields exactly one new seat, giving each president two expansion appointments per term. During the transition, two seats become available in every odd appointment year, producing exactly four appointments per term across two consecutive terms (Terms 4 and 5 of the Appointment Schedule). At steady state, odd appointment years alternate between two and three available seats -- the borrowing rule ensures the total across any four-year presidential term always reaches exactly five.
@@ -337,7 +333,7 @@ Before sufficient Senior Justices exist to populate the Ethics Review Panel and 
 - Removed all body-text "pipeline" references; replaced with "process," "stages," or equivalent neutral language
 
 **Revision 1.3**
-- Corrected "How Many Appointments Per President?" section: replaced imprecise variable-description bullet list with a three-row table (Expansion / Transition / Steady State) showing seats per appointment year and appointments per term; corrected transition phase from "variable" to exactly four appointments per term for two consecutive terms (Years 13–19)
+- Corrected "How Many Appointments Per President?" section: replaced imprecise variable-description bullet list with a three-row table (Expansion / Transition / Steady State) showing seats per appointment year and appointments per term; corrected transition phase from "variable" to exactly four appointments per term for two consecutive terms (Years 13-19)
 - Fixed two instances of "sizing formula" to "sizing rule" for consistency with Stage Three subsection heading
 - Fixed "slate size formula" to "slate size rule" in How to Read This Guide intro paragraph
 
@@ -362,8 +358,6 @@ Before sufficient Senior Justices exist to populate the Ethics Review Panel and 
 *Revision history available in the raw file.*
 
 > 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/judiciary/fjbaa/seating-a-new-justice.md) (opens on GitHub -- click the ⬇ download button)
-
-*Last revised April 2026*
 
 ---
 
