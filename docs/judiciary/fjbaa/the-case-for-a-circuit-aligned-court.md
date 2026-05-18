@@ -2,10 +2,6 @@
 
 ## The Case for a Circuit-Aligned Court
 
-### Published April 2026
-
-Based on Rev 2.6 of the Federal Judicial Balance and Accountability Act
-
 ---
 
 ## Introduction
@@ -342,8 +338,6 @@ U.S. Census Bureau. *2020 Census Redistricting Data (Public Law 94-171) Summary 
 *Revision history available in the raw file.*
 
 > 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/judiciary/fjbaa/the-case-for-a-circuit-aligned-court.md) (opens on GitHub -- click the ⬇ download button)
-
-*Last revised April 2026*
 
 ---
 
