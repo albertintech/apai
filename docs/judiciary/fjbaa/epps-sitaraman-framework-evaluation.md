@@ -2,10 +2,6 @@
 
 ## Evaluation Against the Epps-Sitaraman Framework
 
-### Published March 2026
-
-Based on Rev 2.3 of the Federal Judicial Balance and Accountability Act
-
 ---
 
 ## Introduction
@@ -64,7 +60,7 @@ Epps and Sitaraman are notably skeptical of eighteen-year term limits, identifyi
 
 The Act addresses both concerns. On the first, the Act accepts that predictable appointments will carry political salience but argues this is preferable to the current system's actuarial randomness. The key is that the slate-based nomination with Bloc STAR voting absorbs the political energy by channeling it into a collaborative selection process rather than an adversarial confirmation battle. Politicization of appointment timing is less corrosive when the confirmation mechanism itself structurally favors broadly acceptable nominees.
 
-On the second, the Act's three-phase career structure eliminates the post-service incentive problem entirely. Justices do not leave the bench after twelve years of active service; they transition to Senior Justice status with full Article III tenure, salary, and continued judicial duties. There is no "post-Court career" to angle for because there is no departure from the judiciary. The Senior Justice phase includes vacancy coverage rotation, circuit court service by designation, and Ethics Review Panel membership -- meaningful institutional roles that preserve both judicial identity and professional engagement. This is a fundamentally different answer than any eighteen-year proposal provides, where post-term service is typically an afterthought rather than a structurally necessary career phase.
+On the second, the Act's three-phase career structure eliminates the post-service incentive problem entirely. Justices do not leave the bench after twelve years of active service; they transition to Senior Justice status with full Article III tenure, salary, and continued judicial duties. There is no "post-Court career" to angle for because there is no departure from the judiciary. The Senior Justice phase includes vacancy coverage rotation, circuit court service by designation, and Ethics Review Panel membership (when not currently assigned to vacancy coverage rotation) -- meaningful institutional roles that preserve both judicial identity and professional engagement. This is a fundamentally different answer than any eighteen-year proposal provides, where post-term service is typically an afterthought rather than a structurally necessary career phase.
 
 ### Panels
 
@@ -122,7 +118,7 @@ The Balanced Bench shares more structural DNA with the Act than the Lottery does
 
 **Short terms for visiting justices.** The five unanimously selected justices would serve one-year nonrenewable terms. These individuals would likely cast decisive votes on the Court's most important cases, yet they would arrive with no institutional knowledge of the Court's internal dynamics and leave before experiencing the consequences of their decisions. The Act's twelve-year active service terms give justices enough time to develop genuine expertise, invest in the institution's long-term doctrinal coherence, and bear the reputational consequences of their jurisprudence.
 
-**Narrow scope.** The Balanced Bench addresses one problem -- partisan capture -- through one mechanism. It does nothing about circuit population imbalance, appointment randomness for the partisan seats, ethics enforcement, confirmation dysfunction, Chief Justice power concentration, or actuarial selection bias. The Act is an integrated system addressing seven interconnected structural failures through mutually reinforcing mechanisms. The Balanced Bench is a single-mechanism intervention that leaves the rest of the system's pathologies intact.
+**Narrow scope.** The Balanced Bench addresses one problem -- partisan capture -- through one mechanism. It does nothing about circuit population imbalance, appointment randomness for the partisan seats, ethics enforcement, confirmation dysfunction, Chief Justice power concentration, or actuarial selection bias. The Act is an integrated system addressing six interconnected structural failures through mutually reinforcing mechanisms. The Balanced Bench is a single-mechanism intervention that leaves the rest of the system's pathologies intact.
 
 ---
 
@@ -181,7 +177,13 @@ Segall, Eric J. "Eight Justices Are Enough: A Proposal to Improve the United Sta
 <!--
 ## Revision History
 
-**Revision 1.2** (Current)
+**Revision 2.6** (Current)
+- Alignment review against FJBAA Rev 2.6
+- Corrected dysfunction count from seven to six (reflecting national anxiety framing demotion)
+- Added vacancy coverage rotation exclusion to Senior Justice Ethics Review Panel eligibility (Rev 2.3)
+- DPS 3.1 header and footer compliance applied
+
+**Revision 1.2**
 - DPS Rev 2.7 structural alignment: wrapped revision history in HTML comment block, added revision history note, added last revised line, standardized download link format, renamed file to Production Convention
 
 **Revision 1.1**
@@ -197,9 +199,7 @@ Segall, Eric J. "Eight Justices Are Enough: A Proposal to Improve the United Sta
 
 *Revision history available in the raw file.*
 
-> 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/judiciary/fjbaa/epps-sitaraman-framework-evaluation.md) (opens on GitHub -- click the download button)
-
-*Last revised April 2026*
+> 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/judiciary/fjbaa/epps-sitaraman-framework-evaluation.md) (opens on GitHub -- click the ⬇ download button)
 
 ---
 
