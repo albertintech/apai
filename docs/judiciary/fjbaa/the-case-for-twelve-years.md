@@ -2,10 +2,6 @@
 
 ## Active Service Duration: The Case for Twelve Years Over Eighteen
 
-### Published February 2026
-
-Based on Rev 2.3 of the Federal Judicial Balance and Accountability Act
-
 ---
 
 ## Introduction
@@ -38,7 +34,7 @@ The convergence on eighteen years traces primarily to Steven G. Calabresi and Ja
 
 Calabresi and Lindgren observed that eighteen-year terms would produce two appointments per presidential term on a nine-seat Court with biennial scheduling. The formula is straightforward: nine seats multiplied by a two-year appointment frequency equals eighteen years. This mathematical elegance became the proposal's primary selling point. Subsequent scholarship -- including DiTullio and Schochet's "Saving This Honorable Court," Carrington and Cramton's edited symposium volume, the American Academy of Arts and Sciences Working Group Report, and multiple Brennan Center analyses -- adopted the eighteen-year figure with little independent derivation.
 
-The Chilton et al. "Designing Supreme Court Term Limits" study (2021), which provides the most rigorous empirical framework for evaluating term-limits proposals, treats term length as the least analytically interesting of its nine design decisions. The authors note the tradeoffs and move on, essentially accepting the consensus without stress-testing it. As the FJBAA's Chilton Framework Evaluation observes, no proposal in the literature argues for eighteen years with the rigor that the Act argues for twelve.
+The Chilton et al. "Designing Supreme Court Term Limits" study (2021), which provides the most rigorous empirical framework for evaluating term-limits proposals, treats term length as the least analytically interesting of its nine design decisions. The authors note the tradeoffs and move on, essentially accepting the consensus without stress-testing it. As the Act's Chilton Framework Evaluation observes, no proposal in the literature argues for eighteen years with the rigor that the Act argues for twelve.
 
 The eighteen-year consensus rests on several assumptions that deserve scrutiny.
 
@@ -46,7 +42,7 @@ First, it assumes a nine-seat Court. If one changes the number of seats, the opt
 
 Second, the consensus treats the Calabresi-Lindgren median tenure figure (approximately 18.5 years) as a normative anchor rather than a descriptive statistic. But median historical tenure is a descriptive fact about a system operating under life tenure with high mortality -- not a prescription for what tenure ought to be under a designed system. Using historical median tenure to justify fixed term length confuses what happened with what should happen.
 
-Third, the consensus frames the question as "how long is long enough to insulate justices from political pressure" -- a framing that produces eighteen years as a comfortable compromise. The FJBAA reframes the question: how long should unelected officials hold extraordinary power before the democratic system receives a structured opportunity to recalibrate?
+Third, the consensus frames the question as "how long is long enough to insulate justices from political pressure" -- a framing that produces eighteen years as a comfortable compromise. The Act reframes the question: how long should unelected officials hold extraordinary power before the democratic system receives a structured opportunity to recalibrate?
 
 ---
 
@@ -60,7 +56,7 @@ This critique has force, but it applies with equal or greater strength against t
 
 **Judicial independence and insulation.** Some scholars argue that longer terms provide greater insulation from political pressure, allowing justices to develop independent jurisprudential voices uncorrupted by concern for post-bench careers. Justice Stephen Breyer himself suggested that "a long term -- I don't know, 18, 20 years, something like that" would be acceptable. The Presidential Commission on the Supreme Court (2021) noted concerns that shorter fixed terms could lead to justices "auditioning" for future employers through their opinions.
 
-This concern diminishes significantly when the post-active career involves continued judicial service rather than private sector employment. Under any senior-status model -- including the FJBAA's structurally robust Senior Justice phase -- justices transition to continued public service, not retirement into the private sector. The incentive structure differs fundamentally from that of a term-limited legislator who must seek private employment.
+This concern diminishes significantly when the post-active career involves continued judicial service rather than private sector employment. Under any senior-status model -- including the Act's structurally robust Senior Justice phase -- justices transition to continued public service, not retirement into the private sector. The incentive structure differs fundamentally from that of a term-limited legislator who must seek private employment.
 
 **Accumulated expertise and institutional memory.** Defenders of longer tenure argue that constitutional adjudication requires deep expertise that takes years to develop. A justice who has served twenty-five years brings accumulated wisdom about the Court's internal dynamics, the practical consequences of prior decisions, and the institutional relationships that make the judiciary function. Shorter terms, on this view, sacrifice wisdom for freshness.
 
@@ -72,19 +68,19 @@ This argument has genuine merit but proves too much. Carried to its logical conc
 
 ## The Case for Twelve Years
 
-The FJBAA's twelve-year active service period rests on several independent lines of justification that, taken together, provide a stronger principled foundation than any argument advanced for eighteen years.
+The Act's twelve-year active service period rests on several independent lines of justification that, taken together, provide a stronger principled foundation than any argument advanced for eighteen years.
 
 **Comparative institutional evidence.** Germany's Federal Constitutional Court has used twelve-year non-renewable terms since 1970, combined with a mandatory retirement age of sixty-eight. This system is widely regarded as producing both judicial independence and institutional renewal across more than five decades of operation. The German court interprets the Basic Law of Europe's largest democracy -- a task of comparable constitutional magnitude to the work of the U.S. Supreme Court. If twelve years suffices for that institution, the case that American constitutional adjudication uniquely requires eighteen years demands affirmative evidence that has not been provided.
 
 The United Kingdom's Supreme Court, operating since 2009, effectively produces tenures in a comparable range through its mandatory retirement age. Canada's mandatory retirement at seventy-five and Australia's at seventy produce similar results. These are not theoretical projections -- they are functioning constitutional democracies demonstrating the adequacy of twelve-year-range judicial terms. The average tenure for U.S. state supreme court justices since 1970 has been approximately thirteen years, roughly half the average for their federal counterparts during the same period.
 
-**Democratic accountability proportional to power.** Supreme Court justices hold positions of extraordinary power without democratic accountability. On the current nine-seat Court, five justices can override the expressed will of the entire elected government -- nullifying legislation that passed both chambers of Congress and received presidential signature. Under the FJBAA's fifteen-seat Court, eight votes would be required to form a majority, meaningfully diluting any single appointment's constitutional leverage.
+**Democratic accountability proportional to power.** Supreme Court justices hold positions of extraordinary power without democratic accountability. On the current nine-seat Court, five justices can override the expressed will of the entire elected government -- nullifying legislation that passed both chambers of Congress and received presidential signature. Under the Act's fifteen-seat Court, eight votes would be required to form a majority, meaningfully diluting any single appointment's constitutional leverage.
 
 The presidency -- the only federal position wielding power comparable to a Supreme Court seat -- is limited to eight years under normal circumstances. The Twenty-Second Amendment permits a maximum of ten years for a vice president who assumes office mid-term. If the framers of that amendment concluded that roughly a decade represents the outer bound of acceptable tenure for concentrated federal power exercised by a single individual, the case for limiting Supreme Court active service to twelve years follows naturally. Justices exercise power without electoral accountability and with effects that long outlast any presidency; if anything, the case for limiting their active service is stronger than the case for presidential term limits.
 
-**Active service is not the full measure of judicial contribution.** This point represents the most fundamental reframing of the term-length debate. The eighteen-year proposals treat post-term service as an afterthought -- a graceful exit into semi-retirement. The FJBAA treats it as a structurally necessary second career phase with real institutional functions.
+**Active service is not the full measure of judicial contribution.** This point represents the most fundamental reframing of the term-length debate. The eighteen-year proposals treat post-term service as an afterthought -- a graceful exit into semi-retirement. The Act treats it as a structurally necessary second career phase with real institutional functions.
 
-Senior Justices under the Act serve in the vacancy coverage pool, returning to the active Court when unexpected vacancies arise through random lottery rotation. They sit on circuit courts by designation. They adjudicate ethics complaints on the Ethics Review Panel. They provide institutional memory and continuity. These are not honorific functions -- they are essential to the Court's operation under the Act's architecture.
+Senior Justices under the Act serve in the vacancy coverage pool, returning to the active Court when unexpected vacancies arise through random lottery rotation. They sit on circuit courts by designation. They adjudicate ethics complaints on the Ethics Review Panel (when not currently assigned to vacancy coverage rotation). They provide institutional memory and continuity. These are not honorific functions -- they are essential to the Court's operation under the Act's architecture.
 
 Twelve years of active service is not the total period of judicial contribution. It is the period of peak active service, followed by a Senior Justice phase of continued, meaningful contribution. A justice appointed at fifty-five transitions to Senior status at sixty-seven, with potentially decades of additional service ahead. Under an eighteen-year term, that same justice transitions at seventy-three -- an age at which health limitations increasingly constrain the very functions the system depends on. If the Act needs a robust vacancy coverage pool and a functioning Ethics Review Panel composed of vigorous former justices, it needs those justices to reach Senior status while they are still capable of serving.
 
@@ -92,7 +88,7 @@ Twelve years of active service is not the total period of judicial contribution.
 
 **Risk asymmetry and burden of justification.** Shorter terms limit the downside of poor appointments -- a justice who proves unsuited to the role or whose jurisprudence diverges sharply from the reasonable expectations at appointment has a more bounded period of influence. Longer terms amplify this risk. The burden of justification should fall on longer tenures. Eighteen years or more approaches monarchical duration -- locking in each appointment for nearly a generation, amplifying the consequences of inevitable selection errors, and creating the conditions for courts to become identified with individual justices rather than serving as institutions belonging to the people.
 
-**Integration with the three-phase career structure.** Twelve years integrates naturally with the FJBAA's three-phase career structure. Ten years as Associate Justice provides substantial time to develop expertise, build working relationships, and contribute to the Court's jurisprudence. Two years as Co-Chief Justice provides meaningful opportunity to share in the leadership of the Court and the federal judiciary without the power accumulation that accompanies decades-long singular tenure. The 10+2 structure creates a dignified career arc with a clear capstone rather than the indefinite continuation that characterizes current practice. Every justice who completes a full term serves as Co-Chief Justice -- democratizing an honor and responsibility that the current system distributes based on presidential preference and actuarial chance.
+**Integration with the three-phase career structure.** Twelve years integrates naturally with the Act's three-phase career structure. Ten years as Associate Justice provides substantial time to develop expertise, build working relationships, and contribute to the Court's jurisprudence. Two years as Co-Chief Justice provides meaningful opportunity to share in the leadership of the Court and the federal judiciary without the power accumulation that accompanies decades-long singular tenure. The 10+2 structure creates a dignified career arc with a clear capstone rather than the indefinite continuation that characterizes current practice. Every justice who completes a full term serves as Co-Chief Justice -- democratizing an honor and responsibility that the current system distributes based on presidential preference and actuarial chance.
 
 **Nominee pool dignity and the end of actuarial selection.** The twelve-year term also eliminates one of the current system's most corrosive but least examined distortions: the systematic devaluation of older nominees. Under life tenure, every appointment is an implicit actuarial bet -- a president who appoints a fifty-year-old "buys" roughly thirty years of ideological influence, while a president who appoints a sixty-two-year-old "buys" perhaps twenty. The rational strategic response, consistently observed in the post-1970 appointment record, is to treat youth as a proxy for longevity, narrowing the candidate pool to exclude distinguished jurists whose only disqualification is experience itself. A fixed twelve-year term neutralizes this calculus entirely. Every nominee serves the same duration regardless of age at appointment. The selection process can prioritize legal distinction, judicial temperament, and breadth of experience -- qualities that tend to increase with age -- rather than penalizing them. This is not merely a structural efficiency; it is a matter of institutional dignity. A system that treats a distinguished sixty-three-year-old circuit judge as a second-best option because of her actuarial profile has confused longevity with merit. Eighteen-year terms improve this dynamic relative to life tenure but do not eliminate it -- a nominee appointed at sixty-three would serve until seventy-eight under an eighteen-year term, reintroducing health-completion concerns that Chilton et al.'s simulations document at length. Twelve-year terms place that same nominee's transition at seventy-five, well within the range of vigorous continued service as a Senior Justice.
 
@@ -122,9 +118,9 @@ The twelve-year term also reduces the final-period problem by shortening the per
 
 ---
 
-## Why the FJBAA Landed on Twelve Years
+## Why the Act Landed on Twelve Years
 
-The FJBAA did not arrive at twelve years by splitting the difference between competing proposals or by seeking political palatability. The twelve-year active service period is a principled position that emerges from the intersection of several independent lines of reasoning, each of which independently supports a shorter term than the consensus and which collectively make the case compelling.
+The Act did not arrive at twelve years by splitting the difference between competing proposals or by seeking political palatability. The twelve-year active service period is a principled position that emerges from the intersection of several independent lines of reasoning, each of which independently supports a shorter term than the consensus and which collectively make the case compelling.
 
 The starting point is the Act's fifteen-seat Court, which is itself a principled derivation from population equity constraints applied to federal judicial circuits -- not an arbitrary expansion target. Once the Court size is established at fifteen, the mathematical relationship between court size, term length, and appointment cadence changes fundamentally. Twelve years on a fifteen-seat Court produces the same biennial appointment rhythm that drives the entire eighteen-year consensus for a nine-seat Court. The eighteen-year figure is not wrong for a nine-seat Court; it is simply inapplicable to a fifteen-seat Court.
 
@@ -132,9 +128,9 @@ Beyond the mathematics, comparative institutional evidence provides the stronges
 
 The democratic accountability argument reinforces the comparative evidence. The question is not merely how long justices need to develop expertise -- it is how long unelected officials should exercise extraordinary power before the democratic system receives a structured opportunity to recalibrate. Presidential term limits answer this question for the executive branch at roughly eight to ten years. Twelve years is generous by that standard.
 
-Finally, the structural integration argument is decisive. The FJBAA is not merely a term-limits proposal; it is a comprehensive institutional architecture in which the Senior Justice phase performs essential functions -- vacancy coverage, ethics adjudication, circuit service -- that depend on former justices reaching that phase while still vigorous enough to serve. Eighteen-year terms would populate the Senior Justice corps with septuagenarians and octogenarians; twelve-year terms populate it with justices in their late sixties, capable of decades of continued contribution.
+Finally, the structural integration argument is decisive. The Act is not merely a term-limits proposal; it is a comprehensive institutional architecture in which the Senior Justice phase performs essential functions -- vacancy coverage, ethics adjudication, circuit service -- that depend on former justices reaching that phase while still vigorous enough to serve. Eighteen-year terms would populate the Senior Justice corps with septuagenarians and octogenarians; twelve-year terms populate it with justices in their late sixties, capable of decades of continued contribution.
 
-The eighteen-year consensus deserves the scrutiny it has not received. It reflects the mathematical constraints of a nine-seat Court and the political logic of compromise more than a rigorous analysis of how long unelected officials should exercise unchecked constitutional authority. The FJBAA's combination of twelve-year active terms, a fifteen-seat bench, and a structurally robust Senior Justice phase produces a system that is more democratically responsive, more institutionally functional, and more honest about the nature of the power it regulates than any eighteen-year proposal in the literature.
+The eighteen-year consensus deserves the scrutiny it has not received. It reflects the mathematical constraints of a nine-seat Court and the political logic of compromise more than a rigorous analysis of how long unelected officials should exercise unchecked constitutional authority. The Act's combination of twelve-year active terms, a fifteen-seat bench, and a structurally robust Senior Justice phase produces a system that is more democratically responsive, more institutionally functional, and more honest about the nature of the power it regulates than any eighteen-year proposal in the literature.
 
 ---
 
@@ -165,7 +161,13 @@ U.S. Congressional Research Service. "Proposals to Modify Supreme Court Justices
 <!--
 ## Revision History
 
-**Revision 1.2** (Current)
+**Revision 2.6** (Current)
+- Alignment review against FJBAA Rev 2.6
+- Added vacancy coverage rotation exclusion to Senior Justice Ethics Review Panel eligibility (Rev 2.3)
+- No other substantive content changes required: document's comparative term-length analysis does not depend on mechanisms revised in Revs 2.4-2.6
+- DPS 3.1 header and footer compliance applied
+
+**Revision 1.2**
 - DPS Rev 2.7 structural alignment: wrapped revision history in HTML comment block, added revision history note, added last revised line, standardized download link format, renamed file to Production Convention
 
 **Revision 1.1**
@@ -184,9 +186,7 @@ U.S. Congressional Research Service. "Proposals to Modify Supreme Court Justices
 
 *Revision history available in the raw file.*
 
-> 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/judiciary/fjbaa/the-case-for-twelve-years.md) (opens on GitHub -- click the download button)
-
-*Last revised April 2026*
+> 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/judiciary/fjbaa/the-case-for-twelve-years.md) (opens on GitHub -- click the ⬇ download button)
 
 ---
 
