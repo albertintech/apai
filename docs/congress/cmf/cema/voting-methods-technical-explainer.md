@@ -139,7 +139,7 @@ Under the old system where you pick just one candidate, five candidates would sp
 
 Allocated Score is used when a district is electing more than one Representative at the same time. Under the Act, most House districts elect between 3 and 7 Representatives. Allocated Score is how those multiple seats get filled fairly.
 
-You may also see this method called **STAR-PR** (STAR Proportional Representation). Both names refer to the same thing.
+You may also see this method referred to under the umbrella term **STAR-PR** (STAR Proportional Representation). STAR-PR is the general concept -- a 0-5 star ballot counted with a proportional algorithm. Allocated Score is the specific counting algorithm recommended for STAR-PR by the Equal Vote Coalition's research committee after a two-year comparative evaluation. The Act uses Allocated Score as its proportional method.
 
 ### Why Elect More Than One Representative?
 
@@ -159,11 +159,11 @@ To understand Allocated Score, you need one new concept: **ballot weight**.
 
 Think of your ballot as having a battery. When the election starts, your battery is fully charged -- your ballot has a weight of 1, meaning it counts at full strength.
 
-When a candidate you supported wins a seat, some of your battery gets used up. Your ballot weight goes down, because you have already gotten some of what you wanted -- one of your preferred candidates is now elected. This means your ballot has less influence on the remaining seats.
+When a candidate wins a seat, the system identifies that candidate's strongest supporters and removes them from the count. Their ballot weight goes to zero -- they have been fully represented by the winning candidate and step aside so that other voters can drive the next seat. If the quota boundary falls in the middle of a group of voters who all gave the winner the same score, those voters split the remaining cost equally, each losing a fraction of their weight rather than being fully removed.
 
-Meanwhile, voters whose preferred candidates have not won yet still have full batteries. Their ballots now carry more weight in deciding who fills the next seat.
+Voters who gave the winner a lower score -- below the boundary where the quota was filled -- keep their full ballot weight. They were not needed to fill the winner's quota, so they retain their full voice for the remaining seats.
 
-This is what makes the outcome fair and proportional. Once a group of voters has elected their preferred candidate, they step back and make room for other voters' preferences to be heard. No single group can sweep all the seats, because their ballot weight gets spent as their candidates win.
+This is what makes the outcome fair and proportional. Each winner is "paid for" by a specific quota of voters drawn from that winner's strongest supporters. Once those supporters have been allocated, everyone else continues at full strength. No single group can sweep all the seats, because each seat consumes a quota of that group's voters.
 
 ### How Votes Are Counted
 
@@ -173,7 +173,7 @@ Allocated Score fills one seat at a time through a series of rounds. Here is wha
 
 **2. The highest-scoring candidate wins the next seat.**
 
-**3. Reduce ballot weights.** Every ballot that gave the winning candidate a score above 0 has its weight reduced. The more you supported the winner, the more your weight goes down. Ballots that gave the winner 0 stars are not affected at all.
+**3. Allocate ballot weight from the winner's strongest supporters.** After the winner is determined, voters are sorted by the score they gave the winner, from highest to lowest. Starting from the top of this sorted list, ballot weights are set to zero -- one voter at a time -- until one quota's worth of ballot weight has been consumed. The winner's strongest supporters are fully allocated first. If the quota boundary falls in the middle of a group of voters who all gave the same score, those voters share the remaining cost equally (each loses the same fraction of their weight). Voters below this boundary are not affected at all -- their ballot weight stays exactly where it was.
 
 **4. Repeat** until all seats are filled.
 
@@ -181,9 +181,9 @@ Allocated Score fills one seat at a time through a series of rounds. Here is wha
 
 Before the first round, a number called the **quota** is calculated. The quota is the total number of voters divided by the number of seats. In an election with 30 voters filling 3 seats, the quota is 30 divided by 3, which equals 10.
 
-The quota represents the "cost" of one seat. In each round, a total of exactly 10 units of ballot weight (in our example) gets spent across all the ballots that supported the winning candidate. How much each individual ballot pays depends on how strongly that ballot supported the winner compared to everyone else who supported the winner.
+The quota represents the "cost" of one seat. Each time a candidate wins, exactly one quota's worth of ballot weight is consumed from that candidate's supporters. The allocation starts at the top -- voters who gave the winner the highest scores are consumed first. If 10 units of weight are needed and the winner's 5-star supporters account for 15 units, only a fraction of each supporter's weight is taken (enough to total exactly 10), and everyone who gave a lower score is left completely untouched.
 
-If you gave the winner 5 stars and most other supporters gave 3 stars, you pay a bigger share of the cost. If you only gave the winner 1 star, you pay a smaller share. This is fair: voters who got more of what they wanted give up more of their remaining influence.
+Think of it like paying for pizza with a group. The people who wanted the pizza the most pay first. If they have more than enough money between them, they each chip in an equal fraction and nobody else has to pay at all. The people who barely wanted the pizza keep their full wallet for next time.
 
 ### Worked Example: A Three-Seat House District
 
@@ -233,43 +233,31 @@ All 30 ballots start with a weight of 1 (full strength). We add up each candidat
 
 **Lin wins the first seat** with a total score of 80.
 
-**Now we reduce ballot weights.** Lin's total score was 80, and the quota is 10. Every ballot that gave Lin a score above 0 will have its weight reduced. The reduction depends on how much each ballot contributed to Lin's total compared to the full total of 80.
+**Now we allocate ballot weight.** The quota is 10, so we need to consume 10 units of ballot weight from Lin's supporters, starting with the strongest supporters first.
 
-Here is how the weight reduction works for each group:
+First, sort all voters by the score they gave Lin, from highest to lowest:
 
-**Group 1 voters** (15 voters, each gave Lin 5 stars):
+| Score Given to Lin | Voter Group | Number of Voters | Weight per Voter | Total Weight in Tier |
+|:-------------------:|:-----------:|:----------------:|:----------------:|:--------------------:|
+| 5 stars             | Group 1     | 15               | 1.0              | 15.0                 |
+| 1 star              | Group 3     | 5                | 1.0              | 5.0                  |
+| 0 stars             | Group 2     | 10               | 1.0              | 10.0                 |
 
-- Each ballot's contribution to Lin: weight (1.0) times score (5) = 5.0
-- Share of Lin's total: 5.0 out of 80 = 0.0625 per ballot
-- Weight spent per ballot: quota (10) times 0.0625 = 0.625
-- New ballot weight: 1.0 minus 0.625 = **0.375**
+Now allocate from the top. The 5-star tier has 15 units of ballot weight. The quota is 10. Since 15 exceeds 10, the quota is filled entirely within this tier -- we do not need to touch anyone below it.
 
-These voters gave Lin their strongest support, so they pay the most. Their ballots now count at about a third of full strength.
+**Fractional surplus handling:** We need 10 units out of the 15 available. Each of the 15 voters in this tier loses the same fraction: 10 divided by 15 equals two-thirds. Each Group 1 voter's weight drops from 1.0 to one-third (approximately 0.333).
 
-**Group 2 voters** (10 voters, each gave Lin 0 stars):
-
-- These voters gave Lin nothing, so they contributed nothing to Lin's election.
-- Weight spent: 0
-- New ballot weight: **1.000** (unchanged)
-
-These voters did not help elect Lin, so their ballots stay at full strength. This is the key to proportionality -- they still have their full voice for the next seat.
-
-**Group 3 voters** (5 voters, each gave Lin 1 star):
-
-- Each ballot's contribution to Lin: weight (1.0) times score (1) = 1.0
-- Share of Lin's total: 1.0 out of 80 = 0.0125 per ballot
-- Weight spent per ballot: quota (10) times 0.0125 = 0.125
-- New ballot weight: 1.0 minus 0.125 = **0.875**
-
-These voters gave Lin only mild support, so they pay only a small amount. Their ballots are still nearly full strength.
+The 1-star tier (Group 3) and the 0-star tier (Group 2) are below the allocation boundary. They are not touched at all. Their ballot weight stays at 1.0.
 
 **Summary after Round 1:**
 
 | Voter Group | Voters | New Ballot Weight | Why |
 |-------------|:------:|:-----------------:|-----|
-| Group 1     | 15     | 0.375             | Gave Lin 5 stars -- paid the most |
-| Group 2     | 10     | 1.000             | Gave Lin 0 stars -- unaffected |
-| Group 3     | 5      | 0.875             | Gave Lin 1 star -- paid a little |
+| Group 1     | 15     | 0.333             | Gave Lin 5 stars -- allocated as Lin's quota (fractional) |
+| Group 2     | 10     | 1.000             | Gave Lin 0 stars -- below the allocation boundary |
+| Group 3     | 5      | 1.000             | Gave Lin 1 star -- below the allocation boundary |
+
+Notice that Group 3 gave Lin 1 star but kept their full ballot weight. Under Allocated Score, the quota was completely filled by the 5-star supporters before reaching anyone else. Group 3's mild support for Lin cost them nothing.
 
 #### Round 2: Filling the Second Seat
 
@@ -277,29 +265,41 @@ Now we recalculate scores, but this time each ballot's score is multiplied by it
 
 **Table 4: Round 2 Weighted Score Calculation**
 
-| Candidate | Group 1 (15 voters x 0.375) | Group 2 (10 voters x 1.0) | Group 3 (5 voters x 0.875) | Weighted Total |
-|-----------|:---------------------------:|:--------------------------:|:---------------------------:|:--------------:|
-| Garcia    | 15 x 0.375 x 4 = 22.5     | 10 x 1.0 x 0 = 0          | 5 x 0.875 x 2 = 8.8       | **31.3**       |
-| Kim       | 15 x 0.375 x 2 = 11.3     | 10 x 1.0 x 1 = 10.0       | 5 x 0.875 x 5 = 21.9      | **43.1**       |
-| Murphy    | 15 x 0.375 x 0 = 0        | 10 x 1.0 x 5 = 50.0       | 5 x 0.875 x 1 = 4.4       | **54.4**       |
-| Patel     | 15 x 0.375 x 0 = 0        | 10 x 1.0 x 4 = 40.0       | 5 x 0.875 x 0 = 0         | **40.0**       |
-| Brooks    | 15 x 0.375 x 1 = 5.6      | 10 x 1.0 x 0 = 0          | 5 x 0.875 x 3 = 13.1      | **18.8**       |
+| Candidate | Group 1 (15 voters x 0.333) | Group 2 (10 voters x 1.0) | Group 3 (5 voters x 1.0) | Weighted Total |
+|-----------|:---------------------------:|:--------------------------:|:--------------------------:|:--------------:|
+| Garcia    | 15 x 0.333 x 4 = 20.0     | 10 x 1.0 x 0 = 0          | 5 x 1.0 x 2 = 10.0        | **30.0**       |
+| Kim       | 15 x 0.333 x 2 = 10.0     | 10 x 1.0 x 1 = 10.0       | 5 x 1.0 x 5 = 25.0        | **45.0**       |
+| Murphy    | 15 x 0.333 x 0 = 0        | 10 x 1.0 x 5 = 50.0       | 5 x 1.0 x 1 = 5.0         | **55.0**       |
+| Patel     | 15 x 0.333 x 0 = 0        | 10 x 1.0 x 4 = 40.0       | 5 x 1.0 x 0 = 0           | **40.0**       |
+| Brooks    | 15 x 0.333 x 1 = 5.0      | 10 x 1.0 x 0 = 0          | 5 x 1.0 x 3 = 15.0        | **20.0**       |
 
-**How to read this table:** The calculation now has three parts multiplied together: the number of voters, their current ballot weight, and their score for the candidate. Take Murphy's row. Group 1 (15 voters, weight 0.375) gave Murphy 0 stars: 15 times 0.375 times 0 equals 0. Group 2 (10 voters, weight 1.0) gave Murphy 5 stars: 10 times 1.0 times 5 equals 50. Group 3 (5 voters, weight 0.875) gave Murphy 1 star: 5 times 0.875 times 1 equals 4.4. Add those up: 0 + 50 + 4.4 = 54.4.
+**How to read this table:** The calculation now has three parts multiplied together: the number of voters, their current ballot weight, and their score for the candidate. Take Murphy's row. Group 1 (15 voters, weight 0.333) gave Murphy 0 stars: 15 times 0.333 times 0 equals 0. Group 2 (10 voters, weight 1.0) gave Murphy 5 stars: 10 times 1.0 times 5 equals 50. Group 3 (5 voters, weight 1.0) gave Murphy 1 star: 5 times 1.0 times 1 equals 5. Add those up: 0 + 50 + 5 = 55.
 
-**Murphy wins the second seat** with a weighted total of 54.4.
+**Murphy wins the second seat** with a weighted total of 55.0.
 
-Notice what happened: Group 2's voters still had full ballot weight (1.0) because they gave Lin 0 stars in Round 1. That full-strength weight, combined with their strong support for Murphy (5 stars), made Murphy the clear winner this round. The system worked as designed -- voters who had not yet been represented got to drive this decision.
+Notice what happened: Both Group 2 and Group 3 still had full ballot weight (1.0) because neither was allocated after Round 1. Group 2 gave Murphy 5 stars. Group 3 gave Murphy only 1 star. Together with Group 2's full-strength support, Murphy was the clear winner this round. The system worked as designed -- voters who had not yet been represented got to drive this decision.
 
-**Reducing ballot weights again:** Murphy's weighted total was 54.4, and the quota is still 10.
+**Allocating ballot weight again:** Sort voters by weighted score given to Murphy, from highest to lowest:
 
-| Voter Group | Murphy Score | Previous Weight | Weight Spent | New Weight |
-|-------------|:-----------:|:---------------:|:------------:|:----------:|
-| Group 1     | 0           | 0.375           | 0            | **0.375**  |
-| Group 2     | 5           | 1.000           | 0.919        | **0.081**  |
-| Group 3     | 1           | 0.875           | 0.161        | **0.714**  |
+| Weighted Score for Murphy | Voter Group | Voters | Current Weight | Total Weight in Tier |
+|:-------------------------:|:-----------:|:------:|:--------------:|:--------------------:|
+| 5.0 (weight 1.0 x score 5) | Group 2   | 10     | 1.0            | 10.0                 |
+| 1.0 (weight 1.0 x score 1) | Group 3   | 5      | 1.0            | 5.0                  |
+| 0 (weight 0.333 x score 0) | Group 1   | 15     | 0.333          | 5.0                  |
 
-Group 2 voters gave Murphy 5 stars and have now spent almost all their ballot weight (down to 0.081). They have elected their candidate and have very little influence remaining -- which is fair, because they have already been represented.
+The quota is 10. The top tier (Group 2, weighted score 5.0) has exactly 10 units of ballot weight -- precisely one quota. All 10 voters in this tier are fully allocated: their weight goes to zero.
+
+The 1.0 tier (Group 3) and the 0 tier (Group 1) are below the allocation boundary. They are untouched.
+
+**Summary after Round 2:**
+
+| Voter Group | Voters | New Ballot Weight | Why |
+|-------------|:------:|:-----------------:|-----|
+| Group 1     | 15     | 0.333             | Gave Murphy 0 stars -- below the allocation boundary |
+| Group 2     | 10     | 0.000             | Gave Murphy 5 stars -- fully allocated as Murphy's quota |
+| Group 3     | 5      | 1.000             | Gave Murphy 1 star -- below the allocation boundary |
+
+Group 2 voters gave Murphy 5 stars and have now been fully allocated -- their weight is zero. They elected their candidate and are completely represented. Group 3, despite giving Murphy 1 star, retains full ballot weight because the quota was consumed entirely by Group 2 before reaching them.
 
 #### Round 3: Filling the Third Seat
 
@@ -307,24 +307,26 @@ Recalculate scores one more time with the latest ballot weights. Both Lin and Mu
 
 **Table 5: Round 3 Weighted Score Calculation**
 
-| Candidate | Group 1 (15 x 0.375) | Group 2 (10 x 0.081) | Group 3 (5 x 0.714) | Weighted Total |
+| Candidate | Group 1 (15 x 0.333) | Group 2 (10 x 0.000) | Group 3 (5 x 1.000) | Weighted Total |
 |-----------|:---------------------:|:---------------------:|:--------------------:|:--------------:|
-| Garcia    | 15 x 0.375 x 4 = 22.5 | 10 x 0.081 x 0 = 0  | 5 x 0.714 x 2 = 7.1 | **29.6**      |
-| Kim       | 15 x 0.375 x 2 = 11.3 | 10 x 0.081 x 1 = 0.8 | 5 x 0.714 x 5 = 17.9 | **29.9**     |
-| Patel     | 15 x 0.375 x 0 = 0    | 10 x 0.081 x 4 = 3.2 | 5 x 0.714 x 0 = 0   | **3.2**       |
-| Brooks    | 15 x 0.375 x 1 = 5.6  | 10 x 0.081 x 0 = 0   | 5 x 0.714 x 3 = 10.7 | **16.3**     |
+| Garcia    | 15 x 0.333 x 4 = 20.0 | 10 x 0 x 0 = 0      | 5 x 1.0 x 2 = 10.0  | **30.0**       |
+| Kim       | 15 x 0.333 x 2 = 10.0 | 10 x 0 x 1 = 0      | 5 x 1.0 x 5 = 25.0  | **35.0**       |
+| Patel     | 15 x 0.333 x 0 = 0    | 10 x 0 x 4 = 0      | 5 x 1.0 x 0 = 0     | **0.0**        |
+| Brooks    | 15 x 0.333 x 1 = 5.0  | 10 x 0 x 0 = 0      | 5 x 1.0 x 3 = 15.0  | **20.0**       |
 
-**Kim wins the third and final seat** with a weighted total of 29.9.
+**Kim wins the third and final seat** with a weighted total of 35.0.
 
-This was close -- Garcia finished at 29.6, just behind Kim. What made the difference? Kim had support from all three voter groups. Group 1 contributed 11.3, Group 2 contributed 0.8, and Group 3 contributed 17.9. Garcia had more from Group 1 (22.5) and Group 3 (7.1) but nothing from Group 2. Kim's broader appeal, drawing from every part of the electorate, was enough to edge out Garcia's stronger but narrower support.
+What drove this result? Group 3 had retained full ballot weight throughout the entire election -- they were never above the allocation boundary in either previous round. Their 5 voters at full strength, each giving Kim 5 stars, contributed 25.0 to Kim's total. Group 1 contributed 10.0 at their reduced weight. Garcia, by contrast, drew 20.0 from Group 1 and 10.0 from Group 3 -- more from Group 1 but less from Group 3. Kim's advantage came from Group 3's strong preference (5 stars for Kim versus 2 stars for Garcia), and Group 3's full ballot weight gave that preference its full effect.
+
+Group 2 contributed nothing to any candidate in Round 3. Their ballot weight was zero -- they were fully allocated after Murphy's election. This is exactly the point of the allocation mechanism: voters who have been represented step aside entirely, making room for underrepresented voters to drive the remaining decisions.
 
 #### What the Final Result Tells Us
 
 | Seat | Winner | Elected By |
 |------|--------|------------|
-| 1    | Lin    | Primarily Group 1 voters (who gave Lin 5 stars) |
-| 2    | Murphy | Primarily Group 2 voters (who gave Murphy 5 stars) |
-| 3    | Kim    | A mix of all three groups |
+| 1    | Lin    | Group 1 voters (who gave Lin 5 stars) -- allocated as Lin's quota |
+| 2    | Murphy | Group 2 voters (who gave Murphy 5 stars) -- fully allocated as Murphy's quota |
+| 3    | Kim    | Primarily Group 3 voters (who retained full weight throughout and gave Kim 5 stars) |
 
 Now compare each group's share of voters to their share of representation:
 
@@ -338,7 +340,7 @@ With only three seats to fill, perfect proportionality is not possible -- you ca
 
 The important point is that every group of voters received representation. In a traditional single-winner election, only one group would win and the other two would get nothing. Here, all three groups elected someone who reflects their preferences.
 
-And nobody had to vote strategically. Every voter simply scored each candidate honestly. The ballot weight mechanism handled the rest.
+The allocation mechanism created clean constituency boundaries. Group 1's strongest supporters were allocated to Lin. Group 2's supporters were fully allocated to Murphy. Group 3, whose preferred candidates had not yet won, retained full ballot weight throughout and used that weight to elect Kim in the final round. Each group's influence was spent on candidates they actually supported, and nobody had to vote strategically to make this happen.
 
 ---
 
@@ -359,7 +361,7 @@ This consistency is intentional. There is only one skill to learn. If you know h
 | What you do | Score candidates 0-5 stars | Score candidates 0-5 stars |
 | Number of winners | 1 | 3 to 7 |
 | How winners are determined | Highest scores, then head-to-head runoff | Highest weighted scores, round by round |
-| Ballot weight | Not applicable | Reduced as your preferred candidates win |
+| Ballot weight | Not applicable | Allocated from strongest supporters as candidates win |
 | Proportionality | Not applicable (one winner) | Seat shares reflect voter shares |
 
 ### Who Manages the System?
@@ -398,7 +400,7 @@ Yes. Score the candidates you know. Any candidate you leave blank receives 0 sta
 
 **Does scoring other candidates hurt my favorite?**
 
-No. Every candidate's score is added up independently. Giving your second-favorite candidate 4 stars does not take anything away from the 5 stars you gave your favorite. In the STAR runoff, only your preference between the two finalists matters. In Allocated Score, the ballot weight system ensures that your influence is spent proportionally, not taken away arbitrarily.
+No. Every candidate's score is added up independently. Giving your second-favorite candidate 4 stars does not take anything away from the 5 stars you gave your favorite. In the STAR runoff, only your preference between the two finalists matters. In Allocated Score, ballot weight is allocated starting from the winner's strongest supporters. If a quota's worth of ballot weight is consumed before reaching voters who gave lower scores, those lower-scoring voters are completely unaffected -- their influence is fully preserved for the remaining seats.
 
 **Will this be confusing?**
 
@@ -450,19 +452,21 @@ where |B| is the number of valid ballots. (The specific quota formula -- Hare, D
 
 **Step 2.** Elect the candidate c* with the highest WS(c*).
 
-**Step 3.** For each ballot b where s(b, c*) > 0, reduce the ballot weight:
+**Step 3.** Sort all ballots by their weighted score for the elected candidate, ws(b) = w(b) x s(b, c*), in descending order.
 
-> spend(b) = Q x [w(b) x s(b, c*)] / WS(c*)
+**Step 4.** Working from the top of the sorted list, identify the **split point** -- the highest weighted score value v such that the total weight of all ballots with ws(b) strictly greater than v is less than Q. This identifies the cusp tier: the score tier containing the quota boundary.
 
-> w(b) = w(b) - spend(b)
+Let spent_above = sum of w(b) for all ballots where ws(b) > split_point.
 
-Ballots that gave the elected candidate a score of 0 are unaffected.
+- For all ballots where ws(b) > split_point: set w(b) = 0 (fully allocated).
+- For all ballots where ws(b) = split_point (the cusp tier): compute the fraction f = (Q - spent_above) / (sum of w(b) for ballots where ws(b) = split_point). Set w(b) = w(b) x (1 - f) for each ballot in this tier.
+- For all ballots where ws(b) < split_point: w(b) is unchanged.
 
-**Step 4.** Remove c* from the set of remaining candidates. Repeat from Step 1.
+**Step 5.** Remove c* from the set of remaining candidates. Repeat from Step 1.
 
 **Properties:**
 
-The total weight spent in each round equals Q (the quota), ensuring that each elected candidate "costs" an equal share of the electorate's total voting power. Ballot weight reductions are proportional to each ballot's contribution to the elected candidate's total, ensuring that voters who gave stronger support to an elected candidate have more weight spent than those who gave weaker support.
+The total weight spent in each round equals Q (the quota), ensuring that each elected candidate "costs" an equal share of the electorate's total voting power. Allocation proceeds from the top of the sorted list: voters who contributed the most to the winner's election are fully consumed first. Voters at the cusp of the quota boundary share the remaining cost equally through fractional surplus handling, preserving equal treatment of voters who scored the winner identically. Voters below the cusp are completely unaffected -- their ballot weight is preserved in full for subsequent rounds. This sort-and-allocate mechanism creates hard constituency boundaries between voters who have been represented and those who have not, which is the structural property that produces proportional outcomes.
 
 ### A.3 Notation Summary
 
@@ -472,22 +476,25 @@ The total weight spent in each round equals Q (the quota), ensuring that each el
 | b | A single ballot |
 | C | Set of all candidates |
 | c | A single candidate |
+| c* | The elected candidate in a given round |
 | k | Number of seats to fill |
 | s(b, c) | Score assigned by ballot b to candidate c (0-5) |
 | w(b) | Current weight of ballot b (starts at 1) |
+| ws(b) | Weighted score of ballot b for a given candidate: w(b) x s(b, c) |
 | Q | Quota (ballots per seat) |
 | S(c) | Total score for candidate c (unweighted) |
 | WS(c) | Weighted score for candidate c |
+| f | Fractional surplus handling factor for cusp-tier ballots |
 
 ---
 
 ## Glossary
 
-**Allocated Score.** The method used to count votes in multi-winner elections under the Act. Voters score candidates 0-5 stars, and seats are filled one at a time with ballot weights adjusted after each round. Also called STAR-PR.
+**Allocated Score.** The counting algorithm used for multi-winner elections under the Act. Voters score candidates 0-5 stars. Seats are filled one at a time: the highest-scoring candidate wins each round, and a quota's worth of that candidate's strongest supporters are allocated (their ballot weight is set to zero), with fractional surplus handling at the cusp. Allocated Score is the specific algorithm recommended for STAR-PR by the Equal Vote Coalition's research committee.
 
 **Automatic runoff.** The second step of STAR voting. After the two highest-scoring candidates are identified, every ballot is checked to see which of the two the voter preferred. The one preferred by more voters wins. No separate runoff election is held -- it happens automatically using the scores already on your ballot.
 
-**Ballot weight.** A number that represents how much influence your ballot still has. It starts at 1 (full influence). As candidates you supported win seats, your ballot weight decreases, reflecting that you have already received some representation.
+**Ballot weight.** A number that represents how much influence your ballot still has. It starts at 1 (full influence). When a candidate you supported wins a seat, the system allocates weight from that candidate's strongest supporters first. If you are among the voters whose weight is consumed to fill the winner's quota, your weight goes to zero (fully allocated) or is fractionally reduced (if you are at the cusp). If you are below the allocation boundary, your weight is unaffected.
 
 **Deterministic.** Means the same ballots always produce the same result. There is no randomness in the counting process (except for tie-breaking in rare cases). Anyone can recount the ballots and get the identical outcome.
 
@@ -511,7 +518,7 @@ The total weight spent in each round equals Q (the quota), ensuring that each el
 
 **STAR voting.** Score Then Automatic Runoff. The method used for single-winner elections under the Act. Voters score candidates 0-5, the two highest-scoring candidates become finalists, and the finalist preferred by more voters wins.
 
-**STAR-PR.** Another name for Allocated Score. The "PR" stands for Proportional Representation.
+**STAR-PR.** STAR Proportional Representation. The umbrella concept for a 0-5 star ballot counted with a proportional algorithm. Allocated Score is the specific counting algorithm recommended for STAR-PR. Other algorithms (such as Sequentially Spent Score and Sequential Monroe) were evaluated as alternative tabulation methods for STAR-PR during the Equal Vote Coalition's research process.
 
 **Weighted score.** A candidate's score after ballot weights are applied. Calculated by multiplying each ballot's score for that candidate by that ballot's current weight, then adding up the results.
 
@@ -520,7 +527,16 @@ The total weight spent in each round equals Q (the quota), ensuring that each el
 <!--
 ## Revision History
 
-**Revision 5.6** (Current)
+**Revision 5.7** (Current)
+- Aligned with Rev 5.7 of the legislative text
+- Corrected Allocated Score algorithm specification throughout: replaced incorrect proportional-spending formula with correct Monroe-type sort-and-allocate mechanism (sort voters by weighted score given to winner, allocate from the top, fractional surplus handling at the cusp, full weight preserved below the cusp)
+- Recalculated all ballot weights and round results in the three-seat House district worked example using the corrected algorithm; winners unchanged (Lin, Murphy, Kim)
+- Rewrote prose descriptions of the weight-reduction mechanism ("The Big Idea: Ballot Weight," "How Much Weight Gets Spent?," "How Votes Are Counted" step 3) to reflect sort-and-remove rather than proportional-spending
+- Corrected STAR-PR / Allocated Score terminology: STAR-PR is the umbrella concept (star ballot + proportional algorithm); Allocated Score is the specific recommended counting algorithm. Revised Part II introduction, glossary entries for "Allocated Score," "Ballot weight," and "STAR-PR," and Part III comparison table
+- Corrected Appendix A.2 split point definition: replaced "cumulative weight first meets or exceeds Q" with "highest weighted score value such that total weight strictly above is less than Q" to correctly identify the cusp tier
+- Fixed residual proportional-spending language in Part IV FAQ ("Does scoring other candidates hurt my favorite?")
+
+**Revision 5.6**
 - Renamed from "Federal Elections Modernization Act (FEMA)" to "Congressional Elections Modernization Act (CEMA)"; all references, defined terms, and download paths updated throughout
 - Presidential scope removal: removed presidential election references from Purpose section, STAR voting introduction, and Part III overview; the Act governs congressional elections only
 - DPS 3.1 header compliance: removed "Published March 2026" and "Based on Rev 5.2" metadata lines per DPS Rev 3.1 Section 1.2
