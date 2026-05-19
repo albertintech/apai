@@ -2,7 +2,7 @@
 
 ## An Electoral and Congressional Modernization Framework for a Stronger Republic
 
-### Revision 5.6
+### Revision 5.7
 
 ---
 
@@ -648,7 +648,8 @@ This subsection takes effect at the First CEMA Election.
 
 For House elections in multi-member districts electing three or more
 Representatives, STAR-PR (Score Then Automatic Runoff - Proportional
-Representation, also known as Allocated Score) shall be used.
+Representation) shall be used. The tabulation algorithm for STAR-PR is
+Allocated Score.
 
 **(1) Required Properties**
 
@@ -683,11 +684,31 @@ weights are 1.
 **Step 3: Elect the highest-scoring candidate.** The candidate with the highest
 weighted score wins the next seat.
 
-**Step 4: Reduce ballot weights.** For each ballot that scored the elected
-candidate above 0, reduce the ballot's weight in proportion to that ballot's
-contribution to the elected candidate's weighted score total. The total weight
-reduced across all ballots in each round equals the quota. Ballots that scored
-the elected candidate at 0 are unaffected.
+**Step 4: Allocate ballot weight.** Sort all ballots by their weighted score
+for the elected candidate (current ballot weight multiplied by score given to
+the elected candidate), from highest to lowest. Working from the top of this
+sorted list, allocate ballot weight as follows:
+
+   (A) Identify the split point -- the highest weighted score value such
+   that the total weight of all ballots with a weighted score strictly
+   greater than that value is less than the quota;
+
+   (B) For each ballot with a weighted score strictly greater than the
+   split point, set the ballot's weight to zero;
+
+   (C) For ballots at the split point (the cusp tier), compute the
+   fraction of weight to allocate as the remaining quota need -- the
+   quota minus the total weight allocated under subparagraph (B) --
+   divided by the total weight of all ballots at the split point. Reduce
+   each ballot in the cusp tier by that fraction, applied equally to all
+   such ballots; and
+
+   (D) Ballots with a weighted score below the split point are
+   unaffected.
+
+The total weight allocated across all ballots in each round equals the quota.
+The ballot weight allocation procedure is an adjustable parameter under
+Section 409(e)(1).
 
 **Step 5: Repeat.** Remove the elected candidate from consideration. Return to
 Step 2. Continue until all seats are filled.
@@ -919,9 +940,10 @@ ongoing research.
 1. **Quota calculation formula**: The mathematical formula for determining the
    unit of ballot weight allocated per seat under STAR-PR, as specified in
    Section 404(g)(2);
-2. **Reweighting methodology**: The procedure for adjusting ballot weight after
-   a voter's preferred candidate is elected, to prevent vote exhaustion while
-   maintaining proportionality;
+2. **Ballot weight allocation procedure**: The procedure for allocating ballot
+   weight after each seat is filled, as specified in Section 404(g)(2),
+   including the sort order, split point identification, and fractional
+   surplus handling method;
 3. **Seat allocation sequence**: The order of operations for allocating seats
    among candidates in each allocation round;
 4. **Tie-breaking procedures**: Methods for resolving ties at any stage of
@@ -1976,7 +1998,7 @@ in Section 409(h)(1).
 "Adjustable parameters" means the technical specifications of STAR and STAR-PR
 voting methods and the districting algorithm specified in Section 409(e)(1) that
 may be modified through the technical review process established in Section 409,
-including quota calculation formulas, reweighting methodology, seat allocation
+including quota calculation formulas, ballot weight allocation procedure, seat allocation
 sequences, tie-breaking procedures, rounding and remainder handling, audit and
 verification protocols, the districting algorithm, the district magnitude
 allocation method, and the VRA compliance adjustment procedure. Modifications
@@ -2022,7 +2044,14 @@ through the processes established in Section 409(h).
 <!--
 ## Revision History
 
-**Revision 5.6** (Current)
+**Revision 5.7** (Current)
+
+- **Section 404(g) Allocated Score algorithm corrected:** Step 4 replaced proportional-spending formula (which distributed weight reduction across all supporters proportionally) with correct Monroe-type sort-and-allocate procedure: sort ballots by weighted score for the elected candidate in descending order, identify the split point (cusp tier containing the quota boundary), fully allocate ballots above the split point, apply fractional surplus handling at the cusp, leave ballots below the cusp unaffected. Prior Step 4 specified the Sequentially Spent Score mechanism despite the section being labeled Allocated Score since Rev 4.3
+- **Section 404(g) STAR-PR / Allocated Score terminology corrected:** Replaced "also known as Allocated Score" with language establishing the correct hierarchy: STAR-PR is the umbrella concept (score ballot + proportional algorithm); Allocated Score is the specific tabulation algorithm for STAR-PR
+- **Section 409(e)(1) item 2 renamed:** "Reweighting methodology" replaced with "Ballot weight allocation procedure" to accurately describe the Allocated Score mechanism (sort-and-allocate) rather than the reweighting family of methods (Reweighted Range Voting); description updated to reference sort order, split point identification, and fractional surplus handling
+- **Section 806(d) conforming edit:** "reweighting methodology" replaced with "ballot weight allocation procedure" in the adjustable parameters definition to match Section 409(e)(1)
+
+**Revision 5.6**
 
 - **Presidential elections removed from scope:** CEMA's constitutional authority rests on the Elections Clause (Article I, Section 4), which covers congressional elections. Presidential elector selection operates under Article II, Section 1, vesting primary authority in state legislatures. Removed presidential election references from Section 2 (Findings), Section 404 (STAR voting applicability, UGES, single-winner tabulation), and Section 405 (ballot design). CEMA is now a congressional elections statute; presidential electoral reform will be addressed through a separate vehicle requiring constitutional amendment
 - **Title V (FCAO) removed:** Non-Qualifying Federal Office Examinations extracted from CEMA to become a standalone statute under the Congressional Modernization Framework. FCAO is a candidate transparency mechanism with distinct constitutional grounding from CEMA's electoral mechanics provisions. Removed Title V in its entirety (~1,600 lines); removed all FCAO cross-references from Titles I, IV, and remaining Titles; removed FCAO score display from ballot format (Sections 404(c), 404(d)(1), 404(f)(1), 405(a))
@@ -2031,8 +2060,6 @@ through the processes established in Section 409(h).
 - **Section 502(e) Voluntary Compensation Hold added:** Members may voluntarily forgo salary increase delta above pre-enactment rate ($174,000); annual irrevocable election; stub period for enactment year (30-day filing window); permanent forfeiture; salary only (pension, professional development, MRA unaffected); public disclosure through Clerk/Secretary; designed as a political signal mechanism, not a structural constraint
 - **DPS 3.1 header compliance:** Replaced three-line block quote header (Revision, Published, Last revised) with single H3 revision line per DPS Rev 3.1 Section 1.2
 
-- Renamed from "Federal Elections Modernization Act (FEMA)" to "Congressional Elections Modernization Act (CEMA)"; all references, defined terms, and download paths updated throughout; no substantive policy changes
-
 **Revision 5.5**
 
 - DPS Rev 3.1 compliance pass: title block updated to three-line block quote (Revision, Published, Last revised) per Section 1.2; Preliminary Sections (Short Title, Findings) converted from H2 ALL CAPS to H3 Title Case per Section 2.2 Preliminary Sections; Findings subsections (a) through (e) re-leveled from H3 to H4 per Section 2.2 Subsections; stale "Last revised" line removed from footer (date now lives in header per Section 1.3)
@@ -2040,7 +2067,7 @@ through the processes established in Section 409(h).
 
 **Revision 5.4**
 
-- DPS 2.8 compliance pass: migrated download link path from electoral/cmf/fema/ to congress/cmf/fema/; added 📥 prefix and ⬇ parenthetical emojis per DPS Rev 2.8 Section 1.9; added "Last revised April 2026" line per DPS Rev 2.5 Section 1.3
+- DPS 2.8 compliance pass: migrated download link path from electoral/cmf/cema/ to congress/cmf/cema/; added 📥 prefix and ⬇ parenthetical emojis per DPS Rev 2.8 Section 1.9; added "Last revised April 2026" line per DPS Rev 2.5 Section 1.3
 
 **Revision 5.3**
 
@@ -2087,13 +2114,13 @@ through the processes established in Section 409(h).
 
 **Revision 5.0**
 
-- Renamed from "Congressional Modernization Act (CMA)" to "Federal Elections Modernization Act (FEMA)"
+- Renamed from "Congressional Modernization Act (CMA)" to "Congressional Elections Modernization Act (CEMA)"
 - Updated subtitle from "A Framework for Stable, Effective, and Representative Governance" to "An Electoral and Congressional Modernization Framework for a Stronger Republic"
-- All references to "CMA" changed to "FEMA" throughout document
-- Defined terms "First CMA Election" and "Second CMA Election" renamed to "First FEMA Election" and "Second FEMA Election" respectively
+- All references to "CMA" changed to "CEMA" throughout document
+- Defined terms "First CMA Election" and "Second CMA Election" renamed to "First CEMA Election" and "Second CEMA Election" respectively
 - Removed "Restoring Competition to American Elections Act" alternate citation from Section 805 (retained in revision history only)
 - No substantive policy changes from Rev 4.3
-- Naming change only: Frees "Congressional Modernization Act" for use as umbrella framework encompassing FEMA and companion legislation (Office of Congressional Procedure Act); "Federal Elections Modernization Act" more accurately describes the Act's electoral focus while the subtitle acknowledges the full scope of electoral and congressional reforms
+- Naming change only: Frees "Congressional Modernization Act" for use as umbrella framework encompassing CEMA and companion legislation (Office of Congressional Procedure Act); "Congressional Elections Modernization Act" more accurately describes the Act's electoral focus while the subtitle acknowledges the full scope of electoral and congressional reforms
 
 **Revision 4.3**
 
