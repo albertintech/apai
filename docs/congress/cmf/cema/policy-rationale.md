@@ -311,7 +311,7 @@ Multi-member congressional districts have 178 years of American precedent (1789-
 
 ### STAR-PR: Proportional Allocation Without Party Lists
 
-STAR Proportional Representation (STAR-PR, also known as Allocated Score) extends STAR voting to multi-seat districts: Voters score all candidates 0-5 stars, seats allocated proportionally to voter support, sequential allocation ensures proportionality while maintaining candidate-centered voting, 20% voter support yields roughly 20% of seats, geographic manipulation becomes mathematically ineffective.
+STAR Proportional Representation (STAR-PR) extends STAR voting to multi-seat districts. The Act uses Allocated Score -- the specific tabulation algorithm recommended for STAR-PR -- to count these elections: Voters score all candidates 0-5 stars, seats allocated proportionally to voter support, sequential allocation ensures proportionality while maintaining candidate-centered voting, 20% voter support yields roughly 20% of seats, geographic manipulation becomes mathematically ineffective.
 
 **Example:** Five-seat district using STAR-PR -- candidates appear on ballot, voters score each candidate 0-5 stars, system allocates seats proportionally based on scores. Result: Seat shares reflect vote shares (unlike winner-take-all).
 
@@ -369,7 +369,7 @@ The ESO operates within a three-tier graduated protection architecture that cali
 
 **Tier 2 -- Protected Design Elements:** Core design choices that anchor the voter experience and institutional architecture, including the 0-5 star scoring range, unscored candidate treatment, single-winner STAR structure, and the district magnitude range of 3-7. The ESO may study these elements and propose modifications, but changes require affirmative Congressional approval via joint resolution. These are well-supported engineering choices rather than normative commitments, but their significance to the voter experience and electoral structure warrants a higher bar than technical parameters.
 
-**Tier 3 -- Adjustable Technical Parameters:** Implementation details such as quota calculation formulas, reweighting methodology, seat allocation sequence, tie-breaking procedures, the specific districting algorithm, the magnitude allocation method, and VRA compliance adjustment methodology. The ESO may modify these through a structured process requiring supermajority Commission approval, public comment, and Congressional review with joint resolution disapproval authority. These are the parameters the ESO is best positioned to evaluate and refine based on empirical evidence.
+**Tier 3 -- Adjustable Technical Parameters:** Implementation details such as quota calculation formulas, ballot weight allocation procedure, seat allocation sequence, tie-breaking procedures, the specific districting algorithm, the magnitude allocation method, and VRA compliance adjustment methodology. The ESO may modify these through a structured process requiring supermajority Commission approval, public comment, and Congressional review with joint resolution disapproval authority. These are the parameters the ESO is best positioned to evaluate and refine based on empirical evidence.
 
 This graduated structure enables the nation to benefit from ongoing advances in electoral science without requiring full legislative action for each technical adjustment, while ensuring that protection difficulty scales to each element's significance. The ESO begins establishment immediately upon enactment, gains operational authority at the First CEMA Election, and conducts its first mandatory decennial review after the Second CEMA Election.
 
@@ -837,9 +837,13 @@ Supreme Court interpretation confirms this grants Congress plenary power over fe
 <!--
 ## Revision History
 
-**Revision 5.6** (Current)
+**Revision 5.7** (Current)
+- Aligned with Rev 5.7 of the legislative text
+- Corrected STAR-PR / Allocated Score terminology in Section V: replaced "also known as Allocated Score" with language establishing the correct hierarchy per Section 404(g) -- STAR-PR is the umbrella concept, Allocated Score is the specific tabulation algorithm
+- Corrected Tier 3 parameter name in Section V: "reweighting methodology" replaced with "ballot weight allocation procedure" to match Section 409(e)(1) and Section 806(d) of the legislative text
+
+**Revision 5.6**
 - Aligned with Rev 5.6 of the legislative text
-- Renamed from "Federal Elections Modernization Act (FEMA)" to "Congressional Elections Modernization Act (CEMA)"; all references, defined terms, and download paths updated throughout; no substantive policy changes
 - Presidential election scope narrowed: CEMA now governs congressional elections only; removed or reframed all references implying CEMA covers presidential elections
 - FCAO references removed: Title V (Federal Candidate Assessment Office) extracted from CEMA into planned standalone statute under CMF; removed entire Section VII (FCAO rationale), FCAO entries from feature lists, cost estimates, implementation tiers, and Appendix A
 - Title and section renumbering: Title VI (Compensation) → Title V, Title VII (Enforcement) → Title VI, Title VIII (General Provisions) → Title VII; section numbers shifted accordingly (6XX → 5XX)
@@ -848,7 +852,7 @@ Supreme Court interpretation confirms this grants Congress plenary power over fe
 - DPS 3.1 formatting compliance: removed Published line and Based on Rev line from header; removed Last revised line from footer
 
 **Revision 5.4**
-- DPS 2.8 compliance pass: migrated download link path from electoral/cmf/fema/ to congress/cmf/fema/; added 📥 prefix and ⬇ parenthetical emojis per DPS Rev 2.8 Section 1.9; added "Last revised April 2026" line per DPS Rev 2.5 Section 1.3
+- DPS 2.8 compliance pass: migrated download link path from electoral/cmf/cema/ to congress/cmf/cema/; added 📥 prefix and ⬇ parenthetical emojis per DPS Rev 2.8 Section 1.9; added "Last revised April 2026" line per DPS Rev 2.5 Section 1.3
 
 **Revision 5.3**
 - Updated reference line from Rev 5.2 to Rev 5.3
@@ -876,9 +880,9 @@ Supreme Court interpretation confirms this grants Congress plenary power over fe
 - Removed "What This Is Not" subsections from Sections III and VI per established messaging discipline
 
 **Revision 5.0**
-- Renamed from "Congressional Modernization Act (CMA)" to "Federal Elections Modernization Act (FEMA)"
+- Renamed from "Congressional Modernization Act (CMA)" to "Congressional Elections Modernization Act (CEMA)"
 - Applied self-reference conventions per Document Production Standards Section 1.7; body text uses "the Act" after initial establishment
-- Updated defined terms: "First CMA Election" to "First FEMA Election," "Second CMA Election" to "Second FEMA Election"
+- Updated defined terms: "First CMA Election" to "First CEMA Election," "Second CMA Election" to "Second CEMA Election"
 - Rewrote ESO discussion (Section VI) to reflect Rev 4.3 three-tier graduated protection architecture replacing binary immutable/adjustable framework; retired the word "immutable"
 - Removed Party Infrastructure Support subsection from Title II discussion (provision deleted in Rev 3.1)
 - Removed "party infrastructure grants" reference from Why Progressives section
