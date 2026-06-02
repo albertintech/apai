@@ -49,6 +49,7 @@ nav:
                             - Constitutional Authority Memorandum: congress/cmf/cema/constitutional-authority-technical-memorandum.md
                             - Constitutional Boundaries of PR: congress/cmf/cema/constitutional-boundaries-of-proportional-representation.md
                             - Design Response Memorandum: congress/cmf/cema/design-response-memorandum.md
+                            - What About Presidential Elections: congress/cmf/cema/why-not-presidential-elections.md
                       - Comparative Analysis:
                             - Electoral Reform Comparative Analysis: congress/cmf/cema/comparative-analysis.md
                             - Fair Representation Act Overview: congress/cmf/cema/fair-representation-act-overview.md
@@ -58,9 +59,12 @@ nav:
                             - The Case for STAR and Proportional STAR: congress/cmf/cema/the-case-for-star-and-proportional-star.md
                       - Building On:
                             - Building On Fusion Voting: congress/cmf/cema/building-on-fusion-voting.md
-                      - Why Not:
-                            - Why Not Presidential Elections: congress/cmf/cema/why-not-presidential-elections.md
                             - Building On Ranked Choice Voting: congress/cmf/cema/building-on-ranked-choice-voting.md
+                      - Arguments:
+                            - Why Not Single Transferable Vote: congress/cmf/cema/why-not-proportional-rcv.md
+                            - Why Not Fusion Voting: congress/cmf/cema/why-not-fusion-voting.md
+                            - Why Not Condorcet: congress/cmf/cema/why-not-condorcet.md
+                            
                 - Office of Congressional Procedure Act:
                       - Introduction: congress/cmf/ocp/introduction.md
                       - Overview: congress/cmf/ocp/overview.md
