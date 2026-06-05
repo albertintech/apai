@@ -1,6 +1,8 @@
-# Congressional Elections Modernization Act
+# Policy Rationale
 
-## Policy Rationale
+## A Policy Rationale of the Congressional Elections Modernization Act (CEMA)
+
+*Prepared by Albert Ramos for The American Policy Architecture Institute*
 
 ---
 
@@ -125,7 +127,7 @@ The Act uses a tiered effective date structure:
 - Title I (Ballot access standardization)
 - Title II (Party recognition and Joint Endorsement Lists)
 - Title III (House expansion to 510 seats)
-- Title IV (Multi-member districts and STAR-PR)
+- Title IV (Multi-member districts and Proportional STAR)
 - ESO operational authority begins
 
 **Ongoing:**
@@ -190,7 +192,9 @@ Two paths to federal recognition:
 
 **Maintenance requirement:** Meet either standard or field candidates receiving 2% nationally each cycle
 
-These thresholds require demonstrating national scope -- preventing purely regional organizations from claiming federal party status -- while remaining achievable for genuine national movements.
+These thresholds require demonstrating national scope -- preventing purely regional organizations from claiming federal party status -- while remaining achievable for genuine national movements. The dual electoral-or-organizational path ensures a new movement is not locked out for lacking prior electoral performance, and the grandfather provision gives currently recognized parties a four-year transition.
+
+These thresholds are not purely administrative. Setting the line for federal party recognition is a constitutive choice about which organizations may confer a ballot-visible endorsement, with real consequences for the party system the Act produces. The Act draws that line deliberately rather than pretending it is a neutral technicality. One element warrants particular candor: recognition under the organizational path requires the FEC to assess whether a party maintains "democratic internal procedures" for its endorsements. This vests a measure of discretion in a commission whose even partisan composition can produce deadlock, and it is the point in Title II most exposed to inconsistent or contested application. The Act accepts this as the cost of preventing hollow or captured organizations from claiming federal endorsement authority, but the rationale records it as a known tradeoff rather than burying it in the language of clarity.
 
 ### Joint Endorsement Lists: Coalition Transparency
 
@@ -199,6 +203,10 @@ The Joint Endorsement List system allows parties to endorse candidates, with eac
 **Example ballot format:** Sarah Chen | Registered: Democratic | Endorsed by: Democratic, Working Families, Green
 
 This serves operational purposes: voter information (shows which parties support which candidates), coalition clarity (makes alliance structures transparent), administrative simplicity (candidates appear once, not multiple times), and strategic capacity (minor parties gain relevance through endorsement power).
+
+Joint Endorsement Lists are a coalition-breadth signal, not a nominee designation in the traditional party primary sense. A party may endorse as many candidates as its internal processes produce, and nothing in the Act compels a party to narrow its endorsements to a single standard-bearer. This is deliberate: under the Unified General Election Structure, winnowing within a party is the party's own associational task, conducted at its own expense through whatever convention, caucus, or internal process it chooses. The ballot reports which coalitions support a candidate; it does not substitute for a party's nomination decision, nor does it purport to.
+
+**Election Administration Services for Party Processes.** Section 204 completes the party autonomy framework by authorizing -- but not requiring -- parties to contract with state and local election authorities for election administration services. The Act does not tell parties to build nomination infrastructure from scratch. It says the state will not administer a congressional primary at public expense -- but the same elections office that ran the old primary can run the party's internal process as a fee-for-service vendor, at the party's expense, under contract. Equal access requirements ensure every recognized party can contract on equivalent terms. Firewall provisions ensure the contracted process does not affect ballot access, does not convert a party process into a state-administered election, and does not allow the elections office's official seal or branding to appear on party materials. The party pays for professional election administration; the elections office gains a revenue stream; the taxpayer stops subsidizing private associational activity. The prohibition-plus-exception formulation in Section 404(d)(1) makes this architecture explicit: the state may not administer a congressional primary unless it does so under contract, at party expense, subject to Section 204's guardrails.
 
 ### Effective Date
 
@@ -275,7 +283,7 @@ Adding 35 seats per Congress sounds like routine institutional housekeeping, not
 
 **No sudden power concentration:** Expansion dilutes individual member obstruction power toward founders' design without concentrating authority in leadership positions.
 
-**Integrated with electoral reform:** Unlike previous expansion proposals, the Act ensures the new seats are filled through the new electoral system (STAR-PR in multi-member districts), not replicated dysfunction.
+**Integrated with electoral reform:** Unlike previous expansion proposals, the Act ensures the new seats are filled through the new electoral system (Proportional STAR in multi-member districts), not replicated dysfunction.
 
 ### Operational Benefits
 
@@ -309,11 +317,11 @@ Multi-member congressional districts have 178 years of American precedent (1789-
 
 **Critical distinction:** This is not European-style party-list voting. Voters choose individual candidates directly, as they always have. The allocation method simply ensures geometric districting can't distort outcomes regardless of which party controls redistricting.
 
-### STAR-PR: Proportional Allocation Without Party Lists
+### Proportional STAR: Proportional Allocation Without Party Lists
 
-STAR Proportional Representation (STAR-PR) extends STAR voting to multi-seat districts. The Act uses Allocated Score -- the specific tabulation algorithm recommended for STAR-PR -- to count these elections: Voters score all candidates 0-5 stars, seats allocated proportionally to voter support, sequential allocation ensures proportionality while maintaining candidate-centered voting, 20% voter support yields roughly 20% of seats, geographic manipulation becomes mathematically ineffective.
+Proportional STAR extends STAR voting to multi-seat districts. The Act uses Allocated Score -- the specific tabulation algorithm for Proportional STAR -- to count these elections: Voters score all candidates 0-5 stars, seats allocated proportionally to voter support, sequential allocation ensures proportionality while maintaining candidate-centered voting, 20% voter support yields roughly 20% of seats, geographic manipulation becomes mathematically ineffective.
 
-**Example:** Five-seat district using STAR-PR -- candidates appear on ballot, voters score each candidate 0-5 stars, system allocates seats proportionally based on scores. Result: Seat shares reflect vote shares (unlike winner-take-all).
+**Example:** Five-seat district using Proportional STAR -- candidates appear on ballot, voters score each candidate 0-5 stars, system allocates seats proportionally based on scores. Result: Seat shares reflect vote shares (unlike winner-take-all).
 
 ### Single Implementation: All Qualifying States at the First CEMA Election
 
@@ -327,7 +335,7 @@ The Act implements multi-member districts for all qualifying states simultaneous
 
 **Eliminates gaming incentives.** Under a phased approach, states and incumbents face incentives to delay, manipulate the rollout sequence, or seek exemptions. A clean mandate at the First CEMA Election removes these strategic opportunities. The rules are the same for everyone on the same day.
 
-**STAR-PR's math provides the protection phased rollout was designed to deliver.** The original rationale for graduated implementation was to ease the transition for incumbents. But STAR-PR's low effective threshold -- roughly 14-17% in a five-seat district -- means that any incumbent with meaningful constituent support faces reduced, not increased, electoral risk under multi-member districts. The mathematical protection is stronger than the timeline protection.
+**Proportional STAR's math provides the protection phased rollout was designed to deliver.** The original rationale for graduated implementation was to ease the transition for incumbents. But Proportional STAR's low effective threshold -- roughly 14-17% in a five-seat district -- means that any incumbent with meaningful constituent support faces reduced, not increased, electoral risk under multi-member districts. The mathematical protection is stronger than the timeline protection.
 
 ### Algorithmically Neutral Districting
 
@@ -337,9 +345,9 @@ The Act mandates that all congressional district boundaries be determined by alg
 
 **Every human who draws a line makes a choice.** Even well-intentioned redistricting commissions exercise subjective judgment about communities of interest, geographic compactness, and boundary placement. That judgment creates opportunities for strategic manipulation and guarantees litigation over whether the judgment was exercised properly. Algorithmic districting eliminates the judgment entirely -- the algorithm processes census data and produces boundaries without reference to racial, ethnic, linguistic, partisan, or incumbent-residence data.
 
-**Proportional representation covers the weakness of blind algorithms.** The traditional objection to algorithmic districting is that algorithms ignore communities of interest. Under winner-take-all rules, this objection has force -- if the algorithm splits a community across two districts, that community loses all representation. Under STAR-PR in multi-member districts, communities don't need to be packed into a single district to win representation. A community constituting 20% of a five-seat district elects roughly one representative regardless of where the boundary falls. The algorithm's blindness to community geography becomes a feature rather than a bug, because proportional representation ensures representation is emergent from voter preferences rather than dependent on boundary placement.
+**Proportional representation covers the weakness of blind algorithms.** The traditional objection to algorithmic districting is that algorithms ignore communities of interest. Under winner-take-all rules, this objection has force -- if the algorithm splits a community across two districts, that community loses all representation. Under Proportional STAR in multi-member districts, communities don't need to be packed into a single district to win representation. A community constituting 20% of a five-seat district elects roughly one representative regardless of where the boundary falls. The algorithm's blindness to community geography becomes a feature rather than a bug, because proportional representation ensures representation is emergent from voter preferences rather than dependent on boundary placement.
 
-**The combination is mutually reinforcing.** Algorithmic districting eliminates human discretion from boundary-drawing, and STAR-PR eliminates the representational harm that suboptimal boundaries would otherwise cause. Each system covers the other's weakness. Shortest splitline's weakness is that it ignores communities -- but proportional representation means communities don't need to be packed into a single district. STAR-PR's weakness is that someone still has to draw the district lines -- but algorithmic districting makes that a mathematical operation rather than a political one.
+**The combination is mutually reinforcing.** Algorithmic districting eliminates human discretion from boundary-drawing, and Proportional STAR eliminates the representational harm that suboptimal boundaries would otherwise cause. Each system covers the other's weakness. Shortest splitline's weakness is that it ignores communities -- but proportional representation means communities don't need to be packed into a single district. Proportional STAR's weakness is that someone still has to draw the district lines -- but algorithmic districting makes that a mathematical operation rather than a political one.
 
 ### Minority Representation Under Algorithmic Districting
 
@@ -347,9 +355,11 @@ The Act's combination of algorithmic districting and proportional representation
 
 **The status quo's track record is poor.** Under single-member plurality, a community of color that constitutes 30% of a region's population receives zero representatives unless a mapmaker deliberately draws a majority-minority district. Even when such districts are created, the community gets exactly one representative while being stripped of influence everywhere else -- a packing dynamic that both parties have historically exploited. Majority-minority districts concentrate minority voters into one seat to bleach the surrounding districts, a practice that serves partisan mapmakers more than the communities it purports to protect.
 
-**Proportional representation solves the underlying problem.** Under STAR-PR in a five-seat district, a community constituting 30% of the population likely elects one and possibly two representatives without any human needing to draw a line on their behalf. The representation is emergent from the math, not dependent on the goodwill or legal obligation of whoever holds the redistricting pen.
+**Proportional representation solves the underlying problem.** Under Proportional STAR in a five-seat district, a community constituting 30% of the population likely elects one and possibly two representatives without any human needing to draw a line on their behalf. The representation is emergent from the math, not dependent on the goodwill or legal obligation of whoever holds the redistricting pen.
 
-**VRA compliance is maintained through targeted safeguards.** If the Department of Justice determines that an algorithmically generated configuration violates the Voting Rights Act, the Electoral Science Office applies the minimum boundary adjustment necessary to achieve compliance while preserving the algorithmic neutrality of the remainder of the state's district configuration. Section 410(d) establishes specificity requirements, the minimum adjustment principle, dual map publication (before and after adjustment), and expedited three-judge-panel judicial review with direct Supreme Court appeal. The VRA exception is the narrowest possible departure from algorithmic neutrality -- the algorithm runs first, DOJ reviews, and only if there is a documented violation does any human touch a boundary.
+**This protection is structural, and structure is what makes it durable.** Representation here is a function of arithmetic: a cohesive community wins seats in proportion to its support because the counting method allocates them that way, not because a mapmaker, a regulator, or a court intervened on the community's behalf. That is the whole point. A protection that has to be claimed case by case, in front of whoever happens to be enforcing the statute or sitting on the bench, is a protection held on sufferance -- and in *Louisiana v. Callais*, 608 U.S. ___ (2026), the Supreme Court reconstrued Voting Rights Act Section 2 to require a strong inference of intentional discrimination, leaving the results-based vote-dilution test all but a dead letter as applied to redistricting. Sixty years of protection narrowed in a single decision. A safeguard that depends on who runs the Department of Justice, or on how a given panel reads the totality of the circumstances, is not a safeguard; it is the political-will dependency the Act's architecture exists to eliminate. The Act's structure does not depend on any of that. It produces proportional representation for cohesive communities -- racial, linguistic, religious, socioeconomic, ideological alike -- as an output of the system, reaching further than Section 2 ever did and resting on the Elections Clause rather than on an enforcement power a hostile Court can narrow.
+
+Earlier drafts of the Act carried a Voting Rights Act compliance mechanism for congressional districting -- a bounded, race-conscious boundary adjustment triggered by a finding of violation. It has been removed. After *Callais*, a race-conscious adjustment to a race-blind map would invite challenge as the very kind of intentional racial line-drawing the Court now treats as a constitutional violation, so the remedy would have become its own liability. More fundamentally, that mechanism was never the thing protecting minority representation; the structure was. Removing it does not weaken the guarantee. It clarifies where the guarantee actually lives. The full constitutional treatment of *Callais* -- the crystal-versus-bricks contrast between a targeted legal carve-out and an Elections-Clause-grounded structure -- appears in [*The Case for Blind Districting*](https://policyarchitecture.org/congress/cmf/cema/the-case-for-blind-districting/). The Act retains the Voting Rights Act's language-access requirements (Sections 203 and 4(f)(4)), which *Callais* did not touch and which remain fully administrable.
 
 ### Deterministic District Magnitude Allocation
 
@@ -361,17 +371,43 @@ The preference ordering is classified as a Tier 3 adjustable parameter -- the ES
 
 ### Built-In Maintenance: The Electoral Science Office
 
-Just as the Act treats institutional modernization as scheduled maintenance, it also builds in a maintenance mechanism for the voting methods and districting processes themselves. Section 409 establishes the Electoral Science Office (ESO) as an independent agency responsible for ongoing evaluation of STAR and STAR-PR performance, as well as certification, evaluation, and maintenance of the districting algorithm.
+Just as the Act treats institutional modernization as scheduled maintenance, it also builds in a permanent institutional infrastructure for the voting methods and districting processes themselves. Section 409 establishes the Electoral Science Office (ESO) as an independent agency whose statutory mission is to serve as the nation's authoritative institution for election science, electoral integrity, and voting method innovation. The ESO is responsible for ongoing evaluation of STAR and Proportional STAR performance, certification and maintenance of the districting algorithm, pre-implementation research and validation, academic research partnerships, and the development of publicly accessible verification infrastructure.
 
-The ESO operates within a three-tier graduated protection architecture that calibrates the difficulty of changing each element to its significance within the statutory framework:
+The institutional design reflects a core insight: electoral reform cannot succeed through legislation alone. The statute creates the rules, but long-term success depends on a credible, independent institution that builds the evidentiary foundation before implementation, monitors performance after deployment, and enables ongoing refinement based on accumulated evidence. The ESO fills the institutional gap that has historically left American election administration without a dedicated scientific research and evaluation capacity.
+
+**Pre-Implementation Research and Validation.** The ESO's most distinctive feature is its mandate to validate the Act's voting methods before they are deployed in a live election. Section 409(a)(5) requires a systematic program including computational simulation across synthetic electorates and varying levels of strategic voter behavior, retrospective analysis applying the Act's methods to existing ballot data from other jurisdictions, mock elections using certified equipment and compensated participants in no fewer than five diverse jurisdictions, and optional parallel elections alongside official congressional elections during the pre-implementation period. All validation findings must be published and transmitted to Congress, the FEC, the EAC, and state election officials no later than 12 months before the First CEMA Election.
+
+This breaks the status quo bias cycle that defeats most electoral reform. Opponents of reform reliably argue that untested methods cannot be trusted. The ESO eliminates this argument by producing a body of public evidence -- simulations, mock election data, retrospective comparisons -- before voters ever encounter the new system. The evidence either confirms the methods work as designed or identifies problems that can be corrected before implementation. Either outcome serves democratic legitimacy better than deploying untested changes or preserving a demonstrably dysfunctional status quo for lack of evidence. The same evidentiary capacity answers the sharper form of the objection -- not merely "is this method tested?" but "is it better than the alternatives?" -- because the ESO's mandate reaches the comparative question directly, as the next subsection describes.
+
+**Comparative Evaluation and the Incumbent Method.** Section 409(a)(3) directs the ESO not only to evaluate and refine the methods the Act adopts, but to study alternative voting methods, seat allocation procedures, and districting approaches the Act did not adopt -- applying the same research and validation pipeline to those alternatives. This reflects a deliberate stance toward the Act's own choices. Proportional STAR is the incumbent method, selected on the strength of the architectural argument set out above, but it is not treated as eternal. The architecture is durable by design -- changing the core method requires affirmative Congressional approval under the protection tiers described below -- yet durability is not the same as insulation from evidence. The ESO is the standing institution that builds the comparative record against which the incumbent method is continuously measured, and the record that would inform any future decision to change it.
+
+This comparative mandate also resolves a structural tension inherent in the ESO's role. An institution that both maintains a method and is the sole source of evidence about that method has a mild incentive toward self-perpetuation -- toward continuing to find its own method adequate. Charging the ESO with affirmatively studying the alternatives, rather than leaving such study to its discretion, converts that latent conflict into an obligation. Paired with the publication mandate and the independent External Advisory Panel, the comparative duty requires the institution to look outward at methods that might displace its own. The result is an honest commitment rather than a dogmatic one: the founding choice rests on the architectural case, and the institution charged with administering that choice is the same institution mandated to keep testing it against the field.
+
+**Academic and Institutional Research Partnerships.** Section 409(a)(6) establishes the ESO as an institutional conduit between academic researchers and election administration. The ESO administers a competitive research grants program funding independent academic work on voting methods, electoral systems, and related subjects, with awards based on scientific merit and no expectation of particular outcomes. The ESO also serves as a data conduit, establishing standardized data-sharing protocols with state and local jurisdictions and maintaining a process through which qualified researchers can access election data not otherwise publicly available. An External Advisory Panel of nine to fifteen members drawn from academic institutions, election administration, international electoral bodies, and civil society organizations advises the Commission on research priorities and publishes an independent annual assessment of the ESO's work.
+
+This infrastructure addresses a persistent gap in American election science. Academic researchers studying voting methods have historically lacked institutional access to election data and administrative infrastructure. State and local election offices have lacked a federal counterpart with the scientific capacity to support evidence-based evaluation of electoral procedures. The ESO bridges both gaps, creating a permanent institutional relationship between research and practice.
+
+**Electoral Integrity and Public Trust.** Section 409(a)(7) codifies public trust as a core statutory mission alongside technical evaluation. The ESO must publish methodologies in sufficient detail for independent verification, develop publicly accessible tools enabling anyone to verify tabulation procedures, districting algorithm outputs, and proportionality metrics, and establish procedures for receiving and responding to public inquiries about electoral methods and outcomes.
+
+The public trust provisions are not aspirational -- they are structural. An institution that publishes everything, invites verification, and responds to challenges on the merits builds credibility through transparency rather than authority. The ESO's verification infrastructure transforms election integrity from a contested political claim into a publicly verifiable empirical question.
+
+**Three-Tier Graduated Protection Architecture.** The ESO operates within a framework that calibrates the difficulty of changing each element to its significance within the statutory framework:
 
 **Tier 1 -- Statutory Principles:** Normative commitments that define the democratic principles the voting methods must satisfy -- ballot interface consistency, universal scoring permission, equal voter treatment, the proportional outcome requirement, and algorithmic districting neutrality. The ESO has no authority over these elements. Modification requires an Act of Congress. These embody the statute's normative thesis; changing them would represent a fundamental policy reversal, not a technical improvement.
 
 **Tier 2 -- Protected Design Elements:** Core design choices that anchor the voter experience and institutional architecture, including the 0-5 star scoring range, unscored candidate treatment, single-winner STAR structure, and the district magnitude range of 3-7. The ESO may study these elements and propose modifications, but changes require affirmative Congressional approval via joint resolution. These are well-supported engineering choices rather than normative commitments, but their significance to the voter experience and electoral structure warrants a higher bar than technical parameters.
 
-**Tier 3 -- Adjustable Technical Parameters:** Implementation details such as quota calculation formulas, ballot weight allocation procedure, seat allocation sequence, tie-breaking procedures, the specific districting algorithm, the magnitude allocation method, and VRA compliance adjustment methodology. The ESO may modify these through a structured process requiring supermajority Commission approval, public comment, and Congressional review with joint resolution disapproval authority. These are the parameters the ESO is best positioned to evaluate and refine based on empirical evidence.
+**Tier 3 -- Adjustable Technical Parameters:** Implementation details such as quota calculation formulas, ballot weight allocation procedure, seat allocation sequence, tie-breaking procedures, the specific districting algorithm, and the magnitude allocation method. The ESO may modify these through a structured process requiring supermajority Commission approval, public comment, and Congressional review with joint resolution disapproval authority. These are the parameters the ESO is best positioned to evaluate and refine based on empirical evidence.
 
-This graduated structure enables the nation to benefit from ongoing advances in electoral science without requiring full legislative action for each technical adjustment, while ensuring that protection difficulty scales to each element's significance. The ESO begins establishment immediately upon enactment, gains operational authority at the First CEMA Election, and conducts its first mandatory decennial review after the Second CEMA Election.
+This graduated structure enables the nation to benefit from ongoing advances in electoral science without requiring full legislative action for each technical adjustment, while ensuring that protection difficulty scales to each element's significance.
+
+**Voter Education.** The ESO is the sole federal authority responsible for public education about voting methods established under the Act. It establishes a dedicated media and public education division -- modeled on NASA's Office of Communications and the Census Bureau's Integrated Communications Campaign -- that develops, produces, and distributes multilingual, multi-format educational materials explaining STAR voting mechanics, ballot marking procedures, and how votes are counted. The educational campaign follows a phased deployment: content development and usability testing during the pre-implementation period, heavy saturation in the twelve months before the First CEMA Election, and a maintenance baseline with biennial surges for subsequent cycles. The body that designed the voting method, conducted the usability research, and validated the system through mock elections is the body best positioned to explain it. No existing federal institution has this capacity -- the FEC deadlocks, the EAC is a clearinghouse, and state offices are implementers, not educators.
+
+**The Design-Certify-Deploy Pipeline.** The ESO sits at the top of a three-body institutional pipeline. The ESO designs ballot specifications -- layout, typography, scoring interface presentation, Joint Endorsement List formatting, multilingual requirements -- based on empirical usability research, and publishes model ballot designs. The Election Assistance Commission certifies that voting equipment can execute those specifications, leveraging its existing testing infrastructure under a mandatory certification standard for congressional elections. The Federal Election Commission monitors state compliance with the specifications and certification requirements. Each body gets the job it is competent to perform: the ESO designs, the EAC certifies, the FEC audits. The separate congressional ballot sheet -- a physically distinct piece of paper carrying only congressional contests, designed to ESO specifications, printed on EAC-certified equipment -- is the tangible expression of this pipeline.
+
+**Funding.** The ESO's expanded mandate is reflected in its funding authorization. Establishment funding totals approximately $280 million over three years: $105 million for the research, technical evaluation, and election science core ($45 million in the first year, $30 million in each of the second and third years), and $175 million for the voter education division, including content development, multilingual production infrastructure, and the first national education campaign preceding the First CEMA Election. Ongoing authorization runs $75 million annually at baseline -- covering both the scientific core and the education division's permanent operations -- with up to $100 million in additional election-cycle surge funding for mass media deployment in the twelve months around each biennial congressional election. The mandatory minimum floor of $35 million annually, inflation-adjusted and sequestration-protected, ensures the research core cannot be defunded even if voter education appropriations fluctuate. A separate authorization funds the EAC's certification pipeline at $70 million over three years and $8 million annually thereafter.
+
+**Timeline.** The ESO begins establishment immediately upon enactment and gains pre-implementation authority at that point -- it can begin mock elections, simulations, research grants, and verification infrastructure buildout as soon as it stands up. Full operational authority begins at the First CEMA Election. The first mandatory decennial review occurs after the Second CEMA Election.
 
 ### Independence Protections for Districting Functions
 
@@ -387,7 +423,7 @@ Section 410 establishes comprehensive protections ensuring that the ESO's distri
 
 **Anti-circumvention:** No other entity may draw federal maps, no conditional appropriations may be attached to ESO funding, no reorganization may place the ESO under another agency, and whistleblower protections apply to all ESO employees.
 
-Each defense covers a different attack surface. Capturing appointments doesn't help if existing commissioners can't be removed during redistricting. Starving the budget doesn't help if the default algorithm is self-executing. Weaponizing DOJ doesn't help if any voter can obtain expedited three-judge-panel review.
+Each defense covers a different attack surface. Capturing appointments doesn't help if existing commissioners can't be removed during redistricting. Starving the budget doesn't help if the default algorithm is self-executing. And there is no districting determination for the Department of Justice to weaponize: the algorithm runs on census data and state boundaries alone, with no compliance review and no point at which any official adjusts a line.
 
 ### The Unified Election Advantage
 
@@ -397,11 +433,11 @@ The Act establishes single general elections as the universal standard for all c
 
 **Operational benefits:** Higher turnout (general elections consistently outperform primaries); all voters participate regardless of party registration; all qualified candidates appear on November ballot; reduced election administration complexity.
 
-**Letting STAR do the work:** STAR voting's scoring mechanism ensures winners have broad support -- the primary's traditional filtering function is redundant. Voters express meaningful preferences across any reasonable candidate field through 0-5 scoring, and the automatic runoff ensures the winner has majority preference between the top two. This eliminates the historical justification for primaries without sacrificing electoral quality.
+**Letting STAR do the work:** STAR voting's scoring mechanism ensures winners have broad support, performing the winnowing function that primaries traditionally supplied. Voters express meaningful preferences across any reasonable candidate field through 0-5 scoring, and the automatic runoff ensures the winner has majority preference between the top two. This is a deliberate change in what the electoral system optimizes for. The partisan primary selected for intensity of intra-party preference -- which faction's champion the party's base most wanted. The Unified General Election selects for breadth of support across the full electorate. The Act treats the former as a driver of polarization and removes it by design, replacing it with a mechanism that rewards candidates acceptable to the widest coalition.
 
 **Consistency of voter experience:** Every congressional election works the same way: show up in November, score candidates, done. No registration games, no low-turnout summer primaries that disproportionately empower activated partisans, no two-election cognitive overhead. A voter moving between states encounters identical congressional election procedures.
 
-**Party autonomy preserved:** Parties remain free to conduct internal nomination processes -- caucuses, conventions, straw polls -- on their own time and at their own expense. Joint Endorsement Lists provide a streamlined mechanism for signaling preferred candidates to voters without the overhead of party-run primary infrastructure.
+**Party autonomy preserved:** Parties remain free to conduct internal nomination processes -- caucuses, conventions, straw polls -- on their own time and at their own expense. Section 204 authorizes parties to contract with their local elections office for professional election administration services, preserving access to the same infrastructure, equipment, and expertise that administered the old state-funded primary. Joint Endorsement Lists provide a streamlined mechanism for signaling preferred candidates to voters without the overhead of party-run primary infrastructure.
 
 ---
 
@@ -491,7 +527,7 @@ Section 502(e) allows any member of Congress to voluntarily forgo the salary inc
 
 **Immediate benefits, integrated changes:** Current members receive capacity improvements and compensation increases immediately upon enactment. Electoral reforms launch together at the First CEMA Election as an integrated package.
 
-**STAR-PR's mathematical protection:** Proportional representation through STAR-PR substantially lowers the effective threshold for winning a seat. In a five-seat district, the effective threshold is approximately 14-17% -- meaning any incumbent with meaningful constituent support faces reduced, not increased, electoral risk under multi-member districts. The math protects incumbents more effectively than any transition timeline could.
+**Proportional STAR's mathematical protection:** Proportional representation through Proportional STAR substantially lowers the effective threshold for winning a seat. In a five-seat district, the effective threshold is approximately 14-17% -- meaning any incumbent with meaningful constituent support faces reduced, not increased, electoral risk under multi-member districts. The math protects incumbents more effectively than any transition timeline could.
 
 **Universal improvements:** Both parties gain from enhanced capacity, better staff retention, improved compensation. Reforms benefit institutional function regardless of party control.
 
@@ -519,7 +555,7 @@ Section 502(e) allows any member of Congress to voluntarily forgo the salary inc
 
 **Proportional representation:** Multi-member districts ensure voters' preferences translate to representation regardless of where they live.
 
-**Stronger minority representation:** Proportional allocation through STAR-PR provides emergent representation for communities of color without dependence on human mapmakers -- a stronger protection than majority-minority districts within winner-take-all systems.
+**Stronger minority representation:** Proportional allocation through Proportional STAR provides emergent representation for communities of color without dependence on human mapmakers -- a stronger protection than majority-minority districts within winner-take-all systems.
 
 **Ballot access equality:** Standardized requirements make running for office more accessible regardless of wealth or establishment connections.
 
@@ -603,7 +639,7 @@ Title V, Section 509 authorizes substantial federal grants to states for impleme
 
 **Funding:** $500 million first year, $300 million for subsequent four years, $150 million annually thereafter (inflation-adjusted).
 
-**Authorized uses:** Voting equipment acquisition and certification, ballot design and printing systems, election official training, voter education campaigns, administrative system upgrades, risk-limiting audit procedures.
+**Authorized uses:** Voting equipment acquisition and EAC certification, ballot design and printing systems for separate congressional ballot sheets, election official training, voter education campaigns, administrative system upgrades, risk-limiting audit procedures.
 
 **Allocation formula:** 50% by equal distribution among states, 25% by proportion of registered voters, 25% by implementation complexity.
 
@@ -651,11 +687,11 @@ The Act reduces these risks through systematic infrastructure updates. This trea
 
 The Act requires substantial initial investment:
 
-**Direct costs:** Enhanced congressional compensation (approximately $46M annually for salary increases), House expansion infrastructure ($200-300M for chamber renovation and office space, phased over 14 years), voting equipment procurement ($500M initial, $300M ongoing for 4 years), ESO agency establishment ($15M first year, $10M for subsequent two years, $8M annually thereafter), state implementation grants ($500M initial, $300M for 4 years, $150M ongoing).
+**Direct costs:** Enhanced congressional compensation (approximately $46M annually for salary increases), House expansion infrastructure ($200-300M for chamber renovation and office space, phased over 14 years), voting equipment procurement ($500M initial, $300M ongoing for 4 years), ESO agency establishment ($280M over three years including voter education division), EAC STAR certification program ($70M over three years), state implementation grants ($500M initial, $300M for 4 years, $150M ongoing).
 
-**Total estimated initial investment:** $1.5-2B over first 5 years
+**Total estimated initial investment:** $2.0-2.5B over first 5 years
 
-**Annual ongoing costs (full implementation):** Approximately $362M (including ESO operational budget)
+**Annual ongoing costs (full implementation):** Approximately $420-510M (including ESO operational budget at $75M baseline plus up to $100M in election-cycle years, and EAC certification maintenance at $8M)
 
 ### Offsetting Savings and Economic Value
 
@@ -775,7 +811,7 @@ The Act doesn't ask Congress to vote for uncertain future changes. It provides:
 - Ballot access standardization
 - Party recognition and Joint Endorsement Lists
 - House expansion to 510 members
-- Multi-member districts with STAR-PR for all qualifying states
+- Multi-member districts with Proportional STAR for all qualifying states
 - Algorithmically neutral districting
 - All components debut simultaneously as unified system
 
@@ -822,7 +858,7 @@ All provisions of the Act operate under explicit constitutional authority:
 
 **Elections Clause (Article I, Section 4, Clause 1):** "The Times, Places and Manner of holding Elections for Senators and Representatives, shall be prescribed in each State by the Legislature thereof; but the Congress may at any time by Law make or alter such Regulations, except as to the Places of chusing Senators."
 
-Supreme Court interpretation confirms this grants Congress plenary power over federal election administration. Key precedents: Arizona State Legislature v. Arizona Independent Redistricting Commission (2015), U.S. Term Limits, Inc. v. Thornton (1995), Ex parte Yarbrough (1884).
+Supreme Court interpretation confirms this grants Congress plenary power over congressional election administration. Key precedents: Arizona State Legislature v. Arizona Independent Redistricting Commission (2015), U.S. Term Limits, Inc. v. Thornton (1995), Ex parte Yarbrough (1884).
 
 **House Size Adjustment (Article I, Section 2):** Congress has inherent authority to set House size through ordinary legislation. Historical precedent: Congress adjusted House size 13 times between 1789 and 1913. The 1929 Reapportionment Act cap was statutory choice, not constitutional mandate.
 
@@ -837,7 +873,36 @@ Supreme Court interpretation confirms this grants Congress plenary power over fe
 <!--
 ## Revision History
 
-**Revision 5.7** (Current)
+**Revision 6.1** (Current)
+- Aligned with Rev 6.1 of the CEMA legislative text, which removed the Voting Rights Act Section 2 vote-dilution compliance mechanism in response to *Louisiana v. Callais*, 608 U.S. ___ (2026)
+- **"VRA compliance is maintained through targeted safeguards" subsection deleted and replaced:** Removed the description of the now-deleted carve-out (DOJ-triggered minimum boundary adjustment, Section 410(d) specificity/dual-publication/three-judge-panel safeguards). Kept the two preceding paragraphs intact ("The status quo's track record is poor" and "Proportional representation solves the underlying problem"). In their place, added the durability argument: representation is structural and therefore not held on sufferance; landed the *Callais* citation (Section 2 reconstrued to require a strong inference of intentional discrimination, vote-dilution test all but a dead letter as applied to redistricting); and stated the design-principle point that a safeguard depending on who runs the DOJ is not a safeguard but the political-will dependency the architecture exists to eliminate. Recorded that the earlier carve-out was removed because, post-*Callais*, a race-conscious adjustment to a race-blind map would invite Fourteenth Amendment challenge, and because the structure, not the carve-out, was always the protection. Noted retention of VRA language-access provisions (Sections 203, 4(f)(4))
+- **Crystal-versus-bricks treatment referenced, not re-run:** The constitutional argument is stated in conclusion and linked to [*The Case for Blind Districting*](https://policyarchitecture.org/congress/cmf/cema/the-case-for-blind-districting/) (hyperlinked) rather than reproduced here
+- **Tier 3 list:** Removed "VRA compliance adjustment methodology" from the adjustable-parameter enumeration; the parameter no longer exists
+- **Independence-protections attack-surface passage updated:** The "Weaponizing DOJ" beat -- which had pointed to expedited three-judge-panel review of VRA adjustments -- rewritten to state that there is no districting determination for the DOJ to weaponize, since the algorithm runs on census data and state boundaries alone with no compliance review and no point at which any official adjusts a line
+- **DPS 3.6 compliance:** Confirmed. Header/footer conventions for this supporting-document type are unchanged from 3.4; no structural changes required
+
+**Revision 6.0**
+- Aligned with Rev 6.0 of the CEMA legislative text
+- **DPS 3.4 compliance:** Header corrected to Supporting Documents format (H1 = document title, H2 = typed relational subtitle, author byline); footer attribution removed (byline in header only); copyright line added
+- **Section 204 contracting provision added to Title II section:** New "Election Administration Services for Party Processes" subsection explains the fee-for-service contracting option, equal access requirements, firewall provisions (ballot access, official indicia prohibition, voter data), and the prohibition-plus-exception formulation in Section 404(d)(1)
+- **Party autonomy paragraph updated:** Added Section 204 contracting reference in the Unified Election Advantage section
+- **ESO section expanded:** Added "Voter Education" subsection (sole federal authority, media and public education division, Census ICC phased deployment model); added "The Design-Certify-Deploy Pipeline" subsection (ESO designs, EAC certifies, FEC monitors; separate congressional ballot sheet); updated funding figures ($280M establishment including $175M voter education supplemental; $75M baseline + up to $100M election-cycle surge ongoing; $70M EAC certification pipeline)
+- **FEC reference updates:** Added EAC to validation findings notification list; updated implementation support authorized uses to reference EAC certification and separate congressional ballot sheets
+- **Cost-benefit figures updated:** ESO establishment from $105M to $280M; added EAC certification program $70M; total initial investment from $1.6-2.1B to $2.0-2.5B; annual ongoing from $389M to $420-510M
+- **Scope corrections:** "Federal elections" to "congressional elections" in parallel elections passage and constitutional authority appendix (2 instances)
+
+**Revision 5.9** 
+- Aligned with Rev 5.9 of the legislative text
+- **Comparative Evaluation subsection added:** Added "Comparative Evaluation and the Incumbent Method" subsection to the "Built-In Maintenance: The Electoral Science Office" section, placed between the Pre-Implementation Research and Academic Partnerships subsections. Explains the Section 409(a)(3)/(a)(5) comparative-research mandate added in legislative Rev 5.9: the ESO's authority to study alternative methods not adopted by the Act using the same validation pipeline; the "incumbent, not eternal" framing of Proportional STAR (durable by design, not insulated from evidence); and the conflict-of-interest-as-duty argument (mandating comparative study converts the maintainer's self-perpetuation incentive into a transparency-bounded obligation). Added one connecting sentence to the status-quo-bias paragraph linking the pre-implementation evidence argument to the sharper comparative form of the "untested methods" objection
+
+**Revision 5.8**
+- Aligned with Rev 5.8 of the legislative text
+- **"STAR-PR" renamed to "Proportional STAR" throughout:** 13 body instances replaced across implementation architecture, Title III, Title IV (section header, body text, algorithmic districting, minority representation, ESO), political economy, progressives section, and conclusion. Section header "STAR-PR: Proportional Allocation Without Party Lists" updated to "Proportional STAR: Proportional Allocation Without Party Lists." Opening paragraph restructured to establish Proportional STAR as the method name with Allocated Score as the specific tabulation algorithm; removed "STAR Proportional Representation (STAR-PR)" expanded form. Revision history entries preserved as historical record
+- **ESO section substantively expanded:** Rewrote "Built-In Maintenance: The Electoral Science Office" section to reflect Section 409(a) rewrite from technical review mandate to comprehensive institutional charter. Added: statutory mission statement framing (nation's authoritative institution for election science, electoral integrity, and voting method innovation); pre-implementation research and validation program (computational simulation, retrospective analysis, mock elections in five diverse jurisdictions, parallel elections, publication mandate 12 months before First CEMA Election); academic and institutional research partnerships (competitive grants program, data conduit function, External Advisory Panel of 9-15 members); electoral integrity and public trust provisions (verification infrastructure, public inquiry response procedures); funding summary ($105M establishment over three years, $35M mandatory minimum ongoing); updated timeline reflecting pre-implementation authority upon enactment
+- **Cost-benefit figures updated:** ESO establishment funding updated from $15M/$10M/$10M to $45M/$30M/$30M; ongoing from $8M to $35M annually; total estimated initial investment updated from $1.5-2B to $1.6-2.1B; annual ongoing costs updated from $362M to $389M
+- **Three passages tightened to state tradeoffs rather than assert resolution:** (1) Joint Endorsement Lists section reframed as a coalition-breadth signal rather than a nominee designation, clarifying per Section 203(d) that parties may endorse any number of candidates and that intra-party winnowing is the party's own associational task under the Unified General Election Structure; (2) "Letting STAR do the work" passage rewritten to name the deliberate change in what the system optimizes for (breadth of electoral support vs. intensity of intra-party preference) and removed the "redundant" framing; (3) Title II party recognition thresholds passage expanded to acknowledge the constitutive (not merely administrative) nature of the recognition line and the FEC discretion created by the "democratic internal procedures" assessment
+
+**Revision 5.7**
 - Aligned with Rev 5.7 of the legislative text
 - Corrected STAR-PR / Allocated Score terminology in Section V: replaced "also known as Allocated Score" with language establishing the correct hierarchy per Section 404(g) -- STAR-PR is the umbrella concept, Allocated Score is the specific tabulation algorithm
 - Corrected Tier 3 parameter name in Section V: "reweighting methodology" replaced with "ballot weight allocation procedure" to match Section 409(e)(1) and Section 806(d) of the legislative text
@@ -846,7 +911,7 @@ Supreme Court interpretation confirms this grants Congress plenary power over fe
 - Aligned with Rev 5.6 of the legislative text
 - Presidential election scope narrowed: CEMA now governs congressional elections only; removed or reframed all references implying CEMA covers presidential elections
 - FCAO references removed: Title V (Federal Candidate Assessment Office) extracted from CEMA into planned standalone statute under CMF; removed entire Section VII (FCAO rationale), FCAO entries from feature lists, cost estimates, implementation tiers, and Appendix A
-- Title and section renumbering: Title VI (Compensation) → Title V, Title VII (Enforcement) → Title VI, Title VIII (General Provisions) → Title VII; section numbers shifted accordingly (6XX → 5XX)
+- Title and section renumbering: Title VI (Compensation) to Title V, Title VII (Enforcement) to Title VI, Title VIII (General Provisions) to Title VII; section numbers shifted accordingly (6XX to 5XX)
 - Removed Tier 3 implementation tier (Second CEMA Election / FCAO); restored ESO mandatory decennial review cycle to Ongoing section (not FCAO-dependent)
 - Added Section 502(e) Voluntary Compensation Hold rationale subsection to Section VII (Title V): self-executing default polarity, political cover function, anti-gaming provisions (irrevocability and annual commitment), scope limitation (salary only; pension, professional development, MRA excluded), public disclosure structure
 - DPS 3.1 formatting compliance: removed Published line and Based on Rev line from header; removed Last revised line from footer
@@ -956,4 +1021,4 @@ Supreme Court interpretation confirms this grants Congress plenary power over fe
 
 ---
 
-*Prepared by Albert Ramos for The American Policy Architecture Institute*
+*© 2026 Albert Ramos | American Policy Architecture Institute*
