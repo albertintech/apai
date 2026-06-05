@@ -1,8 +1,8 @@
-# THE FEDERAL ELECTIONS MODERNIZATION ACT
+# THE CONGRESSIONAL ELECTIONS MODERNIZATION ACT
 
 ## An Electoral and Congressional Modernization Framework for a Stronger Republic
 
-### Revision 5.7
+### Revision 6.1
 
 ---
 
@@ -74,13 +74,13 @@ Congress finds that:
 
 Congress finds that:
 
-21. Electoral reforms create transitional challenges for incumbents whose careers were built under winner-take-all rules. Compensation adjustments that recognize the value of legislative experience and align incumbent incentives with reform goals remove barriers to passage. Proportional representation through STAR-PR substantially lowers the effective threshold for winning a seat, ensuring that incumbents with meaningful constituent support face reduced -- not increased -- electoral risk under multi-member districts.
+21. Electoral reforms create transitional challenges for incumbents whose careers were built under winner-take-all rules. Compensation adjustments that recognize the value of legislative experience and align incumbent incentives with reform goals remove barriers to passage. Proportional representation through Proportional STAR substantially lowers the effective threshold for winning a seat, ensuring that incumbents with meaningful constituent support face reduced -- not increased -- electoral risk under multi-member districts.
 
-22. The reforms in this Act are designed as an integrated system where each component reinforces the others. Ballot access reform (Title I) enables party competition. Party recognition standards (Title II) provide structure for Joint Endorsement Lists. House expansion (Title III) creates seats for proportional representation. Multi-member districts with STAR-PR (Title IV) operationalize proportionality. Compensation, transition, and implementation mechanisms (Title V) align incentives to make passage politically viable. Enforcement and reporting requirements (Title VI) ensure implementation. General provisions (Title VII) resolve technical implementation details.
+22. The reforms in this Act are designed as an integrated system where each component reinforces the others. Ballot access reform (Title I) enables party competition. Party recognition standards (Title II) provide structure for Joint Endorsement Lists. House expansion (Title III) creates seats for proportional representation. Multi-member districts with Proportional STAR (Title IV) operationalize proportionality. Compensation, transition, and implementation mechanisms (Title V) align incentives to make passage politically viable. Enforcement and reporting requirements (Title VI) ensure implementation. General provisions (Title VII) resolve technical implementation details.
 
 23. These reforms address root causes rather than symptoms. While campaign finance reform, redistricting commissions, and term limits treat symptoms of uncompetitive elections, this Act restructures the fundamental electoral architecture to restore competition and proportional representation.
 
-24. Implementing STAR voting universally for all congressional elections -- both for single-winner contests (Senate and House elections in states with fewer than three Representatives) and proportional contests (multi-member House districts via STAR-PR) -- creates consistent voter experience across all congressional races, enables institutional learning and expertise development in election administration, and simplifies voter education by maintaining the same ballot marking method (score-then-preference) regardless of office or district structure.
+24. Implementing STAR voting universally for all congressional elections -- both for single-winner contests (Senate and House elections in states with fewer than three Representatives) and proportional contests (multi-member House districts via Proportional STAR) -- creates consistent voter experience across all congressional races, enables institutional learning and expertise development in election administration, and simplifies voter education by maintaining the same ballot marking method (score-then-preference) regardless of office or district structure.
 
 ---
 
@@ -90,7 +90,7 @@ Congress finds that:
 
 #### (a) Uniform Federal Standard
 
-For all federal elections, states shall grant ballot access to any candidate who satisfies one of the following criteria:
+For all congressional elections, states shall grant ballot access to any candidate who satisfies one of the following criteria:
 
 1. **Major Party Nomination**: Nomination by a federally recognized political party whose candidate for the same office received at least 5% of the vote in the most recent election for that office in that state; or
 
@@ -163,7 +163,7 @@ Write-in candidate declarations may require only:
 
 ### Section 104. Preemption
 
-This Title supersedes any conflicting state constitutional provisions, statutes, regulations, or local ordinances regarding ballot access for federal elections. State laws that provide easier ballot access than required by this Title remain valid.
+This Title supersedes any conflicting state constitutional provisions, statutes, regulations, or local ordinances regarding ballot access for congressional elections. State laws that provide easier ballot access than required by this Title remain valid.
 
 ### Section 105. FEC Implementation Authority
 
@@ -205,7 +205,7 @@ States that implement ballot access procedures in accordance with FEC regulation
 
 ### Section 108. Effective Date
 
-This Title takes effect 24 months after the date of enactment, applying to all federal elections held after that date.
+This Title takes effect 24 months after the date of enactment, applying to all congressional elections held after that date.
 
 ---
 
@@ -217,7 +217,7 @@ This Title takes effect 24 months after the date of enactment, applying to all f
 
 To qualify as a federally recognized political party eligible for Joint Endorsement Lists on federal ballots, an organization must meet one of the following criteria:
 
-1. **Electoral Performance Standard**: The party's candidate for President, Senate, or House received at least 5% of votes cast in the most recent federal election in at least 15 states; or
+1. **Electoral Performance Standard**: The party's candidate for President, Senate, or House received at least 5% of votes cast in the most recent election for President, Senator, or Representative in at least 15 states; or
 
 2. **Membership Standard**: The party demonstrates:
    - At least 100,000 registered members nationally;
@@ -265,7 +265,7 @@ The FEC shall maintain a publicly accessible database of all federally recognize
 
 #### (a) Ballot Display
 
-All federal election ballots shall display up to three party endorsements adjacent to each candidate's name in the format: "Candidate Name (Party 1, Party 2, Party 3)."
+All congressional election ballots shall display up to three party endorsements adjacent to each candidate's name in the format: "Candidate Name (Party 1, Party 2, Party 3)."
 
 #### (b) Candidate Selection Authority
 
@@ -290,11 +290,112 @@ Federally recognized parties determine their own endorsement procedures through 
 
 Parties may endorse candidates who receive endorsements from other parties. No party may prohibit endorsed candidates from accepting additional endorsements.
 
-### Section 204. Preemption
+### Section 204. Election Administration Services for Party Nomination Processes
 
-This Title supersedes conflicting state laws regarding party recognition and ballot endorsements for federal elections. States may establish additional party recognition criteria for state and local offices.
+#### (a) Authorization
 
-### Section 205. FEC Implementation Authority
+State and local election authorities may enter into contracts with federally recognized political parties under Section 201, or with political parties recognized under applicable state law, to provide election administration services for the party's internal candidate selection processes. No election authority is required to enter into such a contract.
+
+#### (b) Scope of Services
+
+Services available under contract may include any function the election authority performs in the administration of public elections, including but not limited to:
+
+1. Use of polling facilities and election sites;
+2. Ballot design, printing, and distribution;
+3. Provision of voting equipment, including ballot scanners and tabulation systems;
+4. Staffing of election workers and poll personnel;
+5. Voter check-in and credential verification systems;
+6. Vote tabulation, canvassing, and results certification;
+7. Absentee and mail ballot administration; and
+8. Post-election auditing procedures.
+
+#### (c) Equal Access
+
+**(1) Nondiscrimination Requirement**
+
+An election authority that enters into a contract under this section with any political party shall make equivalent services available, on equivalent terms, to every federally recognized political party under Section 201 and every political party recognized under applicable state law that requests such services for the same election cycle.
+
+**(2) Terms**
+
+Equivalent terms include pricing, scheduling priority, service scope, and quality of service. An election authority may not offer preferential terms to any party or impose terms on any party that are less favorable than those offered to any other party.
+
+#### (d) Cost Recovery
+
+**(1) Full Reimbursement**
+
+All costs incurred by the election authority in providing services under this section shall be borne entirely by the contracting party. Contracts shall provide for full cost recovery, including direct costs, administrative overhead, and any incremental costs attributable to the party's election.
+
+**(2) Pricing Standard**
+
+Contract pricing shall reflect the actual marginal costs of providing the requested services, including personnel time, equipment deployment, facility use, consumable materials, and a proportionate share of administrative overhead. Overhead rates shall be consistent with the cost allocation methodology the election authority applies to its administration of public elections. An election authority may not set pricing at a level that bears no reasonable relationship to the actual cost of the services rendered.
+
+**(3) No Public Subsidy**
+
+No federal, state, or local public funds shall be used to subsidize services provided under this section. Election authorities shall maintain accounting records sufficient to demonstrate that all costs are fully recovered from the contracting party.
+
+**(4) Published Rate Schedule**
+
+An election authority that enters into or offers to enter into a contract under this section shall publish a schedule of rates for available services. The rate schedule shall be made available to any political party upon request and shall be a public record.
+
+#### (e) Scheduling
+
+**(1) Party Discretion**
+
+The scheduling of a party's internal candidate selection process under this section is the party's prerogative.
+
+**(2) Election Authority Discretion**
+
+The election authority may establish reasonable periods during which services under this section are unavailable, including periods necessary for preparation, administration, and certification of general elections under this Act and state and local elections. No contract under this section shall require the election authority to provide services during any period the authority determines would compromise its capacity to administer public elections.
+
+**(3) Limitation on Unavailability Periods**
+
+An election authority may not designate more than one hundred twenty (120) cumulative calendar days in any calendar year as unavailable for services under this section. Unavailability periods shall be published at least ninety (90) days in advance of the period's commencement.
+
+**(4) Dispute Resolution**
+
+A political party that believes an election authority has established unavailability periods or scheduling terms that are pretextual, unreasonable, or applied in a discriminatory manner may file a complaint with the Federal Election Commission. The FEC shall investigate and may order the election authority to modify its scheduling terms if the Commission finds that the terms lack a reasonable operational basis or are applied unequally among parties.
+
+#### (f) Voting Method
+
+The voting method used in a party's internal candidate selection process under this section is the party's choice. This Act does not prescribe the voting method for party nomination processes.
+
+#### (g) Public Record
+
+All contracts entered into under this section shall be public records, available for inspection by any person upon request.
+
+#### (h) Firewall Provisions
+
+**(1) No Effect on Ballot Access**
+
+The results of a party's internal candidate selection process conducted under this section shall not restrict, limit, or otherwise affect which candidates appear on the general election ballot under Title I. A candidate's participation or non-participation in a party's internal process, and the outcome of that process, have no bearing on candidate eligibility or ballot access.
+
+**(2) No Effect on Joint Endorsement Lists**
+
+Nothing in this section alters a party's obligations or procedures under Section 203. A party's use of election administration services under this section to conduct an internal process does not convert that process into a state-administered election.
+
+**(3) Voter Data Protection**
+
+Voter registration data, participation records, and any other voter information collected or accessed by the election authority in the course of providing services under this section shall not be disclosed to the contracting party except as otherwise required by applicable state or federal law governing public access to voter records. The election authority shall not compile, retain, or transmit to the contracting party any record of individual voter participation in the party's internal process beyond what is necessary for the administration of that process.
+
+**(4) Official Indicia Prohibition and Voter Disclosure**
+
+   (A) **Prohibition on Official Indicia.** Ballots, envelopes, instructions, and all other materials produced or distributed by an election authority in the course of providing services under this section shall not bear the official seal, logo, letterhead, or institutional branding of the election authority, the state, or any political subdivision thereof. Materials shall not be formatted, designed, or presented in a manner that could reasonably cause a voter to believe they are participating in a state-administered election.
+
+   (B) **Party Identification.** All materials produced under a contract authorized by this section shall prominently display the name of the contracting political party and shall identify the process as an internal party candidate selection process conducted at the party's expense.
+
+   (C) **Required Disclosure.** All ballots and accompanying materials distributed to voters under this section shall include the following disclosure in conspicuous type:
+
+   "This is an internal candidate selection process conducted by [Party Name] at the party's expense. It is not a state-administered election. Your participation or non-participation in this process has no effect on your eligibility to vote in the general election or on any candidate's access to the general election ballot."
+
+   The disclosure shall appear on the ballot itself and on any envelope or cover sheet accompanying the ballot. The bracketed party name shall be replaced with the name of the contracting party.
+
+   (D) **Election Authority Compliance.** An election authority providing services under this section shall not produce or distribute materials that fail to comply with this paragraph. An election authority that becomes aware that materials produced under its contract have been altered by the contracting party to add official indicia or remove required disclosures may terminate the contract immediately.
+
+### Section 205. Preemption
+
+This Title supersedes conflicting state laws regarding party recognition and ballot endorsements for congressional elections. States may establish additional party recognition criteria for state and local offices.
+
+### Section 206. FEC Implementation Authority
 
 The Federal Election Commission shall, within 180 days of enactment, promulgate regulations implementing this Title, including:
 
@@ -305,9 +406,9 @@ The Federal Election Commission shall, within 180 days of enactment, promulgate 
 5. Enforcement procedures; and
 6. Model state implementation guidelines.
 
-### Section 206. Effective Date
+### Section 207. Effective Date
 
-This Title takes effect 24 months after the date of enactment, applying to all federal elections held after that date.
+This Title takes effect 24 months after the date of enactment, applying to all congressional elections held after that date.
 
 ---
 
@@ -407,7 +508,7 @@ States with one Representative are exempt from redistricting requirements, as at
 
 #### (a) Department of Justice Review
 
-The Department of Justice shall review state redistricting plans following each House expansion to ensure compliance with the Voting Rights Act and constitutional requirements.
+The Department of Justice shall review state redistricting plans following each House expansion to ensure compliance with constitutional requirements.
 
 #### (b) Enforcement
 
@@ -433,7 +534,7 @@ Multi-member congressional districts shall elect between three (3) and seven (7)
 
 #### (c) Population Equality
 
-Districts within each state shall contain substantially equal population, consistent with Voting Rights Act and constitutional one-person-one-vote requirements.
+Districts within each state shall contain substantially equal population, consistent with constitutional one-person-one-vote requirements.
 
 #### (d) Small State Application
 
@@ -482,15 +583,9 @@ This subsection applies to states with three or more Representatives. For states
 
 #### (d) Algorithm as Adjustable Parameter
 
-The specific districting algorithm is an adjustable parameter under Section 409(e). The Electoral Science Office may propose replacement or modification of the certified algorithm through the process established in Section 409(h)(2), subject to the boundary conditions specified in subsection (f) of this section and Section 409(e)(2).
+The specific districting algorithm is an adjustable parameter under Section 409(e). The Electoral Science Office may propose replacement or modification of the certified algorithm through the process established in Section 409(h)(2), subject to the boundary conditions specified in subsection (e) of this section and Section 409(e)(2).
 
-#### (e) Voting Rights Act Compliance
-
-District configurations produced by the certified algorithm shall comply with the Voting Rights Act of 1965, as amended. The Department of Justice shall review algorithmically generated district maps following each redistricting cycle pursuant to Section 305.
-
-If the Department of Justice determines that an algorithmically generated configuration violates the Voting Rights Act, the Electoral Science Office shall, in coordination with the Department of Justice, apply the minimum boundary adjustment necessary to achieve compliance while preserving the algorithmic neutrality of the remainder of the state's district configuration. Safeguards governing this process are specified in Section 410(d).
-
-#### (f) Boundary Conditions for Districting Algorithm
+#### (e) Boundary Conditions for Districting Algorithm
 
 Any districting algorithm certified or modified under this section must:
 
@@ -501,11 +596,11 @@ Any districting algorithm certified or modified under this section must:
 5. Not require subjective parameter selection by any human actor; and
 6. Be implementable using publicly available census geographic data.
 
-#### (g) Initial Algorithm Certification
+#### (f) Initial Algorithm Certification
 
 The Electoral Science Office shall certify an initial districting algorithm within 18 months of enactment. If the ESO has not certified an algorithm by the deadline established in this subsection, the shortest splitline method -- defined as recursive division of a state's geography along the shortest straight line that divides the remaining population into proportions matching the remaining seat allocation -- shall serve as the default algorithm until the ESO certifies a replacement.
 
-#### (h) Transparency and Public Access
+#### (g) Transparency and Public Access
 
 The Electoral Science Office shall publish:
 
@@ -558,7 +653,7 @@ This requirement applies uniformly to:
 - All House of Representatives elections, regardless of district type; and
 - All United States Senate elections.
 
-States shall not conduct state-administered primary elections for federal offices.
+No State or political subdivision thereof shall administer a primary election for nomination to the Congress, unless such administrative services are provided under contract with, and at the expense of, the requesting political party, subject to the requirements of Section 204.
 
 **(2) Rationale**
 
@@ -567,7 +662,7 @@ STAR voting achieves optimal democratic outcomes when all qualified candidates a
 - Maximize voter participation (general elections consistently outperform primaries in turnout);
 - Eliminate party registration barriers that exclude voters from meaningful participation;
 - Reduce administrative costs and campaign cycle duration;
-- Ensure consistency of voter experience across all federal elections regardless of state of residence;
+- Ensure consistency of voter experience across all congressional elections regardless of state of residence;
 - Allow STAR voting to perform its designed function of identifying broadly supported winners from any field size; and
 - Eliminate state-by-state variation that creates confusion and unequal access to democratic participation.
 
@@ -585,7 +680,7 @@ Political parties retain full autonomy to conduct internal candidate selection p
 Such party processes:
 
 - Shall be funded entirely by the party conducting them;
-- Shall not use state election infrastructure or personnel;
+- Shall not use state election infrastructure or personnel, except through fee-for-service contracts authorized under Section 204;
 - Shall not restrict which candidates appear on the general election ballot; and
 - Shall not affect candidate eligibility or ballot access under Title I.
 
@@ -638,18 +733,18 @@ All candidates meeting ballot access requirements (Title I) appear directly on t
 
 **(2) Rationale**
 
-Multi-member districts using STAR-PR achieve optimal democratic outcomes when all qualified candidates appear on the general election ballot. Proportional allocation ensures diverse viewpoints receive representation proportional to voter support without requiring preliminary candidate field narrowing.
+Multi-member districts using Proportional STAR achieve optimal democratic outcomes when all qualified candidates appear on the general election ballot. Proportional allocation ensures diverse viewpoints receive representation proportional to voter support without requiring preliminary candidate field narrowing.
 
 **(3) Implementation Timeline**
 
 This subsection takes effect at the First CEMA Election.
 
-#### (g) STAR-PR for Multi-Member House Districts
+#### (g) Proportional STAR for Multi-Member House Districts
 
 For House elections in multi-member districts electing three or more
-Representatives, STAR-PR (Score Then Automatic Runoff - Proportional
-Representation) shall be used. The tabulation algorithm for STAR-PR is
-Allocated Score.
+Representatives, Proportional STAR voting shall be used. Proportional STAR
+is the proportional application of STAR voting to multi-member districts;
+the tabulation algorithm is Allocated Score.
 
 **(1) Required Properties**
 
@@ -724,20 +819,38 @@ Office under Section 409.
 This proportional procedure applies only to House elections in multi-member
 districts with three or more seats.
 
-#### (h) Minimum Threshold for STAR-PR
+#### (h) Minimum Threshold for Proportional STAR
 
-Districts electing fewer than three Representatives shall use single-winner STAR voting (subsection (e)) rather than STAR-PR. STAR-PR shall only be used for House districts electing three or more Representatives simultaneously.
+Districts electing fewer than three Representatives shall use single-winner STAR voting (subsection (e)) rather than Proportional STAR. Proportional STAR shall only be used for House districts electing three or more Representatives simultaneously.
 
-#### (i) FEC Certification and Technical Specifications
+#### (i) Technical Specifications and Certification
 
-The Federal Election Commission shall, within 12 months of enactment, publish detailed technical specifications for:
+**(1) Electoral Science Office Specifications**
+
+The Electoral Science Office shall, within 12 months of enactment, develop and publish detailed technical specifications for:
 
 1. Single-winner STAR voting implementation for general elections;
-2. STAR-PR (Allocated Score) implementation for multi-member districts;
-3. Ballot design standards for STAR voting interfaces;
-4. Vote tabulation procedures and audit protocols;
-5. Voting equipment certification requirements; and
-6. Recount and tie-breaking procedures.
+2. Proportional STAR (Allocated Score) implementation for multi-member districts;
+3. Ballot design standards for STAR voting interfaces, including layout, typography, scoring interface presentation, Joint Endorsement List display formatting, and multilingual requirements;
+4. Vote tabulation procedures and audit protocols; and
+5. Recount and tie-breaking procedures.
+
+**(2) Election Assistance Commission Certification**
+
+The Election Assistance Commission shall, within 18 months of enactment:
+
+1. Incorporate the specifications published by the ESO under paragraph (1) into the Voluntary Voting System Guidelines or a supplemental federal standard applicable to congressional elections under this Act;
+2. Certify that voting systems meeting ESO specifications are operationally viable, including compatibility with ballot printing, scanning, tabulation, and accessibility requirements;
+3. Establish a testing and certification program for voting equipment used in elections conducted under this Act; and
+4. Publish equipment certification requirements ensuring that all certified systems can administer the ballot format, scoring interface, and tabulation procedures specified by the ESO.
+
+**(3) Mandatory Certification**
+
+No voting equipment shall be used to administer a congressional election under this Act unless that equipment has been certified by the Election Assistance Commission under paragraph (2). States may use EAC-certified equipment for state and local elections at their discretion.
+
+**(4) Federal Election Commission Role**
+
+The Federal Election Commission shall monitor state compliance with the technical specifications and certification requirements established under this subsection and shall report to Congress annually on compliance status.
 
 ### Section 405. Ballot Design Standards
 
@@ -749,7 +862,7 @@ Ballots shall present candidate information clearly, including:
 2. Party endorsements in format specified in Title II;
 3. Scoring interface with clear 0-5 star options;
 4. Instructions in plain language; and
-5. Multi-lingual presentation per Voting Rights Act requirements.
+5. Multilingual presentation in any jurisdiction subject to the language-access requirements of Sections 203 and 4(f)(4) of the Voting Rights Act of 1965, as amended (52 U.S.C. 10503, 10303(f)(4)).
 
 #### (b) Accessibility
 
@@ -761,47 +874,152 @@ Ballots shall comply with accessibility requirements for voters with disabilitie
 4. High-contrast display options; and
 5. Physical ballot accessibility.
 
-#### (c) FEC Model Ballots
+#### (c) Model Ballot Designs
 
-The FEC shall publish model ballot designs demonstrating compliance with this section within 12 months of enactment.
+**(1) ESO Design Authority**
+
+The Electoral Science Office shall develop and publish model ballot designs demonstrating compliance with this section within 12 months of enactment. Model designs shall be informed by usability research, including testing with demographically diverse voter populations, and shall be updated as the ESO identifies design improvements through ongoing research under Section 409.
+
+**(2) EAC Operational Review**
+
+Prior to publication, the ESO shall submit model ballot designs to the Election Assistance Commission for operational review. The EAC shall evaluate model designs for compatibility with certified voting equipment, ballot printing systems, scanning technology, and accessibility overlays, and shall report any operational concerns to the ESO within 60 days. The ESO shall address operational concerns prior to publication or publish a written explanation of why a concern was not incorporated.
+
+**(3) FEC Compliance Standard**
+
+Published model ballot designs shall serve as the compliance standard for purposes of FEC monitoring under Section 407(b). State ballot designs that conform to published model designs are presumptively compliant with this section.
+
+#### (d) Separate Congressional Ballot Sheet
+
+**(1) Physical Separation Requirement**
+
+Congressional elections conducted under this Act shall appear on a ballot sheet physically separate from all state and local contests. The congressional ballot sheet shall contain only contests governed by this Act.
+
+**(2) Contents**
+
+The congressional ballot sheet shall include:
+
+1. All House of Representatives contests in the voter's district;
+2. Any United States Senate contest in the voter's state;
+3. Party endorsements as specified in Title II;
+4. Scoring instructions in plain language; and
+5. No other contests, measures, or ballot questions.
+
+**(3) Design Conformity**
+
+The congressional ballot sheet shall conform to the model ballot designs published by the Electoral Science Office under subsection (c) and to technical specifications published under Section 404(i).
+
+**(4) Distribution**
+
+The congressional ballot sheet shall be distributed to each voter at the same time and in the same manner as the state and local ballot. Election authorities shall ensure that voters receive both the congressional ballot sheet and the state and local ballot as part of a single polling place visit or mail ballot distribution.
 
 ### Section 406. Transition Protection
 
 [Reserved]
 
-### Section 407. FEC Certification and Oversight
+### Section 407. Certification, Compliance, and Technical Assistance
 
 #### (a) Voting System Certification
 
-The FEC shall certify voting systems meeting STAR and STAR-PR technical specifications.
+The Election Assistance Commission shall certify voting systems meeting the technical specifications published by the Electoral Science Office under Section 404(i). No voting system shall be used in congressional elections under this Act without EAC certification. The EAC shall maintain a publicly accessible registry of certified systems.
 
 #### (b) State Compliance Monitoring
 
-The FEC shall monitor state compliance with this Title and report to Congress annually.
+The Federal Election Commission shall monitor state compliance with this Title and report to Congress annually. Compliance monitoring shall include verification that:
+
+1. States use EAC-certified voting equipment for all congressional elections;
+2. Congressional ballot sheets conform to model designs published under Section 405(c);
+3. Ballot access, party endorsement display, and candidate presentation requirements are met; and
+4. Election administration procedures conform to technical specifications published under Section 404(i).
 
 #### (c) Technical Assistance
 
-The FEC shall provide technical assistance to states implementing STAR voting and STAR-PR, including:
+The Electoral Science Office and the Election Assistance Commission shall jointly provide technical assistance to states implementing STAR voting and Proportional STAR:
 
-1. Model legislation and regulations;
-2. Voting equipment specifications;
-3. Voter education materials;
-4. Training for election officials; and
-5. Best practices documentation.
+**(1) ESO Responsibilities**
+
+The Electoral Science Office shall provide:
+
+1. Ballot design guidance and model designs under Section 405(c);
+2. Tabulation procedure specifications and training materials;
+3. Voter education content regarding voting method mechanics; and
+4. Research-based best practices for election administration under this Act.
+
+**(2) EAC Responsibilities**
+
+The Election Assistance Commission shall provide:
+
+1. Voting equipment specifications and procurement guidance;
+2. Equipment testing and certification support;
+3. Implementation support for ballot printing, scanning, and accessibility requirements;
+4. Model legislation and administrative regulations for state adoption; and
+5. Training for election officials on certified equipment operation.
+
+**(3) FEC Responsibilities**
+
+The Federal Election Commission shall provide:
+
+1. Compliance guidance and model compliance checklists;
+2. Enforcement procedures and dispute resolution; and
+3. Annual compliance reporting templates.
 
 ### Section 408. Contingency Provisions
 
 #### (a) Implementation Delays
 
-If states face genuine technical obstacles to timely STAR-PR implementation, the FEC may grant limited extensions upon demonstration of good-faith compliance efforts.
+**(1) Extension Authority**
+
+If a state demonstrates genuine technical obstacles to timely implementation of voting methods required under this Title, the Federal Election Commission may grant a limited extension of the implementation deadline for that state.
+
+**(2) Technical Certification Required**
+
+No extension may be granted under paragraph (1) unless the Election Assistance Commission has certified, in writing, that:
+
+1. The state's claimed technical obstacle is genuine and is not attributable to the state's failure to undertake good-faith compliance efforts;
+2. The obstacle relates to equipment certification, equipment availability, or technical implementation rather than administrative or political resistance; and
+3. The EAC has identified a reasonable timeline within which the obstacle can be resolved.
+
+**(3) Extension Terms**
+
+Extensions granted under this subsection shall:
+
+1. Be limited to the shortest period necessary to resolve the certified technical obstacle;
+2. Not exceed 12 months beyond the original implementation deadline;
+3. Require the state to submit quarterly progress reports to both the FEC and the EAC; and
+4. Be revocable by the FEC upon a finding that the state has failed to maintain good-faith compliance efforts during the extension period.
 
 #### (b) Equipment Availability
 
-The FEC shall work with voting equipment vendors to ensure certified STAR-PR systems are commercially available at least 18 months before the First CEMA Election.
+The Election Assistance Commission shall work with voting equipment vendors to ensure EAC-certified Proportional STAR systems are commercially available at least 18 months before the First CEMA Election. The EAC shall report to Congress on certification progress and vendor readiness no later than 24 months before the First CEMA Election.
 
 #### (c) Voter Education
 
-The FEC shall coordinate with states to ensure comprehensive voter education campaigns precede STAR voting implementation.
+**(1) ESO Authority**
+
+The Electoral Science Office shall develop, produce, and distribute comprehensive voter education materials and campaigns to ensure public understanding of voting methods established under this Act. The ESO shall establish and maintain a dedicated media and public education division for this purpose.
+
+**(2) Scope**
+
+Voter education under this subsection shall include:
+
+1. Plain-language explanation of STAR voting mechanics, ballot marking procedures, and how votes are counted;
+2. Multilingual materials meeting or exceeding the language-access requirements of Section 203 of the Voting Rights Act of 1965, as amended (52 U.S.C. 10503);
+3. Accessible formats complying with Section 508 of the Rehabilitation Act, including audio, large print, Braille, and assistive technology compatibility;
+4. Digital, broadcast, print, and direct distribution channels sufficient to reach voters nationwide;
+5. Interactive ballot simulators and demonstration tools;
+6. Toolkits and training materials for state and local election officials; and
+7. Post-election educational materials explaining election outcomes and tabulation results.
+
+**(3) Campaign Timing**
+
+The ESO shall conduct a national voter education campaign preceding each congressional election conducted under this Act. The campaign preceding the First CEMA Election shall commence no later than 12 months before Election Day and shall constitute the most intensive education effort, with subsequent campaigns scaled to reflect declining novelty and increasing voter familiarity.
+
+**(4) Nonpartisan Character**
+
+All voter education materials produced under this subsection shall be strictly nonpartisan. Materials shall explain voting mechanics and procedures only and shall not reference specific candidates, parties, ballot measures, or policy positions.
+
+**(5) Coordination**
+
+The ESO shall coordinate with state and local election officials to integrate federal voter education materials with state voter guides and local election administration. The FEC shall make its state compliance relationships available to the ESO for distribution purposes through the memoranda of understanding established under Section 409(j).
 
 
 ### Section 409. Electoral Science Office and Voting Method Technical Review
@@ -810,19 +1028,83 @@ The FEC shall coordinate with states to ensure comprehensive voter education cam
 
 **(1) Creation**
 
-There is established as an independent agency in the executive branch the Electoral Science Office (ESO), which shall be responsible for:
+There is established as an independent agency in the executive branch the Electoral Science Office (ESO).
 
-1. Ongoing evaluation of voting method performance under this Act;
-2. Research into improvements to vote tabulation and seat allocation procedures;
-3. Development and validation of proposed technical modifications;
-4. Coordination with academic institutions, election administrators, and international experts;
-5. Public education regarding voting method mechanics and outcomes;
-6. Certification, evaluation, and maintenance of the districting algorithm required by Section 403; and
-7. Publication of algorithmically generated district maps and verification tools following each redistricting cycle.
+**(2) Mission**
 
-**(2) Independence**
+The mission of the Electoral Science Office is to serve as the nation's authoritative institution for election science, electoral integrity, and voting method innovation. The ESO shall advance public confidence in the mechanics and outcomes of elections through rigorous, transparent, and independent scientific research; comprehensive pre-implementation testing and validation of voting methods and electoral procedures; ongoing performance evaluation of systems deployed under this Act; and the development of an institutional and evidentiary foundation sufficient to support informed legislative decision-making on electoral method questions. The ESO shall fulfill this mission without regard to partisan considerations and shall operate with the understanding that public trust in democratic elections depends on the existence of an independent, technically credible institution whose work product is publicly available and independently verifiable.
 
-The Electoral Science Office shall operate independently of the Federal Election Commission and shall not be subject to FEC direction or control. The ESO may coordinate with the FEC on implementation matters but maintains separate authority over technical evaluation and modification proposals.
+**(3) Core Responsibilities**
+
+The ESO shall be responsible for:
+
+1. Ongoing evaluation of voting method performance under this Act, including proportionality outcomes, voter comprehension, ballot completion rates, administrative efficiency, and error rates;
+2. Research into improvements to vote tabulation, seat allocation procedures, and ballot design, and development and publication of ballot design specifications and model ballot designs under Sections 404(i) and 405(c);
+3. Development, validation, and testing of proposed technical modifications prior to any recommendation for adoption;
+4. Comparative evaluation of alternative voting methods, seat allocation procedures, and districting procedures not established under this Act, including application of the research and validation activities specified in paragraph (5) to such alternatives, for the purpose of developing the evidentiary foundation described in subsection (a)(2);
+5. Certification, evaluation, and maintenance of the districting algorithm required by Section 403;
+6. Publication of algorithmically generated district maps and publicly accessible verification tools following each redistricting cycle;
+7. Pre-implementation research and validation activities as specified in paragraph (5);
+8. Academic and institutional research partnerships as specified in paragraph (6);
+9. Development, production, and nationwide distribution of voter education materials regarding voting method mechanics, ballot marking procedures, electoral outcomes, and the scientific basis for electoral procedures adopted under this Act, through a dedicated media and public education division within the ESO; and
+10. Publication of findings, data, methodologies, and recommendations in forms accessible to Congress, state election officials, academic researchers, and the general public.
+
+**(4) Independence**
+
+The Electoral Science Office shall operate independently of the Federal Election Commission and shall not be subject to FEC direction or control. The ESO may coordinate with the FEC on implementation matters but maintains separate authority over technical evaluation, research, validation, and modification proposals.
+
+**(5) Pre-Implementation Research and Validation**
+
+The ESO shall conduct a systematic program of research and validation prior to and following the deployment of voting methods established under this Act. The activities specified in this paragraph may be applied both to voting methods established under this Act and, for the comparative purposes described in subsection (a)(3), to alternative methods and procedures not established under this Act. This program shall include, at minimum:
+
+(i) **Computational Simulation.** The ESO shall develop and publish large-scale simulation models testing voting method performance across a range of synthetic electorates, varying levels of strategic voter behavior, degrees of political polarization, and candidate field compositions. All simulation source code, input parameters, and output data shall be published in the ESO's public database under subsection (i)(2).
+
+(ii) **Retrospective Analysis.** Where jurisdictions maintain ballot data containing sufficient preference information from prior elections conducted under other voting methods, the ESO shall conduct retrospective tabulations applying the voting methods established under this Act to such data and shall publish comparative analyses of outcomes, proportionality metrics, and representational effects.
+
+(iii) **Mock Elections.** The ESO shall design and administer mock elections using certified voting equipment and the participation of state and local election offices. Mock elections shall:
+
+1. Use fictional candidates with disclosed policy platforms sufficient to generate genuine voter preferences among participants;
+2. Employ the same ballot format, tabulation procedures, and reporting protocols required for elections conducted under this Act;
+3. Compensate voter participants for their time at rates sufficient to ensure broad demographic representation;
+4. Stress-test the full administrative pipeline, including poll worker procedures, equipment performance, tabulation timelines, and results reporting; and
+5. Be conducted in no fewer than five geographically and demographically diverse jurisdictions prior to the First CEMA Election.
+
+(iv) **Parallel Elections.** During congressional elections occurring in the pre-implementation period, the ESO may, in cooperation with willing state and local election authorities, administer voluntary parallel ballots alongside official elections. Parallel ballots shall use the ballot format established under this Act for the same contests appearing on the official ballot. Parallel ballot results shall be tabulated and published but shall have no legal effect on election outcomes.
+
+(v) **Publication of Validation Findings.** The ESO shall publish the results of all pre-implementation research and validation activities, including methodologies, raw data in anonymized form, analytical findings, and identified concerns. Pre-implementation findings shall be transmitted to Congress, the FEC, and state election officials no later than 12 months before the First CEMA Election.
+
+**(6) Academic and Institutional Research Partnerships**
+
+(i) **Research Grants Program.** The ESO shall establish and administer a competitive grants program funding independent academic research on voting methods, electoral systems, seat allocation algorithms, districting methodologies, voter behavior, and related subjects. Grant awards shall be made on the basis of scientific merit as evaluated by independent peer review. The ESO shall not condition grant funding on the expectation of any particular research outcome.
+
+(ii) **Data Access and Conduit Function.** The ESO shall serve as the institutional conduit between academic researchers and state and local election authorities for the purpose of facilitating access to election data, administrative records, and election infrastructure necessary for research purposes. The ESO shall:
+
+1. Establish standardized data-sharing protocols and agreements with cooperating state and local jurisdictions;
+2. Maintain a data request process through which qualified researchers may apply for access to election data not otherwise publicly available;
+3. Coordinate with state and local election authorities to facilitate approved research activities, including field studies, parallel ballot administration, and post-election data collection; and
+4. Ensure that all data shared for research purposes is anonymized to protect voter privacy.
+
+(iii) **External Advisory Panel.** The ESO Commission shall appoint an External Advisory Panel of not fewer than nine (9) and not more than fifteen (15) members drawn from academic institutions, election administration, international electoral bodies, and civil society organizations with expertise in election science. The External Advisory Panel shall:
+
+1. Advise the Commission on research priorities and emerging developments in electoral science;
+2. Review and comment on proposed modifications prior to formal Commission action;
+3. Recommend areas of investigation for the research grants program; and
+4. Publish an independent annual assessment of the ESO's research activities and findings.
+
+Members of the External Advisory Panel shall serve three-year terms and may be reappointed once. Panel members shall receive per diem compensation for days spent on Panel business.
+
+**(7) Electoral Integrity and Public Trust**
+
+(i) **Institutional Credibility.** The ESO shall conduct its activities with the understanding that the transparency and scientific rigor of its work product serve as a foundation for public confidence in elections. The ESO shall ensure that its methodologies, data, and findings are published in sufficient detail to permit independent verification by any qualified researcher, journalist, election official, or member of the public.
+
+(ii) **Verification Infrastructure.** The ESO shall develop and maintain publicly accessible tools enabling independent verification of:
+
+1. Voting method tabulation procedures and election results;
+2. Districting algorithm outputs and district boundary determinations;
+3. Proportionality metrics and representational outcomes; and
+4. Compliance with the statutory principles established in subsection (c).
+
+(iii) **Responsiveness to Public Inquiry.** The ESO shall establish procedures for receiving and responding to public inquiries regarding electoral methods, tabulation procedures, and election outcomes. The ESO shall publish responses to frequently raised concerns and shall address substantive challenges to the integrity of electoral procedures through published technical analysis.
 
 #### (b) ESO Commission
 
@@ -938,7 +1220,7 @@ is best positioned to evaluate and refine based on empirical evidence and
 ongoing research.
 
 1. **Quota calculation formula**: The mathematical formula for determining the
-   unit of ballot weight allocated per seat under STAR-PR, as specified in
+   unit of ballot weight allocated per seat under Proportional STAR, as specified in
    Section 404(g)(2);
 2. **Ballot weight allocation procedure**: The procedure for allocating ballot
    weight after each seat is filled, as specified in Section 404(g)(2),
@@ -955,16 +1237,14 @@ ongoing research.
    not reduce auditability;
 7. **Districting algorithm**: The specific algorithm used to determine
    congressional district boundaries within each state, subject to the
-   boundary conditions specified in Section 403(f) and subsection (e)(2) of
+   boundary conditions specified in Section 403(e) and subsection (e)(2) of
    this section;
 8. **District magnitude allocation method**: The district magnitude preference
    ordering and the method for allocating magnitudes among districts within a
    state under Section 403(c), subject to the constraint that all districts
    fall within the magnitude range specified as a protected design element
    under subsection (d)(1); and
-9. **VRA compliance adjustment procedure**: The method by which the ESO, in
-   coordination with the Department of Justice, applies minimum boundary
-   adjustments to achieve Voting Rights Act compliance under Section 403(e).
+9. **Ballot design specifications**: The layout, typography, visual presentation, multilingual formatting, and informational elements of the congressional ballot sheet, as specified in Sections 405 and 404(i), provided that modifications preserve the scoring interface established as a protected design element under subsection (d)(1) and maintain or improve voter comprehension and ballot completion rates as measured by the ESO's usability research program.
 
 **(2) Boundary Conditions**
 
@@ -983,7 +1263,7 @@ Any modification to adjustable parameters must:
 7. Not introduce human discretion into district boundary placement or district
    magnitude allocation; and
 8. Satisfy the boundary conditions for districting algorithms specified in
-   Section 403(f).
+   Section 403(e).
 
 #### (f) Decennial Technical Review
 
@@ -998,7 +1278,7 @@ Each decennial review shall evaluate:
 1. Proportionality outcomes across all multi-member district elections since the previous review;
 2. Voter comprehension and ballot completion rates;
 3. Administrative efficiency and error rates;
-4. Advances in electoral science research applicable to STAR and STAR-PR methods;
+4. Advances in electoral science research applicable to STAR and Proportional STAR methods;
 5. International experience with comparable voting systems;
 6. Identified edge cases or anomalies in tabulation outcomes; and
 7. Technological developments affecting implementation feasibility.
@@ -1141,9 +1421,10 @@ resolution of disapproval within 120 legislative days:
 
 1. The proposed modification shall take effect on the date specified in the
    transmission, but not earlier than 18 months after transmission;
-2. The FEC shall update technical specifications and certification requirements
-   accordingly;
-3. States shall implement modifications in time for the first federal election
+2. The ESO shall update technical specifications and the EAC shall update
+   certification requirements accordingly, and the FEC shall update compliance
+   guidance to states;
+3. States shall implement modifications in time for the first congressional election
    occurring at least 12 months after the effective date; and
 4. The ESO shall provide technical assistance to states and election
    administrators during implementation.
@@ -1178,34 +1459,52 @@ The ESO shall submit an annual report to Congress summarizing:
 4. Research priorities for the coming year; and
 5. Budget and staffing requirements.
 
-#### (j) Coordination with FEC
+#### (j) Interagency Coordination
 
-**(1) Implementation Authority**
+**(1) Institutional Pipeline**
 
-The Federal Election Commission retains authority over:
+The administration of congressional elections under this Act is a shared responsibility allocated as follows:
 
-1. Voting system certification;
-2. State compliance monitoring;
-3. Technical assistance to states; and
-4. Enforcement of voting method requirements.
+1. The Electoral Science Office designs technical specifications, ballot design standards, and model ballot designs based on scientific research and empirical evidence;
+2. The Election Assistance Commission certifies that voting equipment and election administration procedures can operationally execute the specifications published by the ESO; and
+3. The Federal Election Commission monitors state compliance with the specifications and certification requirements established by the ESO and EAC and enforces the requirements of this Title.
 
-**(2) Specification Updates**
+**(2) ESO-EAC Coordination**
 
-Upon effectiveness of any ESO-approved modification, the FEC shall:
+The Electoral Science Office and the Election Assistance Commission shall enter into a memorandum of understanding governing:
 
-1. Update technical specifications within 90 days;
-2. Revise certification requirements as necessary;
-3. Provide updated guidance to states and vendors; and
-4. Coordinate with ESO on implementation support.
+1. Procedures for ESO submission of specifications and model designs to the EAC for operational review;
+2. Timelines for EAC review, testing, and certification of equipment meeting ESO specifications;
+3. Procedures for resolving disagreements between ESO design specifications and EAC operational feasibility determinations;
+4. Coordination on technical assistance to states and election equipment vendors; and
+5. Sharing of data, including EAC equipment testing results and ESO usability research findings.
 
-**(3) Information Sharing**
+**(3) ESO-FEC Coordination**
 
-The FEC and ESO shall enter into a memorandum of understanding governing:
+The Electoral Science Office and the Federal Election Commission shall enter into a memorandum of understanding governing:
 
 1. Sharing of election data and compliance reports;
-2. Coordination on technical assistance to states;
-3. Joint research initiatives; and
+2. Coordination on voter education and public information;
+3. Procedures by which the FEC notifies the ESO of compliance concerns that may indicate design specification deficiencies; and
 4. Dispute resolution procedures.
+
+**(4) EAC-FEC Coordination**
+
+The Election Assistance Commission and the Federal Election Commission shall enter into a memorandum of understanding governing:
+
+1. Procedures for FEC access to EAC certification records and equipment testing data;
+2. Coordination on compliance determinations involving equipment certification status;
+3. Joint guidance to states on equipment procurement and certification timelines; and
+4. Referral procedures for compliance failures involving equipment deficiencies.
+
+**(5) Specification Updates**
+
+Upon effectiveness of any ESO-approved modification under subsection (h):
+
+1. The EAC shall update certification requirements and conduct supplemental equipment testing as necessary within 120 days;
+2. The FEC shall update compliance guidance to states within 90 days of EAC certification updates;
+3. The ESO shall provide technical assistance to the EAC and FEC during implementation; and
+4. States shall implement modifications in time for the first congressional election occurring at least 12 months after the effective date.
 
 #### (k) Authorization of Appropriations
 
@@ -1213,18 +1512,36 @@ The FEC and ESO shall enter into a memorandum of understanding governing:
 
 There are authorized to be appropriated to the Electoral Science Office:
 
-1. $15 million for the first fiscal year after enactment for establishment and initial operations; and
-2. $10 million for each of the second and third fiscal years after enactment.
+1. $45 million for the first fiscal year after enactment for establishment, initial operations, and commencement of pre-implementation research and validation activities under subsection (a)(5); and
+2. $30 million for each of the second and third fiscal years after enactment.
 
 Establishment funding under this paragraph is in addition to, and not in lieu of, the mandatory minimum appropriation established under Section 410(c).
 
-**(2) Decennial Review Supplemental**
+**(2) Voter Education Establishment Supplemental**
+
+In addition to the amounts authorized under paragraph (1), there are authorized to be appropriated to the Electoral Science Office for the establishment and initial operation of the media and public education division authorized under Section 408(c):
+
+1. $55 million for the first fiscal year after enactment, for division build-out, staffing, content development infrastructure, and translation and accessibility pipeline establishment;
+2. $50 million for the second fiscal year after enactment, for content production, multilingual localization, usability research, digital platform development, and pilot programs; and
+3. $70 million for the third fiscal year after enactment, for the first national voter education campaign preceding the First CEMA Election, including paid media, direct distribution, contracted surge production, and community partnership activation.
+
+Amounts authorized under this paragraph shall be available until expended and shall be maintained in accounts separate from the ESO's research and technical evaluation functions.
+
+**(3) Decennial Review Supplemental**
 
 There are authorized to be appropriated such additional sums as necessary to conduct decennial technical reviews under Section 409(f), not to exceed $5 million per review cycle.
 
-**(3) Ongoing Funding**
+**(4) Ongoing Funding -- Two-Tier Structure**
 
-Beginning with the fourth fiscal year after enactment, ongoing funding for the Electoral Science Office shall be provided through the mandatory minimum appropriation established under Section 410(c). Congress may appropriate sums in excess of the mandatory minimum for any fiscal year.
+Beginning with the fourth fiscal year after enactment:
+
+   (A) **Baseline Authorization.** There are authorized to be appropriated to the Electoral Science Office not less than $75 million for each fiscal year, covering the ESO's research, technical evaluation, ballot design, and voter education functions in non-election years. This amount is in addition to, and not in lieu of, the mandatory minimum appropriation established under Section 410(c) for functions other than voter education.
+
+   (B) **Election-Cycle Surge Authorization.** For each fiscal year in which a congressional election is conducted under this Act, there are authorized to be appropriated to the Electoral Science Office an additional amount not to exceed $100 million for voter education campaign production and distribution, contracted media buying and creative services, multilingual and accessible format production, and direct voter outreach.
+
+   (C) **Declining Surge.** The ESO shall calibrate election-cycle voter education spending to reflect declining novelty and increasing voter familiarity with voting methods established under this Act. The ESO shall include in its annual report to Congress under subsection (i)(3) a justification for the level of election-cycle spending requested.
+
+   (D) **Separate Accounting.** The ESO shall maintain separate accounting for voter education expenditures and research and technical evaluation expenditures and shall report both in its annual budget submission.
 
 #### (l) Effective Date
 
@@ -1232,11 +1549,15 @@ Beginning with the fourth fiscal year after enactment, ongoing funding for the E
 
 The provisions of this section authorizing establishment of the Electoral Science Office, appointment of Commissioners, and administrative preparations shall take effect upon enactment.
 
-**(2) Operational Authority**
+**(2) Pre-Implementation Authority**
+
+The ESO's authority to conduct pre-implementation research and validation activities under subsection (a)(5), establish academic and institutional research partnerships under subsection (a)(6), and develop verification infrastructure under subsection (a)(7) shall take effect upon enactment. The ESO shall commence pre-implementation activities as soon as practicable after appointment of initial Commissioners.
+
+**(3) Operational Authority**
 
 The ESO's authority to conduct technical reviews and propose modifications shall take effect upon the First CEMA Election.
 
-**(3) First Decennial Review**
+**(4) First Decennial Review**
 
 The first mandatory decennial review shall commence following certification of the first decennial census completed after the Second CEMA Election.
 
@@ -1251,18 +1572,16 @@ The Electoral Science Office shall not be subject to executive orders, president
 
 1. Certification, evaluation, or modification of the districting algorithm under Section 403;
 2. Generation, publication, or modification of congressional district maps;
-3. Allocation of district magnitudes within any state;
-4. Voting Rights Act compliance adjustments under Section 403(e); or
-5. Any technical review of the districting algorithm under Section 409.
+3. Allocation of district magnitudes within any state; or
+4. Any technical review of the districting algorithm under Section 409.
 
 **(2) Prohibited Communications**
 
 No officer or employee of the Executive Office of the President, including the White House Office, the Office of Management and Budget, and any office or council within the Executive Office, shall communicate to any Commissioner or ESO employee any preference, instruction, suggestion, or request regarding:
 
 1. The selection, certification, or modification of the districting algorithm;
-2. The placement of any district boundary in any state;
-3. The magnitude assigned to any district; or
-4. The outcome of any Voting Rights Act compliance review under Section 403(e).
+2. The placement of any district boundary in any state; or
+3. The magnitude assigned to any district.
 
 This prohibition does not apply to communications by the President or designee in the course of exercising appointment authority under Section 409(b)(1), nor to testimony before Congress, nor to publicly filed comments during notice-and-comment proceedings under Section 409(h).
 
@@ -1303,11 +1622,11 @@ Commissioners shall not be appointed through recess appointment. All appointment
 
 **(1) Mandatory Minimum Appropriation**
 
-Beginning with the fourth fiscal year after enactment, and for each fiscal year thereafter, the Electoral Science Office shall receive an annual appropriation of not less than $8 million, adjusted annually for inflation using the Employment Cost Index. This mandatory minimum shall not be subject to sequestration, rescission, or deferral. For the first three fiscal years after enactment, funding is provided under Section 409(k)(1).
+Beginning with the fourth fiscal year after enactment, and for each fiscal year thereafter, the Electoral Science Office shall receive an annual appropriation of not less than $35 million, adjusted annually for inflation using the Employment Cost Index. This mandatory minimum shall not be subject to sequestration, rescission, or deferral. For the first three fiscal years after enactment, funding is provided under Section 409(k)(1).
 
 **(2) Redistricting Cycle Supplemental**
 
-In any fiscal year during which an active redistricting cycle is underway, the mandatory minimum appropriation under paragraph (1) shall increase by $5 million to ensure adequate resources for algorithm application, map generation, public verification, and Voting Rights Act compliance review. This supplemental is in addition to the decennial review supplemental authorized under Section 409(k)(2).
+In any fiscal year during which an active redistricting cycle is underway, the mandatory minimum appropriation under paragraph (1) shall increase by $5 million to ensure adequate resources for algorithm application, map generation, and public verification. This supplemental is in addition to the decennial review supplemental authorized under Section 409(k)(2).
 
 **(3) Independent Disbursement**
 
@@ -1317,54 +1636,7 @@ All funds appropriated to the Electoral Science Office -- whether under this sec
 
 Nothing in this section prohibits Congress from appropriating sums in excess of the mandatory minimum for any fiscal year. Any supplemental appropriations shall be subject to the independent disbursement requirement of paragraph (3).
 
-#### (d) Voting Rights Act Compliance Safeguards
-
-**(1) Specificity Requirement**
-
-Any objection by the Department of Justice to an algorithmically generated district map under Section 403(e) shall be accompanied by a written determination that identifies:
-
-1. The specific provision of the Voting Rights Act of 1965, as amended, that the map is alleged to violate;
-2. The specific racial, ethnic, or language minority group whose rights are alleged to be impaired;
-3. The specific geographic area within the state where the violation is alleged to occur;
-4. The specific factual basis for the alleged violation, including demographic data, electoral history, and any other evidence supporting the determination; and
-5. The specific relief sought, described with sufficient particularity to enable the ESO to calculate the minimum boundary adjustment necessary.
-
-Generalized objections, objections lacking geographic specificity, or objections unsupported by factual findings shall have no legal effect and shall not require ESO response.
-
-**(2) Minimum Adjustment Principle**
-
-Any boundary adjustment made by the ESO in response to a Department of Justice objection under Section 403(e) shall be the minimum adjustment necessary to cure the identified violation. "Minimum adjustment" means the adjustment that reassigns the fewest census blocks from one district to another while curing the identified violation. The ESO shall not adjust boundaries beyond the geographic area identified in the Department of Justice objection.
-
-**(3) Dual Publication**
-
-Following any Voting Rights Act compliance adjustment, the ESO shall publish simultaneously:
-
-1. The original algorithmically generated map for the affected state;
-2. The adjusted map incorporating the compliance modification;
-3. A boundary-by-boundary accounting of every change, identifying each census block reassigned and the justification for the reassignment; and
-4. A quantitative assessment of the adjustment's impact on district population equality and district magnitude allocation.
-
-**(4) Expedited Judicial Review**
-
-Any qualified voter, recognized political party, or state may challenge a Department of Justice objection under Section 403(e), or the sufficiency of the ESO's compliance adjustment, before a three-judge panel of the United States District Court for the District of Columbia. The three-judge panel shall be convened pursuant to 28 U.S.C. Section 2284. The panel shall:
-
-1. Conduct proceedings on an expedited basis, with initial hearing within 30 days of filing;
-2. Apply de novo review to the Department of Justice's factual determination of a Voting Rights Act violation;
-3. Apply arbitrary-and-capricious review to the ESO's minimum adjustment determination; and
-4. Issue a final order within 90 days of filing.
-
-Appeal from the three-judge panel shall lie directly to the Supreme Court of the United States.
-
-**(5) Standing**
-
-Standing to bring an action under paragraph (4) shall extend to:
-
-1. Any qualified voter residing in the affected state;
-2. Any political party that received at least 1% of the vote in the affected state in the most recent federal election;
-3. The state, acting through its Attorney General; and
-4. The Electoral Science Office, if the ESO determines that a Department of Justice objection does not meet the specificity requirements of paragraph (1).
-
-#### (e) Algorithm Integrity Protections
+#### (d) Algorithm Integrity Protections
 
 **(1) Source Code Publication**
 
@@ -1393,11 +1665,11 @@ Any person shall have the right to replicate the algorithm's output using public
 
 If any district map produced by the ESO differs from the output produced by independent verification or public replication using identical inputs and the published algorithm, the discrepant map shall have no legal effect. The ESO shall investigate the discrepancy, publish findings within 30 days, and regenerate the map using the verified algorithm. The Government Accountability Office shall be notified immediately of any such discrepancy.
 
-#### (f) Anti-Circumvention
+#### (e) Anti-Circumvention
 
 **(1) Prohibition on Alternative Districting Authority**
 
-No federal officer, agency, or instrumentality other than the Electoral Science Office shall have authority to draw, propose, certify, or approve congressional district boundaries, except as provided in subsection (d) of this section regarding Voting Rights Act compliance adjustments.
+No federal officer, agency, or instrumentality other than the Electoral Science Office shall have authority to draw, propose, certify, or approve congressional district boundaries.
 
 **(2) Prohibition on Conditional Appropriations**
 
@@ -1411,11 +1683,11 @@ The Electoral Science Office shall not be reorganized, consolidated with another
 
 Any ESO employee or contractor who reports a violation or attempted violation of this section to the Government Accountability Office, the Inspector General of any relevant agency, or any committee of Congress shall be entitled to all protections provided under 5 U.S.C. Section 2302(b)(8) and the Whistleblower Protection Act of 1989, as amended.
 
-#### (g) Self-Executing Default
+#### (f) Self-Executing Default
 
 **(1) Default Algorithm Independence**
 
-The default districting algorithm specified in Section 403(g) shall operate independently of the Electoral Science Office. In any circumstance in which the ESO is unable or fails to certify an algorithm or generate district maps by the deadline required under this Title -- whether due to budgetary incapacity, quorum failure, interference, or any other cause -- the default algorithm shall be applied as follows:
+The default districting algorithm specified in Section 403(f) shall operate independently of the Electoral Science Office. In any circumstance in which the ESO is unable or fails to certify an algorithm or generate district maps by the deadline required under this Title -- whether due to budgetary incapacity, quorum failure, interference, or any other cause -- the default algorithm shall be applied as follows:
 
 1. The Clerk of the House of Representatives shall apply the default algorithm using census data published by the Bureau of the Census, for all states electing two or more Representatives;
 2. The resulting maps shall be published in the Federal Register and made available for public verification;
@@ -1424,11 +1696,57 @@ The default districting algorithm specified in Section 403(g) shall operate inde
 
 **(2) Mathematical Precision of Default**
 
-The default shortest splitline algorithm, as specified in Section 403(g), shall be defined with sufficient mathematical precision that its application to any given input dataset produces a single deterministic output requiring no exercise of human judgment. The ESO shall publish a complete mathematical specification of the default algorithm within 12 months of enactment.
+The default shortest splitline algorithm, as specified in Section 403(f), shall be defined with sufficient mathematical precision that its application to any given input dataset produces a single deterministic output requiring no exercise of human judgment. The ESO shall publish a complete mathematical specification of the default algorithm within 12 months of enactment.
 
 #### (h) Effective Date
 
 The provisions of this section take effect upon enactment and apply to all districting functions of the Electoral Science Office from the date of ESO establishment.
+
+### Section 410A. Election Assistance Commission STAR Certification Program Authorization
+
+**(1) Surge Funding**
+
+In addition to amounts otherwise authorized or appropriated for the Election Assistance Commission under the Help America Vote Act of 2002 (52 U.S.C. 20921 et seq.), there are authorized to be appropriated to the EAC for the testing, certification, and operational deployment of voting systems meeting the technical specifications published by the Electoral Science Office under Section 404(i):
+
+1. $20 million for the first fiscal year after enactment, for STAR-specific test protocol development through the National Institute of Standards and Technology, Voting System Test Laboratory capacity expansion, and initial hiring of technical review staff;
+2. $20 million for the second fiscal year after enactment, for peak certification workload processing, concurrent system reviews, source code analysis, and VSTL throughput support; and
+3. $15 million for the third fiscal year after enactment, for remaining system certifications, modification and retest processing, field deployment validation, and transition to steady-state operations.
+
+Amounts authorized under this paragraph shall be available until expended and shall be in addition to, not in lieu of, the EAC's existing salaries and expenses appropriation.
+
+**(2) VSTL Testing Assistance Reserve**
+
+There is authorized to be appropriated to the Election Assistance Commission an additional $15 million over the first three fiscal years after enactment, to subsidize Voting System Test Laboratory fees for voting system manufacturers seeking certification under this Act and to fund capacity-building grants to accredited or provisionally accredited VSTLs. This reserve is intended to prevent vendor underinvestment or small-vendor exclusion from the certified equipment market and to ensure that a sufficient number of certified systems are commercially available by the deadline established in Section 408(b).
+
+**(3) Protocol Development -- NIST Sub-Allocation**
+
+Of the amounts authorized under paragraph (1), the EAC shall transfer not less than $8 million to the National Institute of Standards and Technology over the first two fiscal years for development of STAR-specific amendments to the Voluntary Voting System Guidelines, including:
+
+1. Scored ballot interpretation test protocols for 0-5 scoring interfaces;
+2. Reference implementations and conformance test suites for single-winner STAR tabulation and Allocated Score proportional tabulation;
+3. Adversarial edge-case test batteries for tie-breaking, rounding, ballot weight allocation, and seat allocation boundary conditions;
+4. Separate ballot sheet scanning and batch integrity protocols; and
+5. Inter-laboratory consistency validation to ensure uniform test results across accredited VSTLs.
+
+**(4) VSTL Capacity Expansion**
+
+The EAC shall, within 6 months of enactment:
+
+1. Issue capacity-building contracts or cooperative agreements to accredited Voting System Test Laboratories to build STAR-specific testing competency, including specialized equipment, secure testing environments, and trained engineering staff;
+2. Coordinate with the National Institute of Standards and Technology to support expedited NVLAP accreditation assessments for prospective new VSTLs; and
+3. Report to Congress on VSTL capacity status, including the number of accredited laboratories, estimated throughput capacity, and any identified bottlenecks.
+
+**(5) Staffing Authority**
+
+The EAC is authorized to hire not fewer than 8 and not more than 12 additional full-time equivalent positions dedicated to the STAR certification program, including senior software engineers, tabulation algorithm specialists, technical program managers, accessibility specialists, and compliance counsel. Not fewer than 4 of these positions shall be permanent; the remainder may be term appointments not to exceed 4 years.
+
+**(6) Ongoing Maintenance**
+
+Beginning with the fourth fiscal year after enactment, there are authorized to be appropriated to the Election Assistance Commission not less than $8 million annually, in addition to amounts otherwise appropriated for the EAC, for ongoing mandatory certification maintenance, including routine recertification, software modification reviews, protocol updates, VSTL monitoring, and security audits of certified systems.
+
+**(7) Availability**
+
+Amounts authorized under this section shall remain available until expended.
 
 ---
 
@@ -1695,7 +2013,7 @@ This provision addresses Senate concerns about increased House membership by str
 
 The Election Assistance Commission shall provide grants to states to support implementation of this Act, including:
 
-1. Voting equipment acquisition and certification for STAR-PR;
+1. Voting equipment acquisition and certification for Proportional STAR;
 2. Ballot design and printing for Joint Endorsement Lists;
 3. Training for election officials;
 4. Voter education campaigns;
@@ -1708,7 +2026,7 @@ Grants shall be allocated to states based on:
 
 1. 50% by equal distribution among all states;
 2. 25% by proportion of registered voters;
-3. 25% by estimated implementation complexity (multi-member district count, first-time STAR-PR adoption, etc.)
+3. 25% by estimated implementation complexity (multi-member district count, first-time Proportional STAR adoption, etc.)
 
 #### (c) Matching Requirement
 
@@ -1767,9 +2085,9 @@ If any provision of this Title is held invalid by a court of competent jurisdict
 
 The Federal Election Commission shall promulgate rules necessary to implement this Act within 18 months of enactment, including:
 
-1. Technical standards for ballot design under Titles I and II;
+1. Compliance standards for ballot design under Titles I and II, consistent with the technical specifications and model ballot designs published by the Electoral Science Office under Sections 404(i) and 405(c);
 2. Party recognition procedures and standards under Title II;
-3. STAR-PR implementation specifications under Title IV;
+3. Compliance and monitoring rules for Proportional STAR implementation under Title IV, consistent with the specifications published by the Electoral Science Office and the certification requirements established by the Election Assistance Commission;
 4. Public matching fund administration under Section 506;
 5. Reporting requirements for compliance monitoring; and
 6. Coordination procedures with the Electoral Science Office under Section 409.
@@ -1801,12 +2119,12 @@ Within 180 days of enactment, the Congressional Budget Office shall prepare comp
 
 #### (e) Electoral Science Office Coordination
 
-(1) The Federal Election Commission shall coordinate with the Electoral Science Office established under Section 409 on all matters relating to voting method technical specifications, including:
+(1) The Federal Election Commission shall coordinate with the Electoral Science Office established under Section 409 and the Election Assistance Commission on all matters relating to compliance with voting method technical specifications and certification requirements, including:
 
-    1. Implementation of approved modifications to adjustable parameters;
-    2. Updates to STAR-PR certification requirements;
-    3. Technical assistance to states on voting method implementation; and
-    4. Data sharing for technical review purposes.
+    1. Monitoring of state compliance with approved modifications to adjustable parameters;
+    2. Enforcement of EAC certification requirements for voting equipment used in congressional elections;
+    3. Compliance guidance to states on voting method implementation; and
+    4. Data sharing for compliance monitoring and dispute resolution purposes.
 
 (2) Within 180 days of the establishment of the Electoral Science Office, the Federal Election Commission and the Electoral Science Office shall enter into a memorandum of understanding governing the matters specified in Section 409(j)(3).
 
@@ -1872,7 +2190,7 @@ Prevailing parties in suits under this Act shall be entitled to reasonable attor
 The Election Assistance Commission shall establish a Transition Support Office to:
 
 1. Coordinate federal assistance to states implementing this Act;
-2. Provide technical guidance on STAR-PR, redistricting, and ballot design;
+2. Provide technical guidance on Proportional STAR, redistricting, and ballot design;
 3. Develop best practices and model procedures;
 4. Facilitate information sharing among states;
 5. Administer grant programs under Section 509; and
@@ -1974,18 +2292,22 @@ This Act may be cited as the "Congressional Elections Modernization Act" or "CEM
 
 For purposes of this Act, in addition to temporal definitions provided in Section 704(b):
 
-#### (a) Electoral Science Office
+#### (a) Election Assistance Commission
 
-"Electoral Science Office" or "ESO" means the independent agency established under Section 409(a) responsible for ongoing evaluation of voting method performance, research into technical improvements, development of proposed modifications to adjustable parameters, and certification, evaluation, and maintenance of the districting algorithm required by Section 403.
+"Election Assistance Commission" or "EAC" means the Election Assistance Commission established under section 201 of the Help America Vote Act of 2002 (52 U.S.C. 20921). The authority of the EAC under this Act is limited to the functions specifically assigned to it herein and does not expand, modify, or otherwise affect the authority of the EAC under the Help America Vote Act of 2002 with respect to state and local elections. For purposes of this Act, EAC certification of voting systems under Section 407(a) is mandatory for all congressional elections and does not depend on state adoption of the Voluntary Voting System Guidelines.
 
-#### (b) Statutory Principles
+#### (b) Electoral Science Office
+
+"Electoral Science Office" or "ESO" means the independent agency established under Section 409(a) serving as the nation's authoritative institution for election science, electoral integrity, and voting method innovation. The ESO is responsible for pre-implementation research and validation of voting methods; ongoing evaluation of voting method performance; research into technical improvements; development and testing of proposed modifications to adjustable parameters; certification, evaluation, and maintenance of the districting algorithm required by Section 403; administration of academic research partnerships; and public education regarding the scientific basis for electoral procedures adopted under this Act.
+
+#### (c) Statutory Principles
 
 "Statutory principles" means the normative commitments specified in Section
 409(c)(1) that define the democratic principles the voting methods must satisfy.
 Statutory principles may not be modified except by Act of Congress. The ESO
 has no authority to propose or implement modifications to statutory principles.
 
-#### (c) Protected Design Elements
+#### (d) Protected Design Elements
 
 "Protected design elements" means the core design choices specified in Section
 409(d)(1) that anchor the voter experience and system architecture. The ESO
@@ -1993,58 +2315,142 @@ may propose modifications to protected design elements, but such modifications
 require affirmative Congressional approval via joint resolution as specified
 in Section 409(h)(1).
 
-#### (d) Adjustable Parameters
+#### (e) Adjustable Parameters
 
-"Adjustable parameters" means the technical specifications of STAR and STAR-PR
+"Adjustable parameters" means the technical specifications of STAR and Proportional STAR
 voting methods and the districting algorithm specified in Section 409(e)(1) that
 may be modified through the technical review process established in Section 409,
 including quota calculation formulas, ballot weight allocation procedure, seat allocation
 sequences, tie-breaking procedures, rounding and remainder handling, audit and
-verification protocols, the districting algorithm, the district magnitude
-allocation method, and the VRA compliance adjustment procedure. Modifications
+verification protocols, the districting algorithm, and the district magnitude
+allocation method. Modifications
 to adjustable parameters take effect unless Congress enacts a joint resolution
 of disapproval as specified in Section 409(h)(2).
 
-#### (e) Quota
+#### (f) Quota
 
-"Quota" means the unit of ballot weight allocated per seat under STAR-PR,
+"Quota" means the unit of ballot weight allocated per seat under Proportional STAR,
 representing the total amount of ballot weight reduced across all affected
 ballots in each allocation round. The initial quota formula is specified in
 Section 404(g)(2). The quota calculation formula is an adjustable parameter
 under Section 409(e)(1).
 
-#### (f) Technical Modification
+#### (g) Technical Modification
 
 "Technical modification" means any change to protected design elements or
 adjustable parameters proposed by the Electoral Science Office and approved
 through the processes established in Section 409(h).
 
-#### (g) Certified Districting Algorithm
+#### (h) Certified Districting Algorithm
 
-"Certified districting algorithm" means the specific algorithm certified by the Electoral Science Office under Section 403(b) for determining congressional district boundaries within each state. The districting algorithm is an adjustable parameter under Section 409(e)(1). The default algorithm, in the absence of ESO certification, is the shortest splitline method as defined in Section 403(g).
+"Certified districting algorithm" means the specific algorithm certified by the Electoral Science Office under Section 403(b) for determining congressional district boundaries within each state. The districting algorithm is an adjustable parameter under Section 409(e)(1). The default algorithm, in the absence of ESO certification, is the shortest splitline method as defined in Section 403(f).
 
-#### (h) Algorithmic Neutrality
+#### (i) Algorithmic Neutrality
 
 "Algorithmic neutrality" means the property of a districting method that operates without reference to racial, ethnic, linguistic, partisan, or incumbent-residence data, requires no subjective parameter selection by any human actor, and produces deterministic, publicly verifiable outputs from publicly available inputs. Algorithmic neutrality is a statutory principle under Section 409(c)(1).
 
-#### (i) District Magnitude
+#### (j) District Magnitude
 
 "District magnitude" means the number of Representatives elected from a single congressional district. Under this Act, district magnitude for qualifying states ranges from three (3) to seven (7) as specified in Section 402(b). The district magnitude range is a protected design element under Section 409(d)(1).
 
-#### (j) Active Redistricting Cycle
+#### (k) Active Redistricting Cycle
 
 "Active redistricting cycle" means the period beginning on the date of certification of decennial census results or the date on which a House expansion triggers redistricting under Title III, whichever is applicable, and ending on the date of the first general election conducted under the resulting district maps. During an active redistricting cycle, enhanced independence protections apply to the Electoral Science Office under Section 410(b).
-
-#### (k) Minimum Adjustment
-
-"Minimum adjustment" means the smallest boundary modification, measured by the number of census blocks reassigned from one district to another, necessary to cure an identified Voting Rights Act violation under Section 403(e). The minimum adjustment principle is specified in Section 410(d)(2).
 
 ---
 
 <!--
 ## Revision History
 
-**Revision 5.7** (Current)
+**Revision 6.1** (Current)
+
+Removal of the Voting Rights Act Section 2 vote-dilution compliance mechanism and its associated safeguards, and a precision pass on the surviving language-access references. This revision responds to *Louisiana v. Callais*, 608 U.S. ___ (2026), in which the Supreme Court reconstrued Section 2 of the Voting Rights Act to impose liability only where the circumstances support a strong inference of intentional racial discrimination, rendering the results-based vote-dilution standard effectively inoperative as applied to redistricting.
+
+Rationale: The Section 2 compliance carve-out was never the Act's mechanism for protecting minority representation; that protection is structural, arising from Proportional STAR in multi-member districts, under which a community's representation is a function of its share of the vote rather than of how district lines are drawn. The carve-out was a bounded courtesy to the prior legal order. After *Callais*, retaining it created more exposure than it resolved: its trigger (a Department of Justice finding of a Section 2 violation) is now governed by a standard set by a hostile Court and is rarely satisfiable against a race-blind deterministic algorithm, while its remedy (a race-conscious boundary adjustment) would itself be vulnerable to challenge as intentional race-based line-drawing under the Fourteenth Amendment framework the same decision applies. A safeguard whose operation depends on the disposition of the Department of Justice is also inconsistent with the Act's design principle of preferring self-executing, manipulation-resistant mechanisms over those requiring ongoing political will. Removing the carve-out strengthens rather than weakens the Act's minority-representation protection by resting it entirely on the proportional structure and on statutory algorithmic neutrality. The Act's race-blindness is correspondingly total: no provision now directs any actor to consider race in drawing or adjusting a district.
+
+The Act retains the Voting Rights Act's language-access requirements (Sections 203 and 4(f)(4)), which are unaffected by *Callais* and remain administrable; references to those requirements were made specific in this revision. Changes:
+
+- **Section 403(e) (Voting Rights Act Compliance) deleted:** Subsections (f), (g), and (h) relettered to (e), (f), and (g); internal and external cross-references to the boundary-conditions subsection (formerly 403(f)) and the initial-certification/shortest-splitline subsection (formerly 403(g)) updated accordingly in Sections 409(e)(1)-(2), 410(f), and 806(h)
+- **Section 410(d) (Voting Rights Act Compliance Safeguards) deleted:** Removed specificity requirement, minimum adjustment principle, dual publication, expedited three-judge-panel review, and standing provisions; subsections (e), (f), and (g) relettered to (d), (e), and (f)
+- **Section 410(e)(1) (formerly 410(f)(1)):** Removed the exception clause referencing Voting Rights Act compliance adjustments from the prohibition on alternative districting authority
+- **Section 410(a)(1) and 410(a)(2):** Removed the Voting Rights Act compliance items from the executive non-interference and prohibited-communications enumerations; remaining items renumbered
+- **Section 410(c)(2):** Removed "Voting Rights Act compliance review" from the enumerated purposes of the redistricting-cycle supplemental appropriation
+- **Section 409(e)(1):** Deleted the "VRA compliance adjustment procedure" adjustable parameter (former item 9); ballot design specifications renumbered to item 9
+- **Section 305(a):** Narrowed Department of Justice review of post-expansion state redistricting plans to constitutional requirements, removing the Voting Rights Act reference
+- **Section 402(c):** Removed the Voting Rights Act reference from the population-equality provision, which rests on the constitutional one-person-one-vote standard
+- **Section 806(e) (Adjustable Parameters definition):** Removed "the VRA compliance adjustment procedure" from the enumerated parameters
+- **Section 806 (Minimum Adjustment definition) deleted:** Former subsection (l) removed as obsolete
+- **Language-access references made specific:** Section 404(i)(a)(5) ballot multilingual-presentation reference and the voter-education multilingual-materials reference updated to cite Sections 203 and 4(f)(4) of the Voting Rights Act (52 U.S.C. 10503, 10303(f)(4)) rather than the Act generally
+- **DPS 3.6 alignment confirmed:** Verified against APAI Document Production Standards Rev 3.6; no structural changes required. The legislative-text header and source-of-truth footer specifications are unchanged from Rev 3.4 (the 3.0 block-quote header model was reverted at 3.4; the 3.5-3.6 changes affect audio-version derivatives, supporting-document bylines, and Position Papers, none of which govern this document type)
+
+**Revision 6.0**
+
+Institutional refactoring establishing the design-certify-deploy pipeline (ESO designs, EAC certifies, FEC monitors), addition of fee-for-service party election administration contracting, separate congressional ballot sheet requirement, transfer of voter education to the ESO, and a portfolio-wide scope correction narrowing statutory references from "federal" to "congressional" elections. Changes by Title:
+
+Title II:
+
+- **Section 204 (new):** Added "Election Administration Services for Party Nomination Processes," authorizing state and local election authorities to contract with political parties to administer internal candidate selection processes on a fee-for-service, fully cost-recovered basis, with equal-access, no-public-subsidy, scheduling, firewall, and voter-data-protection provisions. Subsection (h)(4) prohibits official state indicia on contracted materials and mandates a voter disclosure that the process is a party-funded internal selection with no effect on ballot access
+- **Title II renumbering:** Former Sections 204 (Preemption), 205 (FEC Implementation Authority), and 206 (Effective Date) renumbered to 205, 206, and 207 respectively
+- **Scope correction:** Section 201(a)(1) electoral performance standard now enumerates "the most recent election for President, Senator, or Representative" in place of "the most recent federal election"; Section 203(a) and Section 205 (preemption) updated from "federal elections" to "congressional elections"
+
+Title I:
+
+- **Scope correction:** Sections 101(a), 104, and 108 updated from "federal elections" to "congressional elections"
+
+Title IV:
+
+- **Section 404(d)(1) reformulated:** Replaced the unqualified prohibition with a prohibition-plus-exception barring State administration of a primary for nomination to the Congress unless provided under contract at party expense under Section 204; "conduct"/"federal offices" replaced with "administer"/"nomination to the Congress"
+- **Section 404(d)(3) conforming amendment:** Party-process firewall now permits use of state infrastructure or personnel through fee-for-service contracts authorized under Section 204
+- **Section 404(i) reallocated:** Renamed "Technical Specifications and Certification"; ESO develops and publishes specifications (paragraph 1), EAC certifies operational viability and equipment (paragraph 2), certification made mandatory (paragraph 3), FEC retains compliance monitoring (paragraph 4)
+- **Section 405(c) reallocated:** Model ballot design authority transferred from FEC to ESO with EAC operational review and FEC compliance-standard role
+- **Section 405(d) (new):** Separate congressional ballot sheet requirement (physical separation, contents, design conformity, distribution)
+- **Section 407 refactored:** Renamed "Certification, Compliance, and Technical Assistance"; EAC certifies voting systems, FEC monitors compliance, technical assistance split across ESO, EAC, and FEC responsibilities
+- **Section 408(a) dual authority:** FEC may grant implementation extensions only upon written EAC certification that the technical obstacle is genuine; extension terms specified
+- **Section 408(b) conforming amendment:** Equipment-availability function transferred from FEC to EAC, with EAC vendor-readiness report to Congress
+- **Section 408(c) voter education transfer:** Voter education developed, produced, and distributed by the ESO through a dedicated media and public education division; scope, campaign timing, nonpartisan character, and coordination specified
+- **Section 409(a)(3) conforming amendments:** Item 2 adds ESO authority to develop and publish ballot design specifications and model ballot designs under Sections 404(i) and 405(c); item 9 rewritten to establish nationwide voter education distribution through the ESO media division
+- **Section 409(e)(1) Tier 3 addition:** New item 10 makes ballot design specifications an adjustable parameter, preserving the protected scoring interface
+- **Section 409(h)(2)(vii):** Modification take-effect sequence corrected so the ESO updates specifications and the EAC updates certification requirements (formerly assigned to the FEC); scope corrected from "first federal election" to "first congressional election"
+- **Section 409(j) rewritten:** Renamed "Interagency Coordination"; codifies the design-certify-deploy pipeline and establishes ESO-EAC, ESO-FEC, and EAC-FEC memoranda of understanding and a specification-update sequence
+- **Section 409(k) restructured:** Added voter education establishment supplemental ($55M/$50M/$70M over three years) and converted ongoing funding to a two-tier baseline ($75M) plus election-cycle surge (up to $100M) structure with declining-surge calibration and separate accounting
+- **Section 410A (new):** EAC STAR Certification Program Authorization (surge funding, VSTL testing assistance reserve, NIST sub-allocation, VSTL capacity expansion, staffing authority, ongoing maintenance, availability)
+- **Scope correction:** Section 404(d)(2) rationale updated to "congressional elections"; Section 409(a)(2) mission and Section 409(a)(7)(i) updated to drop "federal" before "elections"; Section 409(a)(5)(iv) updated to "congressional elections"
+
+Title V:
+
+- **Scope correction:** Title II effective-date provision (renumbered Section 207) updated to "congressional elections"
+
+Title VI:
+
+- **FEC cross-reference audit:** Section 601(a) rulemaking items reframed so the FEC promulgates compliance standards consistent with ESO specifications and EAC certification requirements rather than authoring ballot design technical standards or Proportional STAR implementation specifications; Section 601(e) coordination reframed to FEC compliance and enforcement matters with ESO and EAC, removing FEC authorship of technical specifications and certification requirements
+- **Scope correction:** Section 410(d)(2) standing provision now enumerates "the most recent election for President, Senator, or Representative in the affected state" in place of "the most recent federal election"
+
+Title VII:
+
+- **Section 706(a) (new):** Added "Election Assistance Commission" definition anchoring the EAC to section 201 of HAVA (52 U.S.C. 20921), limiting EAC authority under this Act to functions assigned herein, and making EAC certification mandatory for congressional elections; former subsections (a) through (k) relettered (b) through (l)
+- Added copyright line to footer per DPS Rev 3.4 Section 1.3
+
+**Revision 5.9**
+
+- **Section 409(a)(3) amended:** Added new responsibility item authorizing comparative evaluation of alternative voting methods, seat allocation procedures, and districting procedures not established under this Act, applying the paragraph (5) research and validation activities to such alternatives for the purpose of developing the evidentiary foundation described in Section 409(a)(2). Inserted as new item 4 following the technical-modification testing item; prior items 4 through 9 renumbered to 5 through 10. No numbered internal cross-references to the renumbered items exist elsewhere in the Act; Section 706(a) describes the responsibilities in prose and required no conforming change
+- **Section 409(a)(5) amended:** Added a scope sentence to the introductory text of the Pre-Implementation Research and Validation program authorizing the program's activities to be applied both to voting methods established under this Act and, for the comparative purposes described in Section 409(a)(3), to alternative methods and procedures not established under this Act. Reconciles the operative validation pipeline with the comparative-research responsibility and with the mission statement's "voting method innovation" and evidentiary-foundation commitments. Preserves all existing per-activity safeguards, including the Section 409(a)(5)(iv) rule that parallel ballots have no legal effect on election outcomes; comparative authority governs evidence generation only and does not permit deployment of a non-CEMA method in a binding election or alter the Tier 2 approval requirement for method replacement
+
+**Revision 5.8**
+
+- **Section 409(a) rewritten:** Expanded ESO from narrow technical review mandate to comprehensive institutional charter; replaced seven-item responsibility list with three-layer architecture: mission statement (409(a)(2)), expanded core responsibilities (409(a)(3)), and three new substantive paragraphs
+- **Section 409(a)(2) added:** Statutory mission statement establishing the ESO as the nation's authoritative institution for election science, electoral integrity, and voting method innovation; codifies public trust mission alongside technical mandate
+- **Section 409(a)(5) added:** Pre-Implementation Research and Validation program mandating computational simulation, retrospective analysis of existing ballot data, mock elections with compensated participants and certified equipment in no fewer than five diverse jurisdictions, optional parallel elections during pre-implementation federal elections, and publication of all validation findings no later than 12 months before the First CEMA Election
+- **Section 409(a)(6) added:** Academic and Institutional Research Partnerships establishing competitive research grants program with independent peer review, data conduit function with standardized data-sharing protocols between researchers and localities, and External Advisory Panel of 9-15 members serving three-year terms with advisory authority only
+- **Section 409(a)(7) added:** Electoral Integrity and Public Trust provisions requiring publication of methodologies in sufficient detail for independent verification, development of publicly accessible verification infrastructure for tabulation procedures, districting outputs, and proportionality metrics, and establishment of public inquiry response procedures
+- **Section 409(k)(1) updated:** Establishment funding increased from $15M/$10M/$10M to $45M/$30M/$30M ($105M total over three years) to reflect expanded pre-implementation, research partnership, and verification infrastructure scope
+- **Section 409(l) updated:** New paragraph (2) added establishing pre-implementation authority upon enactment; existing paragraphs renumbered (2) to (3), (3) to (4); ESO authority to conduct pre-implementation research, establish academic partnerships, and develop verification infrastructure effective upon enactment rather than First CEMA Election
+- **Section 410(c)(1) updated:** Mandatory minimum appropriation increased from $8M to $35M annually (inflation-adjusted) to sustain expanded ongoing operations including research grants program, data infrastructure, verification tools, and academic partnership administration
+- **Section 806(a) updated:** ESO definition revised to reflect expanded mission encompassing election science, electoral integrity, voting method innovation, pre-implementation validation, and academic research partnerships
+- Substantive policy changes: Transforms ESO from a technical review body into a comprehensive election science institution; establishes permanent pre-implementation validation infrastructure breaking the status quo bias cycle in electoral reform; creates institutional conduit between academic research and election administration; codifies public trust and electoral integrity as core statutory mission alongside technical evaluation
+- **"STAR-PR" renamed to "Proportional STAR" throughout:** Replaced 23 body instances of "STAR-PR" with "Proportional STAR" across Findings (21, 22, 24), Title IV (Sections 404(f)(2), 404(g), 404(h), 404(i), 407(a), 407(c), 408(a), 408(b), 409(e)(1), 409(f)(2)), Title V (Section 509(a), 509(b)), Title VI (Sections 601(a), 601(e), 604(a)), and Title VII (Sections 806(d), 806(e)). Section 404(g) header and opening paragraph restructured to establish the correct terminology hierarchy: Proportional STAR is the voting method (proportional application of STAR voting to multi-member districts); Allocated Score is the specific tabulation algorithm. Parenthetical expansion "(Score Then Automatic Runoff - Proportional Representation)" removed; the method name now communicates the concept directly. Section 404(h) header updated from "Minimum Threshold for STAR-PR" to "Minimum Threshold for Proportional STAR." Revision history entries preserved as historical record
+- **H1 title corrected:** "THE FEDERAL ELECTIONS MODERNIZATION ACT" updated to "THE CONGRESSIONAL ELECTIONS MODERNIZATION ACT" to match the short title established in Section 1; artifact of the FEMA-to-CEMA rename in Rev 5.0
+
+**Revision 5.7**
 
 - **Section 404(g) Allocated Score algorithm corrected:** Step 4 replaced proportional-spending formula (which distributed weight reduction across all supporters proportionally) with correct Monroe-type sort-and-allocate procedure: sort ballots by weighted score for the elected candidate in descending order, identify the split point (cusp tier containing the quota boundary), fully allocate ballots above the split point, apply fractional surplus handling at the cusp, leave ballots below the cusp unaffected. Prior Step 4 specified the Sequentially Spent Score mechanism despite the section being labeled Allocated Score since Rev 4.3
 - **Section 404(g) STAR-PR / Allocated Score terminology corrected:** Replaced "also known as Allocated Score" with language establishing the correct hierarchy: STAR-PR is the umbrella concept (score ballot + proportional algorithm); Allocated Score is the specific tabulation algorithm for STAR-PR
@@ -2055,8 +2461,8 @@ through the processes established in Section 409(h).
 
 - **Presidential elections removed from scope:** CEMA's constitutional authority rests on the Elections Clause (Article I, Section 4), which covers congressional elections. Presidential elector selection operates under Article II, Section 1, vesting primary authority in state legislatures. Removed presidential election references from Section 2 (Findings), Section 404 (STAR voting applicability, UGES, single-winner tabulation), and Section 405 (ballot design). CEMA is now a congressional elections statute; presidential electoral reform will be addressed through a separate vehicle requiring constitutional amendment
 - **Title V (FCAO) removed:** Non-Qualifying Federal Office Examinations extracted from CEMA to become a standalone statute under the Congressional Modernization Framework. FCAO is a candidate transparency mechanism with distinct constitutional grounding from CEMA's electoral mechanics provisions. Removed Title V in its entirety (~1,600 lines); removed all FCAO cross-references from Titles I, IV, and remaining Titles; removed FCAO score display from ballot format (Sections 404(c), 404(d)(1), 404(f)(1), 405(a))
-- **Title renumbering:** Former Title VI (Compensation) → Title V; former Title VII (Enforcement) → Title VI; former Title VIII (General Provisions) → Title VII. All section numbers and cross-references updated throughout
-- **Tiered effective date simplified:** Removed Tier 3 (Second CEMA Election / Title V) from Section 704(a). Retained "Second CEMA Election" definition — still used by ESO decennial review triggers in Sections 409 and 410
+- **Title renumbering:** Former Title VI (Compensation) to Title V; former Title VII (Enforcement) to Title VI; former Title VIII (General Provisions) to Title VII. All section numbers and cross-references updated throughout
+- **Tiered effective date simplified:** Removed Tier 3 (Second CEMA Election / Title V) from Section 704(a). Retained "Second CEMA Election" definition -- still used by ESO decennial review triggers in Sections 409 and 410
 - **Section 502(e) Voluntary Compensation Hold added:** Members may voluntarily forgo salary increase delta above pre-enactment rate ($174,000); annual irrevocable election; stub period for enactment year (30-day filing window); permanent forfeiture; salary only (pension, professional development, MRA unaffected); public disclosure through Clerk/Secretary; designed as a political signal mechanism, not a structural constraint
 - **DPS 3.1 header compliance:** Replaced three-line block quote header (Revision, Published, Last revised) with single H3 revision line per DPS Rev 3.1 Section 1.2
 
@@ -2363,3 +2769,4 @@ through the processes established in Section 409(h).
 ---
 
 *Prepared by Albert Ramos for The American Policy Architecture Institute*
+*© 2026 Albert Ramos | American Policy Architecture Institute*
