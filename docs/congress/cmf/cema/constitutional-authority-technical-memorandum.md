@@ -1,6 +1,8 @@
-# Congressional Elections Modernization Act
+# Constitutional Authority Technical Memorandum
 
-## Constitutional Authority Technical Memorandum
+## A Technical Memorandum of the Congressional Elections Modernization Act (CEMA)
+
+*Prepared by Albert Ramos for The American Policy Architecture Institute*
 
 ---
 
@@ -182,13 +184,19 @@ The Act's unified election structure preserves party associational rights comple
 
 The Act does not regulate party activity. It regulates the state-administered election -- the mechanism through which public resources are deployed to determine who holds public office. Separating that mechanism from party processes strengthens rather than burdens associational rights.
 
-### C. Multi-Member Districts with STAR-PR (Title IV, Section 402)
+The Act goes further: Section 204 authorizes parties to contract with state and local election authorities for election administration services at party expense. The prohibition on state-administered primaries (Section 404(d)(1)) is formulated as a prohibition-plus-exception: "No State or political subdivision thereof shall administer a primary election for nomination to the Congress, unless such administrative services are provided under contract with, and at the expense of, the requesting political party." This formulation reinforces rather than undermines the constitutional position. The state is not barred from providing election services to parties; it is barred from providing them at public expense and with coercive effect on ballot access. A party may access the same infrastructure, equipment, and personnel that administered the old primary -- but as a fee-for-service customer, not as a beneficiary of public subsidy. Firewall provisions ensure the contracted process does not affect ballot access, does not bear official state indicia, and does not convert a party process into a state-administered election. This is the *Jones* distinction made operational: party processes and state elections are separated, and the separation is maintained even when the same elections office provides administrative services to both.
+
+### C. Multi-Member Districts with Proportional STAR (Title IV, Section 402)
 
 Constitutional Authority: See Section IV above (historical precedent, 1967 Act repeal authority, Supreme Court validation).
 
 Additional Considerations:
 
-Voting Rights Act Compliance: The Act's proportional representation actually enhances VRA compliance by eliminating the vote dilution concern that motivated both the 1967 Act and the *White v. Regester* challenge. Under STAR-PR, minority communities achieving 15-20% support win proportional representation, no majority can sweep all seats through bloc voting, geographic concentration is no longer required for minority representation, and the mathematical structure prevents dilution regardless of district drawing. Where the Department of Justice determines that an algorithmically generated district configuration violates the VRA, the ESO applies the minimum boundary adjustment necessary to achieve compliance while preserving algorithmic neutrality for the remainder of the state's configuration (Section 403(e)). Section 410(d) establishes safeguards for this process, including specificity requirements, dual map publication, and expedited three-judge-panel judicial review with direct Supreme Court appeal.
+Minority Representation Through Structure: Proportional STAR delivers minority representation structurally, through the mathematics of seat allocation rather than through any race-conscious adjustment to district lines. A cohesive community constituting 15-20% of a multi-member district wins representation in proportion to its support; no majority can sweep every seat through bloc voting; and geographic concentration is no longer the precondition for minority voice that it is under single-member plurality. The dilution that motivated both the 1967 Act and the *White v. Regester* challenge is foreclosed by the allocation formula itself, independent of where any boundary falls. Because the result is produced by arithmetic, the districting algorithm has no need to see race, and under the Act it does not: the algorithm operates without reference to racial, ethnic, linguistic, partisan, or incumbent-residence data, with no exceptions and no compliance carve-out. This is a stronger constitutional posture than a race-conscious adjustment would supply. A blind map carries no intentional racial line-drawing for a court to scrutinize, and the protection it preserves reaches cohesive minorities of every kind -- racial, linguistic, religious, socioeconomic, ideological -- which is broader than the Voting Rights Act ever reached.
+
+This is why the Act rests its protection of minority representation on the Elections Clause "manner" power and the structure that power authorizes, not on the Fifteenth Amendment enforcement power that the Voting Rights Act invokes. The distinction is now decisive. In *Louisiana v. Callais*, 608 U.S. ___ (2026), the Supreme Court reconstrued Section 2 to impose liability only on a strong inference of intentional racial discrimination, and grounded that reconstruction in the limits of Congress's Fifteenth Amendment enforcement authority -- the *City of Boerne v. Flores* (1997) requirement that enforcement legislation be congruent and proportional to the constitutional violation it addresses. Legislation that depends on prevailing in that enforcement-power contest is exposed to precisely the narrowing *Callais* performed. The Act depends on no such thing. Its authority to mandate proportional multi-member structure and blind districting is the same plenary "manner" authority that supported the 1967 single-member mandate, and it never reaches the *Boerne* question. (That objection is in any event contested on its own terms: enforcement legislation has long been understood to reach conduct not itself unconstitutional -- the literacy-test ban is the standing example -- so the enforcement-power critique cuts less cleanly than its proponents suppose. The Act simply does not need to win that fight.) The full treatment of *Callais* -- including why a race-conscious adjustment to a race-blind map would now invite the very Fourteenth Amendment challenge it was meant to avert -- appears in *The Case for Blind Districting* and is not repeated here.
+
+Language-Access Provisions Retained: The Act keeps the Voting Rights Act's language-access requirements (Sections 203 and 4(f)(4)). These are unaffected by *Callais*, which reached the vote-dilution test alone, and they remain fully administrable.
 
 Equal Protection: Multi-member districts with proportional allocation satisfy "one person, one vote" requirements. Each voter casts an equivalent ballot (same scoring range), each vote contributes proportionally to outcomes, district populations are substantially equal, and no voter's ballot has greater or lesser weight.
 
@@ -226,7 +234,7 @@ Constitutional Authority:
 
 ### F. Electoral Science Office Delegation (Title IV, Sections 409-410)
 
-The Question: Can Congress delegate authority to an independent agency to evaluate and propose modifications to voting method specifications and to certify, generate, and maintain the districting algorithm, subject to Congressional review?
+The Question: Can Congress delegate authority to an independent agency to serve as the nation's authoritative institution for election science, conduct pre-implementation research and validation, conduct comparative evaluation of methods not adopted by the Act, administer academic research partnerships, evaluate and propose modifications to voting method specifications, and certify, generate, and maintain the districting algorithm, subject to Congressional review?
 
 Constitutional Authority:
 
@@ -236,11 +244,17 @@ The Electoral Science Office (ESO) operates within a graduated protection archit
 
 2. Tier 2 -- Protected Design Elements: The ESO may study and propose modifications to core design choices (0-5 star scoring range, unscored candidate treatment, single-winner STAR structure, and the district magnitude range of 3-7), but changes require affirmative Congressional approval via joint resolution. This is not delegation of legislative power -- it is a structured recommendation process. Congress retains full decisional authority. The BRAC commission model provides direct precedent: expert bodies propose, Congress disposes through an up-or-down vote.
 
-3. Tier 3 -- Adjustable Technical Parameters: The ESO may modify implementation details (quota formulas, reweighting methodology, tie-breaking procedures, the specific districting algorithm, the magnitude allocation method, and VRA compliance adjustment methodology) subject to Congressional disapproval via joint resolution. This follows the Congressional Review Act model, in which Congress delegates rulemaking authority but retains a veto. The Supreme Court has upheld Congressional delegation of technical standard-setting to expert agencies when bounded by an intelligible principle. The Act provides extensive boundary conditions (Section 409(e)(2)) requiring that any modification preserve or improve proportionality, maintain or reduce computational complexity, preserve transparency, and not create strategic manipulation opportunities. For the districting algorithm specifically, Section 403(f) establishes additional boundary conditions: the algorithm must operate without reference to racial, ethnic, linguistic, partisan, or incumbent-residence data, must require no subjective parameter selection, and must produce deterministic, publicly verifiable outputs. These boundary conditions constitute an intelligible principle far more specific than those upheld in cases like *Mistretta v. United States* (1989) and *Whitman v. American Trucking Associations* (2001).
+3. Tier 3 -- Adjustable Technical Parameters: The ESO may modify implementation details (quota formulas, ballot weight allocation procedure, tie-breaking procedures, the specific districting algorithm, and the magnitude allocation method) subject to Congressional disapproval via joint resolution. This follows the Congressional Review Act model, in which Congress delegates rulemaking authority but retains a veto. The Supreme Court has upheld Congressional delegation of technical standard-setting to expert agencies when bounded by an intelligible principle. The Act provides extensive boundary conditions (Section 409(e)(2)) requiring that any modification preserve or improve proportionality, maintain or reduce computational complexity, preserve transparency, and not create strategic manipulation opportunities. For the districting algorithm specifically, Section 403(f) establishes additional boundary conditions: the algorithm must operate without reference to racial, ethnic, linguistic, partisan, or incumbent-residence data, must require no subjective parameter selection, and must produce deterministic, publicly verifiable outputs. These boundary conditions constitute an intelligible principle far more specific than those upheld in cases like *Mistretta v. United States* (1989) and *Whitman v. American Trucking Associations* (2001).
+
+Comparative Research Authority: Section 409(a)(3) directs the ESO to conduct comparative evaluation of alternative voting methods, seat allocation procedures, and districting approaches not established under the Act, applying the pre-implementation research and validation activities of Section 409(a)(5) to those alternatives. This authority sits below the graduated protection tiers and raises no independent delegation question, because it is non-decisional. The comparative mandate confers no power to adopt, certify, or implement any alternative method; it authorizes study, analysis, and publication. Producing research and reporting findings is not an exercise of delegated legislative or regulatory power, and it is the type of function -- analogous to that performed by the Government Accountability Office, the Congressional Research Service, and federally chartered scientific bodies -- that has never been thought to implicate the nondelegation doctrine. Whatever scrutiny attaches to the ESO's Tier 3 modification authority, none attaches to its authority to study the alternatives to the methods it maintains.
+
+A litigant might nonetheless recast the comparative mandate as an indirect delegation of the Tier 1 and Tier 2 decisions -- arguing that authorizing the agency to build the evidentiary case for replacing a protected method effectively delegates the protected decision itself. The argument fails on the statute's own terms. The comparative authority is expressly limited to evidence generation; Section 409(a)(3) ties it to "developing the evidentiary foundation described in subsection (a)(2)," not to any power of adoption. Replacing a Tier 1 statutory principle still requires an Act of Congress, and modifying a Tier 2 protected design element still requires affirmative Congressional approval by joint resolution. The ESO's comparative findings are an input to a decision that remains entirely Congress's to make. This is the same separation that the BRAC precedent supplies for Tier 2 generally: the expert body assembles the record and Congress disposes. Furnishing Congress with rigorous, published evidence on which to exercise its own retained authority is the antithesis of usurping that authority; it strengthens, rather than erodes, the constitutional allocation of the decision to the legislature.
 
 Districting Delegation Considerations: Delegating the districting function raises distinct questions because district boundaries determine whose votes are aggregated together -- a politically consequential determination. However, the Act's delegation is narrower than it might appear. The ESO does not exercise discretion over boundaries; it certifies an algorithm that produces boundaries deterministically from census data. The algorithm itself must satisfy neutrality requirements that eliminate all subjective judgment. Section 410 establishes comprehensive independence protections -- executive non-interference, commissioner removal protections during redistricting cycles, mandatory minimum appropriations, algorithm integrity safeguards, public replication rights, and a self-executing default algorithm -- ensuring that the ESO's districting function cannot be captured, starved, or circumvented. The delegation is not "draw maps as you see fit" but rather "certify that an algorithm meeting these specific statutory requirements produces these specific outputs from this specific input data." This is closer to delegating the application of a formula than delegating the exercise of discretion.
 
-Major Questions Doctrine Considerations: The ESO's Tier 3 authority might face scrutiny under *West Virginia v. EPA* (2022), which requires clear Congressional authorization for agency decisions of major political and economic significance. However, the ESO's authority is distinguishable on multiple grounds. First, Congress explicitly created the ESO for this specific purpose with detailed statutory parameters -- unlike the EPA invoking broad statutory language for novel authority. Second, the modifications are technical, not policy-changing: adjusting a quota formula, tie-breaking procedure, or districting algorithm within boundary conditions that preserve proportionality and algorithmic neutrality is not a "major question" comparable to restructuring an industry. Third, Congressional review is built into every tier, with disapproval authority for Tier 3 and affirmative approval required for Tier 2. Fourth, the graduated protection architecture itself demonstrates clear Congressional intent to delegate precisely this scope of authority -- the statute's specificity is evidence of deliberate authorization, not the kind of ambiguous grant the Major Questions Doctrine targets.
+Major Questions Doctrine Considerations: The ESO's Tier 3 authority might face scrutiny under *West Virginia v. EPA* (2022), which requires clear Congressional authorization for agency decisions of major political and economic significance. However, the ESO's authority is distinguishable on multiple grounds. First, Congress explicitly created the ESO for this specific purpose with a comprehensive statutory charter -- a detailed mission statement, enumerated core responsibilities, a pre-implementation research and validation mandate, a comparative-evaluation mandate reaching alternative methods, academic partnership infrastructure, and public trust provisions -- unlike the EPA invoking broad statutory language for novel authority. The breadth and specificity of the ESO's statutory mandate is itself evidence of deliberate Congressional authorization; the more precisely Congress spells out what the agency does, the harder it becomes to argue that Congress did not intend the agency to do it. Second, the modifications are technical, not policy-changing: adjusting a quota formula, tie-breaking procedure, or districting algorithm within boundary conditions that preserve proportionality and algorithmic neutrality is not a "major question" comparable to restructuring an industry. Third, Congressional review is built into every tier, with disapproval authority for Tier 3 and affirmative approval required for Tier 2. Fourth, the graduated protection architecture itself demonstrates clear Congressional intent to delegate precisely this scope of authority -- the statute's specificity is evidence of deliberate authorization, not the kind of ambiguous grant the Major Questions Doctrine targets.
+
+Institutional Pipeline and Equipment Certification: The Act distributes election administration responsibilities across three federal bodies according to institutional competence. The ESO designs ballot specifications and voting method parameters. The Election Assistance Commission certifies that voting equipment can execute those specifications -- extending the EAC's existing testing and certification function from a voluntary guideline to a mandatory standard for congressional elections. The Federal Election Commission monitors state compliance with the specifications and certification requirements. Mandatory EAC certification is a straightforward exercise of Elections Clause "manner" authority: prescribing equipment standards for congressional elections is no different in kind from prescribing ballot format, voting method, or election timing, all of which are established "manner" regulations. The separate congressional ballot sheet -- a physically distinct ballot carrying only congressional contests, designed to ESO specifications and printed on EAC-certified equipment -- is likewise a "manner" regulation: it prescribes the format of the ballot on which congressional elections are conducted. Congress's authority to mandate how ballots look, what equipment processes them, and what standards that equipment must meet is well within the scope the Supreme Court has consistently recognized.
 
 ### G. Algorithmically Neutral Districting (Title IV, Sections 403, 410)
 
@@ -276,7 +290,7 @@ The constitutional question is not about "proportional representation" as an abs
 
 Under the current system, the district formula is one district equals one seat, the allocation rule is plurality winner takes the seat, the result is 40-60% of votes in each district are systematically wasted, and the authority is statutory (2 U.S.C. Section 2c) plus common law tradition.
 
-Under the Act, the district formula is 3-7 seats per district (with single/two-seat exceptions), the allocation rule is STAR-PR determining proportional seat distribution, the result is 80-90% of votes translating into representation, and the authority is Congressional statute under the Elections Clause.
+Under the Act, the district formula is 3-7 seats per district (with single/two-seat exceptions), the allocation rule is Proportional STAR determining proportional seat distribution, the result is 80-90% of votes translating into representation, and the authority is Congressional statute under the Elections Clause.
 
 Both systems make choices about vote allocation. Neither is constitutionally mandated. The question is simply which formula Congress chooses to adopt in exercising its Elections Clause authority.
 
@@ -294,7 +308,7 @@ Consider five congressional seats covering the same population:
 
 Five single-member districts under plurality: Minimum vote share to control all 5 seats is approximately 25% (if perfectly efficient). Typical result: 55-65% of voters control all 5 seats (due to geography/gerrymandering). 35-45% of voters receive zero representation. Geographic minorities in each district are systematically excluded.
 
-One five-seat district under STAR-PR: Minimum vote share to win 1 seat is approximately 16.7% (with typical ballot patterns). Typical result: each substantial bloc (greater than 15-20%) wins representation. 80-85% of voters receive actual representation. All significant political communities achieve voice proportional to size.
+One five-seat district under Proportional STAR: Minimum vote share to win 1 seat is approximately 16.7% (with typical ballot patterns). Typical result: each substantial bloc (greater than 15-20%) wins representation. 80-85% of voters receive actual representation. All significant political communities achieve voice proportional to size.
 
 Which system better fulfills the constitutional promise of representative government? Which better satisfies Equal Protection principles of "one person, one vote"?
 
@@ -312,7 +326,7 @@ Response: Historical practice contradicts this -- multi-member districts were ex
 
 Objection: Proportional representation is a European import alien to American democratic traditions; adopting it requires constitutional amendment to fundamentally alter our system.
 
-Response: Proportional methods have American precedent -- Illinois used cumulative voting (a semi-proportional system) from 1870-1980 (110 years), and reformers from both parties called for its reinstatement. STAR voting is intuitively American -- the 0-5 star rating interface is already familiar to every American from consumer ratings, and STAR-PR extends this familiar mechanism to proportional allocation. The Constitution doesn't mandate any particular voting method; plurality voting is common-law tradition, not constitutional requirement. Electoral science has advanced -- in 1789, proportional representation hadn't been invented, and freezing electoral methods at 18th-century technology is no more sensible than freezing any other domain.
+Response: Proportional methods have American precedent -- Illinois used cumulative voting (a semi-proportional system) from 1870-1980 (110 years), and reformers from both parties called for its reinstatement. STAR voting is intuitively American -- the 0-5 star rating interface is already familiar to every American from consumer ratings, and Proportional STAR extends this familiar mechanism to proportional allocation. The Constitution doesn't mandate any particular voting method; plurality voting is common-law tradition, not constitutional requirement. Electoral science has advanced -- in 1789, proportional representation hadn't been invented, and freezing electoral methods at 18th-century technology is no more sensible than freezing any other domain.
 
 ### C. "This Violates 'One Person, One Vote'"
 
@@ -354,7 +368,7 @@ Under party list systems, voters choose parties, not individual representatives.
 
 How the Act's Candidate-Centered Approach Preserves Direct Choice:
 
-STAR-PR maintains the fundamental constitutional structure of voter-representative relationships. Voters see individual named candidates and rate each one 0-5 stars. Representatives win seats because voters rated them highly -- not because party leadership placed them strategically on a list. If a representative breaks with their party, they can still run and win based on personal voter support. The direct accountability relationship is preserved exactly as the Constitution contemplates.
+Proportional STAR maintains the fundamental constitutional structure of voter-representative relationships. Voters see individual named candidates and rate each one 0-5 stars. Representatives win seats because voters rated them highly -- not because party leadership placed them strategically on a list. If a representative breaks with their party, they can still run and win based on personal voter support. The direct accountability relationship is preserved exactly as the Constitution contemplates.
 
 The Constitutional Line:
 
@@ -504,6 +518,11 @@ Multi-Member District Precedent:
 Redistricting Authority:
 
 - *Shaw v. Reno*, 509 U.S. 630 (1993)
+- *Louisiana v. Callais*, 608 U.S. ___ (2026)
+
+Fifteenth Amendment Enforcement Power:
+
+- *City of Boerne v. Flores*, 521 U.S. 507 (1997)
 
 Equal Protection / One Person One Vote:
 
@@ -538,7 +557,7 @@ Delegation Doctrine:
 | STAR Voting Mandate | Title IV, Section 404 | Elections Clause ("manner") |
 | Unified General Elections | Title IV, Section 404(d) | Elections Clause + preemption authority |
 | Multi-Member Districts | Title IV, Section 402 | Historical practice + 1967 Act repeal authority |
-| STAR-PR Allocation | Title IV, Section 404(g) | Elections Clause ("manner") |
+| Proportional STAR Allocation | Title IV, Section 404(g) | Elections Clause ("manner") |
 | Algorithmically Neutral Districting | Title IV, Section 403 | Elections Clause ("manner") + *Arizona State Legislature* |
 | ESO Independence Protections | Title IV, Section 410 | Elections Clause + delegation doctrine + structural safeguards |
 | Electoral Science Office | Title IV, Section 409 | Elections Clause + delegation doctrine |
@@ -550,17 +569,41 @@ Delegation Doctrine:
 <!--
 ## Revision History
 
-**Revision 5.6** (Current)
+**Revision 6.1** (Current)
+- Aligned with Rev 6.1 of the CEMA legislative text, which removed the Voting Rights Act Section 2 vote-dilution compliance mechanism in response to *Louisiana v. Callais*, 608 U.S. ___ (2026)
+- **Section V.C VRA paragraph rewritten and retitled:** "Voting Rights Act Compliance" retitled to "Minority Representation Through Structure." Promoted the substantive claim (Proportional STAR delivers minority representation through the mathematics of seat allocation; the allocation formula forecloses dilution independent of boundary placement) and the broader-than-VRA reach (cohesive minorities of every kind). Removed the Section 403(e) minimum-boundary-adjustment mechanism and the Section 410(d) safeguards (DOJ review, dual map publication, three-judge-panel review with direct Supreme Court appeal); these described the now-deleted carve-out. Sharpened the race-blindness claim: the districting algorithm is now totally race-blind, no exceptions, no compliance carve-out
+- **Constitutional grounding made explicit:** Added the holding that the Act rests on the Elections Clause "manner" power, not the Fifteenth Amendment enforcement power the VRA invokes, which sidesteps the *City of Boerne v. Flores* enforcement-power problem that *Callais* used to narrow Section 2. Noted that the *Boerne* objection is contested on its own terms (enforcement legislation reaches conduct not itself unconstitutional, per the literacy-test ban) and that the Act need not litigate that question. State the *Callais* conclusion and point to *The Case for Blind Districting* for the full crystal-versus-bricks treatment rather than re-running it
+- **Language-Access Provisions Retained paragraph added:** Records that the Act keeps VRA Sections 203 and 4(f)(4), unaffected by *Callais* and still administrable
+- **Section V.F Tier 3 list:** Removed "VRA compliance adjustment methodology" from the adjustable-parameter enumeration; the parameter no longer exists
+- **Appendix A:** Added *Louisiana v. Callais* under Redistricting Authority; added Fifteenth Amendment Enforcement Power category with *City of Boerne v. Flores*
+- **DPS 3.6 compliance:** Confirmed. Header/footer conventions for this supporting-document type are unchanged from 3.4; no structural changes required
+
+**Revision 6.0**
+- Aligned with Rev 6.0 of the CEMA legislative text
+- **DPS 3.4 compliance:** Header corrected to Supporting Documents format (H1 = document title, H2 = typed relational subtitle, author byline); footer attribution removed; copyright line added
+- **Section V.B expanded (Unified General Election Structure):** Added Section 204 contracting analysis -- the prohibition-plus-exception formulation in 404(d)(1), the fee-for-service contracting option, firewall provisions (ballot access, official indicia), and how the contracting framework reinforces rather than undermines the *Jones* distinction between party processes and state elections
+- **Section V.F expanded (ESO Delegation):** Added "Institutional Pipeline and Equipment Certification" paragraph analyzing the three-body pipeline (ESO designs, EAC certifies, FEC monitors), mandatory EAC equipment certification as Elections Clause "manner" regulation, and the separate congressional ballot sheet as a "manner" regulation prescribing ballot format
+
+**Revision 5.9** 
+- Aligned with Rev 5.9 of the CEMA legislative text
+- **Comparative Research Authority analysis added to Section V.F:** Added two paragraphs addressing the Section 409(a)(3)/(a)(5) comparative-research mandate (added in legislative Rev 5.9). First paragraph establishes that comparative research is non-decisional and sits below the graduated protection tiers, raising no independent nondelegation concern (analogized to GAO, CRS, and federally chartered scientific bodies). Second paragraph preempts the litigation argument that comparative authority is an indirect delegation of the Tier 1/Tier 2 method-change decision, grounding the rebuttal in the statute's evidence-generation-only limitation and the retained Congressional decision (BRAC parallel). Updated the Section V.F Question framing and the Major Questions Doctrine specificity argument (First point) to include the comparative-evaluation mandate as further evidence of deliberate Congressional authorization
+
+**Revision 5.8**
+- Aligned with Rev 5.8 of the CEMA legislative text
+- **"STAR-PR" renamed to "Proportional STAR" throughout:** 7 body instances replaced across Part V.C section header, VRA compliance paragraph, Part VI vote allocation framework, Part VI comparative analysis, Part VII.B American tradition response, Part VII.G party lists distinction, and Appendix B provision table
+- **ESO delegation section updated:** Expanded the delegation question to reflect the ESO's comprehensive statutory charter (pre-implementation research and validation, academic partnerships, election science mission) alongside technical review and districting functions. Strengthened Major Questions Doctrine analysis: added reference to the ESO's comprehensive statutory charter (mission statement, enumerated core responsibilities, pre-implementation mandate, academic partnership infrastructure, public trust provisions) as affirmative evidence of deliberate Congressional authorization; added the principle that statutory breadth and specificity of the agency mandate is itself evidence against a major questions challenge
+- **Tier 3 terminology corrected:** "reweighting methodology" updated to "ballot weight allocation procedure" in Section V.F per Rev 5.7 conforming edit to Section 409(e)(1) and Section 806(d) of the legislative text
+
+**Revision 5.6**
 - Aligned with Rev 5.6 of the CEMA legislative text
-- Renamed from "Federal Elections Modernization Act (FEMA)" to "Congressional Elections Modernization Act (CEMA)"; all references, defined terms, and download paths updated throughout; no substantive policy changes
-- FCAO references removed: Title V (FCAO) extracted from CEMA into planned standalone statute under the CMF; removed "competency transparency requirements" from Section I question presented; removed "FCAO scores" from Section III.B ballot information requirements list; removed Section V.E (FCAO Non-Qualifying Structure) entirely; removed FCAO Examinations row from Appendix B; re-lettered remaining Part V sections (former F→E, G→F, H→G)
+- FCAO references removed: Title V (FCAO) extracted from CEMA into planned standalone statute under the CMF; removed "competency transparency requirements" from Section I question presented; removed "FCAO scores" from Section III.B ballot information requirements list; removed Section V.E (FCAO Non-Qualifying Structure) entirely; removed FCAO Examinations row from Appendix B; re-lettered remaining Part V sections (former F to E, G to F, H to G)
 - "Federal election/office" references corrected: 22 instances of "federal elections" or "federal offices" in body text changed to "congressional elections," "congressional offices," or "elections for Senators and Representatives" as appropriate to context. Direct Elections Clause paraphrases use the actual constitutional text ("elections for Senators and Representatives"); questions presented, case law characterizations, and analytical discussion use "congressional elections/offices." No instance in the constitutional analysis was describing authority beyond the Elections Clause, making "federal elections" imprecise in every case
 - No presidential references to remove (none in body text outside revision history)
 - No Title VI/VII/VIII renumbering needed (document does not reference these Titles in body text)
 - DPS 3.1 formatting compliance: removed "Published March 2026" and "Based on Rev 5.2" header metadata; removed "Last revised April 2026" footer line
 
 **Revision 3.1**
-- DPS 2.8 compliance pass: migrated download link path from electoral/cmf/fema/ to congress/cmf/fema/; added 📥 prefix and ⬇ parenthetical emojis per DPS Rev 2.8 Section 1.9; added "Last revised April 2026" line per DPS Rev 2.5 Section 1.3
+- DPS 2.8 compliance pass: migrated download link path from electoral/cmf/cema/ to congress/cmf/cema/; added 📥 prefix and ⬇ parenthetical emojis per DPS Rev 2.8 Section 1.9; added "Last revised April 2026" line per DPS Rev 2.5 Section 1.3
 
 **Revision 3.0**
 - Updated reference line from Rev 5.0 to Rev 5.2
@@ -586,7 +629,7 @@ Delegation Doctrine:
 - Added Section V.G: Electoral Science Office delegation doctrine analysis covering graduated protection architecture.
 - Corrected Section X.B implementation timeline reference (was 25-year, corrected to ~14-year per Rev 4.0+ architecture).
 - Removed stale approval voting contingency reference not present in current legislative text.
-- Corrected all section number cross-references to align with FEMA Rev 5.0 statutory text.
+- Corrected all section number cross-references to align with CEMA Rev 5.0 statutory text.
 - Fixed encoding artifacts throughout.
 - Aligned header structure with APAI Document Production Standards Rev 1.3.
 
@@ -608,4 +651,4 @@ Delegation Doctrine:
 
 ---
 
-*Prepared by Albert Ramos for The American Policy Architecture Institute*
+*© 2026 Albert Ramos | American Policy Architecture Institute*
