@@ -102,8 +102,6 @@ The price of building that instrument is small by federal standards: roughly $28
 
 ## Works Cited
 
-*(Seed list — reconcile to surviving claims at production. The hybrid drops the source paper's full citation set; only sources tied to a claim the primer actually makes are retained.)*
-
 Ramos, Albert E. *Congressional Elections Modernization Act, Rev 6.2*. The American Policy Architecture Institute, 2026.
 
 ---
