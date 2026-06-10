@@ -96,8 +96,6 @@ The whole field. The whole electorate. One ballot. The voters decide.
 
 ## Works Cited
 
-*(Seed list — reconcile to surviving claims at production. The hybrid drops citations tied only to comparative claims the primer does not make.)*
-
 Ramos, Albert E. *Congressional Elections Modernization Act, Rev 6.2*. The American Policy Architecture Institute, 2026.
 
 ---
