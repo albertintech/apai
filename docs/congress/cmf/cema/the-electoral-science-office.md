@@ -110,10 +110,10 @@ Ramos, Albert E. *Congressional Elections Modernization Act, Rev 6.2*. The Ameri
 
 *Other articles in the CEMA Primer Series:*
 
-- [Full-Field Elections]()
-- [House Expansion]()
-- [Hands-Off Mapping]()
-- [Percentage-Based Voting]()
+- [Full-Field Elections](/congress/cmf/cema/full-field-elections/)
+- [House Expansion](/congress/cmf/cema/house-expansion/)
+- [Hands-Off Mapping](/congress/cmf/cema/hands-off-mapping/)
+- [Percentage-Based Voting](/congress/cmf/cema/percentage-based-voting/)
 
 ---
 
