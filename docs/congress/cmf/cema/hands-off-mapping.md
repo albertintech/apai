@@ -50,7 +50,7 @@ The case for Hands-Off Mapping is not a case for formulas on their own -- and no
 
 House Expansion matters because the current House has 435 members for roughly 330 million people -- a ratio frozen since 1929. The Act expands the House to approximately 720 seats. A larger House creates enough seats to build multi-seat districts with real depth -- five, six, or seven representatives per district instead of one. The more seats a district elects, the smaller the share of the vote a cohesive group needs to win one of them. At five seats, a group needs roughly twenty percent. At seven, roughly fourteen percent.
 
-[Percentage-based voting]() ensures that seats in those larger districts are allocated to match how people actually voted. A community making up twenty percent of a five-seat district elects roughly one representative -- not because a mapmaker drew them a favorable district, but because the voting math distributes seats in proportion to voter support. Competitive races are built in. Fair representation for every cohesive group follows from the arithmetic rather than depending on a mapmaker's good intentions. But someone still has to draw the district boundaries -- and under human-drawn maps, that step remains an opening for manipulation.
+[Percentage-based voting](/congress/cmf/cema/percentage-based-voting/) ensures that seats in those larger districts are allocated to match how people actually voted. A community making up twenty percent of a five-seat district elects roughly one representative -- not because a mapmaker drew them a favorable district, but because the voting math distributes seats in proportion to voter support. Competitive races are built in. Fair representation for every cohesive group follows from the arithmetic rather than depending on a mapmaker's good intentions. But someone still has to draw the district boundaries -- and under human-drawn maps, that step remains an opening for manipulation.
 
 Hands-Off Mapping closes that opening. The formula has no political preferences and no adjustable settings. It cannot be lobbied or negotiated with. And because percentage-based voting makes boundary placement irrelevant to representational outcomes, the formula's inability to see communities is not a flaw to work around -- it is what guarantees that no one can embed preferences into the process.
 
@@ -106,7 +106,7 @@ The same machinery the Act builds for congressional map-drawing -- the certified
 
 The case for Hands-Off Mapping is not that formulas are perfect mapmakers. It is that human judgment in map-drawing is the vulnerability -- the opening that enables manipulation, guarantees litigation, and systematically destroys electoral competition.
 
-Hands-Off Mapping closes that opening. But the full case depends on what surrounds it -- the House Expansion that creates districts large enough for fair representation, and the [Percentage-Based Voting]() that delivers it at the ballot box. The other papers in this series address what this one does not: the Electoral Science Office that provides the institutional backbone the formula requires, and [Full-Field Elections](), which ensures that the widest possible field of candidates reaches every voter -- so that the open map and the open ballot arrive together.
+Hands-Off Mapping closes that opening. But the full case depends on what surrounds it -- the House Expansion that creates districts large enough for fair representation, and the [Percentage-Based Voting](/congress/cmf/cema/percentage-based-voting/) that delivers it at the ballot box. The other papers in this series address what this one does not: the Electoral Science Office that provides the institutional backbone the formula requires, and [Full-Field Elections](/congress/cmf/cema/full-field-elections/), which ensures that the widest possible field of candidates reaches every voter -- so that the open map and the open ballot arrive together.
 
 No human touches a boundary. No judgment call invites a lawsuit. No line drawn in a back room determines who wins before anyone votes.
 
@@ -142,10 +142,10 @@ Najt, Elle (Lorenzo), Daryl DeFord, and Justin Solomon. 2019. "Complexity and Ge
 
 *Other articles in the CEMA Primer Series:*
 
-- [Full-Field Elections]()
-- [House Expansion]()
-- [Percentage-Based Voting]()
-- [The Electoral Science Office]()
+- [Full-Field Elections](/congress/cmf/cema/full-field-elections/)
+- [House Expansion](/congress/cmf/cema/house-expansion/)
+- [Percentage-Based Voting](/congress/cmf/cema/percentage-based-voting/)
+- [The Electoral Science Office](/congress/cmf/cema/the-electoral-science-office/)
 
 ---
 
