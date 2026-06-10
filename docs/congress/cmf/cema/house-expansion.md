@@ -10,7 +10,7 @@ The size of the House of Representatives has not changed since 1929. For nearly 
 
 The Congressional Elections Modernization Act proposes to unfreeze that number. Under the Act's House Expansion framework, the House grows from 435 to roughly 720 seats — not to a figure picked by negotiation, but to a size set by a fixed mathematical rule tied to the nation's population, so that the chamber keeps pace with the country it represents.
 
-The claim is straightforward: a House sized by a principled rule serves the public better than one fixed by a long-ago political accident. House Expansion is one of the changes that make up CEMA, supported by a national elections body the Act creates — [The Electoral Science Office]() — to provide the technical and institutional backbone the change requires. This article makes the case for House Expansion to a reader coming to it fresh.
+The claim is straightforward: a House sized by a principled rule serves the public better than one fixed by a long-ago political accident. House Expansion is one of the changes that make up CEMA, supported by a national elections body the Act creates — [The Electoral Science Office](/congress/cmf/cema/the-electoral-science-office/) — to provide the technical and institutional backbone the change requires. This article makes the case for House Expansion to a reader coming to it fresh.
 
 ---
 
@@ -46,9 +46,9 @@ One feature of the design matters more than any other for understanding what exp
 
 It would be easy to read House Expansion as a quality-of-life improvement — smaller districts, more accessible representatives, lighter caseloads — and stop there. Those benefits are real. But the size of the House does something more fundamental within CEMA's design: it sets how open the entire system can be.
 
-Here is the mechanism, in plain terms. CEMA pairs expansion with [Percentage-Based Voting](), under which most representatives are elected from larger, multi-seat districts rather than one-winner districts. In a multi-seat district, the share of support a group needs to win one of the seats depends on how many seats the district has. A three-seat district takes roughly a third of the vote to win one seat; a five-seat district, roughly a fifth; a seven-seat district, roughly a seventh. More total seats in the House means more seats per district, and more seats per district means a smaller slice of support is enough to win one. The size of the House, in other words, is the dial that sets how low the bar to win representation can fall.
+Here is the mechanism, in plain terms. CEMA pairs expansion with [Percentage-Based Voting](/congress/cmf/cema/percentage-based-voting/), under which most representatives are elected from larger, multi-seat districts rather than one-winner districts. In a multi-seat district, the share of support a group needs to win one of the seats depends on how many seats the district has. A three-seat district takes roughly a third of the vote to win one seat; a five-seat district, roughly a fifth; a seven-seat district, roughly a seventh. More total seats in the House means more seats per district, and more seats per district means a smaller slice of support is enough to win one. The size of the House, in other words, is the dial that sets how low the bar to win representation can fall.
 
-That makes expansion the lever behind the whole structure. Suppose someone looks at CEMA and worries that the threshold to earn a seat is still too high for smaller groups to clear. The remedy is not to tinker with the voting method or redraw any lines. The remedy is a bigger House. Grow the chamber, and every threshold in the system comes down automatically, because the arithmetic of seats-per-district does the work. The threshold mechanics themselves belong to [Percentage-Based Voting](); what House Expansion contributes is the realization that the size of the chamber is what governs all of them. Expand the House and you open the system; hold it small and you keep it closed.
+That makes expansion the lever behind the whole structure. Suppose someone looks at CEMA and worries that the threshold to earn a seat is still too high for smaller groups to clear. The remedy is not to tinker with the voting method or redraw any lines. The remedy is a bigger House. Grow the chamber, and every threshold in the system comes down automatically, because the arithmetic of seats-per-district does the work. The threshold mechanics themselves belong to [Percentage-Based Voting](/congress/cmf/cema/percentage-based-voting/); what House Expansion contributes is the realization that the size of the chamber is what governs all of them. Expand the House and you open the system; hold it small and you keep it closed.
 
 This is what lifts House Expansion from administrative housekeeping to something central to the design. It is not just that a larger House represents people more closely. It is that the size of the House is the single setting that determines how openable American representation can be.
 
@@ -84,7 +84,7 @@ House Expansion changes the size of one chamber and nothing else. It grows the H
 
 For nearly a hundred years, the House has been the same size while the country tripled around it. The result is a chamber whose members each answer to twenty-five times as many people as the design intended — a relationship that has become bureaucratic because the math left it no other way to be. House Expansion fixes the number at its root, replacing a figure frozen by political accident with a chamber that grows on a fixed rule as the country grows.
 
-And it does more than restore closeness. The size of the House is the lever that sets how open American representation can be — the dial that, paired with [Percentage-Based Voting](), determines how small a group can be and still earn a seat. That is why this change is central rather than cosmetic. House Expansion works alongside the Act's other changes — [Percentage-Based Voting](), [Hands-Off Mapping](), and [Full-Field Elections]() — each supported by [The Electoral Science Office](), to deliver a Congress sized to the nation it serves.
+And it does more than restore closeness. The size of the House is the lever that sets how open American representation can be — the dial that, paired with [Percentage-Based Voting](/congress/cmf/cema/percentage-based-voting/), determines how small a group can be and still earn a seat. That is why this change is central rather than cosmetic. House Expansion works alongside the Act's other changes — [Percentage-Based Voting](/congress/cmf/cema/percentage-based-voting/), [Hands-Off Mapping](/congress/cmf/cema/hands-off-mapping/), and [Full-Field Elections](/congress/cmf/cema/full-field-elections/) — each supported by [The Electoral Science Office](/congress/cmf/cema/the-electoral-science-office/), to deliver a Congress sized to the nation it serves.
 
 A House that grows with the country, on a rule rather than a frozen accident. That is the whole of it — and it is enough.
 
@@ -100,10 +100,10 @@ Ramos, Albert E. *Congressional Elections Modernization Act, Rev 6.2*. The Ameri
 
 *Other articles in the CEMA Primer Series:*
 
-- [Full-Field Elections]()
-- [Hands-Off Mapping]()
-- [Percentage-Based Voting]()
-- [The Electoral Science Office]()
+- [Full-Field Elections](/congress/cmf/cema/full-field-elections/)
+- [Hands-Off Mapping](/congress/cmf/cema/hands-off-mapping/)
+- [Percentage-Based Voting](/congress/cmf/cema/percentage-based-voting/)
+- [The Electoral Science Office](/congress/cmf/cema/the-electoral-science-office/)
 
 ---
 
