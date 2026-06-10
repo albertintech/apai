@@ -92,8 +92,6 @@ A House that grows with the country, on a rule rather than a frozen accident. Th
 
 ## Works Cited
 
-*(Seed list — reconcile to surviving claims at production. The hybrid drops citations tied only to comparative claims the primer does not make.)*
-
 Ramos, Albert E. *Congressional Elections Modernization Act, Rev 6.2*. The American Policy Architecture Institute, 2026.
 
 ---
