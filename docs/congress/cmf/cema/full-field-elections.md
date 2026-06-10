@@ -10,7 +10,7 @@ In most of the country, the race that decides who represents you in Congress is 
 
 The Congressional Elections Modernization Act proposes to replace that sequence with something structurally different: Full-Field Elections. Under this framework, every qualified candidate appears on a single general-election ballot, and the full electorate weighs the entire field at once. No publicly funded primary narrows the choices beforehand. Parties still pick favorites — they endorse candidates, and those endorsements appear right on the ballot — but they no longer filter candidates off it. The voter sees everyone who qualified and makes the call.
 
-This paper explains how Full-Field Elections work and addresses the concerns a careful reader will bring. The argument is that a system where the whole electorate chooses from the whole field produces more representative outcomes than one where a fraction of voters pre-selects the options for everyone else. That outcome rests on the rest of the Act — the scoring method covered in [Percentage-Based Voting]() handles a large field without wasting votes, [Hands-Off Mapping]() draws district boundaries by formula so no one can rig them, and [House Expansion]() supplies the seats that make multi-seat districts possible. The institutional backbone for all of it is [The Electoral Science Office](), the national elections body the Act creates to keep the methods sound and the results verifiable.
+This paper explains how Full-Field Elections work and addresses the concerns a careful reader will bring. The argument is that a system where the whole electorate chooses from the whole field produces more representative outcomes than one where a fraction of voters pre-selects the options for everyone else. That outcome rests on the rest of the Act — the scoring method covered in [Percentage-Based Voting](/congress/cmf/cema/percentage-based-voting/) handles a large field without wasting votes, [Hands-Off Mapping](/congress/cmf/cema/hands-off-mapping/) draws district boundaries by formula so no one can rig them, and [House Expansion](/congress/cmf/cema/house-expansion/) supplies the seats that make multi-seat districts possible. The institutional backbone for all of it is [The Electoral Science Office](/congress/cmf/cema/the-electoral-science-office/), the national elections body the Act creates to keep the methods sound and the results verifiable.
 
 ---
 
@@ -46,7 +46,7 @@ Parties keep their autonomy completely. A party may still hold caucuses, convent
 
 This is where the ballot itself matters. Congressional elections under the Act appear on their own ballot sheet, physically separate from state and local contests, presenting the full field of congressional candidates as one complete set of choices. Voters see every name and every endorsement, and score each candidate rather than picking just one.
 
-**Why it works without a primary.** The traditional justification for a primary is practical: too many candidates on a single ballot is supposed to produce chaos. Under a system where you can only pick one name, that concern is real — votes scatter across a crowded field, and someone can win with a small fraction of the total while most voters opposed them. But the Act does not use pick-one voting. Under the scoring method covered in [Percentage-Based Voting](), voters score every candidate they have a view on, the count identifies the two with the broadest support, and an automatic runoff between those two ensures the winner is preferred by a majority. A candidate adored by a narrow faction but disliked by everyone else does not score high enough to advance. The method is built to draw a clear, broadly supported winner from a field of any reasonable size. The winnowing that primaries used to do, the counting method now does — without excluding anyone from the ballot first.
+**Why it works without a primary.** The traditional justification for a primary is practical: too many candidates on a single ballot is supposed to produce chaos. Under a system where you can only pick one name, that concern is real — votes scatter across a crowded field, and someone can win with a small fraction of the total while most voters opposed them. But the Act does not use pick-one voting. Under the scoring method covered in [Percentage-Based Voting](/congress/cmf/cema/percentage-based-voting/), voters score every candidate they have a view on, the count identifies the two with the broadest support, and an automatic runoff between those two ensures the winner is preferred by a majority. A candidate adored by a narrow faction but disliked by everyone else does not score high enough to advance. The method is built to draw a clear, broadly supported winner from a field of any reasonable size. The winnowing that primaries used to do, the counting method now does — without excluding anyone from the ballot first.
 
 ---
 
@@ -80,7 +80,7 @@ The Act does not bar parties from holding primaries. A party may run an internal
 
 One practical consequence is worth stating plainly. Because there is no state-funded congressional primary to lose, and no primary result that can lawfully keep a candidate off the November ballot, a candidate who sought a party's endorsement and didn't get it still reaches voters on the same general-election ballot as everyone else who qualified. The exclusion that used to follow from losing a primary — you lost, you're out — has no mechanism left to operate. The path to voters does not run through winning a preliminary round; it runs through meeting the ballot-access standards and making the case to the full electorate.
 
-And Full-Field Elections do not work alone. They do not determine how seats are filled once candidates are on the ballot — that is the work of [Percentage-Based Voting](). They do not determine how district lines are drawn — that is [Hands-Off Mapping](). They do not establish the elections body that keeps the system sound — that is [The Electoral Science Office](). Each change covers a distinct function.
+And Full-Field Elections do not work alone. They do not determine how seats are filled once candidates are on the ballot — that is the work of [Percentage-Based Voting](/congress/cmf/cema/percentage-based-voting/). They do not determine how district lines are drawn — that is [Hands-Off Mapping](/congress/cmf/cema/hands-off-mapping/). They do not establish the elections body that keeps the system sound — that is [The Electoral Science Office](/congress/cmf/cema/the-electoral-science-office/). Each change covers a distinct function.
 
 ---
 
@@ -88,7 +88,7 @@ And Full-Field Elections do not work alone. They do not determine how seats are 
 
 The case for Full-Field Elections is not that primaries are inherently bad. Parties have legitimate reasons to signal their preferences, and they keep every tool for doing so. The case is that the state's role in funding and enforcing that process — in deciding which candidates voters get to see before the voters themselves have a say — is the structural weak point, the place where a narrow electorate makes the decisive choice for everyone else.
 
-Full-Field Elections close that gap, and the full design depends on what surrounds it: the scoring method in [Percentage-Based Voting]() that handles a large field without wasting votes, the formula-drawn boundaries of [Hands-Off Mapping]() that no one can manipulate, the seats [House Expansion]() adds to make fair multi-seat districts possible, and [The Electoral Science Office]() that keeps the methods sound and the results open to check. Together they make a single claim true by design rather than by hope: the election that decides who represents you should be decided by everyone who votes in it, not by the smaller group that voted before it.
+Full-Field Elections close that gap, and the full design depends on what surrounds it: the scoring method in [Percentage-Based Voting](/congress/cmf/cema/percentage-based-voting/) that handles a large field without wasting votes, the formula-drawn boundaries of [Hands-Off Mapping](/congress/cmf/cema/hands-off-mapping/) that no one can manipulate, the seats [House Expansion](/congress/cmf/cema/house-expansion/) adds to make fair multi-seat districts possible, and [The Electoral Science Office](/congress/cmf/cema/the-electoral-science-office/) that keeps the methods sound and the results open to check. Together they make a single claim true by design rather than by hope: the election that decides who represents you should be decided by everyone who votes in it, not by the smaller group that voted before it.
 
 The whole field. The whole electorate. One ballot. The voters decide.
 
@@ -104,10 +104,10 @@ Ramos, Albert E. *Congressional Elections Modernization Act, Rev 6.2*. The Ameri
 
 *Other articles in the CEMA Primer Series:*
 
-- [Hands-Off Mapping]()
-- [House Expansion]()
-- [Percentage-Based Voting]()
-- [The Electoral Science Office]()
+- [Hands-Off Mapping](/congress/cmf/cema/hands-off-mapping/)
+- [House Expansion](/congress/cmf/cema/house-expansion/)
+- [Percentage-Based Voting](/congress/cmf/cema/percentage-based-voting/)
+- [The Electoral Science Office](/congress/cmf/cema/the-electoral-science-office/)
 
 ---
 
