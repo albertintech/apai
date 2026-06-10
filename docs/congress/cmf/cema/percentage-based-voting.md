@@ -10,7 +10,7 @@ In most congressional districts, the result is settled before a single vote is c
 
 The Congressional Elections Modernization Act (CEMA) proposes to replace that all-or-nothing rule with one built on shares. Under the Act's Percentage-Based Voting framework, most House seats are filled in larger districts that elect several representatives at once, and the seats are handed out in proportion to how people actually voted. A cohesive group that makes up a fifth of a five-seat district earns about one of those five seats -- not because anyone drew them a friendly map, but because the counting rule gives a group its fair share. Voters score the candidates the same way they rate a restaurant or a driver, from zero to five stars, and the count translates those scores into a delegation that looks like the district that elected it.
 
-This paper explains how both methods work and addresses the concerns a careful reader is right to bring. The argument is one sentence: when your share of the vote earns your share of the seats, the wasted vote disappears, and representation stops depending on where you happen to live. That outcome rests on the rest of the Act -- [House Expansion]() supplies the seats that make multi-seat districts possible, [Hands-Off Mapping]() draws the boundaries by formula so no one can rig them, and the Electoral Science Office, the national elections body the Act creates, maintains the counting methods and publishes the tools that let anyone verify a result. Percentage-Based Voting is the rule that turns all of that into who actually takes office.
+This paper explains how both methods work and addresses the concerns a careful reader is right to bring. The argument is one sentence: when your share of the vote earns your share of the seats, the wasted vote disappears, and representation stops depending on where you happen to live. That outcome rests on the rest of the Act -- [House Expansion](/congress/cmf/cema/house-expansion/) supplies the seats that make multi-seat districts possible, [Hands-Off Mapping](/congress/cmf/cema/hands-off-mapping/) draws the boundaries by formula so no one can rig them, and the Electoral Science Office, the national elections body the Act creates, maintains the counting methods and publishes the tools that let anyone verify a result. Percentage-Based Voting is the rule that turns all of that into who actually takes office.
 
 ---
 
@@ -114,7 +114,7 @@ Two limits are worth naming. First, the Act reaches congressional elections only
 
 The core insight of Percentage-Based Voting is not a preference about how elections should feel. It is an arithmetic observation: a rule that fills one seat and discards every other vote produces a hundred-to-nothing outcome, reliably, cycle after cycle, regardless of how the map is drawn or who draws it. Changing the rule changes the outcome -- not because anyone has rigged the new system in a different direction, but because the math works differently.
 
-Percentage-Based Voting does not deliver this alone. It needs the seats that [House Expansion]() provides to build districts deep enough for shares to matter, the neutral boundaries that [Hands-Off Mapping]() draws so lines no longer decide outcomes, and the backbone of [The Electoral Science Office]() to keep the count honest -- and it arrives alongside [Full-Field Elections](), which puts every candidate on one ballot so the choice is as open as the count is fair. Together these replace a system where representation depends on which coalition holds a majority in your particular district with one where it reflects the actual distribution of voters in that district.
+Percentage-Based Voting does not deliver this alone. It needs the seats that [House Expansion](/congress/cmf/cema/house-expansion/) provides to build districts deep enough for shares to matter, the neutral boundaries that [Hands-Off Mapping](/congress/cmf/cema/hands-off-mapping/) draws so lines no longer decide outcomes, and the backbone of [The Electoral Science Office](/congress/cmf/cema/the-electoral-science-office/) to keep the count honest -- and it arrives alongside [Full-Field Elections](/congress/cmf/cema/full-field-elections/), which puts every candidate on one ballot so the choice is as open as the count is fair. Together these replace a system where representation depends on which coalition holds a majority in your particular district with one where it reflects the actual distribution of voters in that district.
 
 Win or lose, your vote elects someone. That is the whole promise, and it is one the current rule has never been able to make.
 
@@ -132,10 +132,10 @@ Wolk, Sara, Jameson Quinn, and Mark Ogren. "STAR Voting, Equality of Voice, and 
 
 *Other articles in the CEMA Primer Series:*
 
-- [Full-Field Elections]()
-- [Hands-Off Mapping]()
-- [House Expansion]()
-- [The Electoral Science Office]()
+- [Full-Field Elections](/congress/cmf/cema/full-field-elections/)
+- [Hands-Off Mapping](/congress/cmf/cema/hands-off-mapping/)
+- [House Expansion](/congress/cmf/cema/house-expansion/)
+- [The Electoral Science Office](/congress/cmf/cema/the-electoral-science-office/)
 
 ---
 
