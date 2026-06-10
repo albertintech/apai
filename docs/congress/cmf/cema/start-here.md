@@ -74,8 +74,6 @@ The country maintains everything else it depends on. Its elections deserve the s
 
 ## Works Cited
 
-*(Seed list — reconcile to surviving claims at production. As a front-door introduction, this document makes only summary claims developed and cited in full within the individual primers and the underlying Act.)*
-
 Ramos, Albert E. *Congressional Elections Modernization Act, Rev 6.2*. The American Policy Architecture Institute, 2026.
 
 ---
