@@ -74,17 +74,19 @@ The country maintains everything else it depends on. Its elections deserve the s
 
 ## Works Cited
 
+*(Seed list — reconcile to surviving claims at production. As a front-door introduction, this document makes only summary claims developed and cited in full within the individual primers and the underlying Act.)*
+
 Ramos, Albert E. *Congressional Elections Modernization Act, Rev 6.2*. The American Policy Architecture Institute, 2026.
 
 ---
 
 *Articles in the CEMA Primer Series:*
 
-- [Full-Field Elections]()
-- [Hands-Off Mapping]()
-- [House Expansion]()
-- [Percentage-Based Voting]()
-- [The Electoral Science Office]()
+- [Full-Field Elections](/congress/cmf/cema/full-field-elections/)
+- [Hands-Off Mapping](/congress/cmf/cema/hands-off-mapping/)
+- [House Expansion](/congress/cmf/cema/house-expansion/)
+- [Percentage-Based Voting](/congress/cmf/cema/percentage-based-voting/)
+- [The Electoral Science Office](/congress/cmf/cema/the-electoral-science-office/)
 
 ---
 
