@@ -120,16 +120,6 @@ Win or lose, your vote elects someone. That is the whole promise, and it is one 
 
 ---
 
-## Works Cited
-
-Cook Political Report. "2026 House Race Ratings." https://www.cookpolitical.com/ratings/house-race-ratings.
-
-Equal Vote Coalition. "Allocated Score: Research and Development." https://www.equal.vote/allocated-score.
-
-Wolk, Sara, Jameson Quinn, and Mark Ogren. "STAR Voting, Equality of Voice, and Voter Satisfaction: Considerations and Simulations." *Constitutional Political Economy* 34 (2023): 301-325.
-
----
-
 *Other articles in the CEMA Primer Series:*
 
 - [Full-Field Elections](/congress/cmf/cema/full-field-elections/)
@@ -138,6 +128,15 @@ Wolk, Sara, Jameson Quinn, and Mark Ogren. "STAR Voting, Equality of Voice, and 
 - [The Electoral Science Office](/congress/cmf/cema/the-electoral-science-office/)
 
 ---
+
+## Works Cited
+
+Cook Political Report. "2026 House Race Ratings." https://www.cookpolitical.com/ratings/house-race-ratings.
+
+Equal Vote Coalition. "Allocated Score: Research and Development." https://www.equal.vote/allocated-score.
+
+Wolk, Sara, Jameson Quinn, and Mark Ogren. "STAR Voting, Equality of Voice, and Voter Satisfaction: Considerations and Simulations." *Constitutional Political Economy* 34 (2023): 301-325.
+
 
 <!--
 ## Revision History
