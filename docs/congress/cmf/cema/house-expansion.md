@@ -90,12 +90,6 @@ A House that grows with the country, on a rule rather than a frozen accident. Th
 
 ---
 
-## Works Cited
-
-Ramos, Albert E. *Congressional Elections Modernization Act, Rev 6.2*. The American Policy Architecture Institute, 2026.
-
----
-
 *Other articles in the CEMA Primer Series:*
 
 - [Full-Field Elections](/congress/cmf/cema/full-field-elections/)
@@ -105,8 +99,26 @@ Ramos, Albert E. *Congressional Elections Modernization Act, Rev 6.2*. The Ameri
 
 ---
 
+## Works Cited
+
+Taagepera, Rein. "The Size of National Assemblies." *Social Science Research* 1, no. 4 (1972): 385–401.
+
+U.S. Census Bureau. "Historical Apportionment Data (1910–2020)." Accessed June 2026. https://www.census.gov/data/tables/2020/dec/2020-apportionment-data.html
+
+U.S. Census Bureau. "2020 Census Apportionment Results." April 26, 2021. https://www.census.gov/newsroom/press-releases/2021/2020-census-apportionment-results.html
+
+U.S. Constitution, Article I, Section 2.
+
+U.S. Permanent Apportionment Act of 1929, Pub. L. No. 71–13, 46 Stat. 21.
+
+The *Congressional Elections Modernization Act* (Rev 6.2) is an internal APAI document available on the same website and is referenced in prose by name. The 84-percent-at-720, Vermont-728, and Wyoming-~1,400 figures are APAI Huntington-Hill apportionment analysis computed on the 2020 Census apportionment data cited above.
+
+
 <!--
 ## Revision History
+
+**Revision 6.2-a**
+- Works Cited reconciliation pass (Coordination Hub work order): replaced the seed Act-only list with reconciled external entries tied to surviving claims — Permanent Apportionment Act of 1929, U.S. Census (population and 2020 apportionment), U.S. Constitution Art. I §2, Taagepera (1972), and Census historical apportionment record. No body claims adjusted: every empirical figure traces to a citable external root or to APAI Huntington-Hill analysis on cited Census data. The Act and the APAI apportionment analysis are referenced in prose by name only, not in Works Cited. No reverberations.
 
 **Revision 6.2** (Current)
 - Initial production of *House Expansion* CEMA Primer Series article — completes the five-article primer series
