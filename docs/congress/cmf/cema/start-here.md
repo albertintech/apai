@@ -72,12 +72,6 @@ The country maintains everything else it depends on. Its elections deserve the s
 
 ---
 
-## Works Cited
-
-Ramos, Albert E. *Congressional Elections Modernization Act, Rev 6.2*. The American Policy Architecture Institute, 2026.
-
----
-
 *Articles in the CEMA Primer Series:*
 
 - [Full-Field Elections](/congress/cmf/cema/full-field-elections/)
@@ -88,8 +82,16 @@ Ramos, Albert E. *Congressional Elections Modernization Act, Rev 6.2*. The Ameri
 
 ---
 
+## Works Cited
+
+U.S. Constitution, Article I, Section 4.
+
+
 <!--
 ## Revision History
+
+**Revision 6.2-a**
+- Works Cited reconciliation pass (Coordination Hub work order): as the series front door, Start Here makes one first-order external claim in its own right — the Constitution's "times, places and manner" authority (Art. I §4), in the "Is This Even Allowed?" section — now cited. All other figures (435-since-1929, population tripled, ~760,000 per representative, ~720 target, low-turnout primaries) are inherited summaries developed and cited in the primers they point to (House Expansion, Full-Field Elections); they are not re-sourced here, consistent with the front-door role. The Act is referenced in prose by name. No reverberations.
 
 **Revision 6.2** (Current)
 - Initial production of *Start Here: An Introduction to the Congressional Elections Modernization Act (CEMA)* — the citizen-facing front-door article for the CEMA Primer Series
