@@ -94,12 +94,6 @@ The whole field. The whole electorate. One ballot. The voters decide.
 
 ---
 
-## Works Cited
-
-Ramos, Albert E. *Congressional Elections Modernization Act, Rev 6.2*. The American Policy Architecture Institute, 2026.
-
----
-
 *Other articles in the CEMA Primer Series:*
 
 - [Hands-Off Mapping](/congress/cmf/cema/hands-off-mapping/)
@@ -109,8 +103,24 @@ Ramos, Albert E. *Congressional Elections Modernization Act, Rev 6.2*. The Ameri
 
 ---
 
+## Works Cited
+
+Bipartisan Policy Center. "2022 Primary Turnout: Trends and Lessons for Boosting Participation." 2023. https://bipartisanpolicy.org/report/2022-primary-turnout/
+
+Cook Political Report. "2026 House Race Ratings." Accessed June 2026. https://www.cookpolitical.com/ratings/house-race-ratings
+
+FairVote. "Dubious Democracy 2024." 2025. https://fairvote.org/report/dubious-democracy-2024/
+
+
 <!--
 ## Revision History
+
+**Revision 6.2-a**
+- Works Cited reconciliation pass (Coordination Hub work order): replaced the seed Act-only list with reconciled external entries tied to surviving claims. All three external figures held against named sources — no reverberations fired.
+- Primary turnout "around a fifth (~20%)" verified against Bipartisan Policy Center 2022 primary-turnout reporting (21.3% of eligible voters in 2022).
+- ">90% of House races decided before November" verified against FairVote (2024: 84% decided by 10+ points or uncontested; competitiveness analysis) and Cook Political Report ratings.
+- "~18 of 435 toss-ups, heading into 2026" — the set's most fragile, year-pinned claim — verified against the Cook Political Report 2026 House ratings (18 toss-up seats). Kept as written; no rewording of the Problem-section opening required.
+- Internal references (legislative text §§203, 204, 404; STAR mechanics cross-referenced to the Percentage-Based Voting primer) cited in prose by name only.
 
 **Revision 6.2** (Current)
 - Initial production of *Full-Field Elections* CEMA Primer Series article
