@@ -112,6 +112,15 @@ No human touches a boundary. No judgment call invites a lawsuit. No line drawn i
 
 ---
 
+*Other articles in the CEMA Primer Series:*
+
+- [Full-Field Elections](/congress/cmf/cema/full-field-elections/)
+- [House Expansion](/congress/cmf/cema/house-expansion/)
+- [Percentage-Based Voting](/congress/cmf/cema/percentage-based-voting/)
+- [The Electoral Science Office](/congress/cmf/cema/the-electoral-science-office/)
+
+---
+
 ## Works Cited
 
 Altman, Micah. 1997. "Is Automation the Answer: The Computational Complexity of Automated Redistricting." *Rutgers Computer & Technology Law Journal* 23(1): 81-142.
@@ -138,16 +147,6 @@ Makse, Todd. 2012. "Defining Communities of Interest in Redistricting Through In
 
 Najt, Elle (Lorenzo), Daryl DeFord, and Justin Solomon. 2019. "Complexity and Geometry of Sampling Connected Graph Partitions." arXiv:1908.08881. https://arxiv.org/abs/1908.08881. [Peer-reviewed companion: Najt, DeFord, and Solomon, "Empirical Sampling of Connected Graph Partitions for Redistricting," *Physical Review E* 104(6), 064130 (2021). DOI: 10.1103/PhysRevE.104.064130.]
 
----
-
-*Other articles in the CEMA Primer Series:*
-
-- [Full-Field Elections](/congress/cmf/cema/full-field-elections/)
-- [House Expansion](/congress/cmf/cema/house-expansion/)
-- [Percentage-Based Voting](/congress/cmf/cema/percentage-based-voting/)
-- [The Electoral Science Office](/congress/cmf/cema/the-electoral-science-office/)
-
----
 
 <!--
 ## Revision History
