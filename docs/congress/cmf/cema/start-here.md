@@ -34,7 +34,7 @@ The Act makes several distinct changes to how congressional elections work. Each
 
 **Hands-Off Mapping.** District lines today are drawn by the people who stand to gain or lose from where they go. The predictable result is gerrymandering: maps engineered to lock in outcomes before any votes are cast. Hands-Off Mapping removes human discretion from the process entirely — an algorithm draws the lines from census data by a fixed, public procedure, the same inputs always producing the same maps, with no thumb on the scale because there is no thumb at all. → *See the Hands-Off Mapping primer.*
 
-**Percentage-Based Voting.** Most American elections still use the oldest and crudest counting rule: pick one candidate, most votes wins, everything else discarded. It splits votes, punishes voters for supporting who they actually prefer, and routinely hands seats to candidates most people voted against. Percentage-Based Voting replaces it. Voters score the candidates, the method finds the ones with the broadest genuine support, and in multi-seat districts, seats are awarded in proportion to how voters actually voted — so a group that wins a third of the support wins close to a third of the seats, rather than nothing at all. → *See the Percentage-Based Voting primer.*
+**STAR Voting.** Most American elections still use the oldest and crudest counting rule: pick one candidate, most votes wins, everything else discarded. It splits votes, punishes voters for supporting who they actually prefer, and routinely hands seats to candidates most people voted against. STAR Voting replaces it. Voters score the candidates, the method finds the ones with the broadest genuine support, and in multi-seat districts, seats are awarded in proportion to how voters actually voted — so a group that wins a third of the support wins close to a third of the seats, rather than nothing at all. → *See the STAR Voting primer.*
 
 **Full-Field Elections.** In much of the country, the election that truly decides who represents you is a low-turnout primary most voters skip — a contest where a small, committed slice of the electorate narrows the field before everyone else gets a say. Full-Field Elections put every qualified candidate on a single general-election ballot, where the whole electorate weighs the whole field at once. Parties still endorse whomever they like, and those endorsements appear right on the ballot — but they no longer filter candidates off it. → *See the Full-Field Elections primer.*
 
@@ -66,7 +66,7 @@ In other words, this is not a project that depends on amending the Constitution 
 
 This page is the doorway, not the house. Each change above has its own primer — a short, plain-language explanation you can read in one sitting, written to stand on its own. You do not have to read them in any particular order, and you do not have to read all of them. Start with whichever question brought you here.
 
-If you want to understand why representation can feel so out of reach, start with **House Expansion** or **Percentage-Based Voting**. If gerrymandering is what bothers you, start with **Hands-Off Mapping**. If you have ever felt the real decision was made before you got to vote, start with **Full-Field Elections**. And if your first question is *how would I ever trust that any of this works* — the most important question of all — start with **The Electoral Science Office**.
+If you want to understand why representation can feel so out of reach, start with **House Expansion** or **STAR Voting**. If gerrymandering is what bothers you, start with **Hands-Off Mapping**. If you have ever felt the real decision was made before you got to vote, start with **Full-Field Elections**. And if your first question is *how would I ever trust that any of this works* — the most important question of all — start with **The Electoral Science Office**.
 
 The country maintains everything else it depends on. Its elections deserve the same care. These primers are an invitation to look at the wiring for yourself.
 
@@ -77,7 +77,7 @@ The country maintains everything else it depends on. Its elections deserve the s
 - [Full-Field Elections](/congress/cmf/cema/full-field-elections/)
 - [Hands-Off Mapping](/congress/cmf/cema/hands-off-mapping/)
 - [House Expansion](/congress/cmf/cema/house-expansion/)
-- [Percentage-Based Voting](/congress/cmf/cema/percentage-based-voting/)
+- [STAR Voting](/congress/cmf/cema/star-voting/)
 - [The Electoral Science Office](/congress/cmf/cema/the-electoral-science-office/)
 
 ---
@@ -88,12 +88,19 @@ U.S. Constitution, Article I, Section 4.
 
 
 <!--
+Series Alignment: The Congressional Elections Modernization Act (Rev 6.2)
+
 ## Revision History
 
-**Revision 6.2-a**
+**Revision 1.0** (Current)
+- Series baseline established under the new CEMA Primer Series filename convention: `CEMA-primer-[series]-[rev]-[title]-[letter].md`. File renamed from `CEMA-6-2-primer-start-here-a.md` to `CEMA-primer-1-0-start-here.md`; the legislative-source tag is removed from the filename and now carried by the Series Alignment line above. Doc-level letter dropped as part of a series-wide alignment sweep
+- STAR Voting title cascade applied: the article-title label, the in-text cross-reference, the reading-path reference, and the footer primer index entry changed from "Percentage-Based Voting" to "STAR Voting," and the footer URL path from `/congress/cmf/cema/percentage-based-voting/` to `/congress/cmf/cema/star-voting/`. Lowercase "percentage-based voting" concept usage in running prose left intact per the originating work order
+- Prior revision history renumbered into the pre-1.0 (0.x) band; entry prose preserved verbatim
+
+**Revision 0.9**
 - Works Cited reconciliation pass (Coordination Hub work order): as the series front door, Start Here makes one first-order external claim in its own right — the Constitution's "times, places and manner" authority (Art. I §4), in the "Is This Even Allowed?" section — now cited. All other figures (435-since-1929, population tripled, ~760,000 per representative, ~720 target, low-turnout primaries) are inherited summaries developed and cited in the primers they point to (House Expansion, Full-Field Elections); they are not re-sourced here, consistent with the front-door role. The Act is referenced in prose by name. No reverberations.
 
-**Revision 6.2** (Current)
+**Revision 0.8**
 - Initial production of *Start Here: An Introduction to the Congressional Elections Modernization Act (CEMA)* — the citizen-facing front-door article for the CEMA Primer Series
 - Purpose: a plain-language entry point that frames CEMA for a general reader and hands off to each of the five primers via in-text links and the footer index. Distinct in register from the existing wonk-pitched Introduction (CEMA-6-2-introduction.md), which addresses legislators and staff
 - DELIBERATE TEMPLATE DEPARTURE: this article uses the relational subtitle "An Introduction to the Congressional Elections Modernization Act (CEMA)" in the H2 slot (matching the existing Introduction's convention and the DPS 1.2 "to the" connector exception), rather than the standard primer H2 "A Primer Series Article of...". As the series front door rather than a topic primer, it takes the "Introduction to" subtitle; series membership is carried by the footer index. H1 is "Start Here" per author decision
