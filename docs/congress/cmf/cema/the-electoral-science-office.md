@@ -94,7 +94,7 @@ What it does is bounded and concrete: it studies, it designs technical specifica
 
 The trust gap and the reform gap look like two separate ailments, but they trace to one missing institution: the country never built a body for understanding its own elections. The Electoral Science Office is that body — the testing ground that lets a reform be proven before it is trusted, and the open record that lets trust rest on verification rather than reassurance.
 
-The Office cannot do the work of the changes it serves. House Expansion, Hands-Off Mapping, Percentage-Based Voting, and Full-Field Elections each change something the Office does not touch — how many seats there are, how the lines get drawn, how votes are counted, who reaches the ballot. What the Office does is make sure those changes are grounded in evidence before they reach voters, measured honestly after, and open to improvement as the evidence accumulates. A republic that builds the instrument for measuring its own machinery is making a stronger claim than one that asks to be believed. It is saying: examine us. Run the numbers yourself. The evidence does not belong to whoever holds power — it belongs to anyone who checks.
+The Office cannot do the work of the changes it serves. House Expansion, Hands-Off Mapping, STAR Voting, and Full-Field Elections each change something the Office does not touch — how many seats there are, how the lines get drawn, how votes are counted, who reaches the ballot. What the Office does is make sure those changes are grounded in evidence before they reach voters, measured honestly after, and open to improvement as the evidence accumulates. A republic that builds the instrument for measuring its own machinery is making a stronger claim than one that asks to be believed. It is saying: examine us. Run the numbers yourself. The evidence does not belong to whoever holds power — it belongs to anyone who checks.
 
 The price of building that instrument is small by federal standards: roughly $280 million over three years to establish the Office, and roughly $75 million a year to run it. The United States spends about $24 billion a year exploring space, and over the last five years it has spent an average of more than $30 billion a year recovering from natural disasters. Against numbers like those, the cost of finally instrumenting the decision that governs all the others is a rounding error. The real question is the cost of going without it — elections defended by scattered voices against coordinated doubt, and reforms stalled forever at a question no one is equipped to answer. A free people choosing who governs them deserves better than flying blind.
 
@@ -105,7 +105,7 @@ The price of building that instrument is small by federal standards: roughly $28
 - [Full-Field Elections](/congress/cmf/cema/full-field-elections/)
 - [House Expansion](/congress/cmf/cema/house-expansion/)
 - [Hands-Off Mapping](/congress/cmf/cema/hands-off-mapping/)
-- [Percentage-Based Voting](/congress/cmf/cema/percentage-based-voting/)
+- [STAR Voting](/congress/cmf/cema/star-voting/)
 
 ---
 
@@ -119,13 +119,20 @@ The *Congressional Elections Modernization Act* (Rev 6.2) is an internal APAI do
 
 
 <!--
+Series Alignment: The Congressional Elections Modernization Act (Rev 6.2)
+
 ## Revision History
 
-**Revision 6.2-a**
+**Revision 1.0** (Current)
+- Series baseline established under the new CEMA Primer Series filename convention: `CEMA-primer-[series]-[rev]-[title]-[letter].md`. File renamed from `CEMA-6-2-primer-the-electoral-science-office-a.md` to `CEMA-primer-1-0-the-electoral-science-office.md`; the legislative-source tag is removed from the filename and now carried by the Series Alignment line above. Doc-level letter dropped as part of a series-wide alignment sweep
+- STAR Voting title cascade applied: the component-list body reference and the footer primer index entry changed from "Percentage-Based Voting" to "STAR Voting," and affected footer/in-text URL paths from `/congress/cmf/cema/percentage-based-voting/` to `/congress/cmf/cema/star-voting/`. Lowercase "percentage-based voting" concept usage in running prose left intact per the originating work order
+- Prior revision history renumbered into the pre-1.0 (0.x) band; entry prose preserved verbatim
+
+**Revision 0.9**
 - Works Cited reconciliation pass (Coordination Hub work order): replaced the seed Act-only list with reconciled external entries. NASA "~$24 billion a year" verified against the FY2025 enacted appropriation (~$24.8B) and FY2026 (~$24.4B), cited to CRS R43419. ESO establishment/operating figures ($280M / $75M) confirmed INTERNAL (the Act's own Section 409(k) appropriations) — referenced in prose by name, no Works Cited entry.
 - REVERBERATION APPLIED (one sentence, conclusion): the flat "$36 billion a year" FEMA figure does not hold as a stable annual number — FEMA disaster spending varies widely year to year (CBO 30-year average ~$12B; recent years inflated by COVID). Softened to "over the last five years … an average of more than $30 billion a year," anchored to the USAFacts five-year-average figure (~$31.7B, 2020–2024). The space/disaster scale comparison survives intact; only the crispness of a single round number changed. Contained to one sentence, as forecast.
 
-**Revision 6.2** (Current)
+**Revision 0.8**
 - Initial production of *The Electoral Science Office* CEMA Primer Series article
 - Built as a hybrid from parallel Sonnet and Fable drafts per the Coordination Hub work order; Fable frame (test-first hook, scale-comparison close) merged with Sonnet register discipline and structural spine
 - Hub spine applied: institutional-vacuum problem; trust gap + reform gap folded into one consequences section; trust-through-transparency proposal core with single NASA anchor; two-concern section (capture, self-dealing); scope-and-limits; synthesis conclusion
