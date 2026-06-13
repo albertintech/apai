@@ -10,7 +10,7 @@ In most of the country, the race that decides who represents you in Congress is 
 
 The Congressional Elections Modernization Act proposes to replace that sequence with something structurally different: Full-Field Elections. Under this framework, every qualified candidate appears on a single general-election ballot, and the full electorate weighs the entire field at once. No publicly funded primary narrows the choices beforehand. Parties still pick favorites — they endorse candidates, and those endorsements appear right on the ballot — but they no longer filter candidates off it. The voter sees everyone who qualified and makes the call.
 
-This paper explains how Full-Field Elections work and addresses the concerns a careful reader will bring. The argument is that a system where the whole electorate chooses from the whole field produces more representative outcomes than one where a fraction of voters pre-selects the options for everyone else. That outcome rests on the rest of the Act — the scoring method covered in [Percentage-Based Voting](/congress/cmf/cema/percentage-based-voting/) handles a large field without wasting votes, [Hands-Off Mapping](/congress/cmf/cema/hands-off-mapping/) draws district boundaries by formula so no one can rig them, and [House Expansion](/congress/cmf/cema/house-expansion/) supplies the seats that make multi-seat districts possible. The institutional backbone for all of it is [The Electoral Science Office](/congress/cmf/cema/the-electoral-science-office/), the national elections body the Act creates to keep the methods sound and the results verifiable.
+This paper explains how Full-Field Elections work and addresses the concerns a careful reader will bring. The argument is that a system where the whole electorate chooses from the whole field produces more representative outcomes than one where a fraction of voters pre-selects the options for everyone else. That outcome rests on the rest of the Act — the scoring method covered in [STAR Voting](/congress/cmf/cema/star-voting/) handles a large field without wasting votes, [Hands-Off Mapping](/congress/cmf/cema/hands-off-mapping/) draws district boundaries by formula so no one can rig them, and [House Expansion](/congress/cmf/cema/house-expansion/) supplies the seats that make multi-seat districts possible. The institutional backbone for all of it is [The Electoral Science Office](/congress/cmf/cema/the-electoral-science-office/), the national elections body the Act creates to keep the methods sound and the results verifiable.
 
 ---
 
@@ -46,7 +46,7 @@ Parties keep their autonomy completely. A party may still hold caucuses, convent
 
 This is where the ballot itself matters. Congressional elections under the Act appear on their own ballot sheet, physically separate from state and local contests, presenting the full field of congressional candidates as one complete set of choices. Voters see every name and every endorsement, and score each candidate rather than picking just one.
 
-**Why it works without a primary.** The traditional justification for a primary is practical: too many candidates on a single ballot is supposed to produce chaos. Under a system where you can only pick one name, that concern is real — votes scatter across a crowded field, and someone can win with a small fraction of the total while most voters opposed them. But the Act does not use pick-one voting. Under the scoring method covered in [Percentage-Based Voting](/congress/cmf/cema/percentage-based-voting/), voters score every candidate they have a view on, the count identifies the two with the broadest support, and an automatic runoff between those two ensures the winner is preferred by a majority. A candidate adored by a narrow faction but disliked by everyone else does not score high enough to advance. The method is built to draw a clear, broadly supported winner from a field of any reasonable size. The winnowing that primaries used to do, the counting method now does — without excluding anyone from the ballot first.
+**Why it works without a primary.** The traditional justification for a primary is practical: too many candidates on a single ballot is supposed to produce chaos. Under a system where you can only pick one name, that concern is real — votes scatter across a crowded field, and someone can win with a small fraction of the total while most voters opposed them. But the Act does not use pick-one voting. Under the scoring method covered in [STAR Voting](/congress/cmf/cema/star-voting/), voters score every candidate they have a view on, the count identifies the two with the broadest support, and an automatic runoff between those two ensures the winner is preferred by a majority. A candidate adored by a narrow faction but disliked by everyone else does not score high enough to advance. The method is built to draw a clear, broadly supported winner from a field of any reasonable size. The winnowing that primaries used to do, the counting method now does — without excluding anyone from the ballot first.
 
 ---
 
@@ -80,7 +80,7 @@ The Act does not bar parties from holding primaries. A party may run an internal
 
 One practical consequence is worth stating plainly. Because there is no state-funded congressional primary to lose, and no primary result that can lawfully keep a candidate off the November ballot, a candidate who sought a party's endorsement and didn't get it still reaches voters on the same general-election ballot as everyone else who qualified. The exclusion that used to follow from losing a primary — you lost, you're out — has no mechanism left to operate. The path to voters does not run through winning a preliminary round; it runs through meeting the ballot-access standards and making the case to the full electorate.
 
-And Full-Field Elections do not work alone. They do not determine how seats are filled once candidates are on the ballot — that is the work of [Percentage-Based Voting](/congress/cmf/cema/percentage-based-voting/). They do not determine how district lines are drawn — that is [Hands-Off Mapping](/congress/cmf/cema/hands-off-mapping/). They do not establish the elections body that keeps the system sound — that is [The Electoral Science Office](/congress/cmf/cema/the-electoral-science-office/). Each change covers a distinct function.
+And Full-Field Elections do not work alone. They do not determine how seats are filled once candidates are on the ballot — that is the work of [STAR Voting](/congress/cmf/cema/star-voting/). They do not determine how district lines are drawn — that is [Hands-Off Mapping](/congress/cmf/cema/hands-off-mapping/). They do not establish the elections body that keeps the system sound — that is [The Electoral Science Office](/congress/cmf/cema/the-electoral-science-office/). Each change covers a distinct function.
 
 ---
 
@@ -88,7 +88,7 @@ And Full-Field Elections do not work alone. They do not determine how seats are 
 
 The case for Full-Field Elections is not that primaries are inherently bad. Parties have legitimate reasons to signal their preferences, and they keep every tool for doing so. The case is that the state's role in funding and enforcing that process — in deciding which candidates voters get to see before the voters themselves have a say — is the structural weak point, the place where a narrow electorate makes the decisive choice for everyone else.
 
-Full-Field Elections close that gap, and the full design depends on what surrounds it: the scoring method in [Percentage-Based Voting](/congress/cmf/cema/percentage-based-voting/) that handles a large field without wasting votes, the formula-drawn boundaries of [Hands-Off Mapping](/congress/cmf/cema/hands-off-mapping/) that no one can manipulate, the seats [House Expansion](/congress/cmf/cema/house-expansion/) adds to make fair multi-seat districts possible, and [The Electoral Science Office](/congress/cmf/cema/the-electoral-science-office/) that keeps the methods sound and the results open to check. Together they make a single claim true by design rather than by hope: the election that decides who represents you should be decided by everyone who votes in it, not by the smaller group that voted before it.
+Full-Field Elections close that gap, and the full design depends on what surrounds it: the scoring method in [STAR Voting](/congress/cmf/cema/star-voting/) that handles a large field without wasting votes, the formula-drawn boundaries of [Hands-Off Mapping](/congress/cmf/cema/hands-off-mapping/) that no one can manipulate, the seats [House Expansion](/congress/cmf/cema/house-expansion/) adds to make fair multi-seat districts possible, and [The Electoral Science Office](/congress/cmf/cema/the-electoral-science-office/) that keeps the methods sound and the results open to check. Together they make a single claim true by design rather than by hope: the election that decides who represents you should be decided by everyone who votes in it, not by the smaller group that voted before it.
 
 The whole field. The whole electorate. One ballot. The voters decide.
 
@@ -98,7 +98,7 @@ The whole field. The whole electorate. One ballot. The voters decide.
 
 - [Hands-Off Mapping](/congress/cmf/cema/hands-off-mapping/)
 - [House Expansion](/congress/cmf/cema/house-expansion/)
-- [Percentage-Based Voting](/congress/cmf/cema/percentage-based-voting/)
+- [STAR Voting](/congress/cmf/cema/star-voting/)
 - [The Electoral Science Office](/congress/cmf/cema/the-electoral-science-office/)
 
 ---
@@ -113,16 +113,23 @@ FairVote. "Dubious Democracy 2024." 2025. https://fairvote.org/report/dubious-de
 
 
 <!--
+Series Alignment: The Congressional Elections Modernization Act (Rev 6.2)
+
 ## Revision History
 
-**Revision 6.2-a**
+**Revision 1.0** (Current)
+- Series baseline established under the new CEMA Primer Series filename convention: `CEMA-primer-[series]-[rev]-[title]-[letter].md`. File renamed from `CEMA-6-2-primer-full-field-elections-a.md` to `CEMA-primer-1-0-full-field-elections.md`; the legislative-source tag is removed from the filename and now carried by the Series Alignment line above. Doc-level letter dropped as part of a series-wide alignment sweep
+- STAR Voting title cascade applied: all in-text cross-references and the footer primer index entry changed from "Percentage-Based Voting" to "STAR Voting," and affected footer/in-text URL paths from `/congress/cmf/cema/percentage-based-voting/` to `/congress/cmf/cema/star-voting/`. Lowercase "percentage-based voting" concept usage in running prose left intact per the originating work order
+- Prior revision history renumbered into the pre-1.0 (0.x) band; entry prose preserved verbatim
+
+**Revision 0.9**
 - Works Cited reconciliation pass (Coordination Hub work order): replaced the seed Act-only list with reconciled external entries tied to surviving claims. All three external figures held against named sources — no reverberations fired.
 - Primary turnout "around a fifth (~20%)" verified against Bipartisan Policy Center 2022 primary-turnout reporting (21.3% of eligible voters in 2022).
 - ">90% of House races decided before November" verified against FairVote (2024: 84% decided by 10+ points or uncontested; competitiveness analysis) and Cook Political Report ratings.
 - "~18 of 435 toss-ups, heading into 2026" — the set's most fragile, year-pinned claim — verified against the Cook Political Report 2026 House ratings (18 toss-up seats). Kept as written; no rewording of the Problem-section opening required.
 - Internal references (legislative text §§203, 204, 404; STAR mechanics cross-referenced to the Percentage-Based Voting primer) cited in prose by name only.
 
-**Revision 6.2** (Current)
+**Revision 0.8**
 - Initial production of *Full-Field Elections* CEMA Primer Series article
 - Built as a hybrid from parallel Opus and Sonnet drafts per the Coordination Hub work order; Opus problem/gate framing and close merged with Sonnet two-prohibition phrasing, concern answers, and sore-loser beat
 - Hub spine applied: pre-filtered-field problem; adjust-the-gate-vs-remove-the-gate (affirmative, no named rivals); one-standard-two-rules proposal core with the money/legal-effect distinction held explicit; three-concern section (ballot size, party nominee, fringe candidates); scope-and-limits; synthesis conclusion
