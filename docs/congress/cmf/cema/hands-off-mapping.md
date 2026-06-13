@@ -50,7 +50,7 @@ The case for Hands-Off Mapping is not a case for formulas on their own -- and no
 
 House Expansion matters because the current House has 435 members for roughly 330 million people -- a ratio frozen since 1929. The Act expands the House to approximately 720 seats. A larger House creates enough seats to build multi-seat districts with real depth -- five, six, or seven representatives per district instead of one. The more seats a district elects, the smaller the share of the vote a cohesive group needs to win one of them. At five seats, a group needs roughly twenty percent. At seven, roughly fourteen percent.
 
-[Percentage-based voting](/congress/cmf/cema/percentage-based-voting/) ensures that seats in those larger districts are allocated to match how people actually voted. A community making up twenty percent of a five-seat district elects roughly one representative -- not because a mapmaker drew them a favorable district, but because the voting math distributes seats in proportion to voter support. Competitive races are built in. Fair representation for every cohesive group follows from the arithmetic rather than depending on a mapmaker's good intentions. But someone still has to draw the district boundaries -- and under human-drawn maps, that step remains an opening for manipulation.
+[STAR Voting](/congress/cmf/cema/star-voting/) ensures that seats in those larger districts are allocated to match how people actually voted. A community making up twenty percent of a five-seat district elects roughly one representative -- not because a mapmaker drew them a favorable district, but because the voting math distributes seats in proportion to voter support. Competitive races are built in. Fair representation for every cohesive group follows from the arithmetic rather than depending on a mapmaker's good intentions. But someone still has to draw the district boundaries -- and under human-drawn maps, that step remains an opening for manipulation.
 
 Hands-Off Mapping closes that opening. The formula has no political preferences and no adjustable settings. It cannot be lobbied or negotiated with. And because percentage-based voting makes boundary placement irrelevant to representational outcomes, the formula's inability to see communities is not a flaw to work around -- it is what guarantees that no one can embed preferences into the process.
 
@@ -106,7 +106,7 @@ The same machinery the Act builds for congressional map-drawing -- the certified
 
 The case for Hands-Off Mapping is not that formulas are perfect mapmakers. It is that human judgment in map-drawing is the vulnerability -- the opening that enables manipulation, guarantees litigation, and systematically destroys electoral competition.
 
-Hands-Off Mapping closes that opening. But the full case depends on what surrounds it -- the House Expansion that creates districts large enough for fair representation, and the [Percentage-Based Voting](/congress/cmf/cema/percentage-based-voting/) that delivers it at the ballot box. The other papers in this series address what this one does not: the Electoral Science Office that provides the institutional backbone the formula requires, and [Full-Field Elections](/congress/cmf/cema/full-field-elections/), which ensures that the widest possible field of candidates reaches every voter -- so that the open map and the open ballot arrive together.
+Hands-Off Mapping closes that opening. But the full case depends on what surrounds it -- the House Expansion that creates districts large enough for fair representation, and the [STAR Voting](/congress/cmf/cema/star-voting/) that delivers it at the ballot box. The other papers in this series address what this one does not: the Electoral Science Office that provides the institutional backbone the formula requires, and [Full-Field Elections](/congress/cmf/cema/full-field-elections/), which ensures that the widest possible field of candidates reaches every voter -- so that the open map and the open ballot arrive together.
 
 No human touches a boundary. No judgment call invites a lawsuit. No line drawn in a back room determines who wins before anyone votes.
 
@@ -116,7 +116,7 @@ No human touches a boundary. No judgment call invites a lawsuit. No line drawn i
 
 - [Full-Field Elections](/congress/cmf/cema/full-field-elections/)
 - [House Expansion](/congress/cmf/cema/house-expansion/)
-- [Percentage-Based Voting](/congress/cmf/cema/percentage-based-voting/)
+- [STAR Voting](/congress/cmf/cema/star-voting/)
 - [The Electoral Science Office](/congress/cmf/cema/the-electoral-science-office/)
 
 ---
@@ -149,29 +149,36 @@ Najt, Elle (Lorenzo), Daryl DeFord, and Justin Solomon. 2019. "Complexity and Ge
 
 
 <!--
+Series Alignment: The Congressional Elections Modernization Act (Rev 6.2)
+
 ## Revision History
 
-**Revision 6.2c** (Current)
+**Revision 1.0** (Current)
+- Series baseline established under the new CEMA Primer Series filename convention: `CEMA-primer-[series]-[rev]-[title]-[letter].md`. File renamed from `CEMA-6-2-primer-hands-off-mapping-c.md` to `CEMA-primer-1-0-hands-off-mapping.md`; the legislative-source tag is removed from the filename and now carried by the Series Alignment line above. Doc-level letter dropped as part of a series-wide alignment sweep
+- STAR Voting title cascade applied: the in-text cross-reference (originally lowercase "Percentage-based voting" link label), the conclusion cross-reference, and the footer primer index entry changed to "STAR Voting," and the affected URL paths from `/congress/cmf/cema/percentage-based-voting/` to `/congress/cmf/cema/star-voting/`. Lowercase "percentage-based voting" concept usage in running prose left intact per the originating work order
+- Prior revision history renumbered into the pre-1.0 (0.x) band; entry prose preserved verbatim
+
+**Revision 0.9**
 - Conformed the header to CEMA Primer Series Template Revision 1.3: replaced the `## CEMA Primer Series` subtitle with the DPS relational subtitle `## A Primer Series Article of the Congressional Elections Modernization Act (CEMA)`; removed the series framing block and the top navigation table. Header now runs title -> relational subtitle -> byline -> rule -> body
 - Added the footer primer index per Template Section 2.5: plain bulleted, hyperlinked (empty placeholders), alphabetical by literal first word, self omitted; placed after Works Cited, before the closing rule that precedes the revision-history comment block
 - Letter bump (6-2b -> 6-2c) per DPS 1.1 rule 2: substantive internal revision at the 6.2 alignment baseline; series number unchanged, prior 6.2b entry demoted
 - Header/footer only; no body content edited
 
-**Revision 6.2b**
+**Revision 0.8**
 - Softened the litigation-cost statement: removed the per-state dollar figures (NC $5.6M, WI ~$3.5M, PA ~$3M), which mixed 2010-cycle and 2020-cycle figures under a single "2020 cycle" frame, and replaced them with a general statement that states spend millions per cycle drawing and defending maps; retained the 225-lawsuits/30-states figure (supported by Levitt and Brennan Center 2025)
 - Reworded the toss-up timing from "In early 2026" to "Heading into 2026" to match what the rating source supports; retained "about eighteen... roughly 4 percent of the chamber"
 - Added two Works Cited entries: Cook Political Report ("2026 House Race Ratings") supporting the toss-up figure, and *Louisiana v. Callais*, 608 U.S. ___ (2026) supporting the narrowed-vote-dilution-protection claim; the *Callais* body sentence names no case in-prose and was left unchanged
 - Gerrymander etymology left unsourced (established fact)
 - Letter bump (6-2a -> 6-2b) per DPS 1.1 rule 2: substantive internal revision at the 6.2 alignment baseline; series number unchanged, prior 6.2a entry demoted
 
-**Revision 6.2a**
+**Revision 0.7**
 - Added a Works Cited section (10 entries) reconciled to the claims the condensed primer actually makes, placed after the Conclusion and before the Revision History per DPS 1.8 and CEMA Primer Series Template Section 2.3
 - Carried over only the long-form original's sources whose supported claims survive in the primer: the 225-lawsuits/30-states litigation figure (Levitt; Brennan Center 2025); the 52-years competitive-district claim (Brennan Center 2022); automated-mapping feasibility (Levin and Friedler 2019); the computational-complexity ceiling (Altman 1997; Najt, DeFord, and Solomon 2019); the community-of-interest definitional problem (Levitt; Brennan Center 2010; Makse 2012; Chen et al. 2022); and the formula-tunability concern (Levin 2023)
 - Entries alphabetized by surname, DPS 1.8 modified Chicago Author-Date format, copied verbatim from the long-form original's Works Cited
 - Letter bump (6-2 -> 6-2a) per DPS 1.1 rule 2: substantive internal revision on a supporting document already aligned at the 6.2 baseline; series number unchanged, prior 6.2 entry demoted
 - Works-Cited-only revision; no primer body content edited
 
-**Revision 6.2**
+**Revision 0.6**
 - Aligned to CEMA legislative text Revision 6.2; established primer production filename `CEMA-6-2-primer-hands-off-mapping.md`
 - Brought header, series framing block, footer, and revision-history format into compliance with APAI DPS 3.8 and CEMA Primer Series Template
 - Series description aligned to canonical Series Template wording ("draws congressional district lines without human intervention"; "any one component")
@@ -180,7 +187,7 @@ Najt, Elle (Lorenzo), Daryl DeFord, and Justin Solomon. 2019. "Complexity and Ge
 - Content: removed unintroduced "independent commission" referent from the formula-replacement bar; rerouted through the Electoral Science Office
 - Converted non-ASCII arrow glyphs in prior revision entries to ASCII-safe form per DPS 1.5
 
-**Revision 2.0**
+**Revision 0.5**
 - Item 1: "over another" -> "over others" in Gerrymandering aside
 - Item 2: Removed self-referential "this paper" framing throughout; CEMA/the Act as agent
 - Item 3: "the old winner-take-all system" -> "a winner-take-all system"
@@ -198,7 +205,7 @@ Najt, Elle (Lorenzo), Daryl DeFord, and Justin Solomon. 2019. "Complexity and Ge
 - Item 16: Reworked Full-Field Elections closing sentence around competition and choice
 - Item 17: Replaced rulebook closing line with direct three-sentence close
 
-**Revision 1.0**
+**Revision 0.4**
 - Condensed from prior long-form draft to target ~2,500 words per APAI Primer Style Guide Section 1.4
 -->
 
