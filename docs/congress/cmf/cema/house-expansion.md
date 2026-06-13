@@ -46,9 +46,9 @@ One feature of the design matters more than any other for understanding what exp
 
 It would be easy to read House Expansion as a quality-of-life improvement — smaller districts, more accessible representatives, lighter caseloads — and stop there. Those benefits are real. But the size of the House does something more fundamental within CEMA's design: it sets how open the entire system can be.
 
-Here is the mechanism, in plain terms. CEMA pairs expansion with [Percentage-Based Voting](/congress/cmf/cema/percentage-based-voting/), under which most representatives are elected from larger, multi-seat districts rather than one-winner districts. In a multi-seat district, the share of support a group needs to win one of the seats depends on how many seats the district has. A three-seat district takes roughly a third of the vote to win one seat; a five-seat district, roughly a fifth; a seven-seat district, roughly a seventh. More total seats in the House means more seats per district, and more seats per district means a smaller slice of support is enough to win one. The size of the House, in other words, is the dial that sets how low the bar to win representation can fall.
+Here is the mechanism, in plain terms. CEMA pairs expansion with [STAR Voting](/congress/cmf/cema/star-voting/), under which most representatives are elected from larger, multi-seat districts rather than one-winner districts. In a multi-seat district, the share of support a group needs to win one of the seats depends on how many seats the district has. A three-seat district takes roughly a third of the vote to win one seat; a five-seat district, roughly a fifth; a seven-seat district, roughly a seventh. More total seats in the House means more seats per district, and more seats per district means a smaller slice of support is enough to win one. The size of the House, in other words, is the dial that sets how low the bar to win representation can fall.
 
-That makes expansion the lever behind the whole structure. Suppose someone looks at CEMA and worries that the threshold to earn a seat is still too high for smaller groups to clear. The remedy is not to tinker with the voting method or redraw any lines. The remedy is a bigger House. Grow the chamber, and every threshold in the system comes down automatically, because the arithmetic of seats-per-district does the work. The threshold mechanics themselves belong to [Percentage-Based Voting](/congress/cmf/cema/percentage-based-voting/); what House Expansion contributes is the realization that the size of the chamber is what governs all of them. Expand the House and you open the system; hold it small and you keep it closed.
+That makes expansion the lever behind the whole structure. Suppose someone looks at CEMA and worries that the threshold to earn a seat is still too high for smaller groups to clear. The remedy is not to tinker with the voting method or redraw any lines. The remedy is a bigger House. Grow the chamber, and every threshold in the system comes down automatically, because the arithmetic of seats-per-district does the work. The threshold mechanics themselves belong to [STAR Voting](/congress/cmf/cema/star-voting/); what House Expansion contributes is the realization that the size of the chamber is what governs all of them. Expand the House and you open the system; hold it small and you keep it closed.
 
 This is what lifts House Expansion from administrative housekeeping to something central to the design. It is not just that a larger House represents people more closely. It is that the size of the House is the single setting that determines how openable American representation can be.
 
@@ -84,7 +84,7 @@ House Expansion changes the size of one chamber and nothing else. It grows the H
 
 For nearly a hundred years, the House has been the same size while the country tripled around it. The result is a chamber whose members each answer to twenty-five times as many people as the design intended — a relationship that has become bureaucratic because the math left it no other way to be. House Expansion fixes the number at its root, replacing a figure frozen by political accident with a chamber that grows on a fixed rule as the country grows.
 
-And it does more than restore closeness. The size of the House is the lever that sets how open American representation can be — the dial that, paired with [Percentage-Based Voting](/congress/cmf/cema/percentage-based-voting/), determines how small a group can be and still earn a seat. That is why this change is central rather than cosmetic. House Expansion works alongside the Act's other changes — [Percentage-Based Voting](/congress/cmf/cema/percentage-based-voting/), [Hands-Off Mapping](/congress/cmf/cema/hands-off-mapping/), and [Full-Field Elections](/congress/cmf/cema/full-field-elections/) — each supported by [The Electoral Science Office](/congress/cmf/cema/the-electoral-science-office/), to deliver a Congress sized to the nation it serves.
+And it does more than restore closeness. The size of the House is the lever that sets how open American representation can be — the dial that, paired with [STAR Voting](/congress/cmf/cema/star-voting/), determines how small a group can be and still earn a seat. That is why this change is central rather than cosmetic. House Expansion works alongside the Act's other changes — [STAR Voting](/congress/cmf/cema/star-voting/), [Hands-Off Mapping](/congress/cmf/cema/hands-off-mapping/), and [Full-Field Elections](/congress/cmf/cema/full-field-elections/) — each supported by [The Electoral Science Office](/congress/cmf/cema/the-electoral-science-office/), to deliver a Congress sized to the nation it serves.
 
 A House that grows with the country, on a rule rather than a frozen accident. That is the whole of it — and it is enough.
 
@@ -94,7 +94,7 @@ A House that grows with the country, on a rule rather than a frozen accident. Th
 
 - [Full-Field Elections](/congress/cmf/cema/full-field-elections/)
 - [Hands-Off Mapping](/congress/cmf/cema/hands-off-mapping/)
-- [Percentage-Based Voting](/congress/cmf/cema/percentage-based-voting/)
+- [STAR Voting](/congress/cmf/cema/star-voting/)
 - [The Electoral Science Office](/congress/cmf/cema/the-electoral-science-office/)
 
 ---
@@ -115,12 +115,19 @@ The *Congressional Elections Modernization Act* (Rev 6.2) is an internal APAI do
 
 
 <!--
+Series Alignment: The Congressional Elections Modernization Act (Rev 6.2)
+
 ## Revision History
 
-**Revision 6.2-a**
+**Revision 1.0** (Current)
+- Series baseline established under the new CEMA Primer Series filename convention: `CEMA-primer-[series]-[rev]-[title]-[letter].md`. File renamed from `CEMA-6-2-primer-house-expansion-a.md` to `CEMA-primer-1-0-house-expansion.md`; the legislative-source tag is removed from the filename and now carried by the Series Alignment line above. Doc-level letter dropped as part of a series-wide alignment sweep
+- STAR Voting title cascade applied: all in-text cross-references and the footer primer index entry changed from "Percentage-Based Voting" to "STAR Voting," and affected footer/in-text URL paths from `/congress/cmf/cema/percentage-based-voting/` to `/congress/cmf/cema/star-voting/`. Lowercase "percentage-based voting" concept usage in running prose left intact per the originating work order
+- Prior revision history renumbered into the pre-1.0 (0.x) band; entry prose preserved verbatim
+
+**Revision 0.9**
 - Works Cited reconciliation pass (Coordination Hub work order): replaced the seed Act-only list with reconciled external entries tied to surviving claims — Permanent Apportionment Act of 1929, U.S. Census (population and 2020 apportionment), U.S. Constitution Art. I §2, Taagepera (1972), and Census historical apportionment record. No body claims adjusted: every empirical figure traces to a citable external root or to APAI Huntington-Hill analysis on cited Census data. The Act and the APAI apportionment analysis are referenced in prose by name only, not in Works Cited. No reverberations.
 
-**Revision 6.2** (Current)
+**Revision 0.8**
 - Initial production of *House Expansion* CEMA Primer Series article — completes the five-article primer series
 - Built as a hybrid from parallel Opus and Sonnet drafts per the Coordination Hub work order; Opus-dominant (opening, rule-not-number, lever, both concerns, scope, conclusion) with three Sonnet borrowings: the "1929 freeze was the exception, not the rule" historical beat, the three/five/seven-seat threshold ladder, and the "one or two seats is one or two winners; no remainder to allocate" line
 - Post-merge: spliced one verified figure from a third (Fable) draft run — the ~39% constituent-load reduction (population per representative falling from ~760,000 to ~465,000 at the 720-seat target), confirmed against the apportionment/osmosis reference table; stated as population-per-representative (not district population) for accuracy. Fable's operational specifics (advance-publication windows) and its conclusion conceit were not adopted
