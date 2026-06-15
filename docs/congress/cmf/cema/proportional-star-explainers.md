@@ -1,12 +1,12 @@
-# STAR Proportional Representation Explainers
+# Proportional STAR Explainers
 
-## Based on Rev 1.0 of the Congressional Elections Modernization Act
+## Based on Rev 6.2 of the Congressional Elections Modernization Act
 
 ---
 
-## STAR-PR: The Basics
+## Proportional STAR: The Basics
 
-A plain-language walkthrough of how proportional STAR voting works in multi-member districts.
+A plain-language walkthrough of how Proportional STAR voting works in multi-member districts.
 
 <iframe
   src="/assets/visualizations/proportional-star-the-basics.html"
@@ -18,9 +18,9 @@ A plain-language walkthrough of how proportional STAR voting works in multi-memb
 
 ---
 
-## STAR-PR: The Details
+## Proportional STAR: The Details
 
-A deeper look at the math and seat-allocation mechanics behind proportional STAR.
+A deeper look at the math and seat-allocation mechanics behind Proportional STAR.
 
 <iframe
   src="/assets/visualizations/proportional-star-the-details.html"
@@ -32,4 +32,4 @@ A deeper look at the math and seat-allocation mechanics behind proportional STAR
 
 ---
 
-*Congressional Elections Modernization Act · Primer Series · 2026*
+*© 2026 Albert Ramos | American Policy Architecture Institute*
