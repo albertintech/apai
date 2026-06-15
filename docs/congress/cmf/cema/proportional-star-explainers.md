@@ -1,6 +1,6 @@
 # Proportional STAR Explainers
 
-## Based on Rev 6.2 of the Congressional Elections Modernization Act
+## A Set of Congressional Elections Modernization Act Primer Series Explainers
 
 ---
 
@@ -29,6 +29,12 @@ A deeper look at the math and seat-allocation mechanics behind Proportional STAR
   frameborder="0"
   style="border: 1px solid #333; border-radius: 4px;">
 </iframe>
+
+---
+
+> 📥 [Download "The Basics" explainer](https://github.com/albertintech/apai/blob/main/docs/assets/visualizations/proportional-star-the-basics.html) (opens on GitHub -- click the ⬇ download button)
+
+> 📥 [Download "The Details" explainer](https://github.com/albertintech/apai/blob/main/docs/assets/visualizations/proportional-star-the-details.html) (opens on GitHub -- click the ⬇ download button)
 
 ---
 
