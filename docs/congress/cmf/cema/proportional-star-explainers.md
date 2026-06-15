@@ -1,6 +1,6 @@
-# Proportional STAR Explainers
+# Proportional STAR - How Does It Work?
 
-## A Set of Congressional Elections Modernization Act Primer Series Explainers
+## Two Primer Series Explainers for the Congressional Elections Modernization Act (CEMA)
 
 ---
 
