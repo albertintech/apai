@@ -40,16 +40,6 @@ nav:
                       - Overview: congress/cmf/cema/overview.md
                       - Legislative Text: congress/cmf/cema/legislative-text.md
                       - Policy Rationale: congress/cmf/cema/policy-rationale.md
-                      - Reference Materials:
-                            - What Changes For Voters: congress/cmf/cema/what-changes-for-voters.md
-                            - Sample Ballot (Multi-Member District): congress/cmf/cema/sample-mmd-ballot.md
-                            - Sample Ballot (Single-Member District): congress/cmf/cema/sample-smd-ballot.md
-                            - House Member Guide: congress/cmf/cema/house-member-guide.md
-                            - Voting Methods Explainer: congress/cmf/cema/voting-methods-technical-explainer.md
-                            - Constitutional Authority Memorandum: congress/cmf/cema/constitutional-authority-technical-memorandum.md
-                            - Constitutional Boundaries of PR: congress/cmf/cema/constitutional-boundaries-of-proportional-representation.md
-                            - Design Response Memorandum: congress/cmf/cema/design-response-memorandum.md
-                            - What About Presidential Elections: congress/cmf/cema/what-about-presidential-elections.md
                       - Primer Series:
                             - Start Here: congress/cmf/cema/start-here.md
                             - House Expansion: congress/cmf/cema/house-expansion.md
@@ -57,14 +47,21 @@ nav:
                             - Hands-Off Mapping: congress/cmf/cema/hands-off-mapping.md
                             - Full-Field Elections: congress/cmf/cema/full-field-elections.md
                             - The Electoral Science Office: congress/cmf/cema/the-electoral-science-office.md
-                            - Proportional STAR - How Does It Work?: congress/cmf/cema/proportional-star-how-does-it-work.md
                       - Making the Case:
                             - The Case for an Electoral Science Office: congress/cmf/cema/the-case-for-an-electoral-science-office.md
                             - The Case for Blind Districting: congress/cmf/cema/the-case-for-blind-districting.md
                             - The Case for STAR and Proportional STAR: congress/cmf/cema/the-case-for-star-and-proportional-star.md
                       - Building On:
                             - Building On Fusion Voting: congress/cmf/cema/building-on-fusion-voting.md
-                            - Building On Ranked Choice Voting: congress/cmf/cema/building-on-ranked-choice-voting.md   
+                            - Building On Ranked Choice Voting: congress/cmf/cema/building-on-ranked-choice-voting.md
+                      - STAR Voting:
+                            - Single-Winner STAR Voting - How Does It Work?: congress/cmf/cema/in-development.md
+                            - Sample Ballot (Single-Member District): congress/cmf/cema/sample-smd-ballot.md
+                            - Proportional STAR Voting - How Does It Work?: congress/cmf/cema/proportional-star-how-does-it-work.md
+                            - Sample Ballot (Multi-Member District): congress/cmf/cema/sample-mmd-ballot.md
+                      - Constitutionality:
+                            - Constitutional Authority Memorandum: congress/cmf/cema/constitutional-authority-technical-memorandum.md
+                            - Constitutional Boundaries of PR: congress/cmf/cema/constitutional-boundaries-of-proportional-representation.md
                 - Office of Congressional Procedure Act:
                       - Introduction: congress/cmf/ocp/introduction.md
                       - Overview: congress/cmf/ocp/overview.md
