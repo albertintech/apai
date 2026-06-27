@@ -115,3 +115,51 @@
     padding-left: 0.6rem;
 }
 */
+
+/* ==========================================================================
+   Voting-method engine diagrams (Ballot -> Counting rule)
+   Single source of truth for the inline SVG diagrams embedded in the
+   voting-methods pages. Both the RCV/IRV and STAR engine SVGs read these
+   variables; the hex values inlined in each SVG are fallbacks only.
+   ========================================================================== */
+
+/* Light scheme (Material "default") */
+:root,
+[data-md-color-scheme="default"] {
+  --diagram-container-bg:     #F1EFE8;
+  --diagram-container-border: #5F5E5A;
+
+  --diagram-ballot-bg:        #E6F1FB;
+  --diagram-ballot-border:    #185FA5;
+  --diagram-ballot-text:      #185FA5;
+
+  --diagram-count-bg:         #E1F5EE;
+  --diagram-count-border:     #0F6E56;
+  --diagram-count-text:       #0F6E56;
+
+  --diagram-label-muted:      #5F5E5A;
+  --diagram-label-strong:     #2C2C2A;
+
+  --diagram-arrow:            #888780;
+}
+
+/* Dark scheme (Material "slate", ~#1e2129 surfaces).
+   Tints darkened, borders and text lightened for contrast.
+   Ballot stays in the cool/blue family; counting rule stays green. */
+[data-md-color-scheme="slate"] {
+  --diagram-container-bg:     #21242b;
+  --diagram-container-border: #6b6f78;
+
+  --diagram-ballot-bg:        #182733;
+  --diagram-ballot-border:    #5fa8e0;
+  --diagram-ballot-text:      #9cc9ee;
+
+  --diagram-count-bg:         #16302a;
+  --diagram-count-border:     #4cae8e;
+  --diagram-count-text:       #7fd3b6;
+
+  --diagram-label-muted:      #a8acb4;
+  --diagram-label-strong:     #e6e8ec;
+
+  --diagram-arrow:            #9aa0a8;
+}
