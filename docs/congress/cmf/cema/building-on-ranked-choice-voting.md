@@ -24,7 +24,7 @@ Since the vote-splitting problem is well known, there are mitigations available 
 
 The following figure sums up how plurality voting works:
 
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 680 652" role="img">
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="652" style="width:100%;height:auto;max-width:680px" viewBox="0 0 680 652" role="img">
 <title>Plurality voting in practice, with its tradeoffs and mitigations</title>
 <desc>A voter at the top marks the ballot and feeds into the engine, a container labeled "Single-winner voting method: Plurality voting (choose-one)" holding the ballot above the counting rule. The ballot lets the voter choose one candidate; the counting rule gives the win to the candidate with the most votes, majority or not. Below the engine, a box names the single winner: holds the most votes, not always more than half. To the right, a Tradeoffs box lists positives (simple to use, simple to administer, decisive in one round) and negatives (can elect a winner without majority support, splits similar candidates, rewards strategic voting, rewards base mobilization over broad appeal). Below it, a Mitigations box lists runoff elections, party primaries, candidate coordination or withdrawal, strategic voting, and viability signaling, noting none are guaranteed to fully remove vote-splitting.</desc>
 <defs>
@@ -100,13 +100,13 @@ How does Ranked Choice Voting work, exactly?
 
 ## How Ranked Choice Voting Works
 
-To see how Ranked Choice Voting (RCV) achieves its desirable qualities such as eliminating spoilers and vote-splitting, it helps to look at RCV as a machine with separable parts. Every voting method has two main components to do two distinct jobs: a way to collect voter preferences as information and a way to process that information to produce a winner.
+To see how Ranked Choice Voting (RCV) achieves its desireable qualities such as eliminating spoilers and vote-splitting, it helps to look at RCV as a machine with separable parts. Every voting method has two main components to do two distinct jobs: a way to collect voter preferences as information and a way to process that information to produce a winner.
 
 The first component is the **ballot** — the input. It is the format the voter fills out, and it determines what information the method collects. The second part is the **counting rule** — the procedure that takes a stack of those ballots and produces a winner. The ballot is what the voter hands over; the counting rule is what the method does with it. The same kind of ballot can, in principle, be handed to different counting rules, which is exactly the possibility this paper will reach for later.
 
 Ranked choice voting pairs a ranked ballot with a specific counting rule called **instant-runoff voting (IRV)** — the algorithm most people mean when they say "ranked choice." Here are its two parts:
 
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 680 400" role="img">
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="400" style="width:100%;height:auto;max-width:680px" viewBox="0 0 680 400" role="img">
 <title>Ranked choice voting, a single-winner method</title>
 <desc>A container labeled "Single-winner voting method: Ranked choice voting (IRV)" holds a Ballot box (each candidate ranked from most to least preferred; captures order, not strength) and a Counting rule box (count everyone's first choice; if no one has more than half, drop the last-place candidate and move those ballots to their next choice still in the race; repeat until someone passes half), connected by a dashed arrow.</desc>
 <defs>
@@ -183,7 +183,7 @@ Recall that a voting method has two separable parts, the ballot and the counting
 
 Begin with the simplest version, score voting, also called range voting:
 
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 680 372" role="img">
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="372" style="width:100%;height:auto;max-width:680px" viewBox="0 0 680 372" role="img">
 <title>Score voting, a single-winner method</title>
 <desc>A container labeled "Single-winner voting method: Score voting (Range voting)" holds a Ballot box (each candidate given a score on a fixed scale; captures strength, not just order) and a Counting rule box (add up each candidate's scores across all ballots; the highest total wins), connected by a dashed arrow.</desc>
 <defs>
@@ -248,7 +248,7 @@ That single change to the counting rule blunts the strategic incentives at their
 
 This is scoring with a built-in runoff, and it has a name: **STAR — Score Then Automatic Runoff.**
 
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 680 372" role="img">
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="372" style="width:100%;height:auto;max-width:680px" viewBox="0 0 680 372" role="img">
 <title>STAR voting, a single-winner method</title>
 <desc>A container labeled "Single-winner voting method: STAR voting" holds a Ballot box (each candidate given a score on a fixed scale; captures strength, not just order) and a Counting rule box (add up scores to find the two highest candidates; then on every ballot count each for whichever of those two it scored higher; the one ahead on more ballots wins), connected by a dashed arrow.</desc>
 <defs>
