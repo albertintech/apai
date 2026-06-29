@@ -25,7 +25,7 @@ Since the vote-splitting problem is well known, there are mitigations available 
 The following figure sums up how plurality voting works:
 
 <iframe
-  src="/assets/visualizations/plurality-voting-engine.html"
+  src="/assets/visualizations/plurality-voting.html"
   width="100%"
   height="720"
   frameborder="0"
@@ -57,7 +57,7 @@ The first component is the **ballot** — the input. It is the format the voter 
 Ranked choice voting pairs a ranked ballot with a specific counting rule called **instant-runoff voting (IRV)** — the algorithm most people mean when they say "ranked choice." Here are its two parts:
 
 <iframe
-  src="/assets/visualizations/rcv-engine.html"
+  src="/assets/visualizations/rc-voting.html"
   width="100%"
   height="468"
   frameborder="0"
@@ -65,6 +65,14 @@ Ranked choice voting pairs a ranked ballot with a specific counting rule called 
 </iframe>
 
 The counting rule is the part to watch. It works by **sequential elimination**: count first choices, drop the last-place candidate, transfer that candidate's ballots to each voter's next surviving choice, and repeat until someone holds more than half. This is the engine running. And running this way produces three consequences worth understanding before choosing it.
+
+<iframe
+  src="/assets/visualizations/irv-flowchart.html"
+  width="100%"
+  height="1000"
+  frameborder="0"
+  style="border: 1px solid #333; border-radius: 4px;">
+</iframe>
 
 ## Tradeoffs of Using Sequential Elimination
 
@@ -109,7 +117,7 @@ Recall that a voting method has two separable parts, the ballot and the counting
 Begin with the simplest version, score voting, also called range voting:
 
 <iframe
-  src="/assets/visualizations/score-engine.html"
+  src="/assets/visualizations/score-voting.html"
   width="100%"
   height="440"
   frameborder="0"
@@ -153,7 +161,7 @@ That single change to the counting rule blunts the strategic incentives at their
 This is scoring with a built-in runoff, and it has a name: **STAR — Score Then Automatic Runoff.**
 
 <iframe
-  src="/assets/visualizations/star-engine.html"
+  src="/assets/visualizations/star-voting.html"
   width="100%"
   height="440"
   frameborder="0"
