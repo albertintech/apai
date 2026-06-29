@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Instant-Runoff Voting — Single-Winner Count with Ballot Exhaustion · CEMA</title>
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0;}
+
+:root {
+  --start-bg:        #262a33;
+  --start-border:    #8b8a84;
+  --start-text:      #e6e5e0;
+  --count-bg:        #13293f;
+  --count-border:    #5b9bd5;
+  --count-title:     #b9d6f2;
+  --count-text:      #9cc4ec;
+  --decision-bg:     #352818;
+  --decision-border: #c98f3f;
+  --decision-text:   #edcd97;
+  --action-bg:       #3a201a;
+  --action-border:   #e07a52;
+  --action-title:    #f0a585;
+  --action-text:     #f0a585;
+  --exhaust-bg:      #2b2a26;
+  --exhaust-border:  #8b8a84;
+  --exhaust-title:   #cfcdc6;
+  --exhaust-text:    #9b9a93;
+  --winner-bg:       #0e2c25;
+  --winner-border:   #3fa185;
+  --winner-text:     #96dcc6;
+  --node-bg:         #262a33;
+  --node-border:     #8b8a84;
+  --node-text:       #cfcdc6;
+  --label-muted:     #9b9a93;
+  --arrow:           #8b8a84;
+  --page-bg:         #1e2129;
+  --sans:            system-ui, -apple-system, sans-serif;
+}
+
+body {
+  font-family: var(--sans);
+  background: var(--page-bg);
+  padding: 24px 16px;
+  display: flex;
+  justify-content: center;
+}
+
+.viz {
+  width: 100%;
+  max-width: 680px;
+}
+
+svg { width: 100%; height: auto; display: block; }
+svg text { font-family: var(--sans); }
+</style>
+</head>
+<body>
+<div class="viz">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 1000" role="img">
+<title>Single-winner instant-runoff voting with ballot exhaustion</title>
+<desc>A flowchart of the instant-runoff count. Starting from Start, the count tallies each ballot's top remaining pick. A diamond asks whether a candidate holds a majority of active ballots: if yes, the path runs down the right side to the Winner. If no, the last-place candidate (fewest votes this round) is eliminated and their ballots move to each voter's next choice. A second diamond asks whether a ballot has a next choice left: if no, the ballot is set aside as exhausted, no longer active, which shrinks the pile; if yes, it stays active. Either way the round completes, and the count returns to the top to recount first choices among the remaining candidates. The loop repeats until a candidate holds a majority.</desc>
+<defs>
+<marker id="arrow-irv" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker>
+</defs>
+
+<rect x="240" y="30" width="160" height="44" rx="8" fill="var(--start-bg)" stroke="var(--start-border)" stroke-width="0.5"/>
+<text x="320" y="52" font-size="15" font-weight="600" fill="var(--start-text)" text-anchor="middle" dominant-baseline="central">Start</text>
+<line x1="320" y1="74" x2="320" y2="124" stroke="var(--arrow)" stroke-width="1.5" marker-end="url(#arrow-irv)" fill="none"/>
+
+<rect x="210" y="108" width="220" height="56" rx="8" fill="var(--count-bg)" stroke="var(--count-border)" stroke-width="0.5"/>
+<text x="320" y="128" font-size="14" font-weight="500" fill="var(--count-title)" text-anchor="middle" dominant-baseline="central">Count first-choice votes</text>
+<text x="320" y="148" font-size="12" fill="var(--count-text)" text-anchor="middle" dominant-baseline="central">Each ballot's top remaining pick</text>
+<line x1="320" y1="164" x2="320" y2="200" stroke="var(--arrow)" stroke-width="1.5" marker-end="url(#arrow-irv)" fill="none"/>
+
+<polygon points="320,200 480,266 320,332 160,266" fill="var(--decision-bg)" stroke="var(--decision-border)" stroke-width="0.5"/>
+<text x="320" y="258" font-size="14" font-weight="500" fill="var(--decision-text)" text-anchor="middle" dominant-baseline="central">Majority of</text>
+<text x="320" y="276" font-size="14" font-weight="500" fill="var(--decision-text)" text-anchor="middle" dominant-baseline="central">active ballots?</text>
+
+<text x="535" y="252" font-size="12" fill="var(--label-muted)" text-anchor="middle" dominant-baseline="central">Yes</text>
+<path d="M480 266 L600 266 L600 930 L402 930" stroke="var(--arrow)" stroke-width="1.5" marker-end="url(#arrow-irv)" fill="none"/>
+
+<text x="345" y="352" font-size="12" fill="var(--label-muted)" text-anchor="middle" dominant-baseline="central">No</text>
+<line x1="320" y1="332" x2="320" y2="372" stroke="var(--arrow)" stroke-width="1.5" marker-end="url(#arrow-irv)" fill="none"/>
+
+<rect x="210" y="374" width="220" height="56" rx="8" fill="var(--action-bg)" stroke="var(--action-border)" stroke-width="0.5"/>
+<text x="320" y="394" font-size="14" font-weight="500" fill="var(--action-title)" text-anchor="middle" dominant-baseline="central">Eliminate last-place candidate</text>
+<text x="320" y="414" font-size="12" fill="var(--action-text)" text-anchor="middle" dominant-baseline="central">Fewest votes this round</text>
+<line x1="320" y1="430" x2="320" y2="462" stroke="var(--arrow)" stroke-width="1.5" marker-end="url(#arrow-irv)" fill="none"/>
+
+<rect x="210" y="464" width="220" height="56" rx="8" fill="var(--action-bg)" stroke="var(--action-border)" stroke-width="0.5"/>
+<text x="320" y="484" font-size="14" font-weight="500" fill="var(--action-title)" text-anchor="middle" dominant-baseline="central">Move ballots to next choice</text>
+<text x="320" y="504" font-size="12" fill="var(--action-text)" text-anchor="middle" dominant-baseline="central">Reassign each transferred ballot</text>
+<line x1="320" y1="520" x2="320" y2="556" stroke="var(--arrow)" stroke-width="1.5" marker-end="url(#arrow-irv)" fill="none"/>
+
+<polygon points="320,556 480,622 320,688 160,622" fill="var(--decision-bg)" stroke="var(--decision-border)" stroke-width="0.5"/>
+<text x="320" y="614" font-size="14" font-weight="500" fill="var(--decision-text)" text-anchor="middle" dominant-baseline="central">Next choice</text>
+<text x="320" y="632" font-size="14" font-weight="500" fill="var(--decision-text)" text-anchor="middle" dominant-baseline="central">left on ballot?</text>
+
+<text x="345" y="708" font-size="12" fill="var(--label-muted)" text-anchor="middle" dominant-baseline="central">No</text>
+<line x1="320" y1="688" x2="320" y2="728" stroke="var(--arrow)" stroke-width="1.5" marker-end="url(#arrow-irv)" fill="none"/>
+
+<rect x="210" y="730" width="220" height="56" rx="8" fill="var(--exhaust-bg)" stroke="var(--exhaust-border)" stroke-width="0.5"/>
+<text x="320" y="750" font-size="14" font-weight="500" fill="var(--exhaust-title)" text-anchor="middle" dominant-baseline="central">Set aside as exhausted</text>
+<text x="320" y="770" font-size="12" fill="var(--exhaust-text)" text-anchor="middle" dominant-baseline="central">No longer active, shrinks the pile</text>
+<line x1="320" y1="786" x2="320" y2="822" stroke="var(--arrow)" stroke-width="1.5" marker-end="url(#arrow-irv)" fill="none"/>
+
+<rect x="245" y="824" width="150" height="40" rx="8" fill="var(--node-bg)" stroke="var(--node-border)" stroke-width="0.5"/>
+<text x="320" y="844" font-size="13" font-weight="500" fill="var(--node-text)" text-anchor="middle" dominant-baseline="central">Round complete</text>
+
+<text x="520" y="608" font-size="12" fill="var(--label-muted)" text-anchor="middle" dominant-baseline="central">Yes</text>
+<path d="M480 622 L545 622 L545 844 L397 844" stroke="var(--arrow)" stroke-width="1.5" marker-end="url(#arrow-irv)" fill="none"/>
+
+<text x="118" y="486" font-size="12" fill="var(--label-muted)" text-anchor="middle" dominant-baseline="central">Recount</text>
+<path d="M245 844 L90 844 L90 136 L208 136" stroke="var(--arrow)" stroke-width="1.5" marker-end="url(#arrow-irv)" fill="none"/>
+
+<rect x="240" y="908" width="160" height="44" rx="8" fill="var(--winner-bg)" stroke="var(--winner-border)" stroke-width="0.5"/>
+<text x="320" y="930" font-size="15" font-weight="600" fill="var(--winner-text)" text-anchor="middle" dominant-baseline="central">Winner</text>
+</svg>
+</div>
+</body>
+</html>
