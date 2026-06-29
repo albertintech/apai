@@ -16,15 +16,15 @@ The Congressional Elections Modernization Act (CEMA) is built on a different cou
 
 Most American elections run on a choose-one ballot where winners are declared by plurality: mark a single name, and whoever collects the most names wins. That rule records one preference from each voter and nothing else - no backup preferences and no indication of how strongly a voter supports a candidate. In a two person contest, the person with the most votes wins - fair enough, right?
 
-Actually, it is. And that is a strength of choose-one voting: in a two candidate contest, races either end with a majority preference or a tie. This makes choose-one voting the simplest to administer, vote count, and anytime there is not a tie, produce a winner prefered by the majority of participating voters. So far so good.
+Actually, it is. And that is a strength of choose-one voting: in a two candidate contest, races either end with a majority preference or a tie. This makes choose-one voting the simplest to administer, vote count, and anytime there is not a tie, produce a winner preferred by the majority of participating voters. So far so good.
 
 The major tradeoff for this simplicity is this: our fair majoritarian system becomes something else as soon as a three or more candidates enter the race. Imagine if we have a race between two opposing factions and neither faction will vote for the other's candidate(s). Alice is backed by the Gold faction, then Bill and Carol are backed the Maroon faction. There are 40 Gold voters and 60 Maroon voters. With 100 votes total, one realistic outcome is an Alice win for Gold as long as Maroon voters split their votes between Bill and Carol such that neither candidate gets 41 or more votes. A win under these circumstances means that the winner doesn't represent a majority of voters. This is the potential plurality trap known as vote-splitting.
 
-Since the vote-splitting problem is well known, there are mitigations available to either dampen or eliminate it. These include runoff elections, party primaries, candidate coordination or withdrawal, strategic voting by citizens, and coordination signals around candidate viability. However, none are guaranteed to work. Even under a two-party dominated system like the US, doesn't mean there won't be an independent alternative on the ballot that acts as a 'spoiler' to one of the two major party candidates. The existence of potential spoilers and a citizen's real fear of "wasting" votes on "non-viable" candidates has a chilling effect on party formation - third parties must grow under the shade of one of the two major parties or become irrelevent.
+Since the vote-splitting problem is well known, there are mitigations available to either dampen or eliminate it. These include runoff elections, party primaries, candidate coordination or withdrawal, strategic voting by citizens, and coordination signals around candidate viability. However, none are guaranteed to work. Even under a two-party dominated system like the US, doesn't mean there won't be an independent alternative on the ballot that acts as a 'spoiler' to one of the two major party candidates. The existence of potential spoilers and a citizen's real fear of "wasting" votes on "non-viable" candidates has a chilling effect on party formation - third parties must grow under the shade of one of the two major parties or become irrelevant.
 
 The following figure sums up how plurality voting works:
 
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 760 652" role="img">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 680 652" role="img">
 <title>Plurality voting in practice, with its tradeoffs and mitigations</title>
 <desc>A voter at the top marks the ballot and feeds into the engine, a container labeled "Single-winner voting method: Plurality voting (choose-one)" holding the ballot above the counting rule. The ballot lets the voter choose one candidate; the counting rule gives the win to the candidate with the most votes, majority or not. Below the engine, a box names the single winner: holds the most votes, not always more than half. To the right, a Tradeoffs box lists positives (simple to use, simple to administer, decisive in one round) and negatives (can elect a winner without majority support, splits similar candidates, rewards strategic voting, rewards base mobilization over broad appeal). Below it, a Mitigations box lists runoff elections, party primaries, candidate coordination or withdrawal, strategic voting, and viability signaling, noting none are guaranteed to fully remove vote-splitting.</desc>
 <defs>
@@ -33,62 +33,53 @@ The following figure sums up how plurality voting works:
 <style>
 text{font-family:var(--md-text-font, var(--md-text-font-family, ui-sans-serif, system-ui, sans-serif))}
 </style>
-
-<rect x="60" y="30" width="320" height="56" rx="8" fill="var(--diagram-voter-bg, #FAECE7)" stroke="var(--diagram-voter-border, #D85A30)" stroke-width="0.5"/>
-<text x="220" y="50" font-size="14" font-weight="500" fill="var(--diagram-voter-text, #993C1D)" text-anchor="middle" dominant-baseline="central">Voter</text>
-<text x="220" y="70" font-size="12" fill="var(--diagram-voter-text, #993C1D)" text-anchor="middle" dominant-baseline="central">Marks the ballot</text>
-<line x1="220" y1="90" x2="220" y2="124" stroke="var(--diagram-arrow, #888780)" stroke-width="1.5" marker-end="url(#arrow-plur)" fill="none"/>
-
-<rect x="60" y="130" width="320" height="290" rx="14" fill="var(--diagram-container-bg, #F1EFE8)" stroke="var(--diagram-container-border, #5F5E5A)" stroke-width="0.5"/>
-<text x="85" y="156" font-size="12" fill="var(--diagram-label-muted, #5F5E5A)" dominant-baseline="central">Single-winner voting method</text>
-<text x="85" y="178" font-size="14" font-weight="500" fill="var(--diagram-label-strong, #2C2C2A)" dominant-baseline="central">Plurality voting (choose-one)</text>
-
-<rect x="90" y="200" width="260" height="84" rx="8" fill="var(--diagram-ballot-bg, #E6F1FB)" stroke="var(--diagram-ballot-border, #185FA5)" stroke-width="0.5"/>
-<text x="220" y="222" font-size="14" font-weight="500" fill="var(--diagram-ballot-text, #0C447C)" text-anchor="middle" dominant-baseline="central">Ballot</text>
-<line x1="90" y1="242" x2="350" y2="242" stroke="var(--diagram-ballot-border, #185FA5)" stroke-width="0.5"/>
-<text x="220" y="263" font-size="12" fill="var(--diagram-ballot-text, #185FA5)" text-anchor="middle" dominant-baseline="central">Choose one candidate.</text>
-
-<line x1="220" y1="288" x2="220" y2="314" stroke="var(--diagram-arrow, #888780)" stroke-width="1.5" stroke-dasharray="4 3" marker-end="url(#arrow-plur)" fill="none"/>
-
-<rect x="90" y="318" width="260" height="86" rx="8" fill="var(--diagram-count-bg, #E1F5EE)" stroke="var(--diagram-count-border, #0F6E56)" stroke-width="0.5"/>
-<text x="220" y="340" font-size="14" font-weight="500" fill="var(--diagram-count-text, #085041)" text-anchor="middle" dominant-baseline="central">Counting rule</text>
-<line x1="90" y1="360" x2="350" y2="360" stroke="var(--diagram-count-border, #0F6E56)" stroke-width="0.5"/>
-<text x="220" y="374" font-size="12" fill="var(--diagram-count-text, #0F6E56)" text-anchor="middle" dominant-baseline="central">The candidate with the most votes</text>
-<text x="220" y="391" font-size="12" fill="var(--diagram-count-text, #0F6E56)" text-anchor="middle" dominant-baseline="central">wins, majority or not.</text>
-
-<line x1="220" y1="422" x2="220" y2="456" stroke="var(--diagram-arrow, #888780)" stroke-width="1.5" marker-end="url(#arrow-plur)" fill="none"/>
-
-<rect x="60" y="460" width="320" height="92" rx="8" fill="var(--diagram-voter-bg, #FAECE7)" stroke="var(--diagram-voter-border, #D85A30)" stroke-width="0.5"/>
-<text x="220" y="482" font-size="14" font-weight="500" fill="var(--diagram-voter-text, #993C1D)" text-anchor="middle" dominant-baseline="central">Single winner</text>
-<line x1="60" y1="502" x2="380" y2="502" stroke="var(--diagram-voter-border, #993C1D)" stroke-width="0.5"/>
-<text x="220" y="518" font-size="12" fill="var(--diagram-voter-text, #993C1D)" text-anchor="middle" dominant-baseline="central">Holds the most votes &#8212; not always</text>
-<text x="220" y="535" font-size="12" fill="var(--diagram-voter-text, #993C1D)" text-anchor="middle" dominant-baseline="central">more than half of them.</text>
-
-<rect x="410" y="30" width="290" height="262" rx="8" fill="var(--diagram-tradeoff-bg, #FAEEDA)" stroke="var(--diagram-tradeoff-border, #BA7517)" stroke-width="0.5"/>
-<text x="425" y="52" font-size="14" font-weight="500" fill="var(--diagram-tradeoff-text-strong, #633806)" dominant-baseline="central">Tradeoffs</text>
-<line x1="410" y1="72" x2="700" y2="72" stroke="var(--diagram-tradeoff-border, #854F0B)" stroke-width="0.5"/>
-<text x="425" y="92" font-size="12" fill="var(--diagram-tradeoff-text, #854F0B)" dominant-baseline="central">+  Simple to use</text>
-<text x="425" y="113" font-size="12" fill="var(--diagram-tradeoff-text, #854F0B)" dominant-baseline="central">+  Simple to administer</text>
-<text x="425" y="134" font-size="12" fill="var(--diagram-tradeoff-text, #854F0B)" dominant-baseline="central">+  Decisive in one round</text>
-<text x="425" y="166" font-size="12" fill="var(--diagram-tradeoff-text, #854F0B)" dominant-baseline="central">&#8722;  Can elect a winner without</text>
-<text x="443" y="184" font-size="12" fill="var(--diagram-tradeoff-text, #854F0B)" dominant-baseline="central">majority support</text>
-<text x="425" y="206" font-size="12" fill="var(--diagram-tradeoff-text, #854F0B)" dominant-baseline="central">&#8722;  Splits similar candidates</text>
-<text x="425" y="228" font-size="12" fill="var(--diagram-tradeoff-text, #854F0B)" dominant-baseline="central">&#8722;  Rewards strategic voting</text>
-<text x="425" y="252" font-size="12" fill="var(--diagram-tradeoff-text, #854F0B)" dominant-baseline="central">&#8722;  Rewards base mobilization</text>
-<text x="443" y="270" font-size="12" fill="var(--diagram-tradeoff-text, #854F0B)" dominant-baseline="central">over broad appeal</text>
-
-<rect x="410" y="310" width="290" height="242" rx="8" fill="var(--diagram-mitigation-bg, #EEEDFE)" stroke="var(--diagram-mitigation-border, #534AB7)" stroke-width="0.5"/>
-<text x="425" y="332" font-size="14" font-weight="500" fill="var(--diagram-mitigation-text-strong, #26215C)" dominant-baseline="central">Mitigations</text>
-<line x1="410" y1="352" x2="700" y2="352" stroke="var(--diagram-mitigation-border, #534AB7)" stroke-width="0.5"/>
-<text x="425" y="374" font-size="12" fill="var(--diagram-mitigation-text, #3C3489)" dominant-baseline="central">&#8226;  Runoff elections</text>
-<text x="425" y="396" font-size="12" fill="var(--diagram-mitigation-text, #3C3489)" dominant-baseline="central">&#8226;  Party primaries</text>
-<text x="425" y="418" font-size="12" fill="var(--diagram-mitigation-text, #3C3489)" dominant-baseline="central">&#8226;  Candidate coordination</text>
-<text x="443" y="436" font-size="12" fill="var(--diagram-mitigation-text, #3C3489)" dominant-baseline="central">or withdrawal</text>
-<text x="425" y="458" font-size="12" fill="var(--diagram-mitigation-text, #3C3489)" dominant-baseline="central">&#8226;  Strategic voting</text>
-<text x="425" y="480" font-size="12" fill="var(--diagram-mitigation-text, #3C3489)" dominant-baseline="central">&#8226;  Viability signaling</text>
-<line x1="425" y1="504" x2="685" y2="504" stroke="var(--diagram-mitigation-border, #534AB7)" stroke-width="0.5"/>
-<text x="425" y="524" font-size="12" fill="var(--diagram-mitigation-text, #3C3489)" dominant-baseline="central">None are guaranteed to fully</text>
-<text x="425" y="542" font-size="12" fill="var(--diagram-mitigation-text, #3C3489)" dominant-baseline="central">remove vote-splitting.</text>
+<rect x="30" y="30" width="300" height="56" rx="8" fill="var(--diagram-voter-bg, #FAECE7)" stroke="var(--diagram-voter-border, #D85A30)" stroke-width="0.5"/>
+<text x="180" y="50" font-size="14" font-weight="500" fill="var(--diagram-voter-text, #993C1D)" text-anchor="middle" dominant-baseline="central">Voter</text>
+<text x="180" y="70" font-size="12" fill="var(--diagram-voter-text, #993C1D)" text-anchor="middle" dominant-baseline="central">Marks the ballot</text>
+<line x1="180" y1="90" x2="180" y2="124" stroke="var(--diagram-arrow, #888780)" stroke-width="1.5" marker-end="url(#arrow-plur)" fill="none"/>
+<rect x="30" y="130" width="300" height="290" rx="14" fill="var(--diagram-container-bg, #F1EFE8)" stroke="var(--diagram-container-border, #5F5E5A)" stroke-width="0.5"/>
+<text x="50" y="156" font-size="12" fill="var(--diagram-label-muted, #5F5E5A)" dominant-baseline="central">Single-winner voting method</text>
+<text x="50" y="178" font-size="14" font-weight="500" fill="var(--diagram-label-strong, #2C2C2A)" dominant-baseline="central">Plurality voting (choose-one)</text>
+<rect x="55" y="200" width="250" height="84" rx="8" fill="var(--diagram-ballot-bg, #E6F1FB)" stroke="var(--diagram-ballot-border, #185FA5)" stroke-width="0.5"/>
+<text x="180" y="222" font-size="14" font-weight="500" fill="var(--diagram-ballot-text, #0C447C)" text-anchor="middle" dominant-baseline="central">Ballot</text>
+<line x1="55" y1="242" x2="305" y2="242" stroke="var(--diagram-ballot-border, #185FA5)" stroke-width="0.5"/>
+<text x="180" y="263" font-size="12" fill="var(--diagram-ballot-text, #185FA5)" text-anchor="middle" dominant-baseline="central">Choose one candidate.</text>
+<line x1="180" y1="288" x2="180" y2="314" stroke="var(--diagram-arrow, #888780)" stroke-width="1.5" stroke-dasharray="4 3" marker-end="url(#arrow-plur)" fill="none"/>
+<rect x="55" y="318" width="250" height="86" rx="8" fill="var(--diagram-count-bg, #E1F5EE)" stroke="var(--diagram-count-border, #0F6E56)" stroke-width="0.5"/>
+<text x="180" y="340" font-size="14" font-weight="500" fill="var(--diagram-count-text, #085041)" text-anchor="middle" dominant-baseline="central">Counting rule</text>
+<line x1="55" y1="360" x2="305" y2="360" stroke="var(--diagram-count-border, #0F6E56)" stroke-width="0.5"/>
+<text x="180" y="374" font-size="12" fill="var(--diagram-count-text, #0F6E56)" text-anchor="middle" dominant-baseline="central">The candidate with the most</text>
+<text x="180" y="391" font-size="12" fill="var(--diagram-count-text, #0F6E56)" text-anchor="middle" dominant-baseline="central">votes wins, majority or not.</text>
+<line x1="180" y1="422" x2="180" y2="456" stroke="var(--diagram-arrow, #888780)" stroke-width="1.5" marker-end="url(#arrow-plur)" fill="none"/>
+<rect x="30" y="460" width="300" height="92" rx="8" fill="var(--diagram-voter-bg, #FAECE7)" stroke="var(--diagram-voter-border, #D85A30)" stroke-width="0.5"/>
+<text x="180" y="482" font-size="14" font-weight="500" fill="var(--diagram-voter-text, #993C1D)" text-anchor="middle" dominant-baseline="central">Single winner</text>
+<line x1="30" y1="502" x2="330" y2="502" stroke="var(--diagram-voter-border, #993C1D)" stroke-width="0.5"/>
+<text x="180" y="518" font-size="12" fill="var(--diagram-voter-text, #993C1D)" text-anchor="middle" dominant-baseline="central">Holds the most votes &#8212; not</text>
+<text x="180" y="535" font-size="12" fill="var(--diagram-voter-text, #993C1D)" text-anchor="middle" dominant-baseline="central">always more than half of them.</text>
+<rect x="360" y="30" width="290" height="262" rx="8" fill="var(--diagram-tradeoff-bg, #FAEEDA)" stroke="var(--diagram-tradeoff-border, #BA7517)" stroke-width="0.5"/>
+<text x="375" y="52" font-size="14" font-weight="500" fill="var(--diagram-tradeoff-text-strong, #633806)" dominant-baseline="central">Tradeoffs</text>
+<line x1="360" y1="72" x2="650" y2="72" stroke="var(--diagram-tradeoff-border, #854F0B)" stroke-width="0.5"/>
+<text x="375" y="92" font-size="12" fill="var(--diagram-tradeoff-text, #854F0B)" dominant-baseline="central">+  Simple to use</text>
+<text x="375" y="113" font-size="12" fill="var(--diagram-tradeoff-text, #854F0B)" dominant-baseline="central">+  Simple to administer</text>
+<text x="375" y="134" font-size="12" fill="var(--diagram-tradeoff-text, #854F0B)" dominant-baseline="central">+  Decisive in one round</text>
+<text x="375" y="166" font-size="12" fill="var(--diagram-tradeoff-text, #854F0B)" dominant-baseline="central">&#8722;  Can elect a winner without</text>
+<text x="393" y="184" font-size="12" fill="var(--diagram-tradeoff-text, #854F0B)" dominant-baseline="central">majority support</text>
+<text x="375" y="206" font-size="12" fill="var(--diagram-tradeoff-text, #854F0B)" dominant-baseline="central">&#8722;  Splits similar candidates</text>
+<text x="375" y="228" font-size="12" fill="var(--diagram-tradeoff-text, #854F0B)" dominant-baseline="central">&#8722;  Rewards strategic voting</text>
+<text x="375" y="252" font-size="12" fill="var(--diagram-tradeoff-text, #854F0B)" dominant-baseline="central">&#8722;  Rewards base mobilization</text>
+<text x="393" y="270" font-size="12" fill="var(--diagram-tradeoff-text, #854F0B)" dominant-baseline="central">over broad appeal</text>
+<rect x="360" y="310" width="290" height="242" rx="8" fill="var(--diagram-mitigation-bg, #EEEDFE)" stroke="var(--diagram-mitigation-border, #534AB7)" stroke-width="0.5"/>
+<text x="375" y="332" font-size="14" font-weight="500" fill="var(--diagram-mitigation-text-strong, #26215C)" dominant-baseline="central">Mitigations</text>
+<line x1="360" y1="352" x2="650" y2="352" stroke="var(--diagram-mitigation-border, #534AB7)" stroke-width="0.5"/>
+<text x="375" y="374" font-size="12" fill="var(--diagram-mitigation-text, #3C3489)" dominant-baseline="central">&#8226;  Runoff elections</text>
+<text x="375" y="396" font-size="12" fill="var(--diagram-mitigation-text, #3C3489)" dominant-baseline="central">&#8226;  Party primaries</text>
+<text x="375" y="418" font-size="12" fill="var(--diagram-mitigation-text, #3C3489)" dominant-baseline="central">&#8226;  Candidate coordination</text>
+<text x="393" y="436" font-size="12" fill="var(--diagram-mitigation-text, #3C3489)" dominant-baseline="central">or withdrawal</text>
+<text x="375" y="458" font-size="12" fill="var(--diagram-mitigation-text, #3C3489)" dominant-baseline="central">&#8226;  Strategic voting</text>
+<text x="375" y="480" font-size="12" fill="var(--diagram-mitigation-text, #3C3489)" dominant-baseline="central">&#8226;  Viability signaling</text>
+<line x1="375" y1="504" x2="635" y2="504" stroke="var(--diagram-mitigation-border, #534AB7)" stroke-width="0.5"/>
+<text x="375" y="524" font-size="12" fill="var(--diagram-mitigation-text, #3C3489)" dominant-baseline="central">None are guaranteed to fully</text>
+<text x="375" y="542" font-size="12" fill="var(--diagram-mitigation-text, #3C3489)" dominant-baseline="central">remove vote-splitting.</text>
 </svg>
 
 Now that we have a solid understanding of Plurality Voting and its major tradeoffs and mitigations, wouldn't it be nice if we could have a way to eliminate both vote-splitting and the spoiler effect, not just dampen them? Enter one response: Ranked Choice Voting.
@@ -109,7 +100,7 @@ How does Ranked Choice Voting work, exactly?
 
 ## How Ranked Choice Voting Works
 
-To see how Ranked Choice Voting (RCV) achieves its desireable qualities such as eliminating spoilers and vote-splitting, it helps to look at RCV as a machine with separable parts. Every voting method has two main components to do two distinct jobs: a way to collect voter preferences as information and a way to process that information to produce a winner.
+To see how Ranked Choice Voting (RCV) achieves its desirable qualities such as eliminating spoilers and vote-splitting, it helps to look at RCV as a machine with separable parts. Every voting method has two main components to do two distinct jobs: a way to collect voter preferences as information and a way to process that information to produce a winner.
 
 The first component is the **ballot** — the input. It is the format the voter fills out, and it determines what information the method collects. The second part is the **counting rule** — the procedure that takes a stack of those ballots and produces a winner. The ballot is what the voter hands over; the counting rule is what the method does with it. The same kind of ballot can, in principle, be handed to different counting rules, which is exactly the possibility this paper will reach for later.
 
