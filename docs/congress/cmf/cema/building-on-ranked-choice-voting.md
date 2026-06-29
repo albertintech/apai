@@ -198,7 +198,7 @@ Between the engines this paper has set side by side, CEMA's judgment is that the
 
 ## Works Cited
 
-*[To be completed: monotonicity-failure and center-squeeze literature (Graham-Squire & McCune), ballot-exhaustion studies, STAR analytic and simulation sources, ranked choice operational-record citations. Placeholder pathology link in §4 to be replaced with the canonical citation.]*
+*[To be completed.]*
 
 ---
 
