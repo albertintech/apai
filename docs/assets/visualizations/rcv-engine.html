@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Ranked Choice Voting — Engine · CEMA</title>
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0;}
+:root {
+  --diagram-container-bg:#F1EFE8; --diagram-container-border:#5F5E5A;
+  --diagram-ballot-bg:#E6F1FB; --diagram-ballot-border:#185FA5; --diagram-ballot-text:#185FA5;
+  --diagram-count-bg:#E1F5EE; --diagram-count-border:#0F6E56; --diagram-count-text:#0F6E56;
+  --diagram-label-muted:#5F5E5A; --diagram-label-strong:#2C2C2A; --diagram-arrow:#888780;
+  --page-bg:#f4f7fb; --sans:system-ui,-apple-system,sans-serif;
+}
+body { font-family:var(--sans); background:var(--page-bg); padding:24px 16px; display:flex; justify-content:center; }
+.viz { width:100%; max-width:680px; }
+svg { width:100%; height:auto; display:block; }
+svg text { font-family: var(--sans); }
+</style>
+</head>
+<body>
+<div class="viz">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 680 400" role="img">
+<title>Ranked choice voting, a single-winner method</title>
+<desc>A container labeled "Single-winner voting method: Ranked choice voting (IRV)" holds a Ballot box (each candidate ranked from most to least preferred; captures order, not strength) and a Counting rule box (count everyone's first choice; if no one has more than half, drop the last-place candidate and move those ballots to their next choice still in the race; repeat until someone passes half), connected by a dashed arrow.</desc>
+<defs>
+<marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker>
+</defs>
+<rect x="60" y="30" width="560" height="340" rx="14" fill="var(--diagram-container-bg, #F1EFE8)" stroke="var(--diagram-container-border, #5F5E5A)" stroke-width="0.5"/>
+<text x="80" y="56" font-size="12" fill="var(--diagram-label-muted, #5F5E5A)" dominant-baseline="central">Single-winner voting method</text>
+<text x="80" y="78" font-size="14" font-weight="500" fill="var(--diagram-label-strong, #2C2C2A)" dominant-baseline="central">Ranked choice voting (IRV)</text>
+<rect x="100" y="106" width="200" height="236" rx="8" fill="var(--diagram-ballot-bg, #E6F1FB)" stroke="var(--diagram-ballot-border, #185FA5)" stroke-width="0.5"/>
+<text x="200" y="132" font-size="14" font-weight="500" fill="var(--diagram-ballot-text, #0C447C)" text-anchor="middle" dominant-baseline="central">Ballot</text>
+<line x1="100" y1="152" x2="300" y2="152" stroke="var(--diagram-ballot-border, #185FA5)" stroke-width="0.5"/>
+<text x="200" y="180" font-size="12" fill="var(--diagram-ballot-text, #185FA5)" text-anchor="middle" dominant-baseline="central">Each candidate ranked</text>
+<text x="200" y="202" font-size="12" fill="var(--diagram-ballot-text, #185FA5)" text-anchor="middle" dominant-baseline="central">from most to least</text>
+<text x="200" y="224" font-size="12" fill="var(--diagram-ballot-text, #185FA5)" text-anchor="middle" dominant-baseline="central">preferred.</text>
+<text x="200" y="256" font-size="12" fill="var(--diagram-ballot-text, #185FA5)" text-anchor="middle" dominant-baseline="central">Captures order,</text>
+<text x="200" y="278" font-size="12" fill="var(--diagram-ballot-text, #185FA5)" text-anchor="middle" dominant-baseline="central">not strength.</text>
+<line x1="305" y1="224" x2="375" y2="224" stroke="var(--diagram-arrow, #888780)" stroke-width="1.5" stroke-dasharray="4 3" marker-end="url(#arrow)" fill="none"/>
+<rect x="380" y="106" width="200" height="236" rx="8" fill="var(--diagram-count-bg, #E1F5EE)" stroke="var(--diagram-count-border, #0F6E56)" stroke-width="0.5"/>
+<text x="480" y="132" font-size="14" font-weight="500" fill="var(--diagram-count-text, #085041)" text-anchor="middle" dominant-baseline="central">Counting rule</text>
+<line x1="380" y1="152" x2="580" y2="152" stroke="var(--diagram-count-border, #0F6E56)" stroke-width="0.5"/>
+<text x="480" y="176" font-size="12" fill="var(--diagram-count-text, #0F6E56)" text-anchor="middle" dominant-baseline="central">Count everyone's first choice.</text>
+<text x="480" y="198" font-size="12" fill="var(--diagram-count-text, #0F6E56)" text-anchor="middle" dominant-baseline="central">If no one has more than half,</text>
+<text x="480" y="220" font-size="12" fill="var(--diagram-count-text, #0F6E56)" text-anchor="middle" dominant-baseline="central">drop the last-place candidate</text>
+<text x="480" y="242" font-size="12" fill="var(--diagram-count-text, #0F6E56)" text-anchor="middle" dominant-baseline="central">and move those ballots to their</text>
+<text x="480" y="264" font-size="12" fill="var(--diagram-count-text, #0F6E56)" text-anchor="middle" dominant-baseline="central">next choice still in the race.</text>
+<text x="480" y="290" font-size="12" fill="var(--diagram-count-text, #0F6E56)" text-anchor="middle" dominant-baseline="central">Repeat until someone</text>
+<text x="480" y="312" font-size="12" fill="var(--diagram-count-text, #0F6E56)" text-anchor="middle" dominant-baseline="central">passes half.</text>
+</svg>
+</div>
+</body>
+</html>
