@@ -27,7 +27,7 @@ The following figure sums up how plurality voting works:
 <iframe
   src="/assets/visualizations/plurality-voting.html"
   width="100%"
-  height="720"
+  height="700"
   frameborder="0"
   style="border: 1px solid #333; border-radius: 4px;">
 </iframe>
@@ -59,7 +59,7 @@ Ranked choice voting pairs a ranked ballot with a specific counting rule called 
 <iframe
   src="/assets/visualizations/rc-voting.html"
   width="100%"
-  height="468"
+  height="700"
   frameborder="0"
   style="border: 1px solid #333; border-radius: 4px;">
 </iframe>
