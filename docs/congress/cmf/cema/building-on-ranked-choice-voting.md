@@ -24,63 +24,13 @@ Since the vote-splitting problem is well known, there are mitigations available 
 
 The following figure sums up how plurality voting works:
 
-<svg xmlns="http://www.w3.org/2000/svg" width="680" height="652" style="width:100%;height:auto;max-width:680px" viewBox="0 0 680 652" role="img">
-<title>Plurality voting in practice, with its tradeoffs and mitigations</title>
-<desc>A voter at the top marks the ballot and feeds into the engine, a container labeled "Single-winner voting method: Plurality voting (choose-one)" holding the ballot above the counting rule. The ballot lets the voter choose one candidate; the counting rule gives the win to the candidate with the most votes, majority or not. Below the engine, a box names the single winner: holds the most votes, not always more than half. To the right, a Tradeoffs box lists positives (simple to use, simple to administer, decisive in one round) and negatives (can elect a winner without majority support, splits similar candidates, rewards strategic voting, rewards base mobilization over broad appeal). Below it, a Mitigations box lists runoff elections, party primaries, candidate coordination or withdrawal, strategic voting, and viability signaling, noting none are guaranteed to fully remove vote-splitting.</desc>
-<defs>
-<marker id="arrow-plur" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker>
-</defs>
-<style>
-text{font-family:var(--md-text-font, var(--md-text-font-family, ui-sans-serif, system-ui, sans-serif))}
-</style>
-<rect x="30" y="30" width="300" height="56" rx="8" fill="var(--diagram-voter-bg, #FAECE7)" stroke="var(--diagram-voter-border, #D85A30)" stroke-width="0.5"/>
-<text x="180" y="50" font-size="14" font-weight="500" fill="var(--diagram-voter-text, #993C1D)" text-anchor="middle" dominant-baseline="central">Voter</text>
-<text x="180" y="70" font-size="12" fill="var(--diagram-voter-text, #993C1D)" text-anchor="middle" dominant-baseline="central">Marks the ballot</text>
-<line x1="180" y1="90" x2="180" y2="124" stroke="var(--diagram-arrow, #888780)" stroke-width="1.5" marker-end="url(#arrow-plur)" fill="none"/>
-<rect x="30" y="130" width="300" height="290" rx="14" fill="var(--diagram-container-bg, #F1EFE8)" stroke="var(--diagram-container-border, #5F5E5A)" stroke-width="0.5"/>
-<text x="50" y="156" font-size="12" fill="var(--diagram-label-muted, #5F5E5A)" dominant-baseline="central">Single-winner voting method</text>
-<text x="50" y="178" font-size="14" font-weight="500" fill="var(--diagram-label-strong, #2C2C2A)" dominant-baseline="central">Plurality voting (choose-one)</text>
-<rect x="55" y="200" width="250" height="84" rx="8" fill="var(--diagram-ballot-bg, #E6F1FB)" stroke="var(--diagram-ballot-border, #185FA5)" stroke-width="0.5"/>
-<text x="180" y="222" font-size="14" font-weight="500" fill="var(--diagram-ballot-text, #0C447C)" text-anchor="middle" dominant-baseline="central">Ballot</text>
-<line x1="55" y1="242" x2="305" y2="242" stroke="var(--diagram-ballot-border, #185FA5)" stroke-width="0.5"/>
-<text x="180" y="263" font-size="12" fill="var(--diagram-ballot-text, #185FA5)" text-anchor="middle" dominant-baseline="central">Choose one candidate.</text>
-<line x1="180" y1="288" x2="180" y2="314" stroke="var(--diagram-arrow, #888780)" stroke-width="1.5" stroke-dasharray="4 3" marker-end="url(#arrow-plur)" fill="none"/>
-<rect x="55" y="318" width="250" height="86" rx="8" fill="var(--diagram-count-bg, #E1F5EE)" stroke="var(--diagram-count-border, #0F6E56)" stroke-width="0.5"/>
-<text x="180" y="340" font-size="14" font-weight="500" fill="var(--diagram-count-text, #085041)" text-anchor="middle" dominant-baseline="central">Counting rule</text>
-<line x1="55" y1="360" x2="305" y2="360" stroke="var(--diagram-count-border, #0F6E56)" stroke-width="0.5"/>
-<text x="180" y="374" font-size="12" fill="var(--diagram-count-text, #0F6E56)" text-anchor="middle" dominant-baseline="central">The candidate with the most</text>
-<text x="180" y="391" font-size="12" fill="var(--diagram-count-text, #0F6E56)" text-anchor="middle" dominant-baseline="central">votes wins, majority or not.</text>
-<line x1="180" y1="422" x2="180" y2="456" stroke="var(--diagram-arrow, #888780)" stroke-width="1.5" marker-end="url(#arrow-plur)" fill="none"/>
-<rect x="30" y="460" width="300" height="92" rx="8" fill="var(--diagram-voter-bg, #FAECE7)" stroke="var(--diagram-voter-border, #D85A30)" stroke-width="0.5"/>
-<text x="180" y="482" font-size="14" font-weight="500" fill="var(--diagram-voter-text, #993C1D)" text-anchor="middle" dominant-baseline="central">Single winner</text>
-<line x1="30" y1="502" x2="330" y2="502" stroke="var(--diagram-voter-border, #993C1D)" stroke-width="0.5"/>
-<text x="180" y="518" font-size="12" fill="var(--diagram-voter-text, #993C1D)" text-anchor="middle" dominant-baseline="central">Holds the most votes &#8212; not</text>
-<text x="180" y="535" font-size="12" fill="var(--diagram-voter-text, #993C1D)" text-anchor="middle" dominant-baseline="central">always more than half of them.</text>
-<rect x="360" y="30" width="290" height="262" rx="8" fill="var(--diagram-tradeoff-bg, #FAEEDA)" stroke="var(--diagram-tradeoff-border, #BA7517)" stroke-width="0.5"/>
-<text x="375" y="52" font-size="14" font-weight="500" fill="var(--diagram-tradeoff-text-strong, #633806)" dominant-baseline="central">Tradeoffs</text>
-<line x1="360" y1="72" x2="650" y2="72" stroke="var(--diagram-tradeoff-border, #854F0B)" stroke-width="0.5"/>
-<text x="375" y="92" font-size="12" fill="var(--diagram-tradeoff-text, #854F0B)" dominant-baseline="central">+  Simple to use</text>
-<text x="375" y="113" font-size="12" fill="var(--diagram-tradeoff-text, #854F0B)" dominant-baseline="central">+  Simple to administer</text>
-<text x="375" y="134" font-size="12" fill="var(--diagram-tradeoff-text, #854F0B)" dominant-baseline="central">+  Decisive in one round</text>
-<text x="375" y="166" font-size="12" fill="var(--diagram-tradeoff-text, #854F0B)" dominant-baseline="central">&#8722;  Can elect a winner without</text>
-<text x="393" y="184" font-size="12" fill="var(--diagram-tradeoff-text, #854F0B)" dominant-baseline="central">majority support</text>
-<text x="375" y="206" font-size="12" fill="var(--diagram-tradeoff-text, #854F0B)" dominant-baseline="central">&#8722;  Splits similar candidates</text>
-<text x="375" y="228" font-size="12" fill="var(--diagram-tradeoff-text, #854F0B)" dominant-baseline="central">&#8722;  Rewards strategic voting</text>
-<text x="375" y="252" font-size="12" fill="var(--diagram-tradeoff-text, #854F0B)" dominant-baseline="central">&#8722;  Rewards base mobilization</text>
-<text x="393" y="270" font-size="12" fill="var(--diagram-tradeoff-text, #854F0B)" dominant-baseline="central">over broad appeal</text>
-<rect x="360" y="310" width="290" height="242" rx="8" fill="var(--diagram-mitigation-bg, #EEEDFE)" stroke="var(--diagram-mitigation-border, #534AB7)" stroke-width="0.5"/>
-<text x="375" y="332" font-size="14" font-weight="500" fill="var(--diagram-mitigation-text-strong, #26215C)" dominant-baseline="central">Mitigations</text>
-<line x1="360" y1="352" x2="650" y2="352" stroke="var(--diagram-mitigation-border, #534AB7)" stroke-width="0.5"/>
-<text x="375" y="374" font-size="12" fill="var(--diagram-mitigation-text, #3C3489)" dominant-baseline="central">&#8226;  Runoff elections</text>
-<text x="375" y="396" font-size="12" fill="var(--diagram-mitigation-text, #3C3489)" dominant-baseline="central">&#8226;  Party primaries</text>
-<text x="375" y="418" font-size="12" fill="var(--diagram-mitigation-text, #3C3489)" dominant-baseline="central">&#8226;  Candidate coordination</text>
-<text x="393" y="436" font-size="12" fill="var(--diagram-mitigation-text, #3C3489)" dominant-baseline="central">or withdrawal</text>
-<text x="375" y="458" font-size="12" fill="var(--diagram-mitigation-text, #3C3489)" dominant-baseline="central">&#8226;  Strategic voting</text>
-<text x="375" y="480" font-size="12" fill="var(--diagram-mitigation-text, #3C3489)" dominant-baseline="central">&#8226;  Viability signaling</text>
-<line x1="375" y1="504" x2="635" y2="504" stroke="var(--diagram-mitigation-border, #534AB7)" stroke-width="0.5"/>
-<text x="375" y="524" font-size="12" fill="var(--diagram-mitigation-text, #3C3489)" dominant-baseline="central">None are guaranteed to fully</text>
-<text x="375" y="542" font-size="12" fill="var(--diagram-mitigation-text, #3C3489)" dominant-baseline="central">remove vote-splitting.</text>
-</svg>
+<iframe
+  src="/assets/visualizations/plurality-voting-engine.html"
+  width="100%"
+  height="720"
+  frameborder="0"
+  style="border: 1px solid #333; border-radius: 4px;">
+</iframe>
 
 Now that we have a solid understanding of Plurality Voting and its major tradeoffs and mitigations, wouldn't it be nice if we could have a way to eliminate both vote-splitting and the spoiler effect, not just dampen them? Enter one response: Ranked Choice Voting.
 
@@ -106,38 +56,13 @@ The first component is the **ballot** — the input. It is the format the voter 
 
 Ranked choice voting pairs a ranked ballot with a specific counting rule called **instant-runoff voting (IRV)** — the algorithm most people mean when they say "ranked choice." Here are its two parts:
 
-<svg xmlns="http://www.w3.org/2000/svg" width="680" height="400" style="width:100%;height:auto;max-width:680px" viewBox="0 0 680 400" role="img">
-<title>Ranked choice voting, a single-winner method</title>
-<desc>A container labeled "Single-winner voting method: Ranked choice voting (IRV)" holds a Ballot box (each candidate ranked from most to least preferred; captures order, not strength) and a Counting rule box (count everyone's first choice; if no one has more than half, drop the last-place candidate and move those ballots to their next choice still in the race; repeat until someone passes half), connected by a dashed arrow.</desc>
-<defs>
-<marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker>
-</defs>
-<style>
-text{font-family:var(--md-text-font, var(--md-text-font-family, ui-sans-serif, system-ui, sans-serif))}
-</style>
-<rect x="60" y="30" width="560" height="340" rx="14" fill="var(--diagram-container-bg, #F1EFE8)" stroke="var(--diagram-container-border, #5F5E5A)" stroke-width="0.5"/>
-<text x="80" y="56" font-size="12" fill="var(--diagram-label-muted, #5F5E5A)" dominant-baseline="central">Single-winner voting method</text>
-<text x="80" y="78" font-size="14" font-weight="500" fill="var(--diagram-label-strong, #2C2C2A)" dominant-baseline="central">Ranked choice voting (IRV)</text>
-<rect x="100" y="106" width="200" height="236" rx="8" fill="var(--diagram-ballot-bg, #E6F1FB)" stroke="var(--diagram-ballot-border, #185FA5)" stroke-width="0.5"/>
-<text x="200" y="132" font-size="14" font-weight="500" fill="var(--diagram-ballot-text, #0C447C)" text-anchor="middle" dominant-baseline="central">Ballot</text>
-<line x1="100" y1="152" x2="300" y2="152" stroke="var(--diagram-ballot-border, #185FA5)" stroke-width="0.5"/>
-<text x="200" y="180" font-size="12" fill="var(--diagram-ballot-text, #185FA5)" text-anchor="middle" dominant-baseline="central">Each candidate ranked</text>
-<text x="200" y="202" font-size="12" fill="var(--diagram-ballot-text, #185FA5)" text-anchor="middle" dominant-baseline="central">from most to least</text>
-<text x="200" y="224" font-size="12" fill="var(--diagram-ballot-text, #185FA5)" text-anchor="middle" dominant-baseline="central">preferred.</text>
-<text x="200" y="256" font-size="12" fill="var(--diagram-ballot-text, #185FA5)" text-anchor="middle" dominant-baseline="central">Captures order,</text>
-<text x="200" y="278" font-size="12" fill="var(--diagram-ballot-text, #185FA5)" text-anchor="middle" dominant-baseline="central">not strength.</text>
-<line x1="305" y1="224" x2="375" y2="224" stroke="var(--diagram-arrow, #888780)" stroke-width="1.5" stroke-dasharray="4 3" marker-end="url(#arrow)" fill="none"/>
-<rect x="380" y="106" width="200" height="236" rx="8" fill="var(--diagram-count-bg, #E1F5EE)" stroke="var(--diagram-count-border, #0F6E56)" stroke-width="0.5"/>
-<text x="480" y="132" font-size="14" font-weight="500" fill="var(--diagram-count-text, #085041)" text-anchor="middle" dominant-baseline="central">Counting rule</text>
-<line x1="380" y1="152" x2="580" y2="152" stroke="var(--diagram-count-border, #0F6E56)" stroke-width="0.5"/>
-<text x="480" y="176" font-size="12" fill="var(--diagram-count-text, #0F6E56)" text-anchor="middle" dominant-baseline="central">Count everyone's first choice.</text>
-<text x="480" y="198" font-size="12" fill="var(--diagram-count-text, #0F6E56)" text-anchor="middle" dominant-baseline="central">If no one has more than half,</text>
-<text x="480" y="220" font-size="12" fill="var(--diagram-count-text, #0F6E56)" text-anchor="middle" dominant-baseline="central">drop the last-place candidate</text>
-<text x="480" y="242" font-size="12" fill="var(--diagram-count-text, #0F6E56)" text-anchor="middle" dominant-baseline="central">and move those ballots to their</text>
-<text x="480" y="264" font-size="12" fill="var(--diagram-count-text, #0F6E56)" text-anchor="middle" dominant-baseline="central">next choice still in the race.</text>
-<text x="480" y="290" font-size="12" fill="var(--diagram-count-text, #0F6E56)" text-anchor="middle" dominant-baseline="central">Repeat until someone</text>
-<text x="480" y="312" font-size="12" fill="var(--diagram-count-text, #0F6E56)" text-anchor="middle" dominant-baseline="central">passes half.</text>
-</svg>
+<iframe
+  src="/assets/visualizations/rcv-engine.html"
+  width="100%"
+  height="468"
+  frameborder="0"
+  style="border: 1px solid #333; border-radius: 4px;">
+</iframe>
 
 The counting rule is the part to watch. It works by **sequential elimination**: count first choices, drop the last-place candidate, transfer that candidate's ballots to each voter's next surviving choice, and repeat until someone holds more than half. This is the engine running. And running this way produces three consequences worth understanding before choosing it.
 
@@ -183,34 +108,13 @@ Recall that a voting method has two separable parts, the ballot and the counting
 
 Begin with the simplest version, score voting, also called range voting:
 
-<svg xmlns="http://www.w3.org/2000/svg" width="680" height="372" style="width:100%;height:auto;max-width:680px" viewBox="0 0 680 372" role="img">
-<title>Score voting, a single-winner method</title>
-<desc>A container labeled "Single-winner voting method: Score voting (Range voting)" holds a Ballot box (each candidate given a score on a fixed scale; captures strength, not just order) and a Counting rule box (add up each candidate's scores across all ballots; the highest total wins), connected by a dashed arrow.</desc>
-<defs>
-<marker id="arrow-score" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker>
-</defs>
-<style>
-text{font-family:var(--md-text-font, var(--md-text-font-family, ui-sans-serif, system-ui, sans-serif))}
-</style>
-<rect x="60" y="30" width="560" height="312" rx="14" fill="var(--diagram-container-bg, #F1EFE8)" stroke="var(--diagram-container-border, #5F5E5A)" stroke-width="0.5"/>
-<text x="80" y="56" font-size="12" fill="var(--diagram-label-muted, #5F5E5A)" dominant-baseline="central">Single-winner voting method</text>
-<text x="80" y="78" font-size="14" font-weight="500" fill="var(--diagram-label-strong, #2C2C2A)" dominant-baseline="central">Score voting (Range voting)</text>
-<rect x="100" y="106" width="200" height="202" rx="8" fill="var(--diagram-ballot-bg, #E6F1FB)" stroke="var(--diagram-ballot-border, #185FA5)" stroke-width="0.5"/>
-<text x="200" y="132" font-size="14" font-weight="500" fill="var(--diagram-ballot-text, #0C447C)" text-anchor="middle" dominant-baseline="central">Ballot</text>
-<line x1="100" y1="152" x2="300" y2="152" stroke="var(--diagram-ballot-border, #185FA5)" stroke-width="0.5"/>
-<text x="200" y="180" font-size="12" fill="var(--diagram-ballot-text, #185FA5)" text-anchor="middle" dominant-baseline="central">Each candidate given</text>
-<text x="200" y="202" font-size="12" fill="var(--diagram-ballot-text, #185FA5)" text-anchor="middle" dominant-baseline="central">a score on a fixed</text>
-<text x="200" y="224" font-size="12" fill="var(--diagram-ballot-text, #185FA5)" text-anchor="middle" dominant-baseline="central">scale.</text>
-<text x="200" y="256" font-size="12" fill="var(--diagram-ballot-text, #185FA5)" text-anchor="middle" dominant-baseline="central">Captures strength,</text>
-<text x="200" y="278" font-size="12" fill="var(--diagram-ballot-text, #185FA5)" text-anchor="middle" dominant-baseline="central">not just order.</text>
-<line x1="305" y1="207" x2="375" y2="207" stroke="var(--diagram-arrow, #888780)" stroke-width="1.5" stroke-dasharray="4 3" marker-end="url(#arrow-score)" fill="none"/>
-<rect x="380" y="106" width="200" height="202" rx="8" fill="var(--diagram-count-bg, #E1F5EE)" stroke="var(--diagram-count-border, #0F6E56)" stroke-width="0.5"/>
-<text x="480" y="132" font-size="14" font-weight="500" fill="var(--diagram-count-text, #085041)" text-anchor="middle" dominant-baseline="central">Counting rule</text>
-<line x1="380" y1="152" x2="580" y2="152" stroke="var(--diagram-count-border, #0F6E56)" stroke-width="0.5"/>
-<text x="480" y="190" font-size="12" fill="var(--diagram-count-text, #0F6E56)" text-anchor="middle" dominant-baseline="central">Add up each candidate's</text>
-<text x="480" y="212" font-size="12" fill="var(--diagram-count-text, #0F6E56)" text-anchor="middle" dominant-baseline="central">scores across all ballots.</text>
-<text x="480" y="250" font-size="12" fill="var(--diagram-count-text, #0F6E56)" text-anchor="middle" dominant-baseline="central">The highest total wins.</text>
-</svg>
+<iframe
+  src="/assets/visualizations/score-engine.html"
+  width="100%"
+  height="440"
+  frameborder="0"
+  style="border: 1px solid #333; border-radius: 4px;">
+</iframe>
 
 The voter scores every candidate on a fixed scale — zero to five, the same rating tens of millions of Americans give to products and restaurants. The counting rule then does one thing: add up each candidate's scores across every ballot, and the highest total wins. There is no elimination, no transfer, no round-by-round dropping of candidates. The engine adds rather than eliminates.
 
@@ -248,37 +152,13 @@ That single change to the counting rule blunts the strategic incentives at their
 
 This is scoring with a built-in runoff, and it has a name: **STAR — Score Then Automatic Runoff.**
 
-<svg xmlns="http://www.w3.org/2000/svg" width="680" height="372" style="width:100%;height:auto;max-width:680px" viewBox="0 0 680 372" role="img">
-<title>STAR voting, a single-winner method</title>
-<desc>A container labeled "Single-winner voting method: STAR voting" holds a Ballot box (each candidate given a score on a fixed scale; captures strength, not just order) and a Counting rule box (add up scores to find the two highest candidates; then on every ballot count each for whichever of those two it scored higher; the one ahead on more ballots wins), connected by a dashed arrow.</desc>
-<defs>
-<marker id="arrow-star" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker>
-</defs>
-<style>
-text{font-family:var(--md-text-font, var(--md-text-font-family, ui-sans-serif, system-ui, sans-serif))}
-</style>
-<rect x="60" y="30" width="560" height="312" rx="14" fill="var(--diagram-container-bg, #F1EFE8)" stroke="var(--diagram-container-border, #5F5E5A)" stroke-width="0.5"/>
-<text x="80" y="56" font-size="12" fill="var(--diagram-label-muted, #5F5E5A)" dominant-baseline="central">Single-winner voting method</text>
-<text x="80" y="78" font-size="14" font-weight="500" fill="var(--diagram-label-strong, #2C2C2A)" dominant-baseline="central">STAR voting</text>
-<rect x="100" y="106" width="200" height="202" rx="8" fill="var(--diagram-ballot-bg, #E6F1FB)" stroke="var(--diagram-ballot-border, #185FA5)" stroke-width="0.5"/>
-<text x="200" y="132" font-size="14" font-weight="500" fill="var(--diagram-ballot-text, #0C447C)" text-anchor="middle" dominant-baseline="central">Ballot</text>
-<line x1="100" y1="152" x2="300" y2="152" stroke="var(--diagram-ballot-border, #185FA5)" stroke-width="0.5"/>
-<text x="200" y="180" font-size="12" fill="var(--diagram-ballot-text, #185FA5)" text-anchor="middle" dominant-baseline="central">Each candidate given</text>
-<text x="200" y="202" font-size="12" fill="var(--diagram-ballot-text, #185FA5)" text-anchor="middle" dominant-baseline="central">a score on a fixed</text>
-<text x="200" y="224" font-size="12" fill="var(--diagram-ballot-text, #185FA5)" text-anchor="middle" dominant-baseline="central">scale.</text>
-<text x="200" y="256" font-size="12" fill="var(--diagram-ballot-text, #185FA5)" text-anchor="middle" dominant-baseline="central">Captures strength,</text>
-<text x="200" y="278" font-size="12" fill="var(--diagram-ballot-text, #185FA5)" text-anchor="middle" dominant-baseline="central">not just order.</text>
-<line x1="305" y1="207" x2="375" y2="207" stroke="var(--diagram-arrow, #888780)" stroke-width="1.5" stroke-dasharray="4 3" marker-end="url(#arrow-star)" fill="none"/>
-<rect x="380" y="106" width="200" height="202" rx="8" fill="var(--diagram-count-bg, #E1F5EE)" stroke="var(--diagram-count-border, #0F6E56)" stroke-width="0.5"/>
-<text x="480" y="132" font-size="14" font-weight="500" fill="var(--diagram-count-text, #085041)" text-anchor="middle" dominant-baseline="central">Counting rule</text>
-<line x1="380" y1="152" x2="580" y2="152" stroke="var(--diagram-count-border, #0F6E56)" stroke-width="0.5"/>
-<text x="480" y="176" font-size="12" fill="var(--diagram-count-text, #0F6E56)" text-anchor="middle" dominant-baseline="central">Add up scores to find the</text>
-<text x="480" y="198" font-size="12" fill="var(--diagram-count-text, #0F6E56)" text-anchor="middle" dominant-baseline="central">two highest candidates.</text>
-<text x="480" y="228" font-size="12" fill="var(--diagram-count-text, #0F6E56)" text-anchor="middle" dominant-baseline="central">Then, on every ballot, count</text>
-<text x="480" y="250" font-size="12" fill="var(--diagram-count-text, #0F6E56)" text-anchor="middle" dominant-baseline="central">each for whichever of those</text>
-<text x="480" y="272" font-size="12" fill="var(--diagram-count-text, #0F6E56)" text-anchor="middle" dominant-baseline="central">two it scored higher. The one</text>
-<text x="480" y="294" font-size="12" fill="var(--diagram-count-text, #0F6E56)" text-anchor="middle" dominant-baseline="central">ahead on more ballots wins.</text>
-</svg>
+<iframe
+  src="/assets/visualizations/star-engine.html"
+  width="100%"
+  height="440"
+  frameborder="0"
+  style="border: 1px solid #333; border-radius: 4px;">
+</iframe>
 
 STAR is the scored engine with its primary weakness addressed where the weakness lives. The voter still scores every candidate zero to five, exactly as in plain score voting — the ballot does not get harder. The counting rule does the additional work: sum the scores to find the two finalists, then decide between them by majority preference. The runoff step carries a second, modest virtue worth naming: because the final step is a head-to-head between two finalists, the count can be tallied locally, precinct by precinct.
 
