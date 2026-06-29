@@ -119,7 +119,7 @@ Begin with the simplest version, score voting, also called range voting:
 <iframe
   src="/assets/visualizations/score-voting.html"
   width="100%"
-  height="440"
+  height="600"
   frameborder="0"
   style="border: 1px solid #333; border-radius: 4px;">
 </iframe>
