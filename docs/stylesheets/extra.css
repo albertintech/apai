@@ -163,3 +163,51 @@
 
   --diagram-arrow:            #9aa0a8;
 }
+
+/* ==========================================================================
+   Voting-method diagrams — extended variable set
+   Adds the roles used by the plurality stack (voter/winner, tradeoffs,
+   mitigations) on top of the engine variables already defined in
+   diagram-theme.css. Append this block to stylesheets/extra.css.
+   ========================================================================== */
+
+/* Light scheme (Material "default") */
+:root,
+[data-md-color-scheme="default"] {
+  /* Voter + Single winner (coral) */
+  --diagram-voter-bg:            #FAECE7;
+  --diagram-voter-border:        #993C1D;
+  --diagram-voter-text:          #993C1D;
+
+  /* Tradeoffs (amber) */
+  --diagram-tradeoff-bg:         #FAEEDA;
+  --diagram-tradeoff-border:     #854F0B;
+  --diagram-tradeoff-text:       #854F0B;
+  --diagram-tradeoff-text-strong:#633806;
+
+  /* Mitigations (purple) */
+  --diagram-mitigation-bg:           #EEEDFE;
+  --diagram-mitigation-border:       #534AB7;
+  --diagram-mitigation-text:         #3C3489;
+  --diagram-mitigation-text-strong:  #26215C;
+}
+
+/* Dark scheme (Material "slate") */
+[data-md-color-scheme="slate"] {
+  /* Voter + Single winner (coral) */
+  --diagram-voter-bg:            #34160C;
+  --diagram-voter-border:        #D85A30;
+  --diagram-voter-text:          #F0997B;
+
+  /* Tradeoffs (amber) */
+  --diagram-tradeoff-bg:         #2E1F06;
+  --diagram-tradeoff-border:     #EF9F27;
+  --diagram-tradeoff-text:       #FAC775;
+  --diagram-tradeoff-text-strong:#FAEEDA;
+
+  /* Mitigations (purple) */
+  --diagram-mitigation-bg:           #1E1B3A;
+  --diagram-mitigation-border:       #7F77DD;
+  --diagram-mitigation-text:         #AFA9EC;
+  --diagram-mitigation-text-strong:  #CECBF6;
+}
