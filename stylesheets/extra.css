@@ -1,0 +1,213 @@
+/* Increase table font size for readability */
+.md-typeset table {
+    font-size: 0.9rem;
+}
+
+/* Optional: slightly larger header text */
+.md-typeset table th {
+    font-size: 0.95rem;
+}
+
+/* =============================================================
+   APAI Navigation Category Header Enhancements
+   =============================================================
+
+   These are modular options for making nav section labels
+   (e.g., "Congress & Elections", "Executive Branch") stand out
+   from the clickable nav items beneath them.
+
+   HOW TO USE:
+   - Copy one block at a time into your docs/stylesheets/extra.css
+   - Preview locally with: python3 -m mkdocs serve
+   - Options can be combined (e.g., #2 + #3 works well together)
+   - Adjust values to taste
+
+   TARGET: .md-nav__item--section > .md-nav__link
+   This selector targets the top-level section labels in the nav
+   without affecting the clickable document links beneath them.
+   ============================================================= */
+
+
+/* -------------------------------------------------------------
+   OPTION 1: Left accent border
+   Adds a thin colored bar on the left edge of category headers.
+   ------------------------------------------------------------- */
+
+
+.md-nav__item--section>.md-nav__link {
+    border-left: 3px solid var(--md-primary-fg-color);
+    padding-left: 0.6rem;
+}
+
+
+
+/* -------------------------------------------------------------
+   OPTION 2: Increased spacing above categories
+   Adds breathing room between nav groups.
+   ------------------------------------------------------------- */
+
+
+.md-nav__item--section {
+    margin-top: 1.2rem;
+}
+
+.md-nav__item--section:first-child {
+    margin-top: 0;
+}
+
+
+
+/* -------------------------------------------------------------
+   OPTION 3: Uppercase + letter-spacing
+   Makes category headers look like distinct labels rather than
+   links. Pairs well with Option 2.
+   ------------------------------------------------------------- */
+
+/*
+.md-nav__item--section > .md-nav__link {
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-size: 0.65rem;
+}
+*/
+
+
+/* -------------------------------------------------------------
+   OPTION 4: Faint horizontal divider above categories
+   Adds a subtle top border to separate groups.
+   ------------------------------------------------------------- */
+
+
+.md-nav__item--section {
+    border-top: 1px solid var(--md-default-fg-color--lightest);
+    padding-top: 0.8rem;
+    margin-top: 0.8rem;
+}
+
+.md-nav__item--section:first-child {
+    border-top: none;
+    padding-top: 0;
+    margin-top: 0;
+}
+
+
+
+/* -------------------------------------------------------------
+   OPTION 5: Combined -- spacing + uppercase + accent border
+   The "full treatment" if you want maximum distinction.
+   Combines Options 1, 2, and 3.
+   ------------------------------------------------------------- */
+
+/*
+.md-nav__item--section {
+    margin-top: 1.2rem;
+}
+
+.md-nav__item--section:first-child {
+    margin-top: 0;
+}
+
+.md-nav__item--section > .md-nav__link {
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-size: 0.65rem;
+    border-left: 3px solid var(--md-primary-fg-color);
+    padding-left: 0.6rem;
+}
+*/
+
+/* ==========================================================================
+   Voting-method engine diagrams (Ballot -> Counting rule)
+   Single source of truth for the inline SVG diagrams embedded in the
+   voting-methods pages. Both the RCV/IRV and STAR engine SVGs read these
+   variables; the hex values inlined in each SVG are fallbacks only.
+   ========================================================================== */
+
+/* Light scheme (Material "default") */
+:root,
+[data-md-color-scheme="default"] {
+  --diagram-container-bg:     #F1EFE8;
+  --diagram-container-border: #5F5E5A;
+
+  --diagram-ballot-bg:        #E6F1FB;
+  --diagram-ballot-border:    #185FA5;
+  --diagram-ballot-text:      #185FA5;
+
+  --diagram-count-bg:         #E1F5EE;
+  --diagram-count-border:     #0F6E56;
+  --diagram-count-text:       #0F6E56;
+
+  --diagram-label-muted:      #5F5E5A;
+  --diagram-label-strong:     #2C2C2A;
+
+  --diagram-arrow:            #888780;
+}
+
+/* Dark scheme (Material "slate", ~#1e2129 surfaces).
+   Tints darkened, borders and text lightened for contrast.
+   Ballot stays in the cool/blue family; counting rule stays green. */
+[data-md-color-scheme="slate"] {
+  --diagram-container-bg:     #21242b;
+  --diagram-container-border: #6b6f78;
+
+  --diagram-ballot-bg:        #182733;
+  --diagram-ballot-border:    #5fa8e0;
+  --diagram-ballot-text:      #9cc9ee;
+
+  --diagram-count-bg:         #16302a;
+  --diagram-count-border:     #4cae8e;
+  --diagram-count-text:       #7fd3b6;
+
+  --diagram-label-muted:      #a8acb4;
+  --diagram-label-strong:     #e6e8ec;
+
+  --diagram-arrow:            #9aa0a8;
+}
+
+/* ==========================================================================
+   Voting-method diagrams — extended variable set
+   Adds the roles used by the plurality stack (voter/winner, tradeoffs,
+   mitigations) on top of the engine variables already defined in
+   diagram-theme.css. Append this block to stylesheets/extra.css.
+   ========================================================================== */
+
+/* Light scheme (Material "default") */
+:root,
+[data-md-color-scheme="default"] {
+  /* Voter + Single winner (coral) */
+  --diagram-voter-bg:            #FAECE7;
+  --diagram-voter-border:        #993C1D;
+  --diagram-voter-text:          #993C1D;
+
+  /* Tradeoffs (amber) */
+  --diagram-tradeoff-bg:         #FAEEDA;
+  --diagram-tradeoff-border:     #854F0B;
+  --diagram-tradeoff-text:       #854F0B;
+  --diagram-tradeoff-text-strong:#633806;
+
+  /* Mitigations (purple) */
+  --diagram-mitigation-bg:           #EEEDFE;
+  --diagram-mitigation-border:       #534AB7;
+  --diagram-mitigation-text:         #3C3489;
+  --diagram-mitigation-text-strong:  #26215C;
+}
+
+/* Dark scheme (Material "slate") */
+[data-md-color-scheme="slate"] {
+  /* Voter + Single winner (coral) */
+  --diagram-voter-bg:            #34160C;
+  --diagram-voter-border:        #D85A30;
+  --diagram-voter-text:          #F0997B;
+
+  /* Tradeoffs (amber) */
+  --diagram-tradeoff-bg:         #2E1F06;
+  --diagram-tradeoff-border:     #EF9F27;
+  --diagram-tradeoff-text:       #FAC775;
+  --diagram-tradeoff-text-strong:#FAEEDA;
+
+  /* Mitigations (purple) */
+  --diagram-mitigation-bg:           #1E1B3A;
+  --diagram-mitigation-border:       #7F77DD;
+  --diagram-mitigation-text:         #AFA9EC;
+  --diagram-mitigation-text-strong:  #CECBF6;
+}

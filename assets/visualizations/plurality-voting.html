@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Plurality Voting — Engine, Tradeoffs, and Mitigations · CEMA</title>
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0;}
+
+:root {
+  --container-bg:        #262a33;
+  --container-border:    #8b8a84;
+  --ballot-bg:           #13293f;
+  --ballot-border:       #5b9bd5;
+  --ballot-text:         #9cc4ec;
+  --ballot-title:        #b9d6f2;
+  --count-bg:            #0e2c25;
+  --count-border:        #3fa185;
+  --count-text:          #74c9af;
+  --count-title:         #96dcc6;
+  --label-muted:         #9b9a93;
+  --label-strong:        #e6e5e0;
+  --arrow:               #8b8a84;
+  --voter-bg:            #3a201a;
+  --voter-border:        #e07a52;
+  --voter-text:          #f0a585;
+  --tradeoff-bg:         #352818;
+  --tradeoff-border:     #c98f3f;
+  --tradeoff-text:       #e0b878;
+  --tradeoff-title:      #edcd97;
+  --mitigation-bg:       #221f3a;
+  --mitigation-border:   #7d74d4;
+  --mitigation-text:     #a89ff0;
+  --mitigation-title:    #c3bcf7;
+  --page-bg:             #1e2129;
+  --sans:                system-ui, -apple-system, sans-serif;
+}
+
+body {
+  font-family: var(--sans);
+  background: var(--page-bg);
+  padding: 24px 16px;
+  display: flex;
+  justify-content: center;
+}
+
+.viz {
+  width: 100%;
+  max-width: 760px;
+}
+
+svg { width: 100%; height: auto; display: block; }
+svg text { font-family: var(--sans); }
+</style>
+</head>
+<body>
+<div class="viz">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 652" role="img">
+<title>Plurality voting in practice, with its tradeoffs and mitigations</title>
+<desc>A voter at the top marks the ballot and feeds into the engine, a container labeled "Single-winner voting method: Plurality voting (choose-one)" holding the ballot above the counting rule. The ballot lets the voter choose one candidate; the counting rule gives the win to the candidate with the most votes, majority or not. Below the engine, a box names the single winner: holds the most votes, not always more than half. To the right, a Tradeoffs box lists positives (simple to use, simple to administer, decisive in one round) and negatives (can elect a winner without majority support, splits similar candidates, rewards strategic voting, rewards base mobilization over broad appeal). Below it, a Mitigations box lists runoff elections, party primaries, candidate coordination or withdrawal, strategic voting, and viability signaling, noting none are guaranteed to fully remove vote-splitting.</desc>
+<defs>
+<marker id="arrow-plur" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker>
+</defs>
+
+<rect x="30" y="30" width="300" height="56" rx="8" fill="var(--voter-bg)" stroke="var(--voter-border)" stroke-width="0.5"/>
+<text x="180" y="50" font-size="14" font-weight="500" fill="var(--voter-text)" text-anchor="middle" dominant-baseline="central">Voter</text>
+<text x="180" y="70" font-size="12" fill="var(--voter-text)" text-anchor="middle" dominant-baseline="central">Marks the ballot</text>
+<line x1="180" y1="90" x2="180" y2="124" stroke="var(--arrow)" stroke-width="1.5" marker-end="url(#arrow-plur)" fill="none"/>
+
+<rect x="30" y="130" width="300" height="290" rx="14" fill="var(--container-bg)" stroke="var(--container-border)" stroke-width="0.5"/>
+<text x="50" y="156" font-size="12" fill="var(--label-muted)" dominant-baseline="central">Single-winner voting method</text>
+<text x="50" y="178" font-size="14" font-weight="500" fill="var(--label-strong)" dominant-baseline="central">Plurality voting (choose-one)</text>
+
+<rect x="55" y="200" width="250" height="84" rx="8" fill="var(--ballot-bg)" stroke="var(--ballot-border)" stroke-width="0.5"/>
+<text x="180" y="222" font-size="14" font-weight="500" fill="var(--ballot-title)" text-anchor="middle" dominant-baseline="central">Ballot</text>
+<line x1="55" y1="242" x2="305" y2="242" stroke="var(--ballot-border)" stroke-width="0.5"/>
+<text x="180" y="263" font-size="12" fill="var(--ballot-text)" text-anchor="middle" dominant-baseline="central">Choose one candidate.</text>
+
+<line x1="180" y1="288" x2="180" y2="314" stroke="var(--arrow)" stroke-width="1.5" stroke-dasharray="4 3" marker-end="url(#arrow-plur)" fill="none"/>
+
+<rect x="55" y="318" width="250" height="86" rx="8" fill="var(--count-bg)" stroke="var(--count-border)" stroke-width="0.5"/>
+<text x="180" y="340" font-size="14" font-weight="500" fill="var(--count-title)" text-anchor="middle" dominant-baseline="central">Counting rule</text>
+<line x1="55" y1="360" x2="305" y2="360" stroke="var(--count-border)" stroke-width="0.5"/>
+<text x="180" y="374" font-size="12" fill="var(--count-text)" text-anchor="middle" dominant-baseline="central">The candidate with the most</text>
+<text x="180" y="391" font-size="12" fill="var(--count-text)" text-anchor="middle" dominant-baseline="central">votes wins, majority or not.</text>
+
+<line x1="180" y1="422" x2="180" y2="456" stroke="var(--arrow)" stroke-width="1.5" marker-end="url(#arrow-plur)" fill="none"/>
+
+<rect x="30" y="460" width="300" height="92" rx="8" fill="var(--voter-bg)" stroke="var(--voter-border)" stroke-width="0.5"/>
+<text x="180" y="482" font-size="14" font-weight="500" fill="var(--voter-text)" text-anchor="middle" dominant-baseline="central">Single winner</text>
+<line x1="30" y1="502" x2="330" y2="502" stroke="var(--voter-border)" stroke-width="0.5"/>
+<text x="180" y="518" font-size="12" fill="var(--voter-text)" text-anchor="middle" dominant-baseline="central">Holds the most votes &#8212; not</text>
+<text x="180" y="535" font-size="12" fill="var(--voter-text)" text-anchor="middle" dominant-baseline="central">always more than half of them.</text>
+
+<rect x="360" y="30" width="290" height="262" rx="8" fill="var(--tradeoff-bg)" stroke="var(--tradeoff-border)" stroke-width="0.5"/>
+<text x="375" y="52" font-size="14" font-weight="500" fill="var(--tradeoff-title)" dominant-baseline="central">Tradeoffs</text>
+<line x1="360" y1="72" x2="650" y2="72" stroke="var(--tradeoff-border)" stroke-width="0.5"/>
+<text x="375" y="92" font-size="12" fill="var(--tradeoff-text)" dominant-baseline="central">+  Simple to use</text>
+<text x="375" y="113" font-size="12" fill="var(--tradeoff-text)" dominant-baseline="central">+  Simple to administer</text>
+<text x="375" y="134" font-size="12" fill="var(--tradeoff-text)" dominant-baseline="central">+  Decisive in one round</text>
+<text x="375" y="166" font-size="12" fill="var(--tradeoff-text)" dominant-baseline="central">&#8722;  Can elect a winner without</text>
+<text x="393" y="184" font-size="12" fill="var(--tradeoff-text)" dominant-baseline="central">majority support</text>
+<text x="375" y="206" font-size="12" fill="var(--tradeoff-text)" dominant-baseline="central">&#8722;  Splits similar candidates</text>
+<text x="375" y="228" font-size="12" fill="var(--tradeoff-text)" dominant-baseline="central">&#8722;  Rewards strategic voting</text>
+<text x="375" y="252" font-size="12" fill="var(--tradeoff-text)" dominant-baseline="central">&#8722;  Rewards base mobilization</text>
+<text x="393" y="270" font-size="12" fill="var(--tradeoff-text)" dominant-baseline="central">over broad appeal</text>
+
+<rect x="360" y="310" width="290" height="242" rx="8" fill="var(--mitigation-bg)" stroke="var(--mitigation-border)" stroke-width="0.5"/>
+<text x="375" y="332" font-size="14" font-weight="500" fill="var(--mitigation-title)" dominant-baseline="central">Mitigations</text>
+<line x1="360" y1="352" x2="650" y2="352" stroke="var(--mitigation-border)" stroke-width="0.5"/>
+<text x="375" y="374" font-size="12" fill="var(--mitigation-text)" dominant-baseline="central">&#8226;  Runoff elections</text>
+<text x="375" y="396" font-size="12" fill="var(--mitigation-text)" dominant-baseline="central">&#8226;  Party primaries</text>
+<text x="375" y="418" font-size="12" fill="var(--mitigation-text)" dominant-baseline="central">&#8226;  Candidate coordination</text>
+<text x="393" y="436" font-size="12" fill="var(--mitigation-text)" dominant-baseline="central">or withdrawal</text>
+<text x="375" y="458" font-size="12" fill="var(--mitigation-text)" dominant-baseline="central">&#8226;  Strategic voting</text>
+<text x="375" y="480" font-size="12" fill="var(--mitigation-text)" dominant-baseline="central">&#8226;  Viability signaling</text>
+<line x1="375" y1="504" x2="635" y2="504" stroke="var(--mitigation-border)" stroke-width="0.5"/>
+<text x="375" y="524" font-size="12" fill="var(--mitigation-text)" dominant-baseline="central">None are guaranteed to fully</text>
+<text x="375" y="542" font-size="12" fill="var(--mitigation-text)" dominant-baseline="central">remove vote-splitting.</text>
+</svg>
+</div>
+</body>
+</html>
