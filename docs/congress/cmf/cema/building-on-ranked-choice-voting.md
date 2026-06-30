@@ -1,6 +1,6 @@
-# Building On Ranked Choice Voting
+# Building On Ranked Voting
 
-## A Congressional Elections Modernization Act (CEMA) paper in conversation with the ranked choice voting movement
+## A Position Paper of the Congressional Elections Modernization Act (CEMA)
 
 *Prepared by Albert Ramos for The American Policy Architecture Institute*
 
@@ -32,13 +32,13 @@ The following figure sums up how plurality voting works:
   style="border: 1px solid #333; border-radius: 4px;">
 </iframe>
 
-Now that we have a solid understanding of Plurality Voting and its major tradeoffs and mitigations, wouldn't it be nice if we could have a way to eliminate both vote-splitting and the spoiler effect, not just dampen them? Enter one response: Ranked Choice Voting.
+Now that we have a solid understanding of Plurality Voting and its major tradeoffs and mitigations, wouldn't it be nice if we could have a way to eliminate both vote-splitting and the spoiler effect, not just dampen them? Enter one response: Ranked Voting.
 
 ---
 
-## Ranked Choice Voting Is a Real Improvement on Plurality
+## Ranked Voting Is a Real Improvement on Plurality
 
-Set Ranked Choice Voting beside Plurality Voting and the improvement is immediate.
+Set Ranked Voting beside Plurality Voting and the improvement is immediate.
 
 The choose-one ballot stops listening after one name. The ranked ballot keeps going: it asks the voter to put the candidates in order, first to last, so the count knows not only who a voter most prefers but who they would turn to next, and next after that. When a voter's top choice cannot win, that voter is not simply discarded — their next preference can still speak. That is a genuine advance, and it is why ranked choice has drawn the support it has.
 
