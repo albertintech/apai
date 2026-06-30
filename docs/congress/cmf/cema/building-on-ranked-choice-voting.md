@@ -163,7 +163,7 @@ This is scoring with a built-in runoff, and it has a name: **STAR — Score Then
 <iframe
   src="/assets/visualizations/star-voting.html"
   width="100%"
-  height="440"
+  height="700"
   frameborder="0"
   style="border: 1px solid #333; border-radius: 4px;">
 </iframe>
