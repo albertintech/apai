@@ -2,7 +2,7 @@
 
 ## An Electoral and Congressional Modernization Framework for a Stronger Republic
 
-### Revision 6.1
+### Revision 6.5
 
 ---
 
@@ -52,7 +52,7 @@ Congress finds that:
 
 13. STAR (Score Then Automatic Runoff) voting provides superior preference expression compared to plurality or ranked-choice voting, enabling voters to express nuanced opinions about multiple candidates while maintaining simplicity and avoiding vote-splitting problems that plague other systems.
 
-14. The scale of representation deficiency in the current 435-member House requires timely correction. At present ratios exceeding 760,000 constituents per Representative -- six to seven times larger than peer democracies -- meaningful constituent service and legislative responsiveness have become structurally impossible. A modernized House sized according to the cube root rule, reaching approximately 700 to 720 members under Census Bureau population projections, restores manageable district populations and strengthens legislative effectiveness. An initial expansion to 510 members followed by predictable biennial increases of 35 seats achieves cube root compliance within approximately 14 years -- three presidential terms -- enabling the Nation to realize the democratic benefits of proportional representation and multi-member districts within a single political generation. This accelerated timeline ensures that members who enact these reforms will see their results, voters will experience tangible improvements in representation quality, and institutional modernization proceeds on a human timescale rather than deferring reform impacts to the distant future.
+14. The scale of representation deficiency in the current 435-member House requires timely correction. At present ratios exceeding 760,000 constituents per Representative -- six to seven times larger than peer democracies -- meaningful constituent service and legislative responsiveness have become structurally impossible. A modernized House sized according to the cube root rule, reaching approximately 700 to 720 members under Census Bureau population projections, restores manageable district populations and strengthens legislative effectiveness. An initial expansion to 510 members followed by predictable biennial increases of 35 seats achieves cube root compliance within approximately 14 years -- three presidential terms -- enabling the Nation to realize the democratic benefits of proportional representation and multi-member districts within a single political generation. This accelerated timeline ensures that voters experience tangible improvements in representation quality within a single political generation, while the gradual pace allows the institution to build out the infrastructure needed to absorb new members.
 
 15. State legislatures and city councils successfully operate with proportional representation systems and larger memberships, demonstrating that these reforms are practical, effective, and consistent with American governance traditions.
 
@@ -74,13 +74,11 @@ Congress finds that:
 
 Congress finds that:
 
-21. Electoral reforms create transitional challenges for incumbents whose careers were built under winner-take-all rules. Compensation adjustments that recognize the value of legislative experience and align incumbent incentives with reform goals remove barriers to passage. Proportional representation through Proportional STAR substantially lowers the effective threshold for winning a seat, ensuring that incumbents with meaningful constituent support face reduced -- not increased -- electoral risk under multi-member districts.
+21. The reforms in this Act are designed as an integrated system where each component reinforces the others. Ballot access reform (Title I) enables party competition. Party recognition standards (Title II) provide structure for Joint Endorsement Lists. House expansion (Title III) creates seats for proportional representation. Multi-member districts with Proportional STAR (Title IV) operationalize proportionality. Transition and implementation provisions (Title V) support states in standing up the modernized system. Enforcement and reporting requirements (Title VI) ensure implementation. General provisions (Title VII) resolve technical implementation details.
 
-22. The reforms in this Act are designed as an integrated system where each component reinforces the others. Ballot access reform (Title I) enables party competition. Party recognition standards (Title II) provide structure for Joint Endorsement Lists. House expansion (Title III) creates seats for proportional representation. Multi-member districts with Proportional STAR (Title IV) operationalize proportionality. Compensation, transition, and implementation mechanisms (Title V) align incentives to make passage politically viable. Enforcement and reporting requirements (Title VI) ensure implementation. General provisions (Title VII) resolve technical implementation details.
+22. These reforms address root causes rather than symptoms. While campaign finance reform, redistricting commissions, and term limits treat symptoms of uncompetitive elections, this Act restructures the fundamental electoral architecture to restore competition and proportional representation.
 
-23. These reforms address root causes rather than symptoms. While campaign finance reform, redistricting commissions, and term limits treat symptoms of uncompetitive elections, this Act restructures the fundamental electoral architecture to restore competition and proportional representation.
-
-24. Implementing STAR voting universally for all congressional elections -- both for single-winner contests (Senate and House elections in states with fewer than three Representatives) and proportional contests (multi-member House districts via Proportional STAR) -- creates consistent voter experience across all congressional races, enables institutional learning and expertise development in election administration, and simplifies voter education by maintaining the same ballot marking method (score-then-preference) regardless of office or district structure.
+23. Implementing STAR voting universally for all congressional elections -- both for single-winner contests (Senate and House elections in states with fewer than three Representatives) and proportional contests (multi-member House districts via Proportional STAR) -- creates consistent voter experience across all congressional races, enables institutional learning and expertise development in election administration, and simplifies voter education by maintaining the same ballot marking method (score-then-preference) regardless of office or district structure.
 
 ---
 
@@ -90,80 +88,100 @@ Congress finds that:
 
 #### (a) Uniform Federal Standard
 
-For all congressional elections, states shall grant ballot access to any candidate who satisfies one of the following criteria:
+For all congressional elections, a State shall grant ballot access to any candidate who satisfies the petition requirement of subsection (b). Ballot access is governed exclusively by this Title. No nomination by a political party, and no payment of any fee, shall be required for, or shall substitute for, the petition requirement, and neither shall confer ballot access that this Title does not otherwise provide.
 
-1. **Major Party Nomination**: Nomination by a federally recognized political party whose candidate for the same office received at least 5% of the vote in the most recent election for that office in that state; or
+#### (b) Petition Requirement
 
-2. **Signature Threshold**: Petition signed by registered voters equal to 0.5% of votes cast for that office in the most recent election in that state, with the following provisions:
-   - No state may require more than 5,000 signatures for statewide office;
-   - No state may require more than 1,000 signatures for House districts;
-   - Signatures may be collected via secure electronic methods approved by the FEC;
-   - States must accept signatures from any registered voter in the relevant jurisdiction regardless of party affiliation; and
-   - States must provide at least 120 days for signature collection following the candidate filing deadline.
+A candidate qualifies for the general election ballot by submitting a petition signed by registered voters of the relevant jurisdiction in a number not exceeding the applicable maximum, subject to the following provisions:
 
-3. **Filing Fee Alternative**: Payment of a filing fee not exceeding $1,000 for House seats or $2,500 for statewide office, with such fees adjusted annually for inflation using the Consumer Price Index.
+1. **Applicable maximum.** The maximum number of signatures a State may require is:
+   - For a candidate for the House of Representatives, the greater of two hundred fifty (250) signatures or 0.25% of the active-voter base for the district; and
+   - For a candidate for the Senate, the greater of two hundred fifty (250) signatures or 0.10% of the active-voter base for the State.
 
-#### (b) Prohibition on Additional Requirements
+2. **Senate ceiling.** Notwithstanding paragraph (1), no State may require more than four thousand (4,000) signatures for a candidate for the Senate. This ceiling is a fixed number and is not adjusted for inflation, population, or any other factor.
 
-States may not impose ballot access requirements beyond those specified in subsection (a), including but not limited to:
+3. **No House ceiling.** No fixed numerical ceiling applies to candidates for the House of Representatives; the applicable maximum for such candidates is the percentage-based figure in paragraph (1), bounded below by the floor in that paragraph.
+
+4. **Active-voter base.** For purposes of this Title, the "active-voter base" of a jurisdiction means the average number of votes cast in elections for the relevant office in that jurisdiction across the most recent five general elections for that office, computed and published by the Electoral Science Office under Section 409 in a transparent and reproducible manner. The base is computed office-to-office: the base for a House district uses votes cast for the House in that district, and the base for a Senate seat uses votes cast for the Senate in that State.
+
+5. **Newly constituted jurisdictions.** For any jurisdiction lacking five prior general elections for the relevant office, the Electoral Science Office shall compute the active-voter base from the general elections available for that office. Where a House district has been newly drawn and lacks sufficient election history of its own, the Office shall use the State's average votes cast for the House per district across the most recent five general elections as the base until the district accumulates its own history. Where no prior general election data exist for a jurisdiction, the floor in paragraph (1) governs.
+
+6. **Eligible signers.** A State shall accept signatures from any registered voter in the relevant jurisdiction regardless of party affiliation or non-affiliation, and regardless of whether the voter participated in any other nominating process.
+
+7. **Collection method.** Signatures may be collected by physical or by secure electronic methods approved by the Federal Election Commission. A State that operates a secure electronic petition portal shall count signatures submitted through that portal toward the applicable maximum.
+
+8. **Collection window.** A State shall provide candidates at least one hundred twenty (120) days to collect signatures preceding the candidate filing deadline.
+
+#### (c) Prohibition on Additional Requirements
+
+A State may not impose ballot access requirements beyond the petition requirement specified in subsection (b), including but not limited to:
 
 1. Party enrollment or registration thresholds;
 2. Demonstration of prior electoral performance;
-3. Mandatory primary participation;
-4. Requirements to demonstrate "substantial support" beyond the signature thresholds specified; or
-5. Any other barrier not explicitly authorized by this section.
+3. Mandatory primary or other nominating-process participation, or conditioning access on participation or non-participation in any such process;
+4. A requirement to demonstrate "substantial support" beyond the signatures specified in subsection (b);
+5. A mandatory filing fee, or a fee offered as an alternative to or in substitution for the petition requirement;
+6. A requirement that signatures be distributed across counties, municipalities, or other geographic subdivisions within the relevant jurisdiction;
+7. Notarization of voter signatures or of individual petition sheets; a circulator declaration made under penalty of perjury is the maximum verification a State may require of a circulator; or
+8. Any other barrier not explicitly authorized by this section.
 
-#### (c) Early Access Deadline
+#### (d) Early Access Deadline
 
-States must establish candidate filing deadlines that provide at least 120 days before the election for candidates meeting the requirements of subsection (a) to collect signatures or file necessary paperwork.
+A State shall establish candidate filing deadlines that provide at least one hundred twenty (120) days before the election for candidates to collect signatures and file necessary paperwork under subsection (b).
 
-#### (d) Streamlined Verification
+#### (e) Verification, Cure, and Submission Cushion
 
-States must:
+A State shall:
 
-1. Verify petition signatures within 30 days of submission;
-2. Provide candidates with preliminary signature counts within 15 days;
-3. Permit candidates to submit supplemental signatures to cure deficiencies; and
-4. Establish transparent, consistent standards for signature validity.
+1. Permit a candidate to submit a number of signatures exceeding the applicable maximum, in an amount not less than one hundred fifty percent (150%) of that maximum, to account for signatures that may be found invalid;
+
+2. Verify petition signatures within thirty (30) days of submission and provide the candidate a preliminary signature count within fifteen (15) days of submission;
+
+3. Establish, and publish in advance of the collection window, transparent and consistent standards for signature validity and the verification method used, whether by sampling or by full review; and
+
+4. Before rejecting any signature or petition sheet for a technical defect, omission, or registration discrepancy, provide the candidate actual notice of the defect and a period of not less than seven (7) days, running from the candidate's receipt of that notice, to cure the defect or to submit replacement signatures.
 
 ### Section 102. Independent and Minor Party Candidates
 
 #### (a) Equal Treatment
 
-States must treat independent and minor party candidates identically to major party candidates with respect to:
+A State shall treat all candidates identically, regardless of party endorsement or the absence of party endorsement, with respect to:
 
 1. Ballot position (determined by random selection or rotation);
 2. Ballot designation and formatting;
 3. Access to voter lists and election information;
 4. Participation in official voter guides and candidate forums; and
-5. All other aspects of election administration not explicitly reserved for party nominees.
+5. All other aspects of election administration.
 
 #### (b) Party Label Rights
 
-Candidates may:
+A candidate may:
 
-1. Appear on the ballot with party designation of their choice, subject to Section 203 (Joint Endorsement Lists);
-2. Decline party designation and appear as "Independent";
-3. Include up to three party endorsements on the ballot if those parties have formally endorsed the candidate under procedures established in Title II.
+1. Appear on the ballot with a party designation of the candidate's choice, subject to Section 203 (Joint Endorsement Lists);
+2. Decline any party designation and appear as "Independent"; and
+3. Display up to three party endorsements on the ballot, where those parties have formally endorsed the candidate under the procedures established in Title II.
+
+A party endorsement, designation, or label is informational only. It confers no ballot access and no advantage in ballot access; access is governed exclusively by Section 101.
 
 ### Section 103. Write-In Candidates
 
 #### (a) Write-In Rights
 
-States must permit and count write-in votes for all federal offices, provided the write-in candidate has filed a declaration of write-in candidacy with state election officials at least 30 days before the election.
+A State shall permit and count write-in votes for all congressional offices, provided the write-in candidate has filed a declaration of write-in candidacy with State election officials at least thirty (30) days before the election.
 
 #### (b) Declaration Requirements
 
-Write-in candidate declarations may require only:
+A write-in candidate declaration may require only:
 
-1. Candidate name, address, and contact information;
-2. Sworn statement of eligibility for the office;
-3. Filing fee not exceeding $100; and
-4. Designation of how the candidate's name should appear in vote tallies.
+1. The candidate's name, address, and contact information;
+2. A sworn statement of eligibility for the office; and
+3. A designation of how the candidate's name should appear in vote tallies.
+
+No fee shall be required for a declaration of write-in candidacy.
 
 ### Section 104. Preemption
 
-This Title supersedes any conflicting state constitutional provisions, statutes, regulations, or local ordinances regarding ballot access for congressional elections. State laws that provide easier ballot access than required by this Title remain valid.
+This Title supersedes any conflicting State constitutional provision, statute, regulation, or local ordinance regarding ballot access for congressional elections. A State law that provides easier ballot access than this Title requires remains valid.
 
 ### Section 105. FEC Implementation Authority
 
@@ -174,18 +192,22 @@ The Federal Election Commission shall, within 180 days of enactment, promulgate 
 1. Standards for electronic signature collection systems;
 2. Procedures for resolving ballot access disputes;
 3. Model forms for candidate declarations and petitions;
-4. Standards for signature verification and validation; and
-5. Requirements for state reporting on ballot access compliance.
+4. Standards for signature verification and validation, consistent with Section 101(e); and
+5. Requirements for State reporting on ballot access compliance.
 
-#### (b) Technical Assistance
+#### (b) Coordination with the Electoral Science Office
 
-The FEC shall provide technical assistance to states in implementing these requirements, including model legislation, administrative procedures, and best practices.
+The Federal Election Commission shall coordinate with the Electoral Science Office on the computation and publication of the active-voter base under Section 101(b)(4) and (5). The Electoral Science Office shall publish, for each congressional jurisdiction and in advance of each collection window, the active-voter base and the resulting applicable maximum.
+
+#### (c) Technical Assistance
+
+The Federal Election Commission shall provide technical assistance to States in implementing these requirements, including model legislation, administrative procedures, and best practices.
 
 ### Section 106. Enforcement and Remedies
 
 #### (a) Private Right of Action
 
-Any candidate denied ballot access in violation of this Title may bring a civil action in federal district court for declaratory and injunctive relief.
+Any candidate denied ballot access in violation of this Title, including by the imposition of a requirement exceeding the applicable maximum under Section 101, may bring a civil action in federal district court for declaratory and injunctive relief.
 
 #### (b) Expedited Review
 
@@ -197,48 +219,81 @@ Courts may award reasonable attorney's fees to prevailing plaintiffs in actions 
 
 #### (d) FEC Enforcement
 
-The FEC may investigate complaints and bring enforcement actions against states that systematically violate this Title's requirements.
+The Federal Election Commission may investigate complaints and bring enforcement actions against States that systematically violate this Title's requirements.
 
 ### Section 107. Safe Harbor
 
-States that implement ballot access procedures in accordance with FEC regulations promulgated under Section 105 shall be deemed in compliance with this Title.
+A State that implements ballot access procedures in accordance with Federal Election Commission regulations promulgated under Section 105 shall be deemed in compliance with this Title.
 
 ### Section 108. Effective Date
 
-This Title takes effect 24 months after the date of enactment, applying to all congressional elections held after that date.
+This Title takes effect as of the First CEMA Election, as defined in Section 704, and applies to all congressional elections held on or after that date.
 
 ---
 
 ## TITLE II: FEDERAL PARTY RECOGNITION AND JOINT ENDORSEMENT LISTS
 
+**Framing principle for Sections 201 through 204.** Party recognition under these sections is a federal determination made for a single purpose: eligibility to appear as an endorsing party on congressional ballots. The Elections Clause authorizes Congress to determine the manner in which candidates for the House and Senate reach the ballot and the manner in which parties may endorse and be recognized for that purpose. These sections exercise that authority and reach nothing else. Throughout, a state is referred to only as the geographically bounded unit to which Representatives are apportioned and within which a Senator is elected; it is the constituency a federal office is scoped to, not an authority whose law, discretion, or recognition standards bear on any determination under these sections. Nothing here regulates, displaces, or depends upon a state's recognition of parties for the state's own offices, which remains entirely the state's prerogative.
+
 ### Section 201. Federal Party Recognition Standards
 
-#### (a) Qualification Requirements
+#### (a) Two Tiers of Recognition
 
-To qualify as a federally recognized political party eligible for Joint Endorsement Lists on federal ballots, an organization must meet one of the following criteria:
+Party recognition is granted by uniform federal standard, at two tiers, solely for the purpose of eligibility to endorse on congressional ballots:
 
-1. **Electoral Performance Standard**: The party's candidate for President, Senate, or House received at least 5% of votes cast in the most recent election for President, Senator, or Representative in at least 15 states; or
+1. **National recognition** (subsection (b)) makes a party eligible to endorse on congressional ballots in every state.
 
-2. **Membership Standard**: The party demonstrates:
-   - At least 100,000 registered members nationally;
+2. **Delegation recognition** (subsection (c)) makes a party eligible to endorse on the congressional ballots of a particular state's House and Senate offices, on a uniform federal standard applied within each state's federal constituency. "Delegation" refers to the federal offices apportioned to that state, not to the state government.
+
+Both tiers are fixed by federal standard so that no state, and no incumbent party, may set or alter the standard by which a rival party is recognized for congressional-ballot purposes. A party may hold national recognition, or delegation recognition as to one or more states' congressional offices, or both. Recognition at either tier confers eligibility for Joint Endorsement Lists under Section 203 only on the congressional ballots to which the recognition extends.
+
+#### (b) National Recognition Standard
+
+A party qualifies as a nationally recognized political party by meeting either of the following:
+
+1. **Electoral Performance Standard.** The party's candidate for Senate or House received at least 5% of votes cast in the most recent election for Senator or Representative in at least 15 states; or
+
+2. **Membership Standard.** The party demonstrates:
+   - At least 100,000 enrolled members nationally;
    - Members in at least 25 states;
    - No single state comprising more than 25% of total membership;
    - Formal organizational structure including bylaws, elected leadership, and regular governance meetings;
    - Democratic internal decision-making processes for endorsements; and
    - Basic financial transparency with annual reporting to the FEC.
 
-#### (b) Maintenance Requirements
+#### (c) Delegation Recognition Standard
 
-Federally recognized political parties shall maintain status by:
+A party qualifies as a delegation-recognized political party as to a given state's congressional offices by meeting, within that state's federal constituency, any one of the following pathways. The use of multiple independent pathways is deliberate: it prevents the effective bar from being inflated through the manipulation of any single pathway, and ensures the standard does not depend on any single state-administered figure.
 
-1. Meeting either the electoral performance or membership standard in each four-year cycle;
-2. Filing annual reports with the FEC documenting organizational structure, membership, and finances;
-3. Maintaining democratic internal procedures for candidate endorsements; and
-4. Endorsing at least one federal candidate every four years.
+1. **Electoral Performance Pathway.** The party's candidate for Senator or Representative received votes equal to at least 1% of the active-voter base for the relevant office in that state, in the most recent general election for that office. The active-voter base is the figure computed and published by the Electoral Science Office under Section 101(b)(4); the threshold is measured against that federal figure and not against votes cast for any state-designated office; or
 
-#### (c) Grandfather Provision
+2. **Enrollment Pathway.** Enrolled members or affiliates of the party within that state number at least 1% of the statewide active-voter base for the office of Representative, as computed by the Electoral Science Office. Where party enrollment is not recorded for a state's voters, this pathway is satisfied by an equivalent showing of enrolled membership maintained by the party and verifiable by the FEC; or
 
-Parties currently recognized on any state ballot as of the date of enactment automatically receive federal recognition without meeting the thresholds in subsection (a) for four years, during which they must achieve compliance with subsection (a) standards to maintain recognition.
+3. **Petition Pathway.** The party files a petition signed by registered voters within that state numbering at least 1% of the statewide active-voter base for the office of Representative, as computed by the Electoral Science Office, but in no case more than eight thousand (8,000) signatures. This ceiling applies only to the Petition Pathway; it is a fixed number, is not adjusted for inflation, population, or any other factor, and is set at twice the Senate candidate ceiling under Section 101(b)(2). The Electoral Performance and Enrollment Pathways are not subject to any ceiling.
+
+#### (d) Maintenance and Retention
+
+A party retains recognition by meeting a retention standard no higher than the standard required for initial recognition at the same tier, measured over a longer window so that a single weak election does not strip a genuine party:
+
+1. **National retention.** A nationally recognized party retains national recognition by meeting either national standard in subsection (b) at least once in each four-year cycle, and by filing annual reports with the FEC documenting organizational structure, membership, and finances.
+
+2. **Delegation retention.** A delegation-recognized party retains recognition as to a state's congressional offices by meeting any one of the pathways in subsection (c) in at least one of the two most recent general elections for the relevant office. Recognition is not lost for failing to meet the standard in a single election so long as it was met in either of the two most recent applicable elections.
+
+3. Parties at both tiers shall maintain democratic internal procedures for candidate endorsements and shall endorse at least one congressional candidate within each four-year cycle on a congressional ballot to which their recognition extends.
+
+#### (e) Name and Description Integrity
+
+1. **Confusing-similarity refusal.** The FEC shall refuse recognition of a party whose name or description is likely to be confused, by a reasonable voter, with the name or description of an existing federally recognized party. At the national tier, the comparison is against all nationally recognized parties. At the delegation tier, the comparison is against all nationally recognized parties and against all parties already delegation-recognized as to the same state's congressional offices.
+
+2. **Standard of review.** A name or description is refused only on a finding of likely confusion to a reasonable voter; mere similarity, shared common words, or shared ideological terms are not alone sufficient. The FEC shall publish the standards it applies under this subsection in advance.
+
+3. **Lineage and tradition names protected.** A party may adopt a name or description that references a political tradition, ideological family, or party of origin, including by incorporating the name of an existing party together with a distinguishing modifier, provided the name as a whole remains distinguishable to a reasonable voter from the name of the existing party. Names of this kind shall not be refused merely because they reference an existing party's tradition or lineage. What is refused is a name that appropriates an existing party's identity rather than referencing it: a name that a reasonable voter would take to be the existing party itself, or its official affiliate, rather than a distinct party. This subsection ensures that a party formed by realignment or breakaway from an existing party may truthfully signal its origin, and that the confusing-similarity standard cannot be used by an existing party to prevent a legitimate successor or splinter party from naming itself.
+
+4. **Priority.** As between two applicants, recognition of a name or description is available to the first to qualify; a later applicant bearing a confusingly similar name or description is refused as to that name or description but may qualify under a distinct name or description.
+
+#### (f) Grandfather Provision
+
+A party appearing on a state's congressional ballot, or recognized for a state's offices, as of the date of enactment automatically receives recognition under this Title -- delegation recognition as to each state's congressional offices where it so appeared, and national recognition if it met a national standard in subsection (b) -- without meeting the thresholds in subsections (b) and (c) for four years, during which it must achieve compliance to maintain recognition. The Name and Description Integrity provisions of subsection (e) apply to a grandfathered party only as against parties recognized before it; a grandfathered party is not refused recognition of a name it lawfully used on a ballot as of the date of enactment.
 
 ### Section 202. Party Registration
 
@@ -246,20 +301,23 @@ Parties currently recognized on any state ballot as of the date of enactment aut
 
 Organizations seeking federal party recognition shall file with the Federal Election Commission:
 
-1. Formal bylaws and organizational documents;
-2. List of elected party leadership;
-3. Membership verification documentation (if using membership standard);
-4. Electoral performance data (if using electoral performance standard);
-5. Financial disclosure statement; and
-6. Procedures for democratic endorsement decisions.
+1. The tier sought and, for delegation recognition, the state or states to whose congressional offices recognition is to extend;
+2. Formal bylaws and organizational documents;
+3. List of elected party leadership;
+4. The proposed party name and any ballot description;
+5. Membership or enrollment verification documentation (if using a membership or enrollment pathway);
+6. Electoral performance data (if using an electoral performance pathway);
+7. Petition signatures (if using the petition pathway);
+8. Financial disclosure statement; and
+9. Procedures for democratic endorsement decisions.
 
 #### (b) FEC Review and Approval
 
-The FEC shall review applications and grant recognition to qualifying parties within 60 days of filing. Parties denied recognition may appeal to federal district court.
+The FEC shall review applications and grant recognition to qualifying parties within 60 days of filing. Review under this subsection includes verification that the applicable qualification standard in Section 201 is met and that the party's name and description satisfy the Name and Description Integrity standard in Section 201(e). Parties denied recognition may appeal to federal district court.
 
 #### (c) Public Database
 
-The FEC shall maintain a publicly accessible database of all federally recognized parties, updated quarterly.
+The FEC shall maintain a publicly accessible database of all federally recognized parties, updated quarterly, identifying for each party its tier of recognition and, for delegation-recognized parties, the state or states to whose congressional offices its recognition extends.
 
 ### Section 203. Joint Endorsement Lists
 
@@ -290,106 +348,13 @@ Federally recognized parties determine their own endorsement procedures through 
 
 Parties may endorse candidates who receive endorsements from other parties. No party may prohibit endorsed candidates from accepting additional endorsements.
 
+#### (e) Scope of Endorsement Display by Tier
+
+A nationally recognized party's endorsement is eligible for display on the congressional ballot in every state. A delegation-recognized party's endorsement is eligible for display only on the congressional ballots of the state or states to whose congressional offices its recognition extends.
+
 ### Section 204. Election Administration Services for Party Nomination Processes
 
-#### (a) Authorization
-
-State and local election authorities may enter into contracts with federally recognized political parties under Section 201, or with political parties recognized under applicable state law, to provide election administration services for the party's internal candidate selection processes. No election authority is required to enter into such a contract.
-
-#### (b) Scope of Services
-
-Services available under contract may include any function the election authority performs in the administration of public elections, including but not limited to:
-
-1. Use of polling facilities and election sites;
-2. Ballot design, printing, and distribution;
-3. Provision of voting equipment, including ballot scanners and tabulation systems;
-4. Staffing of election workers and poll personnel;
-5. Voter check-in and credential verification systems;
-6. Vote tabulation, canvassing, and results certification;
-7. Absentee and mail ballot administration; and
-8. Post-election auditing procedures.
-
-#### (c) Equal Access
-
-**(1) Nondiscrimination Requirement**
-
-An election authority that enters into a contract under this section with any political party shall make equivalent services available, on equivalent terms, to every federally recognized political party under Section 201 and every political party recognized under applicable state law that requests such services for the same election cycle.
-
-**(2) Terms**
-
-Equivalent terms include pricing, scheduling priority, service scope, and quality of service. An election authority may not offer preferential terms to any party or impose terms on any party that are less favorable than those offered to any other party.
-
-#### (d) Cost Recovery
-
-**(1) Full Reimbursement**
-
-All costs incurred by the election authority in providing services under this section shall be borne entirely by the contracting party. Contracts shall provide for full cost recovery, including direct costs, administrative overhead, and any incremental costs attributable to the party's election.
-
-**(2) Pricing Standard**
-
-Contract pricing shall reflect the actual marginal costs of providing the requested services, including personnel time, equipment deployment, facility use, consumable materials, and a proportionate share of administrative overhead. Overhead rates shall be consistent with the cost allocation methodology the election authority applies to its administration of public elections. An election authority may not set pricing at a level that bears no reasonable relationship to the actual cost of the services rendered.
-
-**(3) No Public Subsidy**
-
-No federal, state, or local public funds shall be used to subsidize services provided under this section. Election authorities shall maintain accounting records sufficient to demonstrate that all costs are fully recovered from the contracting party.
-
-**(4) Published Rate Schedule**
-
-An election authority that enters into or offers to enter into a contract under this section shall publish a schedule of rates for available services. The rate schedule shall be made available to any political party upon request and shall be a public record.
-
-#### (e) Scheduling
-
-**(1) Party Discretion**
-
-The scheduling of a party's internal candidate selection process under this section is the party's prerogative.
-
-**(2) Election Authority Discretion**
-
-The election authority may establish reasonable periods during which services under this section are unavailable, including periods necessary for preparation, administration, and certification of general elections under this Act and state and local elections. No contract under this section shall require the election authority to provide services during any period the authority determines would compromise its capacity to administer public elections.
-
-**(3) Limitation on Unavailability Periods**
-
-An election authority may not designate more than one hundred twenty (120) cumulative calendar days in any calendar year as unavailable for services under this section. Unavailability periods shall be published at least ninety (90) days in advance of the period's commencement.
-
-**(4) Dispute Resolution**
-
-A political party that believes an election authority has established unavailability periods or scheduling terms that are pretextual, unreasonable, or applied in a discriminatory manner may file a complaint with the Federal Election Commission. The FEC shall investigate and may order the election authority to modify its scheduling terms if the Commission finds that the terms lack a reasonable operational basis or are applied unequally among parties.
-
-#### (f) Voting Method
-
-The voting method used in a party's internal candidate selection process under this section is the party's choice. This Act does not prescribe the voting method for party nomination processes.
-
-#### (g) Public Record
-
-All contracts entered into under this section shall be public records, available for inspection by any person upon request.
-
-#### (h) Firewall Provisions
-
-**(1) No Effect on Ballot Access**
-
-The results of a party's internal candidate selection process conducted under this section shall not restrict, limit, or otherwise affect which candidates appear on the general election ballot under Title I. A candidate's participation or non-participation in a party's internal process, and the outcome of that process, have no bearing on candidate eligibility or ballot access.
-
-**(2) No Effect on Joint Endorsement Lists**
-
-Nothing in this section alters a party's obligations or procedures under Section 203. A party's use of election administration services under this section to conduct an internal process does not convert that process into a state-administered election.
-
-**(3) Voter Data Protection**
-
-Voter registration data, participation records, and any other voter information collected or accessed by the election authority in the course of providing services under this section shall not be disclosed to the contracting party except as otherwise required by applicable state or federal law governing public access to voter records. The election authority shall not compile, retain, or transmit to the contracting party any record of individual voter participation in the party's internal process beyond what is necessary for the administration of that process.
-
-**(4) Official Indicia Prohibition and Voter Disclosure**
-
-   (A) **Prohibition on Official Indicia.** Ballots, envelopes, instructions, and all other materials produced or distributed by an election authority in the course of providing services under this section shall not bear the official seal, logo, letterhead, or institutional branding of the election authority, the state, or any political subdivision thereof. Materials shall not be formatted, designed, or presented in a manner that could reasonably cause a voter to believe they are participating in a state-administered election.
-
-   (B) **Party Identification.** All materials produced under a contract authorized by this section shall prominently display the name of the contracting political party and shall identify the process as an internal party candidate selection process conducted at the party's expense.
-
-   (C) **Required Disclosure.** All ballots and accompanying materials distributed to voters under this section shall include the following disclosure in conspicuous type:
-
-   "This is an internal candidate selection process conducted by [Party Name] at the party's expense. It is not a state-administered election. Your participation or non-participation in this process has no effect on your eligibility to vote in the general election or on any candidate's access to the general election ballot."
-
-   The disclosure shall appear on the ballot itself and on any envelope or cover sheet accompanying the ballot. The bracketed party name shall be replaced with the name of the contracting party.
-
-   (D) **Election Authority Compliance.** An election authority providing services under this section shall not produce or distribute materials that fail to comply with this paragraph. An election authority that becomes aware that materials produced under its contract have been altered by the contracting party to add official indicia or remove required disclosures may terminate the contract immediately.
+[Reserved]
 
 ### Section 205. Preemption
 
@@ -408,7 +373,7 @@ The Federal Election Commission shall, within 180 days of enactment, promulgate 
 
 ### Section 207. Effective Date
 
-This Title takes effect 24 months after the date of enactment, applying to all congressional elections held after that date.
+This Title takes effect as of the First CEMA Election, as defined in Section 704, and applies to all congressional elections held on or after that date.
 
 ---
 
@@ -629,7 +594,7 @@ This requirement applies to:
 
 #### (b) Implementation Timeline
 
-STAR voting for all congressional elections takes effect for the first congressional elections held at least 24 months after enactment.
+STAR voting for all congressional elections takes effect as of the First CEMA Election, as defined in Section 704, and applies to all congressional elections held on or after that date.
 
 #### (c) Ballot Format
 
@@ -642,7 +607,9 @@ Ballots shall display all qualified candidates with scoring interface allowing v
 
 #### (d) Unified General Election Structure
 
-For all congressional elections, qualified candidates appear directly on the general election ballot without state-administered primary elections.
+Congressional elections under this Act shall present the full field of qualified candidates to the electorate. Every candidate meeting the ballot access requirements of Title I shall appear before the voters on a single general election ballot, and the electorate shall weigh the full field. Political parties signal their preferences through endorsements displayed on that ballot under Title II; no party or governmental process shall narrow the field presented to the electorate by filtering candidates off the ballot in advance of the general election.
+
+This standard is guaranteed through the prohibition stated in paragraph (1) below.
 
 **(1) Single General Election Requirement**
 
@@ -653,7 +620,7 @@ This requirement applies uniformly to:
 - All House of Representatives elections, regardless of district type; and
 - All United States Senate elections.
 
-No State or political subdivision thereof shall administer a primary election for nomination to the Congress, unless such administrative services are provided under contract with, and at the expense of, the requesting political party, subject to the requirements of Section 204.
+**(1.1) No State Enforcement of Primary Results.** No State or political subdivision thereof shall give legal effect to the result of any primary or internal candidate selection process by conditioning, restricting, or determining access to the general election ballot on that result. A candidate's place on the general election ballot is governed exclusively by the ballot access requirements of Title I. The result of any party internal candidate selection process has no effect on ballot access; it may inform a party's endorsement through the Joint Endorsement List under Section 203, but it shall not operate as a ballot-access gate.
 
 **(2) Rationale**
 
@@ -679,8 +646,6 @@ Political parties retain full autonomy to conduct internal candidate selection p
 
 Such party processes:
 
-- Shall be funded entirely by the party conducting them;
-- Shall not use state election infrastructure or personnel, except through fee-for-service contracts authorized under Section 204;
 - Shall not restrict which candidates appear on the general election ballot; and
 - Shall not affect candidate eligibility or ballot access under Title I.
 
@@ -690,8 +655,8 @@ This unified general election structure:
 
 - Exercises Elections Clause authority to regulate the "manner of holding elections" for congressional office;
 - Establishes uniform national standards for congressional elections consistent with Congressional authority;
-- Does not prohibit party activity but separates party processes from state-administered elections;
-- Preserves party autonomy by permitting internal nomination processes at party expense;
+- Does not prohibit party activity; party nomination processes simply carry no legal effect on general election ballot access;
+- Preserves party autonomy over internal nomination processes;
 - Ensures equal voter participation regardless of party affiliation or state of residence; and
 - Advances legitimate governmental interests in administrative efficiency, voter participation, electoral consistency, and democratic integrity.
 
@@ -892,7 +857,7 @@ Published model ballot designs shall serve as the compliance standard for purpos
 
 **(1) Physical Separation Requirement**
 
-Congressional elections conducted under this Act shall appear on a ballot sheet physically separate from all state and local contests. The congressional ballot sheet shall contain only contests governed by this Act.
+Congressional elections conducted under this Act shall appear on a ballot sheet physically separate from all state and local contests. The congressional ballot sheet shall contain only contests governed by this Act. This separation presents the full field of qualified candidates to the voter as a single, complete set of choices for congressional office, distinct from all other contests, so that the electorate weighs the full field as the unified general election standard of Section 404(d) requires.
 
 **(2) Contents**
 
@@ -1048,6 +1013,7 @@ The ESO shall be responsible for:
 8. Academic and institutional research partnerships as specified in paragraph (6);
 9. Development, production, and nationwide distribution of voter education materials regarding voting method mechanics, ballot marking procedures, electoral outcomes, and the scientific basis for electoral procedures adopted under this Act, through a dedicated media and public education division within the ESO; and
 10. Publication of findings, data, methodologies, and recommendations in forms accessible to Congress, state election officials, academic researchers, and the general public.
+11. Computation and publication of the active-voter base for each congressional jurisdiction as required by Section 101(b), in a transparent and reproducible manner.
 
 **(4) Independence**
 
@@ -1458,6 +1424,11 @@ The ESO shall submit an annual report to Congress summarizing:
 3. Implementation status of any approved modifications;
 4. Research priorities for the coming year; and
 5. Budget and staffing requirements.
+6. The operation and effect of the Senate signature ceiling under Section 101(b)(2), reported as facts only and without recommendation, including the number of Senate jurisdictions bound by the fixed signature ceiling rather than by the percentage-based maximum during the reporting period, and, for each such jurisdiction, the active-voter base and the percentage-based figure that the ceiling displaced.
+
+**(4) Active-Voter Base Publication**
+
+The ESO shall compute and publish, for each congressional jurisdiction and in advance of each candidate signature-collection window, the active-voter base required by Section 101(b)(4) and the resulting applicable maximum signature requirement under Section 101(b). Computation shall use the average number of votes cast for the relevant office in that jurisdiction across the most recent five general elections for that office, computed office-to-office, such that the base for a House district uses votes cast for the House in that district and the base for a Senate seat uses votes cast for the Senate in that State. For a newly drawn House district lacking sufficient election history of its own, the ESO shall use the State's average votes cast for the House per district across the most recent five general elections, as provided in Section 101(b)(5). The ESO shall publish, in its public database under paragraph (2), the underlying election returns used, the averaging method applied, the resulting active-voter base, and the resulting applicable maximum for each House district and each Senate seat, in a form permitting independent reproduction of each computed figure.
 
 #### (j) Interagency Coordination
 
@@ -1750,178 +1721,23 @@ Amounts authorized under this section shall remain available until expended.
 
 ---
 
-## TITLE V: COMPENSATION, TRANSITION, AND IMPLEMENTATION
+## TITLE V: TRANSITION AND IMPLEMENTATION
 
 ### Section 501. Purpose
 
-This Title establishes compensation and transition mechanisms designed to align incumbent incentives with the reform objectives of this Act. Provisions in this Title take effect on one of two timelines:
+This Title establishes transition and implementation mechanisms for a modernized Congress. All operative provisions in this Title take effect upon the Immediate Effective Date.
 
-1. **Immediate Provisions**: Taking effect upon the Immediate Effective Date; and
-2. **First CEMA Election Provisions**: Taking effect at the First CEMA Election.
+### Section 502. Congressional Compensation Standard
 
-### Section 502. Congressional Compensation Adjustment
-
-#### (a) Phased Salary Increases
-
-**(1) House of Representatives**
-
-The annual rate of pay for members of the House of Representatives shall increase according to the following schedule:
-   - Year 1 (beginning on the Immediate Effective Date): $189,200
-   - Year 2 (first January 1 following Year 1): $204,400
-   - Year 3 (first January 1 following Year 2): $219,600
-   - Year 4 (first January 1 following Year 3): $234,800
-   - Year 5 (first January 1 following Year 4): $250,000
-
-**(2) United States Senate**
-
-The annual rate of pay for members of the United States Senate shall increase according to the following schedule:
-   - Year 1 (beginning on the Immediate Effective Date): $199,200
-   - Year 2 (first January 1 following Year 1): $224,400
-   - Year 3 (first January 1 following Year 2): $249,600
-   - Year 4 (first January 1 following Year 3): $274,800
-   - Year 5 (first January 1 following Year 4): $300,000
-
-**(3) Timing**
-
-The Year 1 increase takes effect on the Immediate Effective Date. Subsequent increases take effect on January 1 of each following year.
-
-#### (b) Automatic Cost-of-Living Adjustments
-
-Beginning one year after Year 5 compensation takes effect, congressional salaries shall be adjusted annually for cost-of-living increases using the Employment Cost Index (ECI) for wages and salaries of workers in private industry, as calculated by the Bureau of Labor Statistics, without requiring further congressional votes.
-
-#### (c) Superseding Provision
-
-This section supersedes 2 U.S.C. Section 4501 (congressional pay adjustment) to the extent inconsistent with this section.
-
-#### (d) Effective Date
-
-This section takes effect on the Immediate Effective Date.
-
-#### (e) Voluntary Compensation Hold
-
-**(1) Election to Hold**
-
-Any member of Congress may elect to forgo the difference between the compensation rate established under subsection (a) or (b) and the rate of compensation in effect immediately before the Immediate Effective Date by filing written notice with the Clerk of the House of Representatives or the Secretary of the Senate, as applicable.
-
-**(2) Hold Period and Irrevocability**
-
-Each election under this subsection shall be:
-
-1. Effective for the full calendar year specified in the notice;
-2. Irrevocable for the duration of that calendar year; and
-3. Filed no later than December 1 of the preceding calendar year.
-
-**(3) Stub Period**
-
-For the calendar year in which this Act is enacted, a member may elect to hold
-compensation under this subsection by filing written notice within 30 days of the
-Immediate Effective Date. Such hold shall be effective from the date of filing through
-December 31 of that calendar year and shall be irrevocable for that period.
-
-**(4) Forfeiture**
-
-Amounts forfeited under this subsection are permanently forfeited and shall not be:
-
-1. Recoverable as back pay;
-2. Deferred to a subsequent period; or
-3. Applied to any other compensation or benefit.
-
-**(5) Scope**
-
-An election under this subsection applies only to the salary differential described in
-paragraph (1). It does not affect:
-
-1. Pension accrual under Section 503;
-2. Professional development allowances under Section 504;
-3. Member Representational Allowance adjustments under Section 303; or
-4. Any other provision of this Title.
-
-**(6) Withdrawal**
-
-A member who has filed an election under this subsection may decline to renew it for
-any subsequent calendar year by not filing a new notice. Upon expiration of a hold
-period without renewal, the member shall receive the full salary rate then in effect
-under subsection (a) or (b), as applicable.
-
-**(7) Public Disclosure**
-
-The Clerk of the House of Representatives and the Secretary of the Senate shall
-maintain and publish a public record of:
-
-1. All elections filed under this subsection;
-2. The calendar year covered by each election; and
-3. The expiration or non-renewal of any election.
+[Reserved]
 
 ### Section 503. Pension Enhancement
 
-#### (a) Accrual Rate Increase
-
-The pension accrual rate for members of Congress shall be 2.5% per year of service, replacing the current 1.7% rate, effective for all service years on or after the Immediate Effective Date.
-
-#### (b) Reduced Vesting Period
-
-Members of Congress shall become vested in the congressional pension system after 5 years of service, replacing the current vesting requirement.
-
-#### (c) Existing Pension Rights Protected
-
-Pension benefits already accrued under prior formulas shall be preserved and calculated separately, with total pension being the sum of:
-
-1. Benefits accrued under prior formulas for service before the Immediate Effective Date; plus
-2. Benefits accrued under this enhanced formula for service on or after the Immediate Effective Date.
-
-#### (d) Effective Date
-
-This section takes effect on the Immediate Effective Date.
+[Reserved]
 
 ### Section 504. Professional Development and Continuing Education
 
-#### (a) Annual Allowance
-
-Each member of Congress shall receive an annual professional development allowance equal to 5% of their base salary under Section 502(a) for qualifying educational activities.
-
-#### (b) Allowance Amounts
-
-Based on salaries established in Section 502(a):
-1. Members of the House of Representatives: $12,500 per year
-2. Members of the Senate: $15,000 per year
-
-These amounts automatically adjust with cost-of-living adjustments under Section 502(b).
-
-#### (c) Compensation-Adjusted Justification
-
-While private sector executive professional development typically represents 3-4% of compensation, this percentage yields $15,000-20,000 annually for executives earning $500,000-600,000. To provide equivalent professional development resources at congressional compensation levels ($250,000-300,000), a 5% allocation is necessary to reach comparable absolute dollar amounts for elite executive education and leadership development programs.
-
-#### (d) Qualifying Activities
-
-Allowance may be used for:
-1. Academic coursework and degree programs
-2. Professional conferences, seminars, and executive education programs
-3. Policy research and study trips (domestic and international)
-4. Language instruction
-5. Technical skills training (data analysis, technology literacy, etc.)
-6. Legislative process and governance education
-7. Books, journals, subscriptions, and educational materials
-8. Professional coaching and mentoring programs
-
-#### (e) Non-Qualifying Uses
-
-Allowance may not be used for:
-1. Campaign-related activities or partisan political events
-2. Personal travel unrelated to educational objectives
-3. Entertainment, social events, or meals except when integral to qualifying programs
-4. Family members' education expenses
-5. Lobbying or advocacy training
-
-#### (f) Administration and Reporting
-
-1. Members shall submit expense reports to their respective chamber's ethics office
-2. Reports must document educational activities and expenditures
-3. Unused allowance does not carry over to subsequent years
-4. Allowance is not taxable income when used for qualifying activities
-
-#### (g) Effective Date
-
-This section takes effect on the Immediate Effective Date.
+[Reserved]
 
 ### Section 505. Transition Protection
 
@@ -1929,30 +1745,7 @@ This section takes effect on the Immediate Effective Date.
 
 ### Section 506. Public Campaign Matching Funds
 
-#### (a) Matching Ratio
-
-For elections in multi-member congressional districts, qualified candidates shall receive public matching funds at a 6:1 ratio for contributions of $200 or less from individuals, up to a total of $5 million in public funds per candidate per election cycle.
-
-#### (b) Qualification Requirements
-
-To qualify for matching funds, candidates must:
-
-1. Collect at least $50,000 in qualifying contributions from at least 500 individual contributors;
-2. Participate in at least two public debates or forums in their district;
-3. Agree to voluntary spending limits of $6 million for the general election; and
-4. Comply with enhanced financial disclosure requirements.
-
-#### (c) Funding Authorization
-
-There are authorized to be appropriated such sums as necessary to provide matching funds under this section.
-
-#### (d) Voluntary Participation
-
-Participation in this matching fund program is voluntary. Candidates who decline participation are not subject to spending limits.
-
-#### (e) Effective Date
-
-This section takes effect beginning with the First CEMA Election.
+[Reserved]
 
 ### Section 507. Senate-Specific Provisions
 
@@ -1964,20 +1757,7 @@ Nothing in this Act shall alter the composition, size, or apportionment formula 
 
 The Senate retains exclusive authority over its own rules, procedures, committee structure, leadership selection, and other matters of internal governance.
 
-#### (c) Applicability of Compensation Mechanisms
-
-The following provisions of this Title apply to members of the Senate:
-
-1. Salary adjustment (Section 502)
-2. Pension enhancement (Section 503)
-3. Professional development allowance (Section 504)
-4. Streamlined appointment authority (Section 508)
-
-The following provision does NOT apply to the Senate:
-
-1. Public matching funds (Section 506) -- Not applicable unless Senate separately adopts
-
-#### (d) Effective Date
+#### (c) Effective Date
 
 This section takes effect on the Immediate Effective Date.
 
@@ -2040,11 +1820,7 @@ There are authorized to be appropriated:
 2. $300 million for each of the subsequent four fiscal years;
 3. $150 million annually thereafter, adjusted for inflation.
 
-#### (e) Replacement of Filing Fee Revenue
-
-To the extent states historically collected filing fees for federal office (prohibited by Title I), federal grants under this section shall offset that lost revenue.
-
-#### (f) Effective Date
+#### (e) Effective Date
 
 This section takes effect on the Immediate Effective Date, with first grants distributed within 6 months of enactment.
 
@@ -2056,24 +1832,17 @@ For clarity, the provisions of this Title take effect according to the following
 
 Upon enactment or convening of next Congress after enactment, whichever is later:
 
-- Congressional compensation adjustment (Section 502)
-- Enhanced pension formula (Section 503)
-- Professional development allowance (Section 504)
 - Senate-specific provisions (Section 507)
 - Streamlined appointment authority (Section 508)
 - State election administration funding (Section 509)
 
-#### (b) First CEMA Election
-
-- Public campaign matching funds (Section 506): Beginning with the First CEMA Election
-
-#### (c) Effective Date
+#### (b) Effective Date
 
 This section takes effect on the date of enactment.
 
 ### Section 511. Severability
 
-If any provision of this Title is held invalid by a court of competent jurisdiction, all other provisions shall remain in full force and effect. Specifically, compensation mechanisms that have taken effect shall remain in force even if corresponding reform provisions are invalidated.
+If any provision of this Title is held invalid by a court of competent jurisdiction, all other provisions shall remain in full force and effect.
 
 ---
 
@@ -2088,9 +1857,8 @@ The Federal Election Commission shall promulgate rules necessary to implement th
 1. Compliance standards for ballot design under Titles I and II, consistent with the technical specifications and model ballot designs published by the Electoral Science Office under Sections 404(i) and 405(c);
 2. Party recognition procedures and standards under Title II;
 3. Compliance and monitoring rules for Proportional STAR implementation under Title IV, consistent with the specifications published by the Electoral Science Office and the certification requirements established by the Election Assistance Commission;
-4. Public matching fund administration under Section 506;
-5. Reporting requirements for compliance monitoring; and
-6. Coordination procedures with the Electoral Science Office under Section 409.
+4. Reporting requirements for compliance monitoring; and
+5. Coordination procedures with the Electoral Science Office under Section 409.
 
 #### (b) Enforcement Powers
 
@@ -2111,11 +1879,10 @@ States shall cooperate with Federal Election Commission oversight, providing req
 Within 180 days of enactment, the Congressional Budget Office shall prepare comprehensive cost estimates for this Act including:
 
 1. Direct costs of House expansion and infrastructure;
-2. Costs of enhanced compensation and benefits;
-3. Implementation costs for new voting systems;
-4. Administrative and operational costs;
-5. Offsetting savings from reduced dysfunction and turnover; and
-6. Long-term fiscal impacts over 30-year horizon.
+2. Implementation costs for new voting systems;
+3. Administrative and operational costs;
+4. Offsetting savings from reduced dysfunction and turnover; and
+5. Long-term fiscal impacts over 30-year horizon.
 
 #### (e) Electoral Science Office Coordination
 
@@ -2204,17 +1971,7 @@ The Office shall be provided adequate staff, resources, and technology to fulfil
 
 The Office shall remain in operation until full implementation of all provisions of this Act is complete (approximately 25-30 years after enactment), after which its functions may be absorbed into regular Election Assistance Commission operations.
 
-### Section 605. Protection Against Repeal or Defunding
-
-#### (a) Supermajority Requirement for Compensation Reductions
-
-Once any compensation mechanism in Title V takes effect, it may not be reduced, eliminated, or defunded except by a three-fifths vote of both the House and Senate.
-
-#### (b) Severability Protection
-
-If any provision of this Act is held invalid, all compensation mechanisms that have already taken effect shall remain in force regardless of whether the corresponding reform provision remains operational.
-
-#### (c) Anti-Retaliation
+### Section 605. Anti-Retaliation
 
 No member of Congress shall face reduction in salary, benefits, committee assignments, or other privileges based on their vote for or against this Act.
 
@@ -2228,9 +1985,8 @@ If any provision of this Act, or the application of any provision to any person 
 
 Specifically, if any reform title (Titles I-IV) is held invalid:
 
-1. All compensation mechanisms in Title V that have already taken effect shall remain in force;
-2. Other valid reform titles shall continue to operate;
-3. Enforcement provisions in Title VI shall continue to apply to all valid provisions.
+1. Other valid reform titles shall continue to operate;
+2. Enforcement provisions in Title VI shall continue to apply to all valid provisions.
 
 ### Section 702. Constitutional Supremacy
 
@@ -2254,9 +2010,9 @@ Except where expressly preempted by this Act, states retain authority over elect
 
 #### (a) Tiered Effective Date Structure
 
-This Act uses a tiered effective date structure to ensure simultaneous integrated launch of electoral reforms while delivering immediate benefits to members:
+This Act uses a tiered effective date structure to ensure a simultaneous integrated launch of electoral reforms while delivering certain provisions on independent timelines:
 
-1. **Tier 1 (Immediate upon Enactment):** Titles V (Compensation, Transition, and Implementation), VI (Enforcement and Reporting), and VII (General Provisions) take effect upon the date of enactment.
+1. **Tier 1 (Immediate upon Enactment):** Title V (Transition and Implementation), Title VI (Enforcement and Reporting), and Title VII (General Provisions) take effect upon the date of enactment.
 
 2. **Tier 2 (First CEMA Election):** Titles I (Federal Ballot Access Standards), II (Federal Party Recognition), III (House Membership Expansion), and IV (Multi-Member Districts and STAR Voting) take effect as of the First CEMA Election.
 
@@ -2264,7 +2020,7 @@ This Act uses a tiered effective date structure to ensure simultaneous integrate
 
 For purposes of this Act, the following temporal terms are defined:
 
-1. **"Immediate Effective Date"**: The date of enactment, or if enacted after the convening of a Congress, the date of convening of the next Congress, whichever provides incumbent members the benefits of Title V sooner.
+1. **"Immediate Effective Date"**: The date of enactment, or if this Act is enacted after a Congress has convened, the date on which the next Congress convenes.
 
 2. **"First CEMA Election"**: The first regularly scheduled general election for Congress at which the provisions of Titles I, II, III, and IV of this Act take effect, determined as follows: it shall be the second regularly scheduled general election for Congress occurring after the date of enactment, except that if such second election occurs less than eighteen (18) months after enactment, the First CEMA Election shall instead be the third regularly scheduled general election for Congress occurring after the date of enactment.
 
@@ -2362,7 +2118,48 @@ through the processes established in Section 409(h).
 <!--
 ## Revision History
 
-**Revision 6.1** (Current)
+**Revision 6.5** (Current)
+
+- Money exposure audit integrated. Governing scope principle: CEMA regulates electoral structure and procedure under the Elections Clause and is silent on fiscal policy; the Act touches money only where the federal government funds machinery the Act itself mandates (ESO, EAC certification, Section 509 implementation grants).
+- Member compensation removed entirely; compensation is the subject of separate legislation and CEMA is silent on it. Sections 502 (Congressional Compensation Standard, including the district-judge anchor, Comptroller General computation, declination mechanism, and Voluntary Compensation Hold), 503 (Pension Enhancement), and 504 (Professional Development and Continuing Education) reserved. Finding 21 struck and subsequent findings renumbered; Title V retitled "Transition and Implementation"; Sections 501, 507, 510, 511, 605, 701, and 704 conformed; the Compensation Effective Date bucket and defined term removed from Section 704.
+- Public campaign matching funds removed as out of scope (campaign finance, not election structure): Section 506 reserved; Section 601(a) and (d) conformed.
+- Prohibition on state funding of congressional primaries removed: Section 404(d)(1.1) struck. Whether a State expends its own funds on a primary is a State fiscal choice the Act does not regulate. Section 204 (Election Administration Services for Party Nomination Processes) reserved as downstream of the struck prohibition; its predicate no longer exists.
+- Prohibition on state enforcement of primary results retained as the sole load-bearing prohibition, renumbered Section 404(d)(1.1): nomination results have no bearing on federal ballot access, and the exclusive Title I affirmative ballot-access standard forecloses relabeled filters. Section 404(d)(3) and (d)(4) conformed to the funding-silent posture.
+
+**Revision 6.4**
+
+- Title I: Senate candidate signature ceiling lowered from 5,000 to 4,000 (Section 101(b)(2)), on the grassroots-access and do-not-let-the-largest-states-set-the-pace principles; sets the anchor for the Title II party petition cap at twice the candidate ceiling.
+- Title II: Party recognition (Sections 201-202) replaced with a two-tier structure -- national recognition (eligible in every state) and delegation recognition (eligible for a state's congressional offices), both on uniform federal standards so no state or incumbent party may set a rival's recognition bar. Delegation tier set at 1% of the ESO active-voter base via three pathways (electoral performance, enrollment, petition), with the petition pathway alone capped at 8,000 signatures (twice the Senate candidate ceiling). Retention <= entry over two cycles. Added a confusing-similarity name gate (Section 201(e)) with affirmative protection for lineage/tradition names so an existing party cannot block a legitimate breakaway. Added endorsement-display scoping by tier (Section 203). Deleted the "recognized under applicable state law" category from Section 204. Framing principle added establishing the Elections-Clause-only, congressional-ballot-only scope; a state appears solely as the geographically bounded federal constituency, never as an authority.
+- Title V: Section 502 retitled "Congressional Compensation Standard"; phased salary ladder replaced with a district-judge anchor (House = 28 U.S.C. Section 135 salary as adjusted under Section 461; Senate = 120 percent of House); standalone ECI cost-of-living mechanism removed (the anchor self-updates); Comptroller General ministerial computation added; default-on adjustment with a three-fifths annual right to decline (framed as declination, not rate-setting, for Twenty-Seventh Amendment cleanliness); Voluntary Compensation Hold carried forward with references repaired. Member-benefit cluster (Sections 502-504) deferred from the Immediate Effective Date to a new Compensation Effective Date. Section 504(b) hardcoded amounts and broken Section 502(b) reference removed; allowance now floats with base salary. Section 605(a) clarifier added (declination is not a reduction). Sections 501 and 510 reframed/re-bucketed.
+- Section 704: tier structure reconciled into three buckets (Tier 1 immediate; Compensation Effective Date for Sections 502-504; Tier 2 First CEMA Election for Titles I-IV); new defined term "Compensation Effective Date" added to Section 704(b).
+- Same-revision corrections: Section 704(b)(1) retired tie-breaker clause struck; Title VI ceiling reference confirmed figure-neutral.
+- Same-revision corrections (6.4 alignment sweep): Finding 14 last sentence rewritten -- removed "members who enact these reforms will see their results" (incumbent-incentive framing) and "institutional modernization proceeds on a human timescale" (retired phrase); replaced with voter-experience and institutional-absorption rationale. Finding 21 rewritten -- removed "align incumbent incentives with reform goals remove barriers to passage" (quid pro quo) and "substantially lowers the effective threshold for winning a seat, ensuring that incumbents with meaningful constituent support face reduced -- not increased -- electoral risk" (threshold-as-bar + incumbent-risk-reduction assurance); replaced with the structural compensation rationale (external anchor addresses self-dealing dynamic, resources the legislative branch). Finding 22 Title V clause rewritten -- "align incentives to make passage politically viable" replaced with "resource the legislative branch to function effectively under the modernized system."
+
+**Revision 6.3**
+
+Integrated finalized Title I ballot access revision. Title I now provides a single petition route to the ballot: party-nomination auto-access and the filing-fee alternative are removed; the write-in declaration fee is removed. Signature thresholds set to 0.25% (House) and 0.10% (Senate) of an Electoral Science Office-computed five-election active-voter base, office-to-office, with a 250-signature floor, no House ceiling, and a fixed 5,000-signature Senate ceiling. Verification hardened: 150% submission cushion, published validity standards, and notice-and-cure (7 days from actual notice) promoted to operative text. Prohibitions expanded to bar geographic signature subquotas and signature/sheet notarization. Effective dates of all three Tier 2 provisions that previously used a standalone "24 months after enactment" interval -- Title I Section 108, Title II Section 207, and Title IV Section 404(b) (Implementation Timeline) -- conformed to the Section 704 First CEMA Election framing. No change to the lead-time intent of any provision; Section 704(b)(2) preserves the minimum interval. Title V "Immediate Effective Date" provisions and the Title III expansion schedule were confirmed correct and left unchanged.
+
+Conforming edits to Section 409 (Electoral Science Office): added active-voter-base computation and publication as a core responsibility and as a new transparency paragraph (409(i)(4)); added the Senate-ceiling effects report (facts only, no recommendation) to the ESO annual report (409(i)(3)).
+
+Deleted Section 509(e) (Replacement of Filing Fee Revenue) as a conforming consequence of fee elimination; relettered the subsequent Effective Date subsection.
+
+**Revision 6.2**
+
+Full-Field Elections affirmative standard. Brought the legislative text in line with the settled Full-Field Elections pillar concept by establishing the affirmative standard the primary prohibition serves, ahead of the prohibition itself, matching the affirmative-goal-first pattern of the other pillars. Changes by Title:
+
+Title IV:
+
+- **Section 404(d) lead clause (new):** Added the affirmative operative standard -- congressional elections shall present the full field of qualified candidates to the electorate on a single general election ballot, with parties signaling preference through on-ballot endorsements rather than pre-general filtration -- as the unlabeled lead clause of subsection (d), the general rule standing above and before its enumerated paragraphs. Placed in the operative section alongside its mechanism rather than in Section 2 Findings, because it is the operative standard the prohibition serves. "Full field of qualified candidates" is descriptive statutory language, not a defined term
+- **Section 404(d)(1) two-prohibition separation:** Separated the previously bundled prohibition into two legally distinct prohibitions stated independently -- (1.1) No State Funding of Congressional Primaries (a prohibition on expenditure of public funds), and (1.2) No State Enforcement of Primary Results (a prohibition on giving the result legal effect as a ballot-access gate). The Section 204 carve-out returns only privately funded administrative machinery under (1.1) and never returns state enforcement of the result under (1.2); a Section 204 result feeds the Joint Endorsement List under Section 203, not a ballot-access gate. Existing subsection addresses (d)(2) Rationale, (d)(3) Party Autonomy Preserved, (d)(4) Constitutional Rationale, and (d)(5) Implementation Timeline preserved at their current anchors; the affirmative standard placed as the subsection (d) lead clause and the two prohibitions as (1.1)/(1.2) within existing (d)(1)
+- **Joint Endorsement List hook:** Section 404(d)(1.2) cross-references Section 203 so the reader sees parties signal preferences through on-ballot endorsements, not through a state-enforced filtration process. No duplication of existing Section 203 provisions
+
+Title IV (Ballot Design):
+
+- **Section 405(d)(1) reframe:** Repositioned the separate congressional ballot sheet as load-bearing for the Full-Field Elections standard -- the mechanism that presents the full field of qualified candidates to the voter as a single, complete set of choices distinct from all other contests -- with a cross-reference to the Section 404(d) unified general election standard. Reframe of existing text; subsection contents and addresses (d)(1)-(d)(4) unchanged
+
+DPS 3.7 alignment confirmed; no structural header or footer changes required for this document type.
+
+**Revision 6.1**
 
 Removal of the Voting Rights Act Section 2 vote-dilution compliance mechanism and its associated safeguards, and a precision pass on the surviving language-access references. This revision responds to *Louisiana v. Callais*, 608 U.S. ___ (2026), in which the Supreme Court reconstrued Section 2 of the Voting Rights Act to impose liability only where the circumstances support a strong inference of intentional racial discrimination, rendering the results-based vote-dilution standard effectively inoperative as applied to redistricting.
 
