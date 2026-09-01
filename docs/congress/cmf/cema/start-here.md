@@ -88,11 +88,25 @@ U.S. Constitution, Article I, Section 4.
 
 
 <!--
-Series Alignment: The Congressional Elections Modernization Act (Rev 6.2)
+Series Alignment: The Congressional Elections Modernization Act (Rev 6.5)
 
 ## Revision History
 
-**Revision 1.0** (Current)
+**6.5 alignment sweep**
+
+- Series Alignment advanced from Rev 6.4 to Rev 6.5 (money exposure audit). Verification pass confirmed no operative references to member compensation, matching funds, Section 204 contracting, the state-funding prohibition, or the Compensation Effective Date. The high-altitude implementation description remains accurate under the 6.5 two-tier effective-date structure. No content change required.
+
+**Revision 6.4**
+- Folded into the main CEMA document series and anchored to Rev 6.4 of the legislative text. Renamed from `CEMA-primer-1-0-start-here-a.md` to `CEMA-6-4-primer-start-here.md` under the main-series filename convention (`CEMA-6-4-primer-[title].md`); the standalone Primer Series `1-0` numbering and the per-document letter tag are retired. With the legislative text now the shared anchor for every CEMA document, this primer's revision number tracks the legislative revision, and internal edits between legislative bumps take a letter suffix that resets on each bump (DPS 1.1)
+- Rebaseline only -- no body content changed. Prior Primer Series revision history retained below as permanent record
+
+**Revision 1.0a**
+- **6.4 alignment sweep:** Series Alignment advanced from Rev 6.2 to Rev 6.4. No content change required.
+- The "How It Would Happen" section describes the tiered implementation at a deliberately high altitude ("Some pieces take effect on enactment") without naming compensation or specifying the three-bucket structure. As the voter-facing front door, this vagueness is appropriate to the document's register; the detail lives in the legislative text and overview. No incorrect claims; no specifics that conflict with the 6.4 structure
+- Rev 6.3 disposition: no content references Title I ballot-access specifics at a level affected by 6.3 changes. Verified clean
+- Rev 6.4 disposition: no content references Title II party recognition structure, Title V compensation specifics, or Section 704 effective-date tiers. No threshold-as-bar language, no "human timescale," no incumbent-incentive framing. Verified clean
+
+**Revision 1.0**
 - Series baseline established under the new CEMA Primer Series filename convention: `CEMA-primer-[series]-[rev]-[title]-[letter].md`. File renamed from `CEMA-6-2-primer-start-here-a.md` to `CEMA-primer-1-0-start-here.md`; the legislative-source tag is removed from the filename and now carried by the Series Alignment line above. Doc-level letter dropped as part of a series-wide alignment sweep
 - STAR Voting title cascade applied: the article-title label, the in-text cross-reference, the reading-path reference, and the footer primer index entry changed from "Percentage-Based Voting" to "STAR Voting," and the footer URL path from `/congress/cmf/cema/percentage-based-voting/` to `/congress/cmf/cema/star-voting/`. Lowercase "percentage-based voting" concept usage in running prose left intact per the originating work order
 - Prior revision history renumbered into the pre-1.0 (0.x) band; entry prose preserved verbatim
