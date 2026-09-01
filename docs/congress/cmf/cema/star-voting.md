@@ -125,11 +125,20 @@ STAR Voting: Counting every vote and making every vote count.
 ---
 
 <!--
-Series Alignment: The Congressional Elections Modernization Act (Rev 6.2)
+Series Alignment: The Congressional Elections Modernization Act (Rev 6.4)
 
 ## Revision History
 
-**Revision 1.0-a** (Current)
+**6.5 alignment sweep**
+
+- Series Alignment advanced from Rev 6.4 to Rev 6.5 (money exposure audit: member compensation, public campaign matching funds, the state-funding prohibition, and Section 204 contracting removed from the legislative text; the enforcement prohibition retained as Section 404(d)(1.1)). Verification pass confirmed no operative references to any removed provision. No content change required.
+
+**Revision 6.4** (Current)
+- Folded into the main CEMA document series and anchored to Rev 6.4 of the legislative text. Renamed from `CEMA-primer-1-0-star-voting-a.md` to `CEMA-6-4-primer-star-voting.md` under the main-series filename convention (`CEMA-6-4-primer-[title].md`); the standalone Primer Series `1-0` numbering and the per-document letter tag are retired. With the legislative text now the shared anchor for every CEMA document, this primer's revision number tracks the legislative revision, and internal edits between legislative bumps take a letter suffix that resets on each bump (DPS 1.1)
+- Rebaseline only -- no body content changed. Prior Primer Series revision history retained below as permanent record
+
+**Revision 1.0-a**
+- **6.4 alignment sweep:** Series Alignment advanced from Rev 6.2 to Rev 6.4. No content change required. No references to Title I ballot-access specifics, Title II party recognition, Title V compensation, or Section 704 effective-date tiers. No threshold-as-bar language, no "human timescale," no incumbent-incentive framing. Verified clean
 - Opening hook revised to "Voting today: Every vote is counted, but not every vote counts." (single-sentence framing replacing the prior two-sentence thesis statement in the body; the original thesis pair is preserved in the Revision 0.9 note below as permanent record)
 - Closing line revised to "STAR Voting: Counting every vote and making every vote count."
 - Works Cited section removed. The primer argues the choose-one ballot's pathologies from first principles rather than resting on an evidentiary foundation, so under DPS 4.0 Section 1.8 (Works Cited is discretionary for primers and warranted only where a document builds arguments on external evidence) the section was not additive. The two prior entries — Clelland (2024) on center-squeeze and U.S. Const. Art. I §4 — supported claims the body does not make in a source-dependent way; the Alaska/center-squeeze evidence remains reserved for the position paper. Future citations may be added where additive, particularly to the status-quo section should the case draw on social-science literature on spoilers and vote-splitting
