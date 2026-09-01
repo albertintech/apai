@@ -235,6 +235,10 @@ Wolk, Sara, Jameson Quinn, and Mark Ogren. "STAR Voting, Equality of Voice, and 
 <!--
 ## Revision History
 
+**6.5 alignment sweep**
+
+- Series Alignment advanced from Rev 6.4 to Rev 6.5 (money exposure audit: member compensation, public campaign matching funds, the state-funding prohibition, and Section 204 contracting removed from the legislative text; the enforcement prohibition retained as Section 404(d)(1.1)). Verification pass confirmed no operative references to any removed provision. No content change required.
+
 **Revision 6.4h** (Current)
 - Removed the "DRAFT — for review" status notice from the header in preparation for publication. No content change; the header now matches the standard Supporting Document form (title, typed subtitle, author byline).
 
