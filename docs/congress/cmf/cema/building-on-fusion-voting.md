@@ -22,6 +22,8 @@ The history is also on their side, and it deserves to be stated plainly rather t
 
 And fusion works, within the space it is allowed to occupy. It is a real answer to a real problem. Under winner-take-all rules, a minor-party voter has two bad options: stay home from the minor party entirely, or vote sincerely and risk handing the election to the candidate they like least. Fusion creates a third option. A minor party can endorse a major-party candidate on its own ballot line, and its voters can support that candidate while still being counted as the minor party's voters. The party demonstrates measurable strength; the voter is not punished for sincerity; the winning coalition is visible. New York's Working Families Party has used exactly this mechanism to push real policy outcomes. None of that is trivial, and none of it is a strawman. It is fusion doing precisely what it was designed to do.
 
+The agreement runs to equity, too. The fusion movement has always understood that a thin ballot and a rigged spoiler dynamic fall hardest on the candidates and communities the duopoly was never built to serve -- that the fight for more parties is also a fight for more kinds of representation. CEMA shares that goal without reservation. Proportional multi-member districts widen the door to representation for women and candidates of color, and an expressive ballot lets voters back a candidate outside the established mold without the wasted-vote penalty that has always policed who gets to run. This is common ground, and it points the same direction fusion advocates have always pointed.
+
 So the agreement is broad: the disease is correctly diagnosed, the historical injustice is real, and the treatment relieves a genuine symptom. The rest of this paper is about the treatment's reach -- and about a way to extend it.
 
 ---
@@ -46,7 +48,7 @@ None of this means fusion is wrong. It means fusion is doing the most it can do 
 
 So here is the offer, and it is an offer, not a verdict.
 
-The reason fusion's reach is capped and its gains are reversible is that fusion intervenes at the level of the ballot, inside a system that was built to produce two parties. The Act intervenes one layer down -- at the structure that produces the two-party outcome in the first place -- and it does so using a tool that does not require winning the same fight in fifty states.
+The reason fusion's reach is capped and its gains are reversible is that fusion intervenes at the level of the ballot, inside a system that was built to produce two parties. CEMA intervenes one layer down -- at the structure that produces the two-party outcome in the first place -- and it does so using a tool that does not require winning the same fight in fifty states.
 
 That tool is the Elections Clause. Congress has constitutional authority over the time, place, and manner of congressional elections. A reform enacted there is not a state-ballot-law question that each legislature relitigates; it is federal architecture for federal seats. The fusion movement's defining burden -- the state-by-state, courtroom-by-courtroom grind -- is exactly the burden this layer is built to lift. Reach for the right tool, and apply it at the layer where it does the most work.
 
@@ -57,6 +59,8 @@ What CEMA builds at that layer is what fusion advocates have wanted all along, m
 **STAR voting retires the spoiler, so the workaround is no longer needed.** Voters score every candidate from zero to five; the two highest advance to an automatic runoff decided by majority preference. The sincere vote and the strategic vote become the same vote. The problem fusion exists to route around is removed at its source, which means a minor-party voter no longer needs a ballot-line mechanism to vote their conscience safely -- the counting method already protects them.
 
 **Joint Endorsement Lists keep what fusion is actually about.** This is the part that matters most to a fusion advocate, so it deserves to be clear: CEMA does not throw away cross-endorsement. It preserves it. Under Title II, each candidate appears once on the ballot, with up to three party endorsements displayed beside their name -- *Registered: Democratic | Endorsed by: Democratic, Working Families, Green*. Voters see exactly which parties back which candidates. Coalitions stay visible. Minor parties keep their endorsement power and the public credit that comes with it. What changes is only the plumbing underneath: one ballot line instead of several, no vote-aggregation asset that can be traded for patronage, no vote-share threshold that forces a minor party to endorse the major-party nominee just to survive. The informational good fusion delivers is kept; the structural fragility is set down.
+
+**And the sore loser trapdoor closes.** This one goes to the heart of what fusion is for. Most states have sore loser laws: lose a party primary, and you are barred from the general-election ballot. Those laws attach to the primary, so as long as the primary stands, the bar stands with it -- and it falls hardest on exactly the candidates fusion exists to lift. A minor-party challenger who contests a major-party primary and loses can be locked off the November ballot entirely, the fusion line included; an independent or an unconventional candidate with real general-election support can be filtered out by a low-turnout primary months earlier. The fusion movement spends enormous effort defending minor-party ballot access, and a trapdoor in the floor keeps removing the very candidates it fights for. Because CEMA makes the state primary unnecessary, there is no primary to lose and nothing for a sore loser law to operate on. The trapdoor is gone -- and like fusion's own ballot line, it is gone federally, not won back state by state. The candidates equity-minded reformers most want to see run reach the general ballot on the merits, not subject to a primary gate that the current system keeps bolting shut.
 
 Put together, these are not a replacement for what the fusion movement wants. They are a floor underneath it. The coalition you can signal under fusion, you can seat. The conscience vote fusion protects through ballot mechanics, the counting method protects directly. And the endorsement visibility that is the heart of fusion is carried forward intact -- but resting on federal architecture, so it does not have to be won back every cycle in every state.
 
@@ -76,7 +80,7 @@ What CEMA asks is only this: that the fusion movement's considerable talent and 
 
 Fusion voting was unjustly suppressed, its suppression served the powerful rather than the public, and its restoration would make American elections better than they are now. On all of that, CEMA and the fusion movement stand together.
 
-The Act offers a way to take the thing fusion is built to do and give it more reach and a firmer foundation: proportional representation to turn endorsement leverage into actual seats, STAR voting to make the sincere vote safe without any workaround, and Joint Endorsement Lists to carry fusion's coalition-signaling forward without the fragility that comes from living in state ballot law. And because it is built on the Elections Clause and aimed at Congress, it need not be won state by state.
+CEMA offers a way to take the thing fusion is built to do and give it more reach and a firmer foundation: proportional representation to turn endorsement leverage into actual seats, STAR voting to make the sincere vote safe without any workaround, and Joint Endorsement Lists to carry fusion's coalition-signaling forward without the fragility that comes from living in state ballot law. And because it is built on the Elections Clause and aimed at Congress, it need not be won state by state.
 
 The question is not whether to keep fighting for fusion. It is whether the cause fusion serves might be served more completely by building one layer down. That is a question worth sitting with -- and it is offered here in the spirit of people who are, after all, trying to build the same thing.
 
@@ -105,12 +109,31 @@ Soyer, Daniel. *Left in the Center: The Liberal Party of New York and the Rise a
 <!--
 ## Revision History
 
-**Revision 6.0** (Current)
+**6.5 alignment sweep**
+
+- Series Alignment advanced from Rev 6.4 to Rev 6.5 (money exposure audit: member compensation, public campaign matching funds, the state-funding prohibition, and Section 204 contracting removed from the legislative text; the enforcement prohibition retained as Section 404(d)(1.1)). Verification pass confirmed no operative references to any removed provision. No content change required.
+
+**Revision 6.4** (Current)
+- Aligned with Rev 6.4 of the CEMA legislative text (6.4 alignment sweep). No content change required.
+- Rev 6.3 disposition: no content references Title I ballot-access specifics (petition routes, signature thresholds, filing fees) at a level affected by 6.3 changes. Verified clean
+- Rev 6.4 disposition: no content references Title II party recognition structure, Title V compensation specifics, or Section 704 effective-date tiers. Verified clean
+
+**Revision 6.2**
+- No changes required. Rev 6.2 added the affirmative full-field elections standard and split the primary prohibition into two independent bars (no state funding, no state enforcement); this document does not describe the primary-prohibition mechanics in a way affected by the restructure -- it states only that CEMA makes the state primary unnecessary, with no trigger for a sore loser law to operate on, which the restructure does not disturb (grep-verified) -- and required no content change
+- DPS 3.8 compliance confirmed: Supporting Document header (own-title H1, single H1); "in conversation with the [X] movement" subtitle; supporting-document footer (no attribution line, copyright retained); em-dashes as `--`; ASCII-safe except permitted footer characters
+- Series alignment only; filename advanced 6-0 -> 6-2
+
+**Revision 6.1**
+- No changes required. Rev 6.1 removed the Voting Rights Act Section 2 vote-dilution carve-out from the legislative text; this document does not reference that mechanism (grep-verified) and required no content change
+
+**Revision 6.0**
 - Initial publication
 - Inaugural entry in the Building On series: a distinct CEMA series addressed to advocates of an existing reform, written in a collaborative "in conversation with" register rather than the adversarial register of the Why Not series
 - Spine: shared diagnosis (full agreement) -> what fusion gets right (full credit) -> the trap fusion operates inside (reframed from "structural dependency" as the system-imposed ceiling and the repeal vulnerability, with RCV backlash as parallel) -> the additive offer (Elections Clause / proportional seats / STAR / Joint Endorsement Lists as a floor underneath fusion's goal) -> honest values-and-layer difference (no opportunity-cost/misallocation argument; that barb reserved for the Why Not companion)
 - Removed from the Why Not Fusion Voting source material for this audience: opportunity-cost section, "uniquely American accident" framing, media-invisibility gotcha, New York "patronage" indictment as scorekeeping, and the "tolerable vs. replace" closing binary
-- DPS 3.4 compliance: Supporting Document header (own-title H1). Subtitle departs from the Section 1.2 formula: Building On is a distinct series with its own navigation home, not a Position Paper, so the subtitle uses an "in conversation with the [X] movement" form rather than "A[n] [Type] of the [Proposal]." DPS amendment pending to codify the Building On series and its subtitle form. Supporting-document footer (no attribution line); copyright line retained
+- Equity argument (added post-draft): (1) light shared-equity beat in "Where We Agree" -- the inclusion goal is common ground; proportional multi-member districts and an expressive ballot widen representation for women and candidates of color, the same direction fusion advocates point. Kept lighter than the RCV paper's version, since fusion advocates are party-structure-focused rather than ballot-method-focused. (2) substantial sore loser beat as a fourth structural item in "The Piece Worth Adding" -- the strongest equity argument in either Building On paper for this audience, because sore loser laws strangle exactly the minor-party/insurgent/unconventional candidates fusion exists to lift. Framed as a trapdoor in the floor fusion defends, removed federally (riding the existing state-law-vs-Elections-Clause durability logic) rather than won back state by state. Defensive equity material reserved for the planned standalone treatment
+- Maintenance: corrected one residual "the Act" self-reference (line in The Piece Worth Adding) to CEMA, completing the Section 1.7 multi-proposal convention suspension begun earlier
+- DPS 3.5 compliance: Supporting Document header (own-title H1). Subtitle uses the Section 3.7 Building On "in conversation with the [X] movement" form. "the Act" self-reference convention suspended per Section 1.7 (multi-proposal document); CEMA used throughout. Supporting-document footer (no attribution line); copyright line retained
 - Aligned with Rev 6.0 of the CEMA legislative text
 -->
 
