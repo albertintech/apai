@@ -1,166 +1,337 @@
-# Congressional Elections Modernization Act
+# SAMPLE BALLOT
 
-## The Case for an Electoral Science Office
+## CONGRESSIONAL DISTRICT 3 (Multi-Member)
 
----
-
-The United States spends $24 billion annually exploring space and $36 billion annually responding to natural disasters. It spends effectively nothing on the science of how it chooses the people who decide how to spend all of that money.
-
-This is not a gap in funding. It is a gap in institutional architecture. The world's oldest continuous democracy has no purpose-built institution for the rigorous, independent, transparent study of how its elections work. No federal agency exists whose mission is to test voting methods before deployment, evaluate their performance after deployment, gather and publish the data that would allow researchers and the public to verify electoral outcomes independently, or develop improvements based on evidence. The mechanics of American elections -- the methods by which votes are cast, counted, and translated into representation -- operate without the institutional infrastructure that every other domain of comparable consequence takes for granted.
-
-The Congressional Elections Modernization Act addresses this gap by establishing the Electoral Science Office (ESO) as an independent agency in the executive branch. The ESO is not an administrative body layered on top of existing election infrastructure. It is the nation's first dedicated institution for election science, electoral integrity, and voting method innovation -- an agency whose mission is to ensure that the mechanics of American democracy are grounded in evidence, transparent to the public, and continuously improving.
-
-This paper argues that the ESO is not merely a useful addition to the Act's reform architecture but a structural necessity without which the reforms cannot be credibly implemented, sustained, or improved over time.
+### General Election - November 2, 2032
 
 ---
 
-## The Institutional Vacuum
+## INSTRUCTIONS: STAR Voting (Score - Then - Automatic - Runoff)
 
-The absence of a dedicated election science institution is not an oversight. It reflects a historical assumption that has outlived its usefulness: that elections are primarily administrative events, managed at the state and local level, requiring coordination and regulation but not scientific inquiry. The existing institutional landscape reflects this assumption.
+This district elects **5 Representatives** to the United States House of Representatives.
 
-The Federal Election Commission regulates campaign finance. Its six-member, evenly partisan structure was designed to ensure bipartisan consensus on enforcement but in practice guarantees deadlock on anything contentious. The FEC has no mandate, expertise, or capacity for election science research.
+**How to Vote:**
 
-The Election Assistance Commission, created by the Help America Vote Act in 2002, handles voting system testing, certification guidelines, and election administration standards. It is a small, low-profile, chronically under-resourced body focused on administrative mechanics -- whether machines work, not whether the methods running on those machines produce the best possible democratic outcomes.
+- Give your favorite candidate(s) **five stars** (⑤)
+- Give your least favorite candidate(s) **zero stars** (⓪) or leave blank
+- Score other candidates as desired based on your level of support
+- You may give the same score to multiple candidates
+- Equal scores indicate equal support
 
-The Cybersecurity and Infrastructure Security Agency handles election cybersecurity. It protects the digital infrastructure of elections from attack but has no role in evaluating the voting methods themselves.
+**How Your Ballot is Counted:**
 
-State and local election offices administer elections. They are staffed by dedicated professionals operating under severe resource constraints, governed by widely varying state laws, and led in many jurisdictions by elected partisans. They are implementers, not researchers.
-
-Academic researchers at universities across the country produce sophisticated work on voting theory, electoral systems, and democratic institutions. But they operate without a centralized data infrastructure, without consistent access to election administration records, and without an institutional conduit connecting their findings to the officials who design and run elections.
-
-The result is a landscape in which no single institution combines the technical expertise, the statutory authority, the data access, the structural independence, and the public-facing credibility required to serve as the authoritative voice on whether American elections are working well and how they could work better. That vacuum has consequences.
-
----
-
-## The Trust Crisis
-
-The most visible consequence is the erosion of public trust in electoral integrity. When no authoritative, independent, technically credible institution exists to explain how elections work and verify that they work correctly, the information space is occupied by whoever fills it first and loudest.
-
-The years since 2020 have demonstrated what happens when electoral mechanics operate without an institutional anchor for public trust. Conspiracy theories about voting machines, ballot counting, and election outcomes proliferated not because the elections were poorly administered -- by most professional assessments, the 2020 election was among the most secure in American history -- but because no institution existed with both the technical authority and the structural independence to provide a definitive, publicly verifiable account of how the results were produced.
-
-State election officials pushed back individually. CISA issued statements. Courts adjudicated claims. But the response was fragmented, reactive, and institution-by-institution, which is structurally inadequate against a coordinated disinformation campaign. The absence of a single authoritative source for electoral science created an asymmetry: conspiracy theories required only assertion, while accurate information required assembling expertise from dozens of disparate sources, none of which commanded universal institutional credibility.
-
-The ESO addresses this structural vulnerability by design. A seven-member commission with staggered terms, multi-branch appointment authority, removal only for cause, mandatory technical qualifications, and partisan balance caps is not just governance architecture. It is credibility architecture. When the ESO publishes its simulation models, its source code, its election data, and its verification tools, any researcher, journalist, election official, or citizen can independently verify that the methods work as described and the results are what the data produce. Conspiracy theories cannot survive an institutional environment in which anyone can check the math.
-
-The analogy to NASA is instructive. NASA does not merely launch rockets. It has, over decades of demonstrated competence, transparency, and independence, built and maintained public trust in aerospace science as an institution. When NASA says something about space, the default public posture is belief -- not because NASA is infallible, but because NASA has established a track record of rigorous, publicly documented, independently verifiable work. The ESO can occupy the same institutional niche for election science. The public database requirement, the open proceedings mandate, the published source code, the annual reports, the verification infrastructure -- all of these are trust-building mechanisms that create the institutional brand of an agency whose work product is reliable because it is transparent.
+Your scores help determine which candidates are elected proportionally. The highest-scoring candidates are elected with vote reweighting to ensure fair representation. All your ratings count throughout the process.
 
 ---
 
-## The Status Quo Bias Problem
+## U.S. HOUSE OF REPRESENTATIVES
 
-The second consequence of the institutional vacuum is structural inertia in electoral reform. The current landscape creates a catch-22 that effectively privileges the status quo: advocates propose a voting method, critics demand real-world data, advocates point out there is no mechanism to gather real-world data without adoption, critics respond that adoption without data is irresponsible. The evidentiary bar for reform is set at a level that cannot be cleared because no institution exists to clear it.
+**Congressional District 3 - 5 seats**
 
-This is not a problem unique to any particular reform proposal. It is a structural feature of a system that has no capacity for experimentation. In medicine, the Food and Drug Administration provides the institutional infrastructure for clinical trials -- a structured pathway from laboratory research through controlled testing to deployment, with public data at every stage. In aerospace, NASA provides the institutional infrastructure for testing -- simulations, ground tests, unmanned flights, and crewed flights, each building on the last, each producing published data. In electoral reform, nothing comparable exists. The only options are simulation and full deployment on a live electorate, with nothing in between.
+**Rate each candidate from 0 to 5 stars**
 
-The result is a space characterized by low innovation, slow movement, and high risk. Jurisdictions that adopt new voting methods do so without the benefit of systematic pre-deployment testing. Jurisdictions that consider adoption are deterred by the absence of evidence. And the methods currently in use -- methods adopted decades or centuries ago -- continue by default, not because they have been evaluated and found superior, but because the institutional infrastructure to evaluate alternatives does not exist.
-
-The ESO breaks this cycle by being the permanent institutional mechanism for generating, collecting, and validating electoral data. The "no real-world data" objection stops being a conversation-ender and becomes a research request. The ESO can run computational simulations across thousands of synthetic electorates. It can conduct retrospective analyses on existing ballot data from jurisdictions that collect preference information. It can administer parallel ballots alongside live elections. And it can design and run full-scale mock elections with compensated participants, certified equipment, and real election offices -- stress-testing the entire administrative pipeline before a single vote is cast in a live election.
-
-Governments already perform mock events at large scales for emergency preparedness. NASA tests exhaustively before every launch -- nobody criticizes the testing; they would criticize its absence. The ESO applies the same logic to elections: test rigorously, publish the data, iterate on the findings, and deploy with confidence grounded in evidence rather than hope.
-
----
-
-## The Pre-Implementation Validation Pipeline
-
-The Act mandates a systematic validation program that builds evidence at every stage, each layer reinforcing the next.
-
-Computational simulation comes first. The ESO develops large-scale models testing voting method performance across a range of synthetic electorates with varying levels of strategic voter behavior, political polarization, and candidate field compositions. All source code, input parameters, and output data are published. This stage establishes the analytical foundation -- demonstrating that the methods produce the expected mathematical properties under diverse conditions -- before any human participant is involved.
-
-Retrospective analysis follows. Where jurisdictions maintain ballot data containing sufficient preference information from prior elections conducted under other voting methods, the ESO tabulates that data under the methods established by the Act and publishes comparative analyses. Alaska's ranked-choice voting data, for example, contains enough preference information to model what alternative tabulation methods would have produced. This is not a perfect substitute -- the ballot format differs -- but it demonstrates tabulation mechanics on real voter preferences and allows direct comparison of proportionality metrics against actual outcomes.
-
-Mock elections represent the capstone of pre-deployment testing. The ESO designs and administers full-scale mock elections using certified voting equipment and the participation of state and local election offices. Fictional candidates with disclosed policy platforms generate genuine voter preferences among compensated participants. The same ballot format, tabulation procedures, and reporting protocols required for live elections are employed. Poll worker procedures, equipment performance, tabulation timelines, and results reporting are all stress-tested. The Act requires mock elections in no fewer than five geographically and demographically diverse jurisdictions before the First CEMA Election -- a statutory floor, not a ceiling.
-
-Parallel elections provide the strongest behavioral data. During federal elections in the pre-implementation period, the ESO may administer voluntary parallel ballots alongside official elections in cooperating jurisdictions. Voters cast their real ballot normally and then optionally complete a ballot using the Act's format for the same contests. The parallel results are tabulated and published but carry no legal effect. This produces genuine voter preferences on real candidates with real stakes -- the highest-validity data available short of live deployment.
+| Candidate | Party Registration | Party Endorsements | Rating (Worst → Best) |
+|-----------|-------------------|-------------------|----------------------|
+| **Sarah Martinez** | Democratic | Democratic, Working Families | ⓪ ① ② ③ ④ ⑤ |
+| **James Chen** | Republican | Republican | ⓪ ① ② ③ ④ ⑤ |
+| **Maria Rodriguez** | Democratic | Democratic, Green | ⓪ ① ② ③ ④ ⑤ |
+| **Thomas Anderson** | Republican | Republican, Forward | ⓪ ① ② ③ ④ ⑤ |
+| **Jennifer Kim** | none | Independent | ⓪ ① ② ③ ④ ⑤ |
+| **Robert Wilson** | Libertarian | Libertarian | ⓪ ① ② ③ ④ ⑤ |
+| **Patricia O'Brien** | Democratic | Democratic, Working Families, Green | ⓪ ① ② ③ ④ ⑤ |
+| **Michael Torres** | Republican | none | ⓪ ① ② ③ ④ ⑤ |
+| **David Park** | none | Forward | ⓪ ① ② ③ ④ ⑤ |
+| **Elizabeth Harris** | Republican | Republican | ⓪ ① ② ③ ④ ⑤ |
+| **Carlos Mendez** | Democratic | none | ⓪ ① ② ③ ④ ⑤ |
+| **Sophia Patel** | Green | Green, Working Families | ⓪ ① ② ③ ④ ⑤ |
 
 ---
 
-## The Academic Partnership Infrastructure
+## CANDIDATE INFORMATION
 
-The ESO's value extends beyond its own research capacity. The Act establishes the ESO as the institutional bridge between academic researchers and the election administration infrastructure they need to access.
+### Sarah Martinez
+**Party Registration:** Democratic | **Party Endorsements:** Democratic, Working Families
 
-University researchers produce sophisticated work on voting methods, electoral systems, and democratic institutions. But they face a persistent access problem: local election offices will not cooperate with ad hoc requests from individual academics for access to equipment, data, or infrastructure. The security concerns, liability exposure, and bandwidth constraints are real. A county election office with three full-time staff cannot manage a research partnership with a political science department.
-
-The ESO solves this by serving as the trusted institutional conduit. Standardized data-sharing protocols, a formal data request process, and established relationships with cooperating jurisdictions make it possible for qualified researchers to access election data and infrastructure through a single institutional channel. The ESO coordinates with state and local authorities to facilitate approved research activities, ensures data anonymization to protect voter privacy, and manages the logistics that individual researchers cannot.
-
-The competitive grants program adds another dimension. By funding independent academic research on voting methods, electoral systems, seat allocation algorithms, districting methodologies, and voter behavior through independent peer review, the ESO creates an ecosystem of external validation. An ESO finding that a voting method performs well could be dismissed as institutional self-justification. The same finding replicated by independent researchers at multiple universities using ESO-facilitated data is a fundamentally different evidentiary proposition. And the reverse pathway matters: when an academic team publishes promising results on a modified allocation method, the ESO has the infrastructure to move that finding from a journal article to a field test without requiring new legislation.
-
-The External Advisory Panel -- drawn from academic institutions, election administration, international electoral bodies, and civil society organizations -- ensures the ESO's research agenda reflects the broader field rather than narrowing to institutional self-interest. The Panel advises on research priorities, reviews proposed modifications, recommends areas for the grants program, and publishes an independent annual assessment of the ESO's research activities. Its authority is advisory only, preserving the Commission's decision-making independence while ensuring external perspectives are systematically incorporated.
-
-This structure mirrors the model that makes NASA's scientific credibility so durable. NASA does not rely solely on in-house research. It funds and enables an entire ecosystem of university-based research, independent verification, and external review. The resulting body of knowledge does not belong to any single institution, which makes it far harder to dismiss.
+Small business owner and former city council member. Focuses on affordable housing, workforce development, and small business support. Advocates for community-driven economic development and accessible childcare programs. Coalition support from Working Families Party signals strong labor ties.
 
 ---
 
-## The Independence Architecture
+### James Chen
+**Party Registration:** Republican | **Party Endorsements:** Republican
 
-An institution's credibility depends on its structural independence from the political actors it oversees. The Act addresses this through layered protections designed so that no single point of failure can compromise the ESO's neutrality.
-
-Executive non-interference prohibits any executive branch official from directing, influencing, or attempting to influence the ESO's technical determinations. This includes the White House, the Office of Management and Budget, and every office within the Executive Office of the President. Commissioners and staff must document and report prohibited contacts to the Government Accountability Office. This is not a norm or an expectation -- it is a statutory prohibition with mandatory reporting.
-
-Commissioner removal protections prevent politically motivated dismissal. During active redistricting cycles, when the pressure to influence boundary-drawing is highest, commissioners may be removed only for felony conviction, adjudicated incapacity, or resignation. Recess appointments to the Commission are prohibited entirely, preventing the circumvention of the appointment process.
-
-Fiscal independence ensures the ESO cannot be defunded into incapacity. A mandatory minimum appropriation of $35 million annually, adjusted for inflation, is protected from sequestration, rescission, and deferral. Funds are disbursed directly by the Treasury Department without approval, clearance, or review by the Office of Management and Budget. The ESO's budget cannot be held hostage to political demands.
-
-Algorithm integrity protections require publication of all source code, independent verification by external bodies, public replication rights, and tamper detection mechanisms. Anyone with the same inputs can verify they get the same outputs.
-
-Anti-circumvention provisions prohibit any other entity from drawing federal maps, prohibit conditional appropriations attached to ESO funding, bar reorganization that would place the ESO under another agency, and establish whistleblower protections for all ESO employees.
-
-Each protection covers a different attack surface. The structure is designed for the worst case -- a determined executive attempting to capture or neutralize the agency -- because institutional design that works only under favorable political conditions is no protection at all.
+Attorney and community leader with 15 years in private practice. Priorities include tax reform, public safety, and regulatory streamlining. Supports evidence-based criminal justice reform while maintaining law-and-order credentials.
 
 ---
 
-## The Cost of Doing This -- and of Not Doing It
+### Maria Rodriguez
+**Party Registration:** Democratic | **Party Endorsements:** Democratic, Green
 
-The ESO's authorized funding -- $105 million over the three-year establishment period, $35 million annually thereafter -- is substantial by the standards of election administration and trivial by the standards of the problems it addresses.
-
-For comparison, NASA's annual budget is approximately $24 billion. FEMA's annual budget is approximately $36 billion. The ESO at $35 million annually is roughly one-thousandth of either agency's budget. It represents approximately 14 hours of NASA spending, or what FEMA spends responding to a single moderate-severity disaster declaration. By federal standards, even the upper range of the ESO's budget makes it a small agency.
-
-The cost of not having an ESO is harder to quantify but far larger. Redistricting litigation alone consumes hundreds of millions of dollars per cycle across state treasuries, party organizations, legal nonprofits, and federal court resources. The economic cost of legislative dysfunction produced by gerrymandered districts, uncompetitive elections, and misaligned incentive structures dwarfs the ESO's budget by orders of magnitude. The erosion of public trust in elections -- and the downstream consequences for democratic legitimacy, political stability, and institutional function -- is incalculable.
-
-And the money buys something that currently does not exist anywhere: the institutional infrastructure to make democratic self-governance evidence-based, transparent, and continuously improving. The data the ESO produces and publishes is a public good available to any democracy in the world grappling with the same questions about voting method design, proportionality, and electoral integrity. For a pittance relative to the federal budget, the United States builds the tools to operate its own democratic republic -- and in doing so, reasserts leadership in democratic innovation after decades of ceding that ground.
+Environmental scientist and education advocate with Ph.D. in climate science. Emphasizes climate action, renewable energy transition, and public education funding. Green Party endorsement reflects strong environmental credentials while maintaining Democratic Party support.
 
 ---
 
-## Conclusion
+### Thomas Anderson
+**Party Registration:** Republican | **Party Endorsements:** Republican, Forward
 
-The difference between a hobbyist and a master craftsman is this: the hobbyist depends on whatever tools are available, while the master makes the tools needed for the work at hand. The current American electoral landscape depends on a deteriorating status quo and essentially nonexistent tools in its democratic arsenal. The result is a low-innovation, slow-moving, and now disinformation-filled space where the mechanics of democracy operate on institutional inertia rather than institutional science.
-
-By establishing the Electoral Science Office, the Congressional Elections Modernization Act builds the tools that American democracy has never had. An institution with the scientific rigor to test voting methods before deployment. The independence to resist political capture. The transparency to earn and maintain public trust. The research infrastructure to break the status quo bias that has stalled electoral innovation for generations. And the institutional permanence to ensure that the work continues -- not as a one-time reform, but as the ongoing maintenance that any complex system requires.
-
-The ESO is not an expense. It is an investment in the operating system of the republic -- a gift the nation gives itself and its posterity, and a gift to democracies worldwide that will benefit from the publicly available data produced in partnership with the world's leading research institutions. It costs a thousandth of what we spend exploring space. What it buys is the capacity to explore, with equal rigor, the question that precedes all others: how should a free people choose who governs them?
+Military veteran (Major, U.S. Marine Corps, retired) and technology entrepreneur. Focuses on infrastructure modernization, veteran services, and bipartisan problem-solving. Forward Party endorsement signals reform-minded approach and willingness to work across party lines.
 
 ---
 
-## Works Cited
+### Jennifer Kim
+**Party Registration:** none | **Party Endorsements:** Independent
 
-Carey, John M., and Simon Hix. "The Electoral Sweet Spot: Low-Magnitude Proportional Electoral Systems." *American Journal of Political Science* 55, no. 2 (2011): 383-397.
+Healthcare administrator with 20 years experience in hospital management. Advocates for healthcare access, mental health services, senior care, and rural healthcare infrastructure. True independent with no party registration or major party endorsement.
 
-Levitt, Justin. "All About Redistricting." Loyola Law School. Redistricting litigation database.
+---
 
-Ramos, Albert E. *Congressional Elections Modernization Act, Rev 5.8*. The American Policy Architecture Institute, May 2026.
+### Robert Wilson
+**Party Registration:** Libertarian | **Party Endorsements:** Libertarian
 
-Stephanopoulos, Nicholas O., and Eric M. McGhee. "Partisan Gerrymandering and the Efficiency Gap." *University of Chicago Law Review* 82, no. 2 (2015): 831-900.
+Economics professor at state university and civil liberties advocate. Priorities include fiscal responsibility, individual freedom, criminal justice reform, and ending qualified immunity. Supports reducing government intervention while protecting civil liberties.
 
-Taagepera, Rein, and Matthew Soberg Shugart. *Seats and Votes: The Effects and Determinants of Electoral Systems*. New Haven: Yale University Press, 1989.
+---
 
-Wolk, Sara, Jameson Quinn, and Mark Ogren. "STAR Voting, Equality of Voice, and Voter Satisfaction: Considerations and Simulations." *Constitutional Political Economy* 34 (2023): 301-325.
+### Patricia O'Brien
+**Party Registration:** Democratic | **Party Endorsements:** Democratic, Working Families, Green
+
+Labor union organizer with 25 years experience in public sector unions. Champions workers' rights, environmental justice, progressive taxation, and union organizing protections. Maximum three-party endorsement demonstrates broad progressive coalition support.
+
+---
+
+### Michael Torres
+**Party Registration:** Republican | **Party Endorsements:** none
+
+Former state senator who did not receive Republican Party endorsement. Emphasizes traditional conservative values, border security, agricultural policy, and rural community development. Running without party endorsement after internal party disputes.
+
+---
+
+### David Park
+**Party Registration:** none | **Party Endorsements:** Forward
+
+Software engineer and civic tech advocate with background in government technology systems. Focuses on government modernization, electoral reform, anti-corruption measures, and digital infrastructure. Not registered with any party but endorsed by reform-focused Forward Party.
+
+---
+
+### Elizabeth Harris
+**Party Registration:** Republican | **Party Endorsements:** Republican
+
+Small business owner (retail and e-commerce) and local chamber president. Priorities include economic development, Main Street revitalization, regulatory reform, and supporting local entrepreneurship. Moderate Republican focused on practical business solutions rather than culture war issues.
+
+---
+
+### Carlos Mendez
+**Party Registration:** Democratic | **Party Endorsements:** none
+
+Community college instructor and immigrant rights advocate. Focuses on education access, immigration reform, student debt relief, and expanding career technical education. Registered Democrat but has not received party endorsement, possibly due to crowded Democratic field.
+
+---
+
+### Sophia Patel
+**Party Registration:** Green | **Party Endorsements:** Green, Working Families
+
+Organic farmer and sustainable agriculture advocate with 15 years farming experience. Emphasizes agricultural policy, environmental protection, food security, climate-resilient agriculture, and supporting family farms. Coalition endorsement from Working Families Party shows labor-environmental alliance.
+
+---
+
+## UNDERSTANDING YOUR BALLOT
+
+### Party Registration vs. Party Endorsements
+
+**Party Registration** (shown in the table):
+- Shows which party, if any, the candidate is registered with
+- Examples: Democratic, Republican, Libertarian, Green, none
+
+**Party Endorsements** (shown in the table):
+- Shows which parties formally endorsed this candidate
+- Candidates may receive up to three endorsements
+- Examples: Democratic, Working Families | Republican | Independent
+
+**What It Means:**
+
+- **Democratic | Democratic, Working Families** (Martinez) = Democrat endorsed by Democrats and Working Families Party
+- **Democratic | Democratic, Working Families, Green** (O'Brien) = Maximum three endorsements showing broad progressive coalition
+- **Republican | Republican, Forward** (Anderson) = Republican with additional Forward Party endorsement
+- **Republican | none** (Torres) = Republican who lost party endorsement, running without support
+- **Democratic | none** (Mendez) = Democrat without party endorsement
+- **none | Independent** (Kim) = True independent, not registered with any party
+- **none | Forward** (Park) = Not registered with a party, but endorsed by Forward Party
+- **Green | Green, Working Families** (Patel) = Green Party member with coalition endorsement
+
+---
+
+## HOW PROPORTIONAL REPRESENTATION WORKS
+
+Voters form cohesive groups for many reasons -- a shared party, a shared region, a shared background, or a common interest, value, or cause. Proportional representation gives any group large enough to place a candidate among the winners a fair share of the seats, whatever it is that holds the group together. The example below uses party and political outlook because those are the most familiar, but the same math serves a group united by anything its members share.
+
+With **5 seats** to fill and **12 candidates** running, this district uses Proportional STAR to ensure that any cohesive group of voters large enough to place a candidate among the top five earns representation in proportion to its support:
+
+1. **Your scores matter**: Rate candidates honestly based on your level of support
+2. **Proportional allocation**: The system ensures that groups of voters who share preferences get representation roughly proportional to their numbers
+3. **No wasted votes**: Unlike single-member districts, your vote counts even if your top choices don't all win
+4. **Coalition representation**: The 5 winners will likely represent different groups within the district, reflecting its diversity
+
+**Example Outcome:** If voters in this district are roughly 40% progressive, 35% conservative, and 25% moderate/independent, the 5 elected Representatives might be:
+- 2 progressive Democrats (Martinez, Rodriguez, or O'Brien)
+- 2 Republicans (Chen, Anderson, or Harris)
+- 1 moderate/independent (Kim, Park, Wilson, or Patel)
+
+This ensures everyone gets representation, not just the plurality.
+
+---
+
+## CANDIDATE SCENARIOS ILLUSTRATED
+
+### Democratic Party Division
+The **four Democratic candidates** show party diversity:
+- **Sarah Martinez** (Dem, WF) - Moderate, business-focused with labor support
+- **Maria Rodriguez** (Dem, Green) - Progressive with environmental focus
+- **Patricia O'Brien** (Dem, WF, Green) - Most progressive with maximum coalition support
+- **Carlos Mendez** (Dem, none) - No party endorsement despite registration
+
+This demonstrates how proportional representation allows any group -- a party, a movement, or a community of shared interest -- to run multiple candidates without splitting its own support destructively. Here that's illustrated with party slates, but the same protection applies to any group fielding more than one candidate.
+
+### Republican Party Division
+The **four Republican candidates** show conservative diversity:
+- **James Chen** (Rep) - Law-and-order moderate with legal background
+- **Thomas Anderson** (Rep, Forward) - Reform-minded veteran with cross-party appeal
+- **Elizabeth Harris** (Rep) - Business-focused pragmatist
+- **Michael Torres** (Rep, none) - Lost party endorsement, running independently
+
+Torres's lack of endorsement signals internal party conflict - voters can see clearly that his own party doesn't support him.
+
+### Independent and Third-Party Options
+**Five candidates** outside the Democratic-Republican binary:
+- **Jennifer Kim** (none, Ind) - Healthcare-focused true independent
+- **Robert Wilson** (Lib) - Academic libertarian, civil liberties focus
+- **David Park** (none, Forward) - Tech-focused reformer
+- **Sophia Patel** (Green, WF) - Environmental-labor coalition
+
+These candidates provide alternatives to major party options while building coalitions through Joint Endorsement Lists.
+
+### Coalition Building Through Endorsements
+Note the coalition patterns -- and note that some cohere around shared interests, not party:
+- **Progressive coalition**: O'Brien (Dem, WF, Green), Patel (Green, WF)
+- **Reform coalition**: Anderson (Rep, Forward), Park (Forward)
+- **Labor coalition**: Martinez (Dem, WF), O'Brien (Dem, WF, Green), Patel (Green, WF)
+- **Single party**: Chen (Rep), Harris (Rep), Wilson (Lib), Rodriguez (Dem, Green)
+
+---
+
+## WHY RATE ALL CANDIDATES?
+
+Even if you have clear favorites, rating all candidates helps:
+
+1. **Backup preferences**: If your favorites get elected early, your scores for other candidates help determine remaining winners
+2. **Coalition building**: Your ratings show which candidates you find acceptable, helping elect representatives who can work together
+3. **Prevent worst outcomes**: Rating candidates you dislike as 0 prevents them from being elected with your support
+4. **Full participation**: All your scores count throughout the proportional allocation process
+
+**You can't hurt your favorites by rating others!** The proportional system ensures that once your highly-rated candidates are elected, your ballot is reweighted to give other voters fair influence on remaining seats.
+
+---
+
+## STRATEGIC VOTING EXAMPLES
+
+### Progressive Voter
+A progressive voter might rate:
+- O'Brien: ⑤ (maximum coalition support)
+- Rodriguez: ⑤ (strong environmental credentials)
+- Martinez: ④ (moderate but acceptable)
+- Patel: ④ (Green-labor coalition)
+- Mendez: ③ (progressive but unendorsed)
+- Kim: ③ (independent, healthcare focus)
+- Park: ② (reformer, acceptable moderate)
+- Wilson: ① (libertarian, disagree on economics)
+- Anderson: ① (Republican but reform-minded)
+- Harris: ⓪ (business Republican)
+- Chen: ⓪ (law-and-order conservative)
+- Torres: ⓪ (traditional conservative)
+
+### Conservative Voter
+A conservative voter might rate:
+- Chen: ⑤ (solid conservative, legal expertise)
+- Harris: ⑤ (business-focused, practical)
+- Anderson: ④ (veteran, reform-minded)
+- Torres: ③ (conservative but no party support)
+- Wilson: ③ (libertarian, fiscal conservative)
+- Kim: ② (independent, acceptable moderate)
+- Park: ① (reformer but too centrist)
+- Martinez: ① (Democrat but business-friendly)
+- Rodriguez: ⓪ (progressive environmental focus)
+- O'Brien: ⓪ (union organizer, too progressive)
+- Mendez: ⓪ (progressive Democrat)
+- Patel: ⓪ (Green Party)
+
+### Independent/Moderate Voter
+An independent voter might rate:
+- Kim: ⑤ (true independent, healthcare expertise)
+- Park: ⑤ (reformer, good governance focus)
+- Anderson: ④ (bipartisan veteran)
+- Martinez: ④ (pragmatic Democrat)
+- Harris: ③ (moderate Republican)
+- Chen: ③ (smart conservative)
+- Wilson: ③ (civil liberties focus)
+- Rodriguez: ② (smart but very progressive)
+- Patel: ② (good on agriculture)
+- Mendez: ① (education focus but unproven)
+- O'Brien: ① (too union-focused)
+- Torres: ⓪ (lost party support, concerning)
+
+---
+
+## PARTY AND COALITION BREAKDOWN
+
+### By Party Registration
+- **Democratic (4):** Martinez, Rodriguez, O'Brien, Mendez
+- **Republican (4):** Chen, Anderson, Torres, Harris
+- **Independent (2):** Kim, Park
+- **Libertarian (1):** Wilson
+- **Green (1):** Patel
+
+### By Endorsement Pattern
+- **Three endorsements (1):** O'Brien (Dem, WF, Green)
+- **Two endorsements (5):** Martinez (Dem, WF), Rodriguez (Dem, Green), Anderson (Rep, Forward), Patel (Green, WF)
+- **One endorsement (4):** Chen (Rep), Wilson (Lib), Harris (Rep), Kim (Ind), Park (Forward)
+- **No endorsement (2):** Torres (Rep registered), Mendez (Dem registered)
+
+---
+
+**VOTE BOTH SIDES OF BALLOT**  
+Turn ballot over for additional races →
+
+---
+
+*This is a mock ballot created for educational purposes to demonstrate Proportional STAR voting and Joint Endorsement Lists as proposed in the Congressional Elections Modernization Act (CEMA).*
 
 ---
 
 <!--
 ## Revision History
 
-**Revision 5.8** (Current)
-- Initial publication
-- Argues for the establishment of the Electoral Science Office as a structural necessity within the Congressional Elections Modernization Act
-- Addresses institutional vacuum in election science, public trust crisis, status quo bias in electoral reform, pre-implementation validation pipeline, academic partnership infrastructure, independence architecture, and cost justification
-- Draws on CEMA Rev 5.8 legislative text (Section 409, Section 410), CEMA Policy Rationale (Rev 5.7), The Case for Blind Districting (Rev 5.6), and Constitutional Authority Technical Memorandum (Rev 5.6)
-- Classified as Position Paper per APAI Document Production Standards Rev 3.1
+**6.5 alignment sweep**
+
+- Series Alignment advanced from Rev 6.4 to Rev 6.5 (money exposure audit: member compensation, public campaign matching funds, the state-funding prohibition, and Section 204 contracting removed from the legislative text; the enforcement prohibition retained as Section 404(d)(1.1)). Verification pass confirmed no operative references to any removed provision. No content change required.
+
+**Revision 6.4** (Current)
+- Aligned with Rev 6.4 of the CEMA legislative text (6.4 alignment sweep)
+- **Threshold noun retired from PR explainer:** Two instances of "meet the threshold" in the "How Proportional Representation Works" section replaced with placement framing: "place a candidate among the winners" and "place a candidate among the top five." "Threshold" as a noun is banned from Primer Series materials per the 1(b) rule; the correct frame is top-N placement, where N is the number of seats
+- **DPS header non-conformance disposition:** Sample ballots are exempt from the standard Supporting Document header format (H1 document title, H2 typed relational subtitle, author byline). The H1/H2/H3 in sample ballots serve as ballot design elements (title, district identification, election date), not document metadata. Attribution is carried by the educational note at the footer. This exemption applies to both the SMD and MMD sample ballots as a document-class decision
+- Rev 6.3 disposition: no content in this document references Title I ballot-access specifics, Title II party recognition, Title V compensation, or Section 704 effective dates at a level affected by the 6.3/6.4 changes. Verified clean
+
+**Revision 6.2a**
+- Internal content revision (basis-agnostic framing + terminology); document remains aligned to legislative text 6.2. Terminology: three swaps of "STAR Proportional Representation" to "Proportional STAR" (section body line and footer note; the concept-level "proportional representation" and the section header "HOW PROPORTIONAL REPRESENTATION WORKS" were intentionally kept as concept references, not method names). Added a lens-widening scaffold at the opening of the proportional-representation explainer, establishing that voters form cohesive groups along many dimensions -- party, region, background, interest, value, or cause -- with party named as the most familiar lens rather than the defining one; pedagogical purpose is to keep the reader's PR mental model from narrowing to the conditioned political/racial/geographic axes. Basis-agnostic reframes at three sites: the explainer lead now reads "any cohesive group of voters large enough to meet the threshold earns representation in proportion to its support"; "different viewpoints, reflecting the diversity of the district" broadened to "different groups within the district, reflecting its diversity"; the anti-spoiler benefit reframed from a party property to a general capability of any group fielding more than one candidate, with party slates noted as the illustration. The party-based worked example and scenarios (Democratic/Republican divisions, independents, coalitions) were intentionally retained as one legitimate illustration under the widened frame and not rebuilt -- the mock ballot's candidates are party-affiliated, so the example is necessary; the scaffold reframes it as one case rather than the definition. A single pointer was added to the Coalition Building section noting that some coalitions cohere around shared interests, not party. DPS 3.8 compliant on revision scope (H1 = 1; em-dashes as --; non-ASCII limited to permitted ballot glyphs and footer ©). Carried-forward observation: document-class title-block/footer non-conformance (missing H2 subtitle and "Prepared by" header byline) remains unaddressed -- reserved for the separate class-wide conformance sweep, not fixed here.
+
+**Revision 6.2**
+- No content change required. Rev 6.2 added the affirmative full-field elections standard to the legislative text and split the primary prohibition into two independent bars (No State Funding, No State Enforcement). This sample ballot already presents the full field of qualified candidates on a single general-election sheet and contains no primary-prohibition narration affected by the restructure (grep-verified). Series-alignment bump only; no body edits. Revision History block established at this revision per DPS 3.8 (prior versions carried no history block). DPS 3.8 compliant on alignment scope.
+
+**Revision 6.1**
+- No content change required. Rev 6.1 removed the VRA Section 2 vote-dilution carve-out from the legislative text; this document is a sample ballot and does not reference that mechanism (grep-verified). No content change required.
 -->
 
 *Revision history available in the raw file.*
 
-> 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/cema/the-case-for-an-electoral-science-office.md) (opens on GitHub -- click the ⬇ download button)
+> 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/cema/sample-mmd-ballot.md) (opens on GitHub -- click the ⬇ download button)
 
 ---
 
-*Prepared by Albert Ramos for The American Policy Architecture Institute*
+*© 2026 Albert Ramos | American Policy Architecture Institute*
