@@ -119,11 +119,20 @@ The *Congressional Elections Modernization Act* (Rev 6.2) is an internal APAI do
 
 
 <!--
-Series Alignment: The Congressional Elections Modernization Act (Rev 6.2)
+Series Alignment: The Congressional Elections Modernization Act (Rev 6.4)
 
 ## Revision History
 
-**Revision 1.0** (Current)
+**6.5 alignment sweep**
+
+- Series Alignment advanced from Rev 6.4 to Rev 6.5 (money exposure audit: member compensation, public campaign matching funds, the state-funding prohibition, and Section 204 contracting removed from the legislative text; the enforcement prohibition retained as Section 404(d)(1.1)). Verification pass confirmed no operative references to any removed provision. No content change required.
+
+**Revision 6.4** (Current)
+- Folded into the main CEMA document series and anchored to Rev 6.4 of the legislative text. Renamed from `CEMA-primer-1-0-the-electoral-science-office.md` to `CEMA-6-4-primer-electoral-science-office.md` under the main-series filename convention (`CEMA-6-4-primer-[title].md`); the standalone Primer Series `1-0` numbering and the per-document letter tag are retired. With the legislative text now the shared anchor for every CEMA document, this primer's revision number tracks the legislative revision, and internal edits between legislative bumps take a letter suffix that resets on each bump (DPS 1.1); the leading "the" was also dropped from the filename slug to match the updated Series Nav
+- Rebaseline only -- no body content changed. Prior Primer Series revision history retained below as permanent record
+
+**Revision 1.0**
+- **6.4 alignment sweep:** Series Alignment advanced from Rev 6.2 to Rev 6.4. No content change required. No references to Title I ballot-access specifics, Title II party recognition, Title V compensation, or Section 704 effective-date tiers. No threshold-as-bar language, no "human timescale," no incumbent-incentive framing. Verified clean
 - Series baseline established under the new CEMA Primer Series filename convention: `CEMA-primer-[series]-[rev]-[title]-[letter].md`. File renamed from `CEMA-6-2-primer-the-electoral-science-office-a.md` to `CEMA-primer-1-0-the-electoral-science-office.md`; the legislative-source tag is removed from the filename and now carried by the Series Alignment line above. Doc-level letter dropped as part of a series-wide alignment sweep
 - STAR Voting title cascade applied: the component-list body reference and the footer primer index entry changed from "Percentage-Based Voting" to "STAR Voting," and affected footer/in-text URL paths from `/congress/cmf/cema/percentage-based-voting/` to `/congress/cmf/cema/star-voting/`. Lowercase "percentage-based voting" concept usage in running prose left intact per the originating work order
 - Prior revision history renumbered into the pre-1.0 (0.x) band; entry prose preserved verbatim
