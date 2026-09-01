@@ -44,11 +44,11 @@ Expansion does not happen overnight. The Act phases it in over roughly fourteen 
 
 Raising the resolution of the House is worth doing on its own. But within CEMA's design the size of the chamber does something more specific: it sets how open the whole system can be -- how small a group of like-minded voters can be and still earn a seat.
 
-CEMA pairs expansion with [STAR Voting](/congress/cmf/cema/star-voting/), under which most representatives are elected from larger, multi-seat districts rather than one-winner districts. In a multi-seat district, the share of support needed to win one seat depends on how many seats the district has: a three-seat district takes roughly a third of the vote, a five-seat district roughly a fifth, a seven-seat district roughly a seventh. More total seats in the House means more seats per district, and more seats per district means a smaller slice of support is enough to win one. The size of the House is the dial that sets how low the bar to win representation can fall.
+CEMA pairs expansion with [STAR Voting](/congress/cmf/cema/star-voting/), under which most representatives are elected from larger, multi-seat districts rather than one-winner districts. In a multi-seat district, seats go to the candidates with the strongest support -- and the more seats a district has, the more candidates win. A three-seat district seats three winners; a five-seat district, five; a seven-seat district, seven. More total seats in the House means more seats per district, and more seats per district means more room for different groups of voters to place a candidate among the winners. The size of the House is the dial that sets how open representation can be.
 
 This is what resolution looks like in practice. A coarse House renders the public in a few broad blocks; a higher-resolution House can render the finer grain -- the cohesive groups of voters who, under a small chamber and winner-take-all districts, get filtered out in a primary or absorbed into one of two big coalitions and never appear at all. Grow the chamber, and a bloc that could never assemble a local majority can still claim one seat among several. The people who were rounded off come through.
 
-That makes expansion the lever behind the whole structure. If the threshold to earn a seat is still too high for smaller groups to clear, the remedy is not to tinker with the voting method or redraw any lines -- it is a bigger House. Grow the chamber, and every threshold in the system comes down automatically, because the arithmetic of seats-per-district does the work. The mechanics belong to [STAR Voting](/congress/cmf/cema/star-voting/); what House Expansion contributes is that the size of the chamber governs all of them. Expand the House and you open the system; hold it small and you keep it closed. That is what lifts House Expansion from housekeeping to something central to the design.
+That makes expansion the lever behind the whole structure. If a district still does not have enough seats for smaller groups to place a candidate among the winners, the remedy is not to tinker with the voting method or redraw any lines -- it is a bigger House. Grow the chamber, and every district gets more seats to fill, which means more room for the groups that were shut out. The arithmetic of seats-per-district does the work. The mechanics belong to [STAR Voting](/congress/cmf/cema/star-voting/); what House Expansion contributes is that the size of the chamber governs all of them. Expand the House and you open the system; hold it small and you keep it closed. That is what lifts House Expansion from housekeeping to something central to the design.
 
 ---
 
@@ -114,11 +114,26 @@ U.S. Permanent Apportionment Act of 1929, Pub. L. No. 71-13, 46 Stat. 21.
 The *Congressional Elections Modernization Act* (Rev 6.2) is an internal APAI document available on the same website and is referenced in prose by name. The 84-percent-at-720, Vermont-728, and Wyoming-~1,400 figures are APAI Huntington-Hill apportionment analysis computed on the 2020 Census apportionment data cited above. The ~210,000-per-member 1929 figure is computed from the 1930 Census population over 435 seats; the ~760,000 and ~465,000 figures from the 2020 Census population over 435 and 720 seats respectively.
 
 <!--
-Series Alignment: The Congressional Elections Modernization Act (Rev 6.2)
+Series Alignment: The Congressional Elections Modernization Act (Rev 6.4)
 
 ## Revision History
 
-**Revision 1.1** (Current)
+**6.5 alignment sweep**
+
+- Series Alignment advanced from Rev 6.4 to Rev 6.5 (money exposure audit: member compensation, public campaign matching funds, the state-funding prohibition, and Section 204 contracting removed from the legislative text; the enforcement prohibition retained as Section 404(d)(1.1)). Verification pass confirmed no operative references to any removed provision. No content change required.
+
+**Revision 6.4** (Current)
+- Folded into the main CEMA document series and anchored to Rev 6.4 of the legislative text. Renamed from `CEMA-primer-1-0-house-expansion-b.md` to `CEMA-6-4-primer-house-expansion.md` under the main-series filename convention (`CEMA-6-4-primer-[title].md`); the standalone Primer Series `1-0` numbering and the per-document letter tag are retired. With the legislative text now the shared anchor for every CEMA document, this primer's revision number tracks the legislative revision, and internal edits between legislative bumps take a letter suffix that resets on each bump (DPS 1.1)
+- Rebaseline only -- no body content changed. Prior Primer Series revision history retained below as permanent record
+- Correction: the prior Primer Series `1.2` token was a series number incremented on a single document (the drift this rebaseline resolves); it is superseded by the shared 6.4 legislative anchor
+
+**Revision 1.2**
+- **6.4 alignment sweep:** Series Alignment advanced from Rev 6.2 to Rev 6.4
+- **Lever section reframed (threshold-as-bar retired):** "Why the Size of the House Is the Lever" rewritten to replace threshold-as-bar-to-clear framing with placement/seats-available framing. Five instances of threshold language removed: "the share of support needed to win one seat" / "a smaller slice of support is enough to win one" / "how low the bar to win representation can fall" / "the threshold to earn a seat is still too high for smaller groups to clear" / "every threshold in the system comes down automatically." Replaced with the correct mechanical frame: more seats per district means more candidates win, which means more room for different groups to place a candidate among the winners. "Threshold" as a noun is banned from Primer Series materials per the 1(b) rule. The underlying argument -- that House size governs proportional openness -- is preserved intact; only the framing of how seats are won is corrected
+- Rev 6.3 disposition: no content in this document references Title I ballot-access specifics at a level affected by the 6.3 changes. Verified clean
+- Rev 6.4 disposition: no content references Title II party recognition structure, Title V compensation specifics, or Section 704 effective-date tiers. The lever section threshold language was the sole finding
+
+**Revision 1.1**
 - Foundational reframe: affirmative case rebuilt off the intimacy/closeness frame and onto a republican-principle foundation -- seats as the raw material of representation, seat count as the resolution of the People's House. The intimacy argument removed from the body entirely (author's final decision) and relocated to Addressing Concerns as a named, steelmanned, redirected concern
 - New opening foundation (republic governs through representatives -> seats are the raw ingredient -> number sets resolution), replacing the dilution-arc emotional hook. Opens on structural cost per Style Guide 4.1
 - Pacing pass against the STAR Voting primer model: intro tightened from five paragraphs to three; redundant resolution restatements trimmed from the lever section; "A Rule, Not a Number" condensed; concern entries tightened. Body brought from ~3,310 words back toward the 2,500 landing zone
