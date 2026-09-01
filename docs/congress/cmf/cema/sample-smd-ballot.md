@@ -238,8 +238,32 @@ Turn ballot over for additional races →
 
 *This is a mock ballot created for educational purposes to demonstrate STAR Voting in general elections for single-member districts in states with two Representatives and Joint Endorsement Lists as proposed in the Congressional Elections Modernization Act (CEMA).*
 
+---
+
+<!--
+## Revision History
+
+**6.5 alignment sweep**
+
+- Series Alignment advanced from Rev 6.4 to Rev 6.5 (money exposure audit: member compensation, public campaign matching funds, the state-funding prohibition, and Section 204 contracting removed from the legislative text; the enforcement prohibition retained as Section 404(d)(1.1)). Verification pass confirmed no operative references to any removed provision. No content change required.
+
+**Revision 6.4** (Current)
+- Aligned with Rev 6.4 of the CEMA legislative text (6.4 alignment sweep). No content change required.
+- **DPS header non-conformance disposition:** Sample ballots are exempt from the standard Supporting Document header format (H1 document title, H2 typed relational subtitle, author byline). The H1/H2/H3 in sample ballots serve as ballot design elements (title, district identification, election date), not document metadata. Attribution is carried by the educational note at the footer. This exemption applies to both the SMD and MMD sample ballots as a document-class decision
+- Rev 6.3 disposition: no content references Title I ballot-access specifics (petition routes, signature thresholds, filing fees) at a level affected by 6.3 changes. Verified clean
+- Rev 6.4 disposition: no content references Title II party recognition structure, Title V compensation specifics, or Section 704 effective-date tiers. Verified clean
+
+**Revision 6.2**
+- No content change required. Rev 6.2 added the affirmative full-field elections standard to the legislative text and split the primary prohibition into two independent bars (No State Funding, No State Enforcement). This sample ballot already presents the full field of qualified candidates on a single general-election sheet and contains no primary-prohibition narration affected by the restructure (grep-verified). Series-alignment bump only; no body edits. Revision History block established at this revision per DPS 3.8 (prior versions carried no history block). DPS 3.8 compliant on alignment scope.
+
+**Revision 6.1**
+- No content change required. Rev 6.1 removed the VRA Section 2 vote-dilution carve-out from the legislative text; this document is a sample ballot and does not reference that mechanism (grep-verified). No content change required.
+-->
+
+*Revision history available in the raw file.*
+
 > 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/cema/sample-smd-ballot.md) (opens on GitHub -- click the ⬇ download button)
 
 ---
 
-*Prepared by Albert Ramos for The American Policy Architecture Institute*
+*© 2026 Albert Ramos | American Policy Architecture Institute*
