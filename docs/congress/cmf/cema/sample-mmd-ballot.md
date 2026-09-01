@@ -161,12 +161,14 @@ Organic farmer and sustainable agriculture advocate with 15 years farming experi
 
 ## HOW PROPORTIONAL REPRESENTATION WORKS
 
-With **5 seats** to fill and **12 candidates** running, this district uses STAR Proportional Representation to ensure voters across the political spectrum get fair representation:
+Voters form cohesive groups for many reasons -- a shared party, a shared region, a shared background, or a common interest, value, or cause. Proportional representation gives any group large enough to place a candidate among the winners a fair share of the seats, whatever it is that holds the group together. The example below uses party and political outlook because those are the most familiar, but the same math serves a group united by anything its members share.
+
+With **5 seats** to fill and **12 candidates** running, this district uses Proportional STAR to ensure that any cohesive group of voters large enough to place a candidate among the top five earns representation in proportion to its support:
 
 1. **Your scores matter**: Rate candidates honestly based on your level of support
 2. **Proportional allocation**: The system ensures that groups of voters who share preferences get representation roughly proportional to their numbers
 3. **No wasted votes**: Unlike single-member districts, your vote counts even if your top choices don't all win
-4. **Coalition representation**: The 5 winners will likely represent different viewpoints, reflecting the diversity of the district
+4. **Coalition representation**: The 5 winners will likely represent different groups within the district, reflecting its diversity
 
 **Example Outcome:** If voters in this district are roughly 40% progressive, 35% conservative, and 25% moderate/independent, the 5 elected Representatives might be:
 - 2 progressive Democrats (Martinez, Rodriguez, or O'Brien)
@@ -186,7 +188,7 @@ The **four Democratic candidates** show party diversity:
 - **Patricia O'Brien** (Dem, WF, Green) - Most progressive with maximum coalition support
 - **Carlos Mendez** (Dem, none) - No party endorsement despite registration
 
-This demonstrates how proportional representation allows parties to run multiple candidates representing different wings without splitting votes destructively.
+This demonstrates how proportional representation allows any group -- a party, a movement, or a community of shared interest -- to run multiple candidates without splitting its own support destructively. Here that's illustrated with party slates, but the same protection applies to any group fielding more than one candidate.
 
 ### Republican Party Division
 The **four Republican candidates** show conservative diversity:
@@ -207,7 +209,7 @@ Torres's lack of endorsement signals internal party conflict - voters can see cl
 These candidates provide alternatives to major party options while building coalitions through Joint Endorsement Lists.
 
 ### Coalition Building Through Endorsements
-Note the coalition patterns:
+Note the coalition patterns -- and note that some cohere around shared interests, not party:
 - **Progressive coalition**: O'Brien (Dem, WF, Green), Patel (Green, WF)
 - **Reform coalition**: Anderson (Rep, Forward), Park (Forward)
 - **Labor coalition**: Martinez (Dem, WF), O'Brien (Dem, WF, Green), Patel (Green, WF)
@@ -299,10 +301,37 @@ Turn ballot over for additional races →
 
 ---
 
-*This is a mock ballot created for educational purposes to demonstrate STAR Proportional Representation voting and Joint Endorsement Lists as proposed in the Congressional Elections Modernization Act (CEMA).*
+*This is a mock ballot created for educational purposes to demonstrate Proportional STAR voting and Joint Endorsement Lists as proposed in the Congressional Elections Modernization Act (CEMA).*
+
+---
+
+<!--
+## Revision History
+
+**6.5 alignment sweep**
+
+- Series Alignment advanced from Rev 6.4 to Rev 6.5 (money exposure audit: member compensation, public campaign matching funds, the state-funding prohibition, and Section 204 contracting removed from the legislative text; the enforcement prohibition retained as Section 404(d)(1.1)). Verification pass confirmed no operative references to any removed provision. No content change required.
+
+**Revision 6.4** (Current)
+- Aligned with Rev 6.4 of the CEMA legislative text (6.4 alignment sweep)
+- **Threshold noun retired from PR explainer:** Two instances of "meet the threshold" in the "How Proportional Representation Works" section replaced with placement framing: "place a candidate among the winners" and "place a candidate among the top five." "Threshold" as a noun is banned from Primer Series materials per the 1(b) rule; the correct frame is top-N placement, where N is the number of seats
+- **DPS header non-conformance disposition:** Sample ballots are exempt from the standard Supporting Document header format (H1 document title, H2 typed relational subtitle, author byline). The H1/H2/H3 in sample ballots serve as ballot design elements (title, district identification, election date), not document metadata. Attribution is carried by the educational note at the footer. This exemption applies to both the SMD and MMD sample ballots as a document-class decision
+- Rev 6.3 disposition: no content in this document references Title I ballot-access specifics, Title II party recognition, Title V compensation, or Section 704 effective dates at a level affected by the 6.3/6.4 changes. Verified clean
+
+**Revision 6.2a**
+- Internal content revision (basis-agnostic framing + terminology); document remains aligned to legislative text 6.2. Terminology: three swaps of "STAR Proportional Representation" to "Proportional STAR" (section body line and footer note; the concept-level "proportional representation" and the section header "HOW PROPORTIONAL REPRESENTATION WORKS" were intentionally kept as concept references, not method names). Added a lens-widening scaffold at the opening of the proportional-representation explainer, establishing that voters form cohesive groups along many dimensions -- party, region, background, interest, value, or cause -- with party named as the most familiar lens rather than the defining one; pedagogical purpose is to keep the reader's PR mental model from narrowing to the conditioned political/racial/geographic axes. Basis-agnostic reframes at three sites: the explainer lead now reads "any cohesive group of voters large enough to meet the threshold earns representation in proportion to its support"; "different viewpoints, reflecting the diversity of the district" broadened to "different groups within the district, reflecting its diversity"; the anti-spoiler benefit reframed from a party property to a general capability of any group fielding more than one candidate, with party slates noted as the illustration. The party-based worked example and scenarios (Democratic/Republican divisions, independents, coalitions) were intentionally retained as one legitimate illustration under the widened frame and not rebuilt -- the mock ballot's candidates are party-affiliated, so the example is necessary; the scaffold reframes it as one case rather than the definition. A single pointer was added to the Coalition Building section noting that some coalitions cohere around shared interests, not party. DPS 3.8 compliant on revision scope (H1 = 1; em-dashes as --; non-ASCII limited to permitted ballot glyphs and footer ©). Carried-forward observation: document-class title-block/footer non-conformance (missing H2 subtitle and "Prepared by" header byline) remains unaddressed -- reserved for the separate class-wide conformance sweep, not fixed here.
+
+**Revision 6.2**
+- No content change required. Rev 6.2 added the affirmative full-field elections standard to the legislative text and split the primary prohibition into two independent bars (No State Funding, No State Enforcement). This sample ballot already presents the full field of qualified candidates on a single general-election sheet and contains no primary-prohibition narration affected by the restructure (grep-verified). Series-alignment bump only; no body edits. Revision History block established at this revision per DPS 3.8 (prior versions carried no history block). DPS 3.8 compliant on alignment scope.
+
+**Revision 6.1**
+- No content change required. Rev 6.1 removed the VRA Section 2 vote-dilution carve-out from the legislative text; this document is a sample ballot and does not reference that mechanism (grep-verified). No content change required.
+-->
+
+*Revision history available in the raw file.*
 
 > 📥 [Download this document](https://github.com/albertintech/apai/blob/main/docs/congress/cmf/cema/sample-mmd-ballot.md) (opens on GitHub -- click the ⬇ download button)
 
 ---
 
-*Prepared by Albert Ramos for The American Policy Architecture Institute*
+*© 2026 Albert Ramos | American Policy Architecture Institute*
