@@ -1,0 +1,583 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Proportional STAR — The Details · CEMA Primer Series Explainer</title>
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0;}
+:root {
+  --dem:#1a4a8a; --dem-lt:#dce8f8;
+  --rep:#b22234; --rep-lt:#f8dce0;
+  --walsh:#7a2a2a; --walsh-lt:#f0d8d8;
+  --fwd:#c87a10; --fwd-lt:#f8edcc;
+  --grn:#5a8a2d; --grn-lt:#e4f0d6;
+  --ink:#1a1a2e; --rule:#d0d8e4; --bg:#f4f7fb; --white:#ffffff;
+  --mono:'Courier New',monospace; --serif:Georgia,'Times New Roman',serif; --sans:system-ui,-apple-system,sans-serif;
+}
+body{font-family:var(--serif);background:var(--bg);color:var(--ink);padding:40px 20px 80px;line-height:1.65;font-size:17px;}
+.page{max-width:920px;margin:0 auto;}
+
+/* HEADER */
+.page-header{border-bottom:3px solid var(--ink);padding-bottom:20px;margin-bottom:36px;}
+.eyebrow{font-family:var(--sans);font-size:10px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:#666;margin-bottom:8px;}
+.page-header h1{font-size:28px;font-weight:700;color:var(--ink);line-height:1.2;margin-bottom:8px;}
+.page-header .deck{font-size:15.5px;color:#555;font-style:italic;line-height:1.7;}
+.stat-strip{display:flex;flex-wrap:wrap;gap:10px;margin:22px 0 0;}
+.stat-box{flex:1;min-width:80px;text-align:center;border:1.5px solid var(--rule);border-radius:8px;padding:10px 6px;background:var(--white);}
+.stat-box .num{font-size:22px;font-weight:700;color:var(--ink);line-height:1;}
+.stat-box .lab{font-family:var(--sans);font-size:9px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:#888;margin-top:5px;}
+
+/* PROSE */
+.prose{font-size:16px;line-height:1.8;color:#2c2c2c;margin-bottom:16px;}
+.prose:last-child{margin-bottom:0;}
+.prose strong{color:var(--ink);}
+.prose em{font-style:italic;}
+
+/* SECTION */
+.section-rule{display:flex;align-items:center;gap:16px;margin:48px 0 28px;}
+.section-rule h2{font-size:21px;font-weight:700;color:var(--ink);white-space:nowrap;}
+.section-rule .line{flex:1;height:2px;background:var(--ink);}
+
+/* BALLOT TABLE */
+.ballot-card{border:2px solid var(--ink);border-radius:10px;overflow:hidden;margin:24px 0 28px;background:var(--white);}
+.ballot-title{background:var(--ink);color:var(--white);padding:12px 18px;font-family:var(--sans);font-size:13px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;}
+.ballot-table{width:100%;border-collapse:collapse;}
+.ballot-table th{font-family:var(--sans);font-size:10px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:#888;text-align:left;padding:10px 16px 8px;border-bottom:1.5px solid var(--rule);}
+.ballot-table td{padding:11px 16px;font-size:15px;border-bottom:1px solid #eef0f4;vertical-align:middle;}
+.ballot-table tr:last-child td{border-bottom:none;}
+.ballot-table .cand-name{font-weight:700;color:var(--ink);}
+.ballot-table .party-reg{color:#555;}
+.ballot-table .endorsements{color:#555;}
+.ballot-table .rating-bubbles{font-family:var(--sans);font-size:14px;letter-spacing:3px;color:#bbb;}
+.endorse-flag{font-weight:700;}
+.ef-dem{color:var(--dem);} .ef-rep{color:var(--rep);} .ef-fwd{color:var(--fwd);} .ef-grn{color:var(--grn);}
+
+/* CHIPS */
+.chip{display:inline-block;font-family:var(--sans);font-size:9px;font-weight:700;letter-spacing:.05em;text-transform:uppercase;color:var(--white);padding:2px 7px;border-radius:10px;}
+.chip-dem{background:var(--dem);} .chip-rep{background:var(--rep);} .chip-walsh{background:var(--walsh);}
+.chip-fwd{background:var(--fwd);} .chip-grn{background:var(--grn);}
+
+/* SCORING CARDS */
+.score-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:12px;margin:16px 0 24px;}
+.score-card{border:1.5px solid var(--rule);border-radius:9px;overflow:hidden;background:var(--white);}
+.score-hdr{padding:9px 13px;color:var(--white);display:flex;justify-content:space-between;align-items:baseline;}
+.sh-dem{background:var(--dem);} .sh-rep{background:var(--rep);} .sh-walsh{background:var(--walsh);}
+.sh-fwd{background:var(--fwd);} .sh-grn{background:var(--grn);}
+.score-hdr .st{font-family:var(--sans);font-weight:800;font-size:11px;letter-spacing:.06em;}
+.score-hdr .sn{font-size:10px;opacity:.9;font-family:var(--sans);}
+.score-row{display:flex;align-items:center;gap:8px;padding:5px 13px;font-size:12.5px;border-bottom:1px solid #f1f4f8;}
+.score-row:last-child{border-bottom:none;}
+.score-row .cn{flex:1;}
+.score-row .stars{font-size:11px;letter-spacing:-1px;}
+.star-on{color:#e0a93b;} .star-off{color:#d4d9e0;}
+.score-row .sv{font-weight:700;color:var(--ink);width:14px;text-align:right;}
+
+/* ROUND BLOCK */
+.round-block{border:1.5px solid var(--rule);border-radius:10px;overflow:hidden;margin-bottom:26px;background:var(--white);}
+.round-hdr{background:var(--ink);color:var(--white);padding:12px 18px;}
+.round-hdr .rn{font-family:var(--sans);font-size:10px;font-weight:800;letter-spacing:.1em;text-transform:uppercase;opacity:.65;margin-right:10px;}
+.round-hdr .rstate{font-family:var(--mono);font-size:11px;opacity:.8;display:block;margin-top:5px;}
+.win-banner{color:var(--white);font-weight:700;font-size:14px;padding:11px 18px;display:flex;align-items:center;gap:8px;}
+.win-banner::before{content:"▸";opacity:.8;}
+.wb-dem{background:var(--dem);} .wb-rep{background:var(--rep);} .wb-fwd{background:var(--fwd);} .wb-grn{background:var(--grn);}
+
+/* TALLY TABLE */
+.tally{width:100%;border-collapse:collapse;font-size:12px;}
+.tally th{font-family:var(--sans);font-size:9px;font-weight:700;letter-spacing:.05em;text-transform:uppercase;color:#999;padding:9px 8px;text-align:right;border-bottom:1.5px solid var(--rule);}
+.tally th:first-child{text-align:left;}
+.tally td{padding:7px 8px;text-align:right;border-bottom:1px solid #f1f4f8;font-family:var(--mono);font-size:11px;color:#555;}
+.tally td:first-child{text-align:left;font-family:var(--serif);}
+.tally .cand-cell{font-weight:700;color:var(--ink);white-space:nowrap;}
+.tally .total-cell{font-family:var(--sans);font-weight:800;color:var(--ink);font-size:12px;}
+.tally tr.winner-row{background:#d6edcc;}
+.mini-chip{font-family:var(--sans);font-size:7px;font-weight:700;color:var(--white);padding:1px 5px;border-radius:8px;margin-left:5px;vertical-align:middle;}
+
+/* WINDOW LABELS */
+.window-label{font-family:var(--sans);font-size:10px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:#888;margin-bottom:4px;padding:14px 20px 0;}
+
+/* ALLOCATION */
+.alloc-wrap{padding:14px 20px 18px;border-top:1px solid var(--rule);}
+.alloc-grid{display:grid;grid-template-columns:160px 1fr;gap:24px;align-items:center;}
+.beaker-area{display:flex;flex-direction:column;align-items:center;gap:6px;}
+.beaker{position:relative;width:120px;height:170px;border:3px solid var(--ink);border-top:none;border-radius:0 0 14px 14px;background:var(--white);display:flex;flex-direction:column-reverse;overflow:hidden;}
+.beaker::before{content:"";position:absolute;top:-3px;left:-3px;right:-3px;height:3px;background:var(--ink);border-radius:2px;}
+.tier{width:100%;display:flex;align-items:center;justify-content:center;font-family:var(--sans);font-size:10px;font-weight:700;color:var(--white);text-align:center;line-height:1.2;padding:2px;}
+.quota-line{position:absolute;left:-8px;right:-8px;border-top:2px dashed var(--ink);z-index:5;}
+.quota-tag{position:absolute;right:-44px;font-family:var(--sans);font-size:8px;font-weight:800;letter-spacing:.06em;color:var(--ink);transform:translateY(-50%);}
+.cusp-bracket{position:absolute;left:-14px;width:8px;border:2px solid var(--rep);border-right:none;z-index:6;}
+.cusp-tag{position:absolute;left:-40px;font-family:var(--sans);font-size:8px;font-weight:800;letter-spacing:.06em;color:var(--rep);transform:translateY(-50%);}
+.beaker-cap{font-family:var(--sans);font-size:9px;font-weight:700;color:#777;text-align:center;max-width:150px;line-height:1.3;}
+.t-dem{background:var(--dem);} .t-rep{background:var(--rep);} .t-walsh{background:var(--walsh);}
+.t-fwd{background:var(--fwd);} .t-grn{background:var(--grn);} .t-zero{background:#c7ced9;color:#667;}
+.t-reduced{opacity:.62;}
+.alloc-text{font-size:14px;line-height:1.7;color:#444;margin-bottom:14px;}
+.alloc-text strong{color:var(--ink);}
+.surplus-box{border:1.5px solid var(--fwd);background:var(--fwd-lt);border-radius:8px;padding:14px 16px;margin-bottom:14px;}
+.surplus-box.sb-dem{border-color:var(--dem);background:var(--dem-lt);}
+.surplus-box.sb-rep{border-color:var(--rep);background:var(--rep-lt);}
+.surplus-box.sb-fwd{border-color:var(--fwd);background:var(--fwd-lt);}
+.surplus-box.sb-grn{border-color:var(--grn);background:var(--grn-lt);}
+.surplus-box.sb-multi{border-color:var(--ink);background:#eef2f8;}
+.surplus-title{font-family:var(--sans);font-size:10.5px;font-weight:800;letter-spacing:.06em;text-transform:uppercase;margin-bottom:10px;}
+.sb-dem .surplus-title{color:var(--dem);} .sb-rep .surplus-title{color:var(--rep);}
+.sb-fwd .surplus-title{color:var(--fwd);} .sb-grn .surplus-title{color:var(--grn);}
+.sb-multi .surplus-title{color:var(--ink);}
+.surplus-step{font-size:13px;color:#444;margin-bottom:7px;}
+.surplus-step:last-child{margin-bottom:0;}
+.surplus-step .calc{font-family:var(--mono);font-size:12px;color:var(--ink);display:block;margin-top:2px;}
+.surplus-step .res{font-weight:800;color:var(--ink);}
+
+/* GAUGE PANEL */
+.gauge-panel{display:grid;grid-template-columns:repeat(5,1fr);gap:8px;margin:0;padding:14px 20px 18px;border-top:1px solid var(--rule);}
+.gauge-panel-title{grid-column:1/-1;font-family:var(--sans);font-size:10px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:#888;margin-bottom:4px;}
+.gauge-item{display:flex;flex-direction:column;align-items:center;gap:4px;}
+.gauge-label{font-family:var(--sans);font-size:9px;font-weight:700;letter-spacing:.04em;text-transform:uppercase;color:#888;}
+.gauge-col{width:28px;height:72px;border:2px solid var(--rule);border-radius:4px;position:relative;background:#f0f2f6;overflow:hidden;}
+.gauge-fill{position:absolute;bottom:0;left:0;right:0;border-radius:0 0 2px 2px;}
+.gf-dem{background:var(--dem);} .gf-rep{background:var(--rep);} .gf-walsh{background:var(--walsh);}
+.gf-fwd{background:var(--fwd);} .gf-grn{background:var(--grn);} .gf-empty{background:#d8dce4;}
+.gauge-num{font-family:var(--mono);font-size:11px;font-weight:700;color:var(--ink);}
+
+/* CALLOUT */
+.callout{border-left:4px solid var(--ink);background:#eef2f8;padding:12px 16px;border-radius:0 6px 6px 0;margin:0 20px 18px;font-size:14px;line-height:1.7;}
+.callout strong{color:var(--ink);}
+.callout.cl-dem{border-color:var(--dem);background:var(--dem-lt);} .callout.cl-dem strong{color:var(--dem);}
+.callout.cl-fwd{border-color:var(--fwd);background:var(--fwd-lt);} .callout.cl-fwd strong{color:var(--fwd);}
+.callout.cl-grn{border-color:var(--grn);background:var(--grn-lt);} .callout.cl-grn strong{color:var(--grn);}
+.callout.cl-walsh{border-color:var(--walsh);background:var(--walsh-lt);} .callout.cl-walsh strong{color:var(--walsh);}
+
+/* RESULTS */
+.results-grid{display:grid;grid-template-columns:repeat(5,1fr);gap:10px;margin:20px 0;}
+.result-card{border-radius:8px;padding:14px 10px;text-align:center;color:var(--white);}
+.result-card .seat-n{font-family:var(--sans);font-size:9px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;opacity:.75;margin-bottom:5px;}
+.result-card .cand-r{font-size:16px;font-weight:700;margin-bottom:3px;}
+.result-card .party-r{font-size:9.5px;opacity:.85;line-height:1.35;}
+.rc-dem{background:var(--dem);} .rc-rep{background:var(--rep);} .rc-fwd{background:var(--fwd);} .rc-grn{background:var(--grn);}
+.losers-row{display:flex;gap:12px;margin:12px 0 18px;flex-wrap:wrap;}
+.loser-card{background:#f0f0f4;border:1px solid var(--rule);border-radius:8px;padding:11px 15px;font-size:13.5px;color:#666;flex:1;min-width:220px;}
+.loser-card strong{color:var(--ink);}
+
+/* KEY TERMS */
+.key-terms{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;margin-top:28px;padding-top:22px;border-top:2px solid var(--ink);}
+.key-term{font-size:13.5px;line-height:1.7;}
+.key-term strong{color:var(--ink);}
+.page-footer{margin-top:40px;font-size:11px;color:#aaa;text-align:center;font-family:var(--sans);}
+
+/* DARK MODE (toggled via data-theme on <html>) */
+[data-theme="dark"]{
+  --dem:#5a8abf;--dem-lt:#1a2a3e;
+  --rep:#c06070;--rep-lt:#3a1a20;
+  --walsh:#a06060;--walsh-lt:#2e1a1a;
+  --fwd:#c09a40;--fwd-lt:#2e2a14;
+  --grn:#7aaa4a;--grn-lt:#222e1a;
+  --ink:#9aa0b0;--rule:#3a4050;--bg:#1a1c24;--white:#24262e;
+}
+  [data-theme="dark"] body{color:var(--ink);}
+  [data-theme="dark"] .page-header h1{color:#b0b6c4;} .page-header{border-color:#4a5060;}
+  [data-theme="dark"] .eyebrow{color:#787e8a;} .page-header .deck{color:#808898;}
+  [data-theme="dark"] .prose{color:#8e94a4;} .prose strong{color:#a0a8b8;}
+  [data-theme="dark"] .section-rule h2{color:#a0a8b8;} .section-rule .line{background:#4a5060;}
+  [data-theme="dark"] .stat-box{background:#262830;border-color:var(--rule);} .stat-box .num{color:#a0a8b8;} .stat-box .lab{color:#6a7080;}
+  [data-theme="dark"] .ballot-card{border-color:#4a5060;background:#262830;} .ballot-title{background:#2a2e3a;color:#9aa0b0;}
+  [data-theme="dark"] .ballot-table th{color:#6a7080;border-color:#3a4050;} .ballot-table td{border-color:#2e3238;color:#8e94a4;}
+  [data-theme="dark"] .ballot-table .cand-name{color:#a0a8b8;} .ballot-table .party-reg{color:#7a8090;}
+  [data-theme="dark"] .ballot-table .endorsements{color:#7a8090;} .ballot-table .rating-bubbles{color:#4a5060;}
+  [data-theme="dark"] .score-card{border-color:var(--rule);background:#262830;} .score-row{border-color:#2e3238!important;color:#8e94a4;}
+  [data-theme="dark"] .score-row .sv{color:#a0a8b8;} .star-off{color:#3a4050;}
+  [data-theme="dark"] .score-hdr{color:#d0d4dc;}
+  [data-theme="dark"] .ballot-title{color:#d0d4dc;}
+  [data-theme="dark"] .round-block{background:#262830;border-color:var(--rule);}
+  [data-theme="dark"] .round-hdr{background:#2a2e3a;color:#9aa0b0;}
+  [data-theme="dark"] .round-hdr .rn{color:#6a7a8a;opacity:1;}
+  [data-theme="dark"] .round-hdr .rstate{color:#6a7080;}
+  [data-theme="dark"] .tally th{color:#6a7080;border-color:#3a4050;} .tally td{color:#7a8090;border-color:#2e3238;}
+  [data-theme="dark"] .tally .cand-cell{color:#a0a8b8;} .tally .total-cell{color:#a0a8b8;}
+  [data-theme="dark"] .tally tr.winner-row{background:#1a2e1a;}
+  [data-theme="dark"] .window-label{color:#6a7080;}
+  [data-theme="dark"] .alloc-text{color:#8e94a4;} .alloc-text strong{color:#a0a8b8;}
+  [data-theme="dark"] .beaker{background:#2e3038;border-color:#6a7080;} .beaker::before{background:#6a7080;}
+  [data-theme="dark"] .beaker-cap{color:#6a7080;} .t-zero{background:#4a4e58;color:#7a7e88;}
+  [data-theme="dark"] .quota-tag{color:#9aa0b0;} .quota-line{border-color:#9aa0b0;}
+  [data-theme="dark"] .cusp-bracket{border-color:var(--rep);} .cusp-tag{color:var(--rep);}
+  [data-theme="dark"] .surplus-step{color:#8e94a4;} .surplus-step .calc{color:#a0a8b8;} .surplus-step .res{color:#a0a8b8;}
+  [data-theme="dark"] .gauge-panel{border-color:var(--rule);} .gauge-panel-title{color:#6a7080;} .gauge-label{color:#6a7080;}
+  [data-theme="dark"] .gauge-col{background:#2e3038;border-color:#3a4050;} .gf-empty{background:#3a4050;} .gauge-num{color:#9aa0b0;}
+  [data-theme="dark"] .callout{background:#262830;border-color:#4a5060;color:#8e94a4;} .callout strong{color:#a0a8b8;}
+  [data-theme="dark"] .callout.cl-dem{background:var(--dem-lt);border-color:var(--dem);} .callout.cl-dem strong{color:var(--dem);}
+  [data-theme="dark"] .callout.cl-fwd{background:var(--fwd-lt);border-color:var(--fwd);} .callout.cl-fwd strong{color:var(--fwd);}
+  [data-theme="dark"] .callout.cl-grn{background:var(--grn-lt);border-color:var(--grn);} .callout.cl-grn strong{color:var(--grn);}
+  [data-theme="dark"] .callout.cl-walsh{background:var(--walsh-lt);border-color:var(--walsh);} .callout.cl-walsh strong{color:var(--walsh);}
+  [data-theme="dark"] .result-card{color:#d0d4dc;}
+  [data-theme="dark"] .win-banner{color:#d0d4dc;}
+  [data-theme="dark"] .surplus-box{background:#262830!important;border-color:#4a5060;}
+  [data-theme="dark"] .surplus-box.sb-dem{background:#162640!important;border-color:var(--dem);}
+  [data-theme="dark"] .surplus-box.sb-rep{background:#3a1420!important;border-color:var(--rep);}
+  [data-theme="dark"] .surplus-box.sb-fwd{background:#362a10!important;border-color:var(--fwd);}
+  [data-theme="dark"] .surplus-box.sb-grn{background:#1a3018!important;border-color:var(--grn);}
+  [data-theme="dark"] .surplus-box.sb-multi{background:#1e2838!important;border-color:#5a7a9a;}
+  [data-theme="dark"] .sb-dem .surplus-title{color:var(--dem)!important;}
+  [data-theme="dark"] .sb-rep .surplus-title{color:var(--rep)!important;}
+  [data-theme="dark"] .sb-fwd .surplus-title{color:var(--fwd)!important;}
+  [data-theme="dark"] .sb-grn .surplus-title{color:var(--grn)!important;}
+  [data-theme="dark"] .sb-multi .surplus-title{color:#7a9aba!important;}
+  [data-theme="dark"] .loser-card{background:#262830;border-color:var(--rule);color:#7a8090;} .loser-card strong{color:#9aa0b0;}
+  [data-theme="dark"] .key-terms{border-color:#4a5060;} .key-term{color:#8e94a4;} .key-term strong{color:#a0a8b8;}
+  [data-theme="dark"] .page-footer{color:#4a5060;}
+
+/* THEME TOGGLE */
+[data-theme="dark"] .theme-toggle{color:#8e94a4;border-color:#3a4050;background:#262830;}
+.theme-toggle{position:fixed;top:14px;right:14px;z-index:100;font-size:18px;background:var(--white);border:1.5px solid var(--rule);border-radius:50%;width:38px;height:38px;cursor:pointer;display:flex;align-items:center;justify-content:center;color:var(--ink);box-shadow:0 2px 6px rgba(0,0,0,.1);transition:background .2s,color .2s;}
+
+@media(max-width:640px){
+  .results-grid{grid-template-columns:repeat(2,1fr);}
+  .tally{font-size:10px;} .tally td{padding:5px 4px;}
+  .gauge-panel{grid-template-columns:repeat(3,1fr);}
+  .score-grid{grid-template-columns:repeat(2,1fr);}
+  .alloc-grid{grid-template-columns:1fr;} .beaker-area{justify-self:center;}
+}
+</style>
+</head>
+<body>
+<button class="theme-toggle" id="themeToggle" aria-label="Toggle dark mode">☀️</button>
+<div class="page">
+
+<div class="page-header">
+  <div class="eyebrow">Congressional Elections Modernization Act · Primer Series Explainer</div>
+  <h1>Proportional STAR — The Details</h1>
+  <p class="deck">The Allocated Score engine with every number on the table — tier-by-tier accounting,<br>coalition weight, and fractional surplus, round by round.</p>
+  <div class="stat-strip">
+    <div class="stat-box"><div class="num">100</div><div class="lab">Ballots</div></div>
+    <div class="stat-box"><div class="num">5</div><div class="lab">Seats</div></div>
+    <div class="stat-box"><div class="num">7</div><div class="lab">Candidates</div></div>
+    <div class="stat-box"><div class="num">20</div><div class="lab">Quota</div></div>
+    <div class="stat-box"><div class="num">2</div><div class="lab">Not Elected</div></div>
+  </div>
+</div>
+
+<!-- INTRO -->
+<p class="prose">This document is a companion to <em>Proportional STAR — The Basics</em>. That article walks through a simplified three-seat election and introduces the key ideas — selection, accounting, the two windows, the gauge. This article uses a larger, more politically complex election and <strong>shows every calculation</strong>. If you haven't read the companion first, start there. If you have, this is where we open the hood.</p>
+
+<p class="prose">The formula is <strong>Allocated Score</strong>. Each round, it does two things at two windows: <strong>Window 1</strong> selects the candidate with the most weighted support and awards the seat. <strong>Window 2</strong> processes the charge — the quota is deducted from the voters who backed the winner, starting with the strongest supporters. The math below shows exactly how that charge is calculated, tier by tier, every round.</p>
+
+<!-- BALLOT -->
+<div class="section-rule"><h2>The Ballot</h2><span class="line"></span></div>
+
+<p class="prose">Seven candidates are running for five seats. Scan the <strong>Party Endorsements</strong> column — the endorsement web tells the political story before a single vote is cast.</p>
+
+<div class="ballot-card">
+  <div class="ballot-title">Congressional District 7 — 5 Seats · STAR Ballot</div>
+  <table class="ballot-table">
+    <thead><tr><th>Candidate</th><th>Party Registration</th><th>Party Endorsements</th><th>Rating</th></tr></thead>
+    <tbody>
+      <tr><td class="cand-name">Martinez</td><td class="party-reg">Democratic</td><td class="endorsements"><span class="endorse-flag ef-dem">Democratic</span>, <span class="endorse-flag ef-fwd">Working Families</span></td><td class="rating-bubbles">⓪①②③④⑤</td></tr>
+      <tr><td class="cand-name">Rivera</td><td class="party-reg">Democratic</td><td class="endorsements"><span class="endorse-flag ef-dem">Democratic</span></td><td class="rating-bubbles">⓪①②③④⑤</td></tr>
+      <tr><td class="cand-name">Torres</td><td class="party-reg">Democratic</td><td class="endorsements"><span class="endorse-flag ef-dem">Democratic</span></td><td class="rating-bubbles">⓪①②③④⑤</td></tr>
+      <tr><td class="cand-name">Chen</td><td class="party-reg">Republican</td><td class="endorsements"><span class="endorse-flag ef-rep">Republican</span>, <span class="endorse-flag ef-fwd">Forward</span></td><td class="rating-bubbles">⓪①②③④⑤</td></tr>
+      <tr><td class="cand-name">Walsh</td><td class="party-reg">Republican</td><td class="endorsements"><em style="color:#999;">none</em></td><td class="rating-bubbles">⓪①②③④⑤</td></tr>
+      <tr><td class="cand-name">Olson</td><td class="party-reg">Independent</td><td class="endorsements"><span class="endorse-flag ef-fwd">Forward</span>, <span class="endorse-flag ef-grn">Green</span></td><td class="rating-bubbles">⓪①②③④⑤</td></tr>
+      <tr><td class="cand-name">Patel</td><td class="party-reg">Green</td><td class="endorsements"><span class="endorse-flag ef-grn">Green</span></td><td class="rating-bubbles">⓪①②③④⑤</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<!-- RACE PREVIEW -->
+<div class="section-rule"><h2>The Race Preview</h2><span class="line"></span></div>
+
+<p class="prose">District 7 is a competitive multimember district electing five representatives. Democrats are the largest bloc and are expected to win at least two of the five seats — the question is whether they can take a third. Republicans should secure one seat through Chen, their endorsed standard-bearer, who also carries the Forward Party endorsement — but Walsh, running without any party endorsement and drawing support only from the district's far-right voters, faces long odds. The real drama is in the middle and on the left flank. Olson, an Independent with endorsements from both Forward and Green, is drawing from two different voter pools. Patel, the Green Party's own candidate, is a wild card: Green endorsed Olson as well, so the question is whether Green voters will have enough influence left after supporting Olson to carry their own candidate. Analysts expect the major parties to take their seats. It's the remaining seats that are up for grabs.</p>
+
+<!-- SETUP -->
+<div class="section-rule"><h2>The Setup</h2><span class="line"></span></div>
+
+<p class="prose">100 ballots are cast across five voter groups. The quota — the price of one seat — is 100 ÷ 5 = <strong>20</strong>. Each group scores all seven candidates identically. Scores range from 0 (no support) to 5 (maximum). Cross-scores — giving stars to candidates outside your own party — are driven by endorsements. Here are the groups and how they scored:</p>
+
+<div class="score-grid" id="score-grid"></div>
+
+<!-- TABULATION -->
+<div class="section-rule"><h2>Tabulation — Round by Round</h2><span class="line"></span></div>
+
+<p class="prose">All ballot weights begin at 1.00. Each round, <strong>Window 1</strong> identifies the candidate with the highest weighted total and awards the seat. <strong>Window 2</strong> then charges the quota, tier by tier, starting with the strongest supporters. The gauge panel after each round shows where every group stands.</p>
+
+<div id="rounds"></div>
+
+<!-- RESULTS -->
+<div class="section-rule"><h2>The Delegation</h2><span class="line"></span></div>
+
+<div class="results-grid">
+  <div class="result-card rc-dem"><div class="seat-n">Seat 1</div><div class="cand-r">Martinez</div><div class="party-r">Democratic</div></div>
+  <div class="result-card rc-rep"><div class="seat-n">Seat 2</div><div class="cand-r">Chen</div><div class="party-r">Republican<br>+ Forward</div></div>
+  <div class="result-card rc-fwd"><div class="seat-n">Seat 3</div><div class="cand-r">Olson</div><div class="party-r">Independent<br>Forward + Green</div></div>
+  <div class="result-card rc-dem"><div class="seat-n">Seat 4</div><div class="cand-r">Rivera</div><div class="party-r">Democratic</div></div>
+  <div class="result-card rc-grn"><div class="seat-n">Seat 5</div><div class="cand-r">Patel</div><div class="party-r">Green</div></div>
+</div>
+
+<div class="losers-row">
+  <div class="loser-card"><strong>Walsh</strong> (Republican, no endorsements) — not elected. 6 voters, no coalition partners, no path. 30.0 weighted points in the final round — not enough.</div>
+  <div class="loser-card"><strong>Torres</strong> (Democratic) — not elected. The party's weight was nearly exhausted after two seats. Torres's 3★ scores couldn't compete with full-weight opponents.</div>
+</div>
+
+<p class="prose"><strong>2 Democratic · 1 Republican · 1 Independent (Forward + Green) · 1 Green.</strong> Five seats reflecting the distribution of voter support. Forward voters backed two winners (Chen and Olson) and were fully allocated by Seat 3. Green's strategic 4★ for Olson preserved enough weight for Patel to win the final seat. Walsh's isolation — no endorsements, no coalition — left them stranded.</p>
+
+<!-- PAYOFF -->
+<div class="section-rule"><h2>What the Formula Never Needed to Know</h2><span class="line"></span></div>
+
+<p class="prose">The Allocated Score formula counted weighted support, selected the leader, charged the quota, and repeated — five times, blind to everything except the scores on the ballots. The groups that formed around each winner were not declared or registered. They emerged from the scores. The proportionality of the outcome was not determined by a thumb on the scale or a backroom deal. It was a <strong>consequence of the arithmetic</strong>. Equal price, equal treatment, repeated until every seat is filled. That's how Proportional STAR counts every vote and makes every vote count.</p>
+
+<!-- KEY TERMS -->
+<div class="key-terms">
+  <div class="key-term"><strong>Allocated Score.</strong> The formula powering Proportional STAR. Selects candidates, charges the quota tier by tier, makes change, repeats.</div>
+  <div class="key-term"><strong>Selection (Window 1).</strong> The candidate with the highest weighted total is awarded the seat. Most support wins.</div>
+  <div class="key-term"><strong>Accounting (Window 2).</strong> The quota is charged against the winner's supporters, starting from the highest-score tier. The cusp is where the charge stops.</div>
+  <div class="key-term"><strong>Quota.</strong> Total ballots ÷ seats. The price of one seat — charged after selection, never checked before.</div>
+  <div class="key-term"><strong>Cusp tier.</strong> The score tier where the fill line lands during accounting. All voters in the cusp share the remaining cost equally.</div>
+  <div class="key-term"><strong>Ballot weight (gauge).</strong> Remaining influence. Starts at 1.00. Drops when your candidate is selected and the cost is processed. At 0.00, fully allocated.</div>
+  <div class="key-term"><strong>Multi-tier fill.</strong> When the top tier doesn't cover the quota alone, it's fully consumed and the next tier becomes the cusp.</div>
+  <div class="key-term"><strong>Coalition endorsement.</strong> A party endorsing another party's candidate. Visible on the ballot. Drives cross-scoring that can be decisive.</div>
+</div>
+
+<div class="page-footer"><em>© 2026 Albert Ramos | American Policy Architecture Institute</em></div>
+
+</div>
+
+<script>
+const QUOTA=20;
+const groups=[
+  {key:'dem',name:'Dem',fullName:'Democratic',n:42,scores:{Martinez:5,Rivera:4,Torres:3,Chen:0,Walsh:0,Olson:0,Patel:0}},
+  {key:'rep',name:'Rep',fullName:'Republican',n:18,scores:{Martinez:0,Rivera:0,Torres:0,Chen:5,Walsh:0,Olson:0,Patel:0}},
+  {key:'walsh',name:'Walsh',fullName:'Walsh bloc',n:6,scores:{Martinez:0,Rivera:0,Torres:0,Chen:0,Walsh:5,Olson:0,Patel:0}},
+  {key:'fwd',name:'Fwd',fullName:'Forward',n:18,scores:{Martinez:0,Rivera:0,Torres:0,Chen:4,Walsh:0,Olson:5,Patel:0}},
+  {key:'grn',name:'Grn',fullName:'Green',n:16,scores:{Martinez:0,Rivera:0,Torres:0,Chen:0,Walsh:0,Olson:4,Patel:5}},
+];
+const candOrder=['Martinez','Rivera','Torres','Chen','Walsh','Olson','Patel'];
+const candParty={Martinez:'dem',Rivera:'dem',Torres:'dem',Chen:'rep',Walsh:'walsh',Olson:'fwd',Patel:'grn'};
+const partyColor={dem:'var(--dem)',rep:'var(--rep)',walsh:'var(--walsh)',fwd:'var(--fwd)',grn:'var(--grn)'};
+const winBannerCls={dem:'wb-dem',rep:'wb-rep',fwd:'wb-fwd',grn:'wb-grn'};
+
+function fmt(x){return(Math.round(x*10)/10).toFixed(1);}
+function fmtW(x){return(Math.round(x*1000)/1000).toFixed(3);}
+function fmtW2(x){return(Math.round(x*100)/100).toFixed(2);}
+
+// Build score cards
+const sg=document.getElementById('score-grid');
+function stars(score){let s='';for(let i=1;i<=5;i++)s+=`<span class="${i<=score?'star-on':'star-off'}">★</span>`;return s;}
+groups.forEach(g=>{
+  let rows='';
+  candOrder.forEach(c=>{
+    rows+=`<div class="score-row"><span class="cn">${c}</span><span class="stars">${stars(g.scores[c])}</span><span class="sv">${g.scores[c]}</span></div>`;
+  });
+  sg.insertAdjacentHTML('beforeend',`<div class="score-card"><div class="score-hdr sh-${g.key}"><span class="st">${g.fullName}</span><span class="sn">${g.n}v</span></div>${rows}</div>`);
+});
+
+// Tabulation
+let weights={};groups.forEach(g=>weights[g.key]=1.0);
+let elected=[];
+const roundsEl=document.getElementById('rounds');
+
+function weightedTotals(){
+  const t={};
+  candOrder.forEach(c=>{if(elected.includes(c))return;
+    t[c]=groups.reduce((s,g)=>s+g.n*weights[g.key]*g.scores[c],0);
+  });
+  return t;
+}
+function allocate(winner){
+  const tiers={};
+  groups.forEach(g=>{
+    const ws=weights[g.key]*g.scores[winner];
+    if(ws>1e-9)(tiers[ws]=tiers[ws]||[]).push(g.key);
+  });
+  let spent=0;
+  const order=Object.keys(tiers).map(Number).sort((a,b)=>b-a);
+  for(const v of order){
+    const tw=tiers[v].reduce((s,k)=>s+groups.find(g=>g.key===k).n*weights[k],0);
+    if(spent+tw<QUOTA-1e-9){tiers[v].forEach(k=>weights[k]=0);spent+=tw;}
+    else{const f=(QUOTA-spent)/tw;tiers[v].forEach(k=>weights[k]=weights[k]*(1-f));break;}
+  }
+}
+
+const narratives={
+  1:{
+    beaker:`<div class="beaker-area"><div class="beaker">
+      <div class="tier t-dem" style="height:72%;">Dem 5★</div>
+      <div class="quota-line" style="bottom:44%;"></div>
+      <div class="quota-tag" style="bottom:44%;">QUOTA</div>
+      <div class="cusp-bracket" style="bottom:44%;height:28%;"></div>
+      <div class="cusp-tag" style="bottom:58%;">CUSP</div>
+    </div><div class="beaker-cap">surplus above the line ↑</div></div>`,
+    alloc:`Sort supporters by score for Martinez. The 5★ tier holds 42 Democratic voters, each at weight 1.000. Total tier weight: 42 × 1.000 = <strong>42.0 units</strong>. The quota is 20. Since 42.0 > 20, the cusp falls inside this single tier — no other group contributed.`,
+    box:{cls:'sb-dem',title:'Single-tier surplus — Democratic 5★ is the cusp',
+      steps:[['5★ tier weight (Democratic)','42 × 1.000 = 42.0'],
+             ['Quota to charge','20'],
+             ['Fraction consumed','20 ÷ 42.0 = 0.476'],
+             ['Democratic weight remaining','1.000 × (1 − 0.476) = <span class="res">0.524</span>']]},
+    callout:null},
+  2:{
+    beaker:`<div class="beaker-area"><div class="beaker">
+      <div class="tier t-rep" style="height:44%;">Rep 5★</div>
+      <div class="tier t-fwd" style="height:38%;">Fwd 4★</div>
+      <div class="quota-line" style="bottom:50%;"></div>
+      <div class="quota-tag" style="bottom:50%;">QUOTA</div>
+      <div class="cusp-bracket" style="bottom:44%;height:20%;"></div>
+      <div class="cusp-tag" style="bottom:54%;">CUSP</div>
+    </div><div class="beaker-cap">Rep fully consumed ↓<br>Fwd is the cusp ↑</div></div>`,
+    alloc:`Sort supporters by score for Chen. The 5★ tier holds 18 Republican voters at weight 1.000 = <strong>18.0 units</strong>. That falls short of the quota — 18 < 20. The entire Republican tier is consumed: Republican weight drops to <strong>0.000</strong>. The remaining cost: 20 − 18 = <strong>2.0 units</strong>. The 4★ tier holds 18 Forward voters at weight 1.000 = 18.0 units. Only 2.0 of those 18.0 are needed. The cusp falls here.`,
+    box:{cls:'sb-rep',title:'Multi-tier fill — Republican fully consumed, cusp inside Forward 4★',
+      steps:[['5★ tier (Republican)','18 × 1.000 = 18.0 → fully consumed → Rep weight = <span class="res">0.000</span>'],
+             ['Running total · still needed','18.0 covered · 2.0 to go'],
+             ['4★ tier (Forward)','18 × 1.000 = 18.0 available; only 2.0 needed'],
+             ['Fraction consumed from Forward','2.0 ÷ 18.0 = 0.111'],
+             ['Forward weight remaining','1.000 × (1 − 0.111) = <span class="res">0.889</span>']]},
+    callout:{cls:'cl-fwd',html:`<strong>Forward's dual endorsement at work.</strong> Forward endorsed both Chen and Olson. Their 4★ cross-score for Chen provided the 2.0 units that covered the gap. Without it, Chen's total (90.0) would trail Olson's (154.0). The Forward endorsement on the ballot is what seated Chen.`}},
+  3:{
+    beaker:`<div class="beaker-area"><div class="beaker">
+      <div class="tier t-fwd t-reduced" style="height:40%;">Fwd 5★<br><span style="font-size:8px;">reduced</span></div>
+      <div class="tier t-grn" style="height:38%;">Grn 4★</div>
+      <div class="quota-line" style="bottom:50%;"></div>
+      <div class="quota-tag" style="bottom:50%;">QUOTA</div>
+      <div class="cusp-bracket" style="bottom:40%;height:22%;"></div>
+      <div class="cusp-tag" style="bottom:51%;">CUSP</div>
+    </div><div class="beaker-cap">Fwd fully allocated ↓<br>Grn is the cusp ↑</div></div>`,
+    alloc:`Sort supporters by score for Olson. The 5★ tier holds 18 Forward voters — but their weight is now <strong>0.889</strong> from Seat 2. Tier weight: 18 × 0.889 = <strong>16.0 units</strong>. That falls short of 20. Forward is fully consumed: weight drops to <strong>0.000</strong>. Forward voters backed two winners and are now fully allocated. The remaining cost: 20 − 16.0 = <strong>4.0 units</strong>. The 4★ tier holds 16 Green voters at weight 1.000 = 16.0 units. Only 4.0 of those 16.0 are needed. The cusp falls inside the Green tier.`,
+    box:{cls:'sb-fwd',title:'Multi-tier fill — Forward fully consumed, cusp inside Green 4★',
+      steps:[['5★ tier (Forward, reduced)','18 × 0.889 = 16.0 → fully consumed → Fwd weight = <span class="res">0.000</span>'],
+             ['Running total · still needed','16.0 covered · 4.0 to go'],
+             ['4★ tier (Green)','16 × 1.000 = 16.0 available; only 4.0 needed'],
+             ['Fraction consumed from Green','4.0 ÷ 16.0 = 0.250'],
+             ['Green weight remaining','1.000 × (1 − 0.250) = <span class="res">0.750</span>']]},
+    callout:{cls:'cl-grn',html:`<strong>Green's 4★ preserved their weight.</strong> Because Green gave Olson four stars instead of five, their tokens sat in a higher tier — above Forward's five-star tokens. Forward paid first and was fully consumed. Green paid only the remainder. If Green had given Olson five stars (shared tier), they would have shared the full cost equally and had far less weight left for Patel.`}},
+  4:{
+    beaker:`<div class="beaker-area"><div class="beaker">
+      <div class="tier t-dem t-reduced" style="height:68%;">Dem 4★<br><span style="font-size:8px;">reduced</span></div>
+      <div class="quota-line" style="bottom:58%;"></div>
+      <div class="quota-tag" style="bottom:58%;">QUOTA</div>
+      <div class="cusp-bracket" style="bottom:58%;height:10%;"></div>
+      <div class="cusp-tag" style="bottom:63%;">CUSP</div>
+    </div><div class="beaker-cap">nearly all consumed</div></div>`,
+    alloc:`Sort supporters by score for Rivera. The top tier is 4★ with 42 Democratic voters at weight 0.524. Tier weight: 42 × 0.524 = <strong>22.0 units</strong>. The quota is 20. Since 22.0 > 20, the cusp falls inside the Democratic 4★ tier — their second seat is paid for almost entirely from their remaining weight.`,
+    box:{cls:'sb-dem',title:'Reduced-weight surplus — Democratic 4★ is the cusp',
+      steps:[['4★ tier weight (Democratic, reduced)','42 × 0.524 = 22.0'],
+             ['Quota to charge','20'],
+             ['Fraction consumed','20 ÷ 22.0 = 0.909'],
+             ['Democratic weight remaining','0.524 × (1 − 0.909) = <span class="res">0.048</span>']]},
+    callout:{cls:'cl-dem',html:`<strong>The second seat for a large party.</strong> Democratic voters had enough surplus from Seat 1 to pay for a second seat — just barely. Their weight drops from 0.524 to 0.048. A third Democratic seat (Torres) is now mathematically impossible: 42 × 0.048 × 3 = 6.0 points, far behind the competition.`}},
+  5:{
+    beaker:`<div class="beaker-area"><div class="beaker">
+      <div class="tier t-grn" style="height:50%;">Grn 5★</div>
+      <div class="tier t-walsh" style="height:25%;font-size:8px;">Walsh</div>
+      <div class="tier t-dem t-reduced" style="height:10%;font-size:7px;">Dem</div>
+    </div><div class="beaker-cap">last seat fills itself</div></div>`,
+    alloc:`The final seat works like every other: highest weighted total wins. Four seats have been charged at 20 apiece — 80 of the original 100 units consumed. Exactly <strong>20 units remain</strong>: Democratic 42 × 0.048 = 2.0, Walsh 6 × 1.000 = 6.0, Green 16 × 0.750 = 12.0. That is one quota. Whoever leads is sitting on exactly one quota of remaining weight. The seat fills itself.`,
+    box:null,
+    callout:{cls:'cl-walsh',html:`<strong>Walsh's final position.</strong> 30.0 weighted points in the final round — more than Torres (6.0) but far behind Patel (60.0). Six voters, no endorsements, no coalition partner willing to lend weight. Isolation is expensive under Allocated Score.`}},
+};
+
+const winners=['Martinez','Chen','Olson','Rivera','Patel'];
+for(let r=1;r<=5;r++){
+  const winner=winners[r-1];
+  const totals=weightedTotals();
+  const ranking=Object.keys(totals).sort((a,b)=>totals[b]-totals[a]);
+
+  // State string
+  let stateStr;
+  if(r===1)stateStr='All weights = 1.000';
+  else{
+    const wl=groups.filter(g=>Math.abs(weights[g.key]-1)>1e-9).map(g=>`${g.name}=${fmtW(weights[g.key])}`);
+    const rem=winners.slice(0,r-1).join(', ');
+    stateStr=(wl.length?wl.join(' · ')+' · ':'')+rem+' seated';
+  }
+
+  // Tally columns
+  const colHdrs=groups.map(g=>{
+    const w=weights[g.key];
+    return `<th>${g.name} ${g.n}v ×${Math.abs(w-1)<1e-9?'1.0':fmtW2(w)}</th>`;
+  }).join('');
+
+  let rows='';
+  ranking.forEach(c=>{
+    const isWin=c===winner;
+    const cells=groups.map(g=>{
+      const raw=g.scores[c],w=weights[g.key],val=g.n*w*raw;
+      if(raw===0)return`<td>—</td>`;
+      const wpart=(Math.abs(w-1)<1e-9)?`${g.n}×${raw}`:`${g.n}×${raw}×${fmtW2(w)}`;
+      return`<td>${wpart}=${fmt(val)}</td>`;
+    }).join('');
+    rows+=`<tr class="${isWin?'winner-row':''}"><td class="cand-cell">${c}<span class="mini-chip" style="background:${partyColor[candParty[c]]}">${candParty[c]==='walsh'?'R':candParty[c][0].toUpperCase()}</span></td>${cells}<td class="total-cell">${fmt(totals[c])}</td></tr>`;
+  });
+
+  // Allocation narrative
+  const nar=narratives[r];
+  let boxHtml='';
+  if(nar.box){
+    const steps=nar.box.steps.map(s=>`<div class="surplus-step">${s[0]}:<span class="calc">${s[1]}</span></div>`).join('');
+    boxHtml=`<div class="surplus-box ${nar.box.cls}"><div class="surplus-title">${nar.box.title}</div>${steps}</div>`;
+  }
+  const calloutHtml=nar.callout?`<div class="callout ${nar.callout.cls}">${nar.callout.html}</div>`:'';
+
+  // Perform allocation
+  allocate(winner);
+  elected.push(winner);
+
+  // Gauges
+  const gauges=groups.map(g=>{
+    const w=weights[g.key];
+    const pct=Math.max(0,w*100);
+    const cls=w<1e-9?'gf-empty':'gf-'+g.key;
+    return`<div class="gauge-item"><div class="gauge-label">${g.name}</div><div class="gauge-col"><div class="gauge-fill ${cls}" style="height:${pct}%;"></div></div><div class="gauge-num">${fmtW2(w)}</div></div>`;
+  }).join('');
+
+  roundsEl.insertAdjacentHTML('beforeend',`
+    <div class="round-block">
+      <div class="round-hdr"><span class="rn">Round ${r} of 5</span><span class="rstate">${stateStr}</span></div>
+      <div class="win-banner ${winBannerCls[candParty[winner]]||'wb-dem'}">${winner} wins Seat ${r} — weighted total ${fmt(totals[winner])}</div>
+      <div class="window-label">Window 1 — Selection: weighted score tally</div>
+      <table class="tally"><thead><tr><th>Candidate</th>${colHdrs}<th>Total</th></tr></thead><tbody>${rows}</tbody></table>
+      ${calloutHtml}
+      <div class="window-label">Window 2 — Accounting: charging the quota</div>
+      <div class="alloc-wrap"><div class="alloc-grid">${nar.beaker}<div><div class="alloc-text">${nar.alloc}</div>${boxHtml}</div></div></div>
+      <div class="gauge-panel"><div class="gauge-panel-title">Ballot weight — after Seat ${r}</div>${gauges}</div>
+    </div>`);
+}
+</script>
+
+<script>
+(function(){
+  const toggle = document.getElementById('themeToggle');
+  const html = document.documentElement;
+  const saved = localStorage.getItem('apai-theme');
+  const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+  const theme = saved || (prefersDark ? 'dark' : 'light');
+  html.setAttribute('data-theme', theme);
+  toggle.textContent = theme === 'dark' ? '☀️' : '🌙';
+  toggle.addEventListener('click', function(){
+    const current = html.getAttribute('data-theme');
+    const next = current === 'dark' ? 'light' : 'dark';
+    html.setAttribute('data-theme', next);
+    toggle.textContent = next === 'dark' ? '☀️' : '🌙';
+    try { localStorage.setItem('apai-theme', next); } catch(e) {}
+  });
+  window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', function(e){
+    if (!localStorage.getItem('apai-theme')) {
+      const t = e.matches ? 'dark' : 'light';
+      html.setAttribute('data-theme', t);
+      toggle.textContent = t === 'dark' ? '☀️' : '🌙';
+    }
+  });
+})();
+</script>
+
+<!--
+## Revision History
+
+**Revision 1.0**
+- Initial publication. "Proportional STAR — The Details." Five-seat scenario (Martinez, Rivera, Torres, Chen, Walsh,
+  Olson, Patel) using Democratic, Republican, Walsh bloc, Forward, and Green
+  voter groups.
+- Full tier-by-tier accounting with surplus boxes, beaker diagrams, weighted
+  score tally tables, and gauge panels.
+- Vocabulary aligned to CEMA Primer Series primer-1-0: two-window model
+  (selection and accounting), gauge for ballot weight, beaker for tier accounting.
+- Light/dark toggle with system-preference detection.
+- HTML with embedded CSS and JavaScript tabulation engine.
+-->
+</body>
+</html>

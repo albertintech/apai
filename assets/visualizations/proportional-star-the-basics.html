@@ -1,0 +1,1059 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Proportional STAR — The Basics · CEMA Primer Series Explainer</title>
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0;}
+
+:root {
+  --dem:       #1a4a8a;
+  --dem-lt:    #dce8f8;
+  --rep:       #b22234;
+  --rep-lt:    #f8dce0;
+  --wf:        #6a3d8a;
+  --wf-lt:     #e8d6f0;
+  --grn:       #5a8a2d;
+  --grn-lt:    #e4f0d6;
+  --ink:       #1a1a2e;
+  --rule:      #d0d8e4;
+  --bg:        #f4f7fb;
+  --white:     #ffffff;
+  --mono:      'Courier New', monospace;
+  --serif:     Georgia, 'Times New Roman', serif;
+  --sans:      system-ui, -apple-system, sans-serif;
+}
+
+body {
+  font-family: var(--serif);
+  background: var(--bg);
+  color: var(--ink);
+  padding: 40px 20px 80px;
+  line-height: 1.65;
+  font-size: 17px;
+}
+
+.page { max-width: 860px; margin: 0 auto; }
+
+/* ── HEADER ── */
+.page-header {
+  border-bottom: 3px solid var(--ink);
+  padding-bottom: 20px;
+  margin-bottom: 36px;
+}
+.eyebrow {
+  font-family: var(--sans);
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: .14em;
+  text-transform: uppercase;
+  color: #666;
+  margin-bottom: 8px;
+}
+.page-header h1 {
+  font-size: 28px;
+  font-weight: 700;
+  color: var(--ink);
+  line-height: 1.2;
+  margin-bottom: 8px;
+}
+.page-header .deck {
+  font-size: 15.5px;
+  color: #555;
+  font-style: italic;
+  line-height: 1.7;
+}
+
+/* ── PROSE ── */
+.prose {
+  font-size: 16px;
+  line-height: 1.8;
+  color: #2c2c2c;
+  margin-bottom: 16px;
+}
+.prose:last-child { margin-bottom: 0; }
+.prose strong { color: var(--ink); }
+.prose em { font-style: italic; }
+
+/* ── SECTION RULE ── */
+.section-rule {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin: 48px 0 28px;
+}
+.section-rule h2 {
+  font-size: 21px;
+  font-weight: 700;
+  color: var(--ink);
+  white-space: nowrap;
+}
+.section-rule .line {
+  flex: 1;
+  height: 2px;
+  background: var(--ink);
+}
+
+/* ── BALLOT TABLE ── */
+.ballot-card {
+  border: 2px solid var(--ink);
+  border-radius: 10px;
+  overflow: hidden;
+  margin: 24px 0 28px;
+  background: var(--white);
+}
+.ballot-title {
+  background: var(--ink);
+  color: var(--white);
+  padding: 12px 18px;
+  font-family: var(--sans);
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: .06em;
+  text-transform: uppercase;
+}
+.ballot-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+.ballot-table th {
+  font-family: var(--sans);
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  color: #888;
+  text-align: left;
+  padding: 10px 16px 8px;
+  border-bottom: 1.5px solid var(--rule);
+}
+.ballot-table td {
+  padding: 11px 16px;
+  font-size: 15px;
+  border-bottom: 1px solid #eef0f4;
+  vertical-align: middle;
+}
+.ballot-table tr:last-child td { border-bottom: none; }
+.ballot-table .cand-name { font-weight: 700; color: var(--ink); }
+.ballot-table .party-reg { color: #555; }
+.ballot-table .endorsements { color: #555; }
+.ballot-table .endorsements .coalition-flag {
+  font-weight: 700;
+  color: var(--wf);
+}
+.ballot-table .rating-bubbles {
+  font-family: var(--sans);
+  font-size: 14px;
+  letter-spacing: 3px;
+  color: #bbb;
+}
+
+/* ── CHIP ── */
+.chip {
+  display: inline-block;
+  font-family: var(--sans);
+  font-size: 9px;
+  font-weight: 700;
+  letter-spacing: .05em;
+  text-transform: uppercase;
+  color: var(--white);
+  padding: 2px 7px;
+  border-radius: 10px;
+}
+.chip-dem { background: var(--dem); }
+.chip-rep { background: var(--rep); }
+.chip-wf  { background: var(--wf); }
+.chip-grn { background: var(--grn); }
+
+/* ── TWO WINDOWS ── */
+.windows-graphic {
+  display: grid;
+  grid-template-columns: 1fr 40px 1fr;
+  gap: 0;
+  align-items: stretch;
+  margin: 24px 0 28px;
+}
+.window-box {
+  border: 2px solid var(--ink);
+  border-radius: 10px;
+  padding: 20px;
+  text-align: center;
+  background: var(--white);
+}
+.window-box .win-num {
+  font-family: var(--sans);
+  font-size: 10px;
+  font-weight: 800;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  color: #888;
+  margin-bottom: 4px;
+}
+.window-box .win-title {
+  font-size: 16px;
+  font-weight: 700;
+  color: var(--ink);
+  margin-bottom: 6px;
+}
+.window-box .win-desc {
+  font-size: 13.5px;
+  color: #555;
+  line-height: 1.5;
+}
+.window-box .win-icon {
+  font-size: 28px;
+  margin-bottom: 8px;
+}
+.window-arrow {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 22px;
+  color: var(--ink);
+}
+
+/* ── VOTER GROUPS GRID ── */
+.group-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: 10px;
+  margin: 16px 0 24px;
+}
+.group-card {
+  border: 1px solid var(--rule);
+  border-radius: 8px;
+  padding: 10px 14px;
+  font-size: 14px;
+  line-height: 1.5;
+  background: var(--white);
+}
+.group-card .gc-hdr {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-weight: 700;
+}
+
+/* ── SEAT BLOCK ── */
+.seat-block {
+  border: 1.5px solid var(--rule);
+  border-radius: 10px;
+  overflow: hidden;
+  margin-bottom: 26px;
+  background: var(--white);
+}
+.seat-hdr {
+  background: var(--ink);
+  color: var(--white);
+  padding: 12px 18px;
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+}
+.seat-hdr .sn {
+  font-family: var(--sans);
+  font-size: 10px;
+  font-weight: 800;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  opacity: .7;
+}
+.seat-hdr .st {
+  font-size: 16px;
+  font-weight: 700;
+}
+.seat-body {
+  display: grid;
+  grid-template-columns: 200px 1fr;
+  gap: 28px;
+  padding: 24px 22px;
+  align-items: start;
+}
+.winner-tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-family: var(--sans);
+  font-weight: 700;
+  font-size: 14px;
+  color: var(--white);
+  padding: 8px 14px;
+  border-radius: 6px;
+  margin-bottom: 14px;
+}
+.wt-dem { background: var(--dem); }
+.wt-rep { background: var(--rep); }
+.wt-wf  { background: var(--wf); }
+.winner-tag .party-pip {
+  font-size: 9px;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  opacity: .85;
+}
+.seat-prose {
+  font-size: 15.5px;
+  line-height: 1.8;
+  color: #2c2c2c;
+  margin-bottom: 11px;
+}
+.seat-prose:last-child { margin-bottom: 0; }
+.seat-prose strong { color: var(--ink); }
+
+.seat-label {
+  font-family: var(--sans);
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  color: #888;
+  margin-bottom: 4px;
+  margin-top: 14px;
+}
+.seat-label:first-child { margin-top: 0; }
+
+.callout {
+  border-left: 4px solid var(--ink);
+  background: #eef2f8;
+  padding: 12px 16px;
+  border-radius: 0 6px 6px 0;
+  margin-top: 14px;
+  font-size: 14.5px;
+  line-height: 1.7;
+}
+.callout strong { color: var(--ink); }
+.callout.wf { border-color: var(--wf); background: var(--wf-lt); }
+.callout.wf strong { color: var(--wf); }
+.callout.grn { border-color: var(--grn); background: var(--grn-lt); }
+.callout.grn strong { color: var(--grn); }
+
+/* ── BEAKER ── */
+.beaker-area {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 6px;
+}
+.beaker {
+  position: relative;
+  width: 130px;
+  height: 180px;
+  border: 3px solid var(--ink);
+  border-top: none;
+  border-radius: 0 0 14px 14px;
+  background: var(--white);
+  display: flex;
+  flex-direction: column-reverse;
+  overflow: hidden;
+}
+.beaker::before {
+  content: "";
+  position: absolute;
+  top: -3px; left: -3px; right: -3px;
+  height: 3px;
+  background: var(--ink);
+  border-radius: 2px;
+}
+.tier {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--sans);
+  font-size: 10.5px;
+  font-weight: 700;
+  color: var(--white);
+  text-align: center;
+  line-height: 1.2;
+  padding: 2px;
+}
+.tier-empty {
+  color: #aaa;
+  font-style: italic;
+  font-family: var(--serif);
+  font-size: 11px;
+}
+.quota-line {
+  position: absolute;
+  left: -8px; right: -8px;
+  border-top: 2px dashed var(--ink);
+  z-index: 5;
+}
+.quota-tag {
+  position: absolute;
+  right: -52px;
+  font-family: var(--sans);
+  font-size: 9px;
+  font-weight: 800;
+  letter-spacing: .06em;
+  color: var(--ink);
+  transform: translateY(-50%);
+}
+.cusp-bracket {
+  position: absolute;
+  left: -14px;
+  width: 8px;
+  border: 2px solid var(--rep);
+  border-right: none;
+  z-index: 6;
+}
+.cusp-tag {
+  position: absolute;
+  right: -46px;
+  font-family: var(--sans);
+  font-size: 9px;
+  font-weight: 800;
+  letter-spacing: .06em;
+  color: var(--rep);
+  transform: translateY(-50%);
+}
+.beaker-cap {
+  font-family: var(--sans);
+  font-size: 9.5px;
+  font-weight: 700;
+  color: #777;
+  text-align: center;
+  max-width: 150px;
+}
+.beaker-cap.arrow { color: var(--ink); }
+
+.t-dem  { background: var(--dem); }
+.t-rep  { background: var(--rep); }
+.t-wf   { background: var(--wf); }
+.t-grn  { background: var(--grn); }
+.t-zero { background: #c7ced9; color:#667; }
+.t-reduced { opacity: .62; }
+
+/* ── GAUGE PANEL ── */
+.gauge-panel {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 10px;
+  margin: 20px 0 8px;
+  padding: 16px;
+  border: 1px solid var(--rule);
+  border-radius: 8px;
+  background: var(--white);
+}
+.gauge-panel-title {
+  grid-column: 1 / -1;
+  font-family: var(--sans);
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  color: #888;
+  margin-bottom: 4px;
+}
+.gauge-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+}
+.gauge-label {
+  font-family: var(--sans);
+  font-size: 9px;
+  font-weight: 700;
+  letter-spacing: .04em;
+  text-transform: uppercase;
+  color: #888;
+}
+.gauge-col {
+  width: 28px;
+  height: 80px;
+  border: 2px solid var(--rule);
+  border-radius: 4px;
+  position: relative;
+  background: #f0f2f6;
+  overflow: hidden;
+}
+.gauge-fill {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  border-radius: 0 0 2px 2px;
+}
+.gauge-fill.gf-dem { background: var(--dem); }
+.gauge-fill.gf-rep { background: var(--rep); }
+.gauge-fill.gf-wf  { background: var(--wf); }
+.gauge-fill.gf-grn { background: var(--grn); }
+.gauge-fill.gf-empty { background: #d8dce4; }
+.gauge-num {
+  font-family: var(--mono);
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--ink);
+}
+
+/* ── RESULT ── */
+.results-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+  margin: 20px 0;
+}
+.result-card {
+  border-radius: 8px;
+  padding: 16px 12px;
+  text-align: center;
+  color: var(--white);
+}
+.result-card .seat-n {
+  font-family: var(--sans);
+  font-size: 9px;
+  font-weight: 700;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  opacity: .75;
+  margin-bottom: 5px;
+}
+.result-card .cand-r { font-size: 17px; font-weight: 700; margin-bottom: 3px; }
+.result-card .party-r { font-size: 10px; opacity: .85; line-height: 1.35; }
+.rc-dem { background: var(--dem); }
+.rc-wf  { background: var(--wf); }
+.rc-rep { background: var(--rep); }
+
+.losers-row { display: flex; gap: 12px; margin: 12px 0 18px; flex-wrap: wrap; }
+.loser-card {
+  background: #f0f0f4;
+  border: 1px solid var(--rule);
+  border-radius: 8px;
+  padding: 11px 15px;
+  font-size: 13.5px;
+  color: #666;
+  flex: 1;
+  min-width: 240px;
+}
+.loser-card strong { color: var(--ink); }
+
+/* ── KEY TERMS ── */
+.key-terms {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 16px;
+  margin-top: 28px;
+  padding-top: 22px;
+  border-top: 2px solid var(--ink);
+}
+.key-term { font-size: 13.5px; line-height: 1.7; }
+.key-term strong { color: var(--ink); }
+
+.page-footer {
+  margin-top: 40px;
+  font-size: 11px;
+  color: #aaa;
+  text-align: center;
+  font-family: var(--sans);
+}
+
+/* ── DARK MODE ── */
+/* ── DARK MODE (toggled via data-theme on <html>) ── */
+[data-theme="dark"] {
+    --dem:       #5a8abf;
+    --dem-lt:    #1a2a3e;
+    --rep:       #c06070;
+    --rep-lt:    #3a1a20;
+    --wf:        #9a6abf;
+    --wf-lt:     #2a1a3a;
+    --grn:       #7aaa4a;
+    --grn-lt:    #222e1a;
+    --ink:       #9aa0b0;
+    --rule:      #3a4050;
+    --bg:        #1a1c24;
+    --white:     #24262e;
+  }
+  [data-theme="dark"] body { color: var(--ink); }
+  [data-theme="dark"] .page-header h1 { color: #b0b6c4; }
+  [data-theme="dark"] .page-header { border-color: #4a5060; }
+  [data-theme="dark"] .eyebrow { color: #787e8a; }
+  [data-theme="dark"] .page-header .deck { color: #808898; }
+  [data-theme="dark"] .prose { color: #8e94a4; }
+  [data-theme="dark"] .prose strong { color: #a0a8b8; }
+  [data-theme="dark"] .section-rule h2 { color: #a0a8b8; }
+  [data-theme="dark"] .section-rule .line { background: #4a5060; }
+
+  [data-theme="dark"] .ballot-card { border-color: #4a5060; background: #262830; }
+  [data-theme="dark"] .ballot-title { background: #2a2e3a; color: #9aa0b0; }
+  [data-theme="dark"] .ballot-table th { color: #6a7080; border-color: #3a4050; }
+  [data-theme="dark"] .ballot-table td { border-color: #2e3238; color: #8e94a4; }
+  [data-theme="dark"] .ballot-table .cand-name { color: #a0a8b8; }
+  [data-theme="dark"] .ballot-table .party-reg { color: #7a8090; }
+  [data-theme="dark"] .ballot-table .endorsements { color: #7a8090; }
+  [data-theme="dark"] .ballot-table .endorsements .coalition-flag { color: var(--wf); }
+  [data-theme="dark"] .ballot-table .rating-bubbles { color: #4a5060; }
+
+  [data-theme="dark"] .window-box { background: #262830; border-color: #4a5060; }
+  [data-theme="dark"] .window-box .win-num { color: #6a7080; }
+  [data-theme="dark"] .window-box .win-title { color: #a0a8b8; }
+  [data-theme="dark"] .window-box .win-desc { color: #7a8090; }
+  [data-theme="dark"] .window-arrow { color: #6a7080; }
+
+  [data-theme="dark"] .group-card { background: #262830; border-color: var(--rule); color: #8e94a4; }
+  [data-theme="dark"] .seat-block { background: #262830; border-color: var(--rule); }
+  [data-theme="dark"] .seat-hdr { background: #2a2e3a; }
+  [data-theme="dark"] .seat-hdr .sn { color: #6a7080; opacity: 1; }
+  [data-theme="dark"] .seat-hdr .st { color: #9aa0b0; }
+  [data-theme="dark"] .seat-prose { color: #8e94a4; }
+  [data-theme="dark"] .seat-prose strong { color: #a0a8b8; }
+  [data-theme="dark"] .seat-label { color: #6a7080; }
+  [data-theme="dark"] .callout { background: #262830; border-color: #4a5060; color: #8e94a4; }
+  [data-theme="dark"] .callout strong { color: #a0a8b8; }
+  [data-theme="dark"] .callout.wf { background: var(--wf-lt); border-color: var(--wf); }
+  [data-theme="dark"] .callout.wf strong { color: var(--wf); }
+  [data-theme="dark"] .callout.grn { background: var(--grn-lt); border-color: var(--grn); }
+  [data-theme="dark"] .callout.grn strong { color: var(--grn); }
+
+  [data-theme="dark"] .beaker { background: #2e3038; border-color: #6a7080; }
+  [data-theme="dark"] .beaker::before { background: #6a7080; }
+  [data-theme="dark"] .beaker-cap { color: #6a7080; }
+  [data-theme="dark"] .beaker-cap.arrow { color: #8e94a4; }
+  [data-theme="dark"] .t-zero { background: #4a4e58; color: #7a7e88; }
+  [data-theme="dark"] .quota-tag { color: #9aa0b0; }
+  [data-theme="dark"] .quota-tag span { color: #6a7080 !important; }
+  [data-theme="dark"] .quota-line { border-color: #9aa0b0; }
+  [data-theme="dark"] .cusp-bracket { border-color: var(--rep); }
+  [data-theme="dark"] .cusp-tag { color: var(--rep); }
+
+  [data-theme="dark"] .gauge-panel { background: #262830; border-color: var(--rule); }
+  [data-theme="dark"] .gauge-panel-title { color: #6a7080; }
+  [data-theme="dark"] .gauge-label { color: #6a7080; }
+  [data-theme="dark"] .gauge-col { background: #2e3038; border-color: #3a4050; }
+  [data-theme="dark"] .gauge-fill.gf-empty { background: #3a4050; }
+  [data-theme="dark"] .gauge-num { color: #9aa0b0; }
+
+  [data-theme="dark"] .result-card { color: #1a1c24; }
+  [data-theme="dark"] .loser-card { background: #262830; border-color: var(--rule); color: #7a8090; }
+  [data-theme="dark"] .loser-card strong { color: #9aa0b0; }
+  [data-theme="dark"] .key-terms { border-color: #4a5060; }
+  [data-theme="dark"] .key-term { color: #8e94a4; }
+  [data-theme="dark"] .key-term strong { color: #a0a8b8; }
+  [data-theme="dark"] .page-footer { color: #4a5060; }
+
+
+/* ── THEME TOGGLE ── */
+[data-theme="dark"] .theme-toggle { color: #8e94a4; border-color: #3a4050; background: #262830; }
+.theme-toggle {
+  position: fixed;
+  top: 14px;
+  right: 14px;
+  z-index: 100;
+  font-size: 18px;
+  background: var(--white);
+  border: 1.5px solid var(--rule);
+  border-radius: 50%;
+  width: 38px;
+  height: 38px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--ink);
+  box-shadow: 0 2px 6px rgba(0,0,0,.1);
+  transition: background .2s, color .2s;
+}
+
+
+@media (max-width: 640px) {
+  .seat-body { grid-template-columns: 1fr; }
+  .beaker-area { justify-self: center; }
+  .results-grid { grid-template-columns: 1fr; }
+  .windows-graphic { grid-template-columns: 1fr; gap: 8px; }
+  .window-arrow { transform: rotate(90deg); }
+  .gauge-panel { grid-template-columns: repeat(2, 1fr); }
+}
+</style>
+</head>
+<body>
+<button class="theme-toggle" id="themeToggle" aria-label="Toggle dark mode">☀️</button>
+<div class="page">
+
+<!-- ══ HEADER ══ -->
+<div class="page-header">
+  <div class="eyebrow">Congressional Elections Modernization Act · Primer Series Explainer</div>
+  <h1>Proportional STAR — The Basics</h1>
+  <p class="deck">A plain-language walkthrough of how seats are filled, how coalitions form,<br>
+  and what happens to your vote after your candidate wins.</p>
+</div>
+
+<!-- ══ INTRODUCTION ══ -->
+<p class="prose">Proportional STAR uses the same STAR ballot as single-winner STAR. What the ballot asks of voters is also the same: rate favorite candidates high, opposition candidates low or not at all, and favorable candidates in between. What is different, and it makes all the difference, is the formula that operates under the hood, a formula named <strong>Allocated Score</strong>. In multimember districts, Allocated Score is the mathematical engine that delivers seats to candidates in proportion to how voters scored them on the STAR ballot. This article covers the basics of the Allocated Score engine without getting bogged down in the accounting details.</p>
+
+<p class="prose">The best way to see how it works is to watch it work. We'll walk through a simplified election — three seats, four candidates, sixty voters — and introduce the key ideas as they come up naturally.</p>
+
+<!-- ══ THE BALLOT ══ -->
+<div class="section-rule">
+  <h2>The Ballot</h2>
+  <span class="line"></span>
+</div>
+
+<p class="prose">Here is the ballot for our example district. Four candidates are running for three seats. Before reading any further, take a moment to look at the <strong>Party Endorsements</strong> column. One row is different from the others.</p>
+
+<div class="ballot-card">
+  <div class="ballot-title">Congressional District 7 — 3 Seats · STAR Ballot</div>
+  <table class="ballot-table">
+    <thead>
+      <tr>
+        <th>Candidate</th>
+        <th>Party Registration</th>
+        <th>Party Endorsements</th>
+        <th>Rating</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="cand-name">Martinez</td>
+        <td class="party-reg">Democratic</td>
+        <td class="endorsements">Democratic</td>
+        <td class="rating-bubbles">⓪ ① ② ③ ④ ⑤</td>
+      </tr>
+      <tr>
+        <td class="cand-name">Chen</td>
+        <td class="party-reg">Republican</td>
+        <td class="endorsements">Republican</td>
+        <td class="rating-bubbles">⓪ ① ② ③ ④ ⑤</td>
+      </tr>
+      <tr>
+        <td class="cand-name">Olson</td>
+        <td class="party-reg">Working Families</td>
+        <td class="endorsements"><span class="coalition-flag">Working Families</span>, <span style="font-weight:700;color:var(--grn);">Green</span></td>
+        <td class="rating-bubbles">⓪ ① ② ③ ④ ⑤</td>
+      </tr>
+      <tr>
+        <td class="cand-name">Patel</td>
+        <td class="party-reg">Green</td>
+        <td class="endorsements">Green</td>
+        <td class="rating-bubbles">⓪ ① ② ③ ④ ⑤</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<p class="prose">Olson's row shows two endorsements — <strong>Working Families</strong> and <strong>Green</strong> — even though Olson is registered with only one of those parties. That second endorsement is a signal. It tells Green voters: our party believes this candidate represents our interests. It is visible on the ballot before anyone votes, so voters can factor it into their scores. This is what a <strong>coalition</strong> looks like at the ballot box.</p>
+
+<p class="prose">Patel, Green's own candidate, shows only one endorsement — Green. No other party endorsed Patel. We'll see why that asymmetry matters when the seats start filling.</p>
+
+<!-- ══ THE SETUP ══ -->
+<div class="section-rule">
+  <h2>The Setup</h2>
+  <span class="line"></span>
+</div>
+
+<p class="prose">Sixty ballots are cast. The voters sort themselves — not by registration, but by how they scored. Here are the four groups and their sizes:</p>
+
+<div class="group-grid">
+  <div class="group-card"><div class="gc-hdr"><span class="chip chip-dem">Dem</span> 24 voters</div></div>
+  <div class="group-card"><div class="gc-hdr"><span class="chip chip-rep">Rep</span> 15 voters</div></div>
+  <div class="group-card"><div class="gc-hdr"><span class="chip chip-wf">WF</span> 13 voters</div></div>
+  <div class="group-card"><div class="gc-hdr"><span class="chip chip-grn">Grn</span> 8 voters</div></div>
+</div>
+
+<p class="prose">Three seats, sixty voters. The <strong>price of a seat</strong> — called the <strong>quota</strong> — is total ballots divided by the number of seats: 60 ÷ 3 = <strong>20</strong>. Every seat costs the same. This price is never checked before a seat is awarded — it only matters afterward, when the cost is processed.</p>
+
+<p class="prose">Every voter starts the count at full influence. Think of it like the fuel gauge in your car: <strong>full at the top, empty at the bottom</strong>. When your candidate is selected and the cost is processed, your gauge drops — you spent some of your influence on representation you received. The gauge tracks what you have left to spend on the seats still to come.</p>
+
+<!-- INITIAL GAUGE -->
+<div class="gauge-panel">
+  <div class="gauge-panel-title">Ballot weight — start of count</div>
+  <div class="gauge-item">
+    <div class="gauge-label">Dem</div>
+    <div class="gauge-col"><div class="gauge-fill gf-dem" style="height:100%;"></div></div>
+    <div class="gauge-num">1.00</div>
+  </div>
+  <div class="gauge-item">
+    <div class="gauge-label">Rep</div>
+    <div class="gauge-col"><div class="gauge-fill gf-rep" style="height:100%;"></div></div>
+    <div class="gauge-num">1.00</div>
+  </div>
+  <div class="gauge-item">
+    <div class="gauge-label">WF</div>
+    <div class="gauge-col"><div class="gauge-fill gf-wf" style="height:100%;"></div></div>
+    <div class="gauge-num">1.00</div>
+  </div>
+  <div class="gauge-item">
+    <div class="gauge-label">Grn</div>
+    <div class="gauge-col"><div class="gauge-fill gf-grn" style="height:100%;"></div></div>
+    <div class="gauge-num">1.00</div>
+  </div>
+</div>
+
+<!-- ══ HOW THE COUNT WORKS ══ -->
+<div class="section-rule">
+  <h2>How the Count Works</h2>
+  <span class="line"></span>
+</div>
+
+<p class="prose">Each round, the Allocated Score formula does two things — and keeping them separate is the key to understanding everything that follows. Think of it as two windows at a service counter, each handling a different job:</p>
+
+<div class="windows-graphic">
+  <div class="window-box">
+    <div class="win-icon">🪑</div>
+    <div class="win-num">Window 1</div>
+    <div class="win-title">Selection</div>
+    <div class="win-desc">The candidate with the most support is awarded the seat. No mention of price — just, you have the most support, this seat is yours.</div>
+  </div>
+  <div class="window-arrow">→</div>
+  <div class="window-box">
+    <div class="win-icon">⚖️</div>
+    <div class="win-num">Window 2</div>
+    <div class="win-title">Accounting</div>
+    <div class="win-desc">The cost is processed. The quota is charged against the voters who backed the winner. Their gauges drop. Whatever influence remains is their change.</div>
+  </div>
+</div>
+
+<p class="prose">The person at the first window never touches the price. The person at the second window never decides who won. Selection and accounting are two different operations, and they happen in that order — every round, without exception.</p>
+
+<!-- ══ THE ELECTION ══ -->
+<div class="section-rule">
+  <h2>The Election</h2>
+  <span class="line"></span>
+</div>
+
+<!-- SEAT 1 -->
+<div class="seat-block">
+  <div class="seat-hdr"><span class="sn">Seat 1 of 3</span><span class="st">Martinez — Democratic</span></div>
+  <div class="seat-body">
+    <div class="beaker-area">
+      <div class="beaker">
+        <div class="tier t-dem" style="height:72%;">Dem 5★</div>
+        <div class="quota-line" style="bottom:44%;"></div>
+        <div class="quota-tag" style="bottom:44%;">QUOTA<br><span style="font-weight:400;color:#777;">price: 20</span></div>
+        <div class="cusp-bracket" style="bottom:44%;height:28%;"></div>
+        <div class="cusp-tag" style="bottom:58%;">CUSP</div>
+      </div>
+      <div class="beaker-cap">surplus above the line ↑</div>
+    </div>
+    <div>
+      <div class="winner-tag wt-dem">Martinez <span class="party-pip">Democratic</span></div>
+
+      <div class="seat-label">Window 1 — Selection</div>
+      <p class="seat-prose">The count sums the support behind each candidate. Democratic voters — the largest group at 24 — all gave Martinez their highest score. No other candidate comes close. Martinez is <strong>selected</strong> and awarded the first seat.</p>
+
+      <div class="seat-label">Window 2 — Accounting</div>
+      <p class="seat-prose">Now the cost is processed. The price of a seat is 20, and 24 voters backed Martinez. More than enough. The beaker — the accounting tool — fills with Democratic support past the quota line, so the cost is covered entirely within this one group. All 24 voters share the charge equally: each one's gauge drops by the same amount.</p>
+      <p class="seat-prose">Because there were more voters than the price required, nobody is fully spent. Each Democratic voter gets <strong>change</strong> — a small fraction of their influence carries forward. Their gauge drops from 1.00 to about <strong>0.17</strong>. Reduced, but not empty.</p>
+    </div>
+  </div>
+</div>
+
+<!-- GAUGE AFTER SEAT 1 -->
+<div class="gauge-panel">
+  <div class="gauge-panel-title">Ballot weight — after Seat 1</div>
+  <div class="gauge-item">
+    <div class="gauge-label">Dem</div>
+    <div class="gauge-col"><div class="gauge-fill gf-dem" style="height:17%;"></div></div>
+    <div class="gauge-num">0.17</div>
+  </div>
+  <div class="gauge-item">
+    <div class="gauge-label">Rep</div>
+    <div class="gauge-col"><div class="gauge-fill gf-rep" style="height:100%;"></div></div>
+    <div class="gauge-num">1.00</div>
+  </div>
+  <div class="gauge-item">
+    <div class="gauge-label">WF</div>
+    <div class="gauge-col"><div class="gauge-fill gf-wf" style="height:100%;"></div></div>
+    <div class="gauge-num">1.00</div>
+  </div>
+  <div class="gauge-item">
+    <div class="gauge-label">Grn</div>
+    <div class="gauge-col"><div class="gauge-fill gf-grn" style="height:100%;"></div></div>
+    <div class="gauge-num">1.00</div>
+  </div>
+</div>
+
+<!-- SEAT 2 -->
+<div class="seat-block">
+  <div class="seat-hdr"><span class="sn">Seat 2 of 3</span><span class="st">Olson — the coalition seat</span></div>
+  <div class="seat-body">
+    <div class="beaker-area">
+      <div class="beaker">
+        <div class="tier t-wf" style="height:48%;">WF 5★</div>
+        <div class="tier t-grn" style="height:32%;">Green 4★</div>
+        <div class="quota-line" style="bottom:68%;"></div>
+        <div class="quota-tag" style="bottom:68%;">QUOTA<br><span style="font-weight:400;color:#777;">price: 20</span></div>
+        <div class="cusp-bracket" style="bottom:48%;height:20%;"></div>
+        <div class="cusp-tag" style="bottom:58%;">CUSP</div>
+      </div>
+      <div class="beaker-cap arrow">WF fully allocated ↓<br>Green is the cusp ↑</div>
+    </div>
+    <div>
+      <div class="winner-tag wt-wf">Olson <span class="party-pip">Working Families + Green</span></div>
+
+      <div class="seat-label">Window 1 — Selection</div>
+      <p class="seat-prose">Working Families' 13 voters all gave Olson five stars. Green's 8 voters — honoring their party's endorsement — gave Olson four stars. Together, that is 21 voters' worth of full-weight support behind Olson. Republican's Chen has 15 voters at full weight. 21 is more than 15. Olson is <strong>selected</strong> and awarded the second seat.</p>
+
+      <div class="seat-label">Window 2 — Accounting</div>
+      <p class="seat-prose">Now the accounting shows something new. The beaker fills from the bottom, heaviest tokens first. Working Families' five-star support settles in — 13 voters. But 13 falls short of the price of 20. The quota line is still above them. Their entire contribution is consumed. Working Families voters are <strong>fully allocated</strong> — their gauges drop to <strong>0.00</strong>. They got their representative.</p>
+      <p class="seat-prose">The remaining cost — 7 more units — falls to the Green tier above. Green's 8 voters gave four stars, so they sit in the next tier up. This is the <strong>cusp</strong>: the tier where the line cuts through. Seven of the eight voters' worth of support is needed, so all 8 Green voters share that cost equally. Their gauges drop to about <strong>0.13</strong>. Reduced, but not empty — they still have a small amount of influence for the final round.</p>
+
+      <div class="callout wf"><strong>This is the endorsement at work.</strong> Without Green's 8 voters, Working Families' 13 alone would trail Republican's 15. Chen would be selected for this seat instead of Olson. The endorsement visible on the ballot — Green listed alongside Working Families in Olson's row — is what made this seat possible.</div>
+
+      <div class="callout grn"><strong>Patel's position:</strong> Green's own candidate is still running and losing. Green's voters directed their support to Olson instead. They came to the election without the numbers to win a seat on their own — 8 voters against a price of 20 — and chose to spend their influence where it would count.</div>
+    </div>
+  </div>
+</div>
+
+<!-- GAUGE AFTER SEAT 2 -->
+<div class="gauge-panel">
+  <div class="gauge-panel-title">Ballot weight — after Seat 2</div>
+  <div class="gauge-item">
+    <div class="gauge-label">Dem</div>
+    <div class="gauge-col"><div class="gauge-fill gf-dem" style="height:17%;"></div></div>
+    <div class="gauge-num">0.17</div>
+  </div>
+  <div class="gauge-item">
+    <div class="gauge-label">Rep</div>
+    <div class="gauge-col"><div class="gauge-fill gf-rep" style="height:100%;"></div></div>
+    <div class="gauge-num">1.00</div>
+  </div>
+  <div class="gauge-item">
+    <div class="gauge-label">WF</div>
+    <div class="gauge-col"><div class="gauge-fill gf-empty" style="height:0%;"></div></div>
+    <div class="gauge-num">0.00</div>
+  </div>
+  <div class="gauge-item">
+    <div class="gauge-label">Grn</div>
+    <div class="gauge-col"><div class="gauge-fill gf-grn" style="height:13%;"></div></div>
+    <div class="gauge-num">0.13</div>
+  </div>
+</div>
+
+<!-- SEAT 3 -->
+<div class="seat-block">
+  <div class="seat-hdr"><span class="sn">Seat 3 of 3</span><span class="st">Chen — Republican</span></div>
+  <div class="seat-body">
+    <div class="beaker-area">
+      <div class="beaker">
+        <div class="tier t-rep" style="height:65%;">Rep 5★</div>
+        <div class="tier t-dem t-reduced" style="height:15%;font-size:8px;">Dem</div>
+        <div class="tier t-grn t-reduced" style="height:6%;font-size:7px;">Grn</div>
+      </div>
+      <div class="beaker-cap arrow">last seat fills itself</div>
+    </div>
+    <div>
+      <div class="winner-tag wt-rep">Chen <span class="party-pip">Republican</span></div>
+
+      <div class="seat-label">Window 1 — Selection</div>
+      <p class="seat-prose">Republican voters have been at full weight this entire time — they haven't backed any winner yet. Their 15 voters' worth of untouched support is the largest pool of remaining influence. Chen is <strong>selected</strong> and awarded the final seat.</p>
+
+      <div class="seat-label">Window 2 — Accounting</div>
+      <p class="seat-prose">Two seats have already been paid for at 20 each — that is 40 of the original 60 units of weight consumed. Exactly 20 remain in the district: one quota. Whoever is selected for the last seat is sitting on exactly one quota of remaining influence. The last seat fills itself — there is no way to fall short, because the leftover weight <em>is</em> the price.</p>
+    </div>
+  </div>
+</div>
+
+<!-- GAUGE AFTER SEAT 3 -->
+<div class="gauge-panel">
+  <div class="gauge-panel-title">Ballot weight — after Seat 3 (election complete)</div>
+  <div class="gauge-item">
+    <div class="gauge-label">Dem</div>
+    <div class="gauge-col"><div class="gauge-fill gf-empty" style="height:0%;"></div></div>
+    <div class="gauge-num">0.00</div>
+  </div>
+  <div class="gauge-item">
+    <div class="gauge-label">Rep</div>
+    <div class="gauge-col"><div class="gauge-fill gf-empty" style="height:0%;"></div></div>
+    <div class="gauge-num">0.00</div>
+  </div>
+  <div class="gauge-item">
+    <div class="gauge-label">WF</div>
+    <div class="gauge-col"><div class="gauge-fill gf-empty" style="height:0%;"></div></div>
+    <div class="gauge-num">0.00</div>
+  </div>
+  <div class="gauge-item">
+    <div class="gauge-label">Grn</div>
+    <div class="gauge-col"><div class="gauge-fill gf-empty" style="height:0%;"></div></div>
+    <div class="gauge-num">0.00</div>
+  </div>
+</div>
+
+<!-- ══ THE DELEGATION ══ -->
+<div class="section-rule">
+  <h2>The Delegation</h2>
+  <span class="line"></span>
+</div>
+
+<div class="results-grid">
+  <div class="result-card rc-dem"><div class="seat-n">Seat 1</div><div class="cand-r">Martinez</div><div class="party-r">Democratic</div></div>
+  <div class="result-card rc-wf"><div class="seat-n">Seat 2</div><div class="cand-r">Olson</div><div class="party-r">Working Families<br>+ Green Coalition</div></div>
+  <div class="result-card rc-rep"><div class="seat-n">Seat 3</div><div class="cand-r">Chen</div><div class="party-r">Republican</div></div>
+</div>
+
+<div class="losers-row">
+  <div class="loser-card"><strong>Patel</strong> (Green) — not elected. 8 voters against a price of 20. But Green's endorsement of Olson determined who was selected for Seat 2 — they shaped the delegation without winning a seat of their own.</div>
+</div>
+
+<p class="prose"><strong>1 Democratic · 1 Working Families + Green · 1 Republican.</strong> The three seats reflect the distribution of voter support across the district. Every gauge started full and ended empty — every voter's influence was spent, and every seat was paid for at the same price.</p>
+
+<!-- ══ THE PAYOFF ══ -->
+<div class="section-rule">
+  <h2>What the Formula Never Needed to Know</h2>
+  <span class="line"></span>
+</div>
+
+<p class="prose">Look back at what just happened and notice what the Allocated Score formula never asked about. It never asked which party a voter belonged to. It never asked about race, language, geography, or income. It never drew a line on a map. It never assigned seats to parties in advance.</p>
+
+<p class="prose">The formula did one thing, three times: it counted the support behind each candidate, selected the one with the most, and processed the cost. The groups that formed around each winner were not declared or registered — they emerged from the scores on the ballots. Democratic voters became a "group" because they scored Martinez the same way. Working Families and Green voters became a coalition because they scored Olson the same way. Republican voters became a group because they scored Chen the same way.</p>
+
+<p class="prose">The proportionality of the outcome — one seat per twenty voters, three groups each large enough to cover the price — was not determined by a thumb on the scale or a backroom deal. It was a <strong>consequence of the arithmetic</strong>. Equal price, equal treatment, repeated until every seat is filled. That's how Proportional STAR counts every vote and makes every vote count.</p>
+
+<!-- ══ KEY TERMS ══ -->
+<div class="key-terms">
+  <div class="key-term"><strong>Allocated Score.</strong> The mathematical formula that powers Proportional STAR. It selects candidates, charges the quota, makes change, and repeats.</div>
+  <div class="key-term"><strong>Selection.</strong> Each round, the candidate with the most support is selected for the seat. Most support wins.</div>
+  <div class="key-term"><strong>Price of a seat (quota).</strong> Total ballots ÷ seats. Charged after a candidate is selected, never checked before. Every seat costs the same.</div>
+  <div class="key-term"><strong>Window 1 — Selection.</strong> Awards the seat to the candidate with the most support. No measuring, no price — just selection.</div>
+  <div class="key-term"><strong>Window 2 — Accounting.</strong> Processes the charge. Fills the beaker, calculates change, updates the gauges.</div>
+  <div class="key-term"><strong>Ballot weight (the gauge).</strong> Your remaining influence. Starts at 1.00 (full). Drops when your candidate is selected and the cost is processed. At 0.00, you're fully allocated.</div>
+  <div class="key-term"><strong>Making change.</strong> Weight reduction after a seat is won. The group retains surplus influence but at reduced strength — like getting change from a purchase.</div>
+  <div class="key-term"><strong>Coalition endorsement.</strong> When a party endorses another party's candidate. Visible on the ballot before voting begins, so voters can factor it into their scores.</div>
+</div>
+
+<div class="page-footer">
+  <em>© 2026 Albert Ramos | American Policy Architecture Institute</em>
+</div>
+
+</div><!-- end .page -->
+
+<script>
+(function(){
+  const toggle = document.getElementById('themeToggle');
+  const html = document.documentElement;
+  // Check saved preference, fall back to system preference
+  const saved = localStorage.getItem('apai-theme');
+  const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+  const theme = saved || (prefersDark ? 'dark' : 'light');
+  html.setAttribute('data-theme', theme);
+  toggle.textContent = theme === 'dark' ? '☀️' : '🌙';
+  toggle.addEventListener('click', function(){
+    const current = html.getAttribute('data-theme');
+    const next = current === 'dark' ? 'light' : 'dark';
+    html.setAttribute('data-theme', next);
+    toggle.textContent = next === 'dark' ? '☀️' : '🌙';
+    try { localStorage.setItem('apai-theme', next); } catch(e) {}
+  });
+  // Listen for system preference changes
+  window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', function(e){
+    if (!localStorage.getItem('apai-theme')) {
+      const t = e.matches ? 'dark' : 'light';
+      html.setAttribute('data-theme', t);
+      toggle.textContent = t === 'dark' ? '☀️' : '🌙';
+    }
+  });
+})();
+</script>
+
+<!--
+## Revision History
+
+**Revision 1.0**
+- Initial publication. "Proportional STAR — The Basics." Three-seat scenario (Martinez, Chen, Olson, Patel) using
+  Democratic, Republican, Working Families, and Green voter groups.
+- Vocabulary aligned to CEMA Primer Series primer-1-0: two-window model
+  (selection and accounting), gauge for ballot weight, beaker for tier accounting.
+- Light/dark toggle with system-preference detection.
+- HTML with embedded CSS; no JavaScript dependencies beyond theme toggle.
+-->
+</body>
+</html>
