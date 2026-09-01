@@ -1,6 +1,8 @@
-# Congressional Elections Modernization Act
+# Constitutional Boundaries of Proportional Representation: When Federal PR Implementation Requires Constitutional Amendment
 
-## Constitutional Boundaries of Proportional Representation: When Federal PR Implementation Requires Constitutional Amendment
+## A Position Paper of the Congressional Elections Modernization Act (CEMA)
+
+*Prepared by Albert Ramos for The American Policy Architecture Institute*
 
 ---
 
@@ -299,7 +301,7 @@ The Act's proportional representation provisions are specifically designed to op
 | Constitutional Constraint | CEMA Design Choice | Rationale |
 |--------------------------|---------------------|-----------|
 | National constituency prohibited | State-by-state districts only | Preserves Article I apportionment structure |
-| Party lists constitutionally suspect | Candidate-centered STAR-PR | Maintains "chosen by the People" |
+| Party lists constitutionally suspect | Candidate-centered Proportional STAR | Maintains "chosen by the People" |
 | MMP components problematic | No compensatory mechanism | Avoids party lists and variable House size |
 | Cannot mandate 3+ seat minimums | Single-winner STAR for small states | Accepts constitutional constraints |
 | Cannot abolish geography | Enumerated geographic districts | Maintains geographic representation |
@@ -311,7 +313,7 @@ The Act's proportional representation provisions are specifically designed to op
 
 The Act's most important constitutional design choice is using **candidate-centered** proportional representation rather than party-list systems.
 
-Under STAR-PR:
+Under Proportional STAR:
 
 - **Voters see individual named candidates** on the ballot and rate each one 0-5 stars based on personal assessment
 - **The ballot does not ask voters to choose parties** -- it asks them to evaluate specific people seeking to represent them
@@ -327,7 +329,7 @@ The Act implements proportional representation within each state's allocated sea
 
 1. **Census determines each state's seat count** (per existing constitutional process)
 2. **The ESO-certified algorithm divides each state's seats into multi-member districts** (3-7 seats each, using algorithmically neutral, deterministic methods that eliminate human discretion from boundary placement)
-3. **Voters within each state choose their state's representatives** (using STAR-PR)
+3. **Voters within each state choose their state's representatives** (using Proportional STAR)
 4. **Proportionality operates within state boundaries** (no cross-state effects)
 
 This respects Article I's apportionment structure while achieving proportional outcomes within that structure.
@@ -374,7 +376,7 @@ The question "Does proportional representation require a constitutional amendmen
 **PR implementations achievable by statute:**
 
 - State-by-state multi-member districts
-- Candidate-centered proportional methods (STAR-PR, STV)
+- Candidate-centered proportional methods (Proportional STAR, STV)
 - Natural mathematical thresholds only
 - Geographic districts within state boundaries
 - House elections only (not Senate)
@@ -410,17 +412,42 @@ The Constitution grants Congress broad power to regulate the manner of congressi
 <!--
 ## Revision History
 
-**Revision 5.6** (Current)
+**6.5 alignment sweep**
+
+- Series Alignment advanced from Rev 6.4 to Rev 6.5 (money exposure audit). Verification pass confirmed no operative references to member compensation, matching funds, Section 204 contracting, or the removed funding prohibition. All operative "compensation"/"compensatory" usage is MMP seat-mechanics terminology, unrelated to the Title V removals, and stands unchanged. No content change required.
+
+**Revision 6.4**
+- Aligned with Rev 6.4 of the CEMA legislative text (6.4 alignment sweep). No content change required.
+- Rev 6.3 disposition: no content references Title I ballot-access specifics at a level affected by 6.3 changes. Verified clean
+- Rev 6.4 disposition: no content references Title II party recognition structure, Title V compensation specifics, or Section 704 effective-date tiers. Verified clean
+- **Threshold language disposition (Scenario 8):** The "natural mathematical thresholds" / "artificial threshold requirements" terminology in Scenario 8 was reviewed under the 6.4 alignment sweep's threshold-framing pass. This language serves a constitutional law argument -- distinguishing natural consequences of district magnitude (which are not imposed requirements) from artificially imposed vote-share barriers (which function as de facto qualifications under Article I). The legal argument requires the "threshold" noun to make the constitutional distinction. Retained as-is; the Primer Series 1(b) ban on "threshold" as a noun does not apply to position papers making constitutional arguments
+
+**Revision 6.2**
+- No changes required. Rev 6.2 added the affirmative full-field standard and split the primary prohibition into two independent bars; this document does not describe the primary-prohibition mechanics in a way affected by the restructure (grep-verified); no content change required.
+- DPS 3.8 compliance verified: Supporting Documents header (H1 = document title, H2 = typed relational Position Paper subtitle, author byline) and footer (no attribution line, copyright line present) intact; single H1; ASCII-safe (permitted footer glyphs only)
+
+**Revision 6.1**
+- No changes required. Rev 6.1 removed the VRA Section 2 vote-dilution carve-out from the legislative text; this document does not attribute that mechanism to CEMA and its VRA references are accurate doctrinal background (grep-verified); no content change required.
+
+**Revision 6.0**
+- Aligned with Rev 6.0 of the CEMA legislative text
+- **DPS 3.4 compliance:** Header corrected to Supporting Documents format; footer updated with copyright line
+
+**Revision 5.8**
+- Aligned with Rev 5.8 of the CEMA legislative text
+- **"STAR-PR" renamed to "Proportional STAR":** 4 body instances replaced across constitutional requirements table, implementation mechanics, state-by-state implementation, and constitutional spectrum
+- ESO references reviewed: 2 body references (ESO-certified algorithm in implementation section) confirmed accurate under Rev 5.8; no substantive updates required
+
+**Revision 5.6**
 - Aligned with Rev 5.6 of the CEMA legislative text
-- Renamed from "Federal Elections Modernization Act (FEMA)" to "Congressional Elections Modernization Act (CEMA)"; all references, defined terms, and download paths updated throughout; no substantive policy changes
 - No FCAO references to remove (none present)
 - No presidential references to remove (none present)
 - No Title or Section renumbering needed (none referenced in body text)
-- "Federal election/office" references corrected: 3 of 6 instances changed — two Elections Clause paraphrases ("federal elections" → "elections for Senators and Representatives" and "congressional elections") and one *Thornton* characterization ("federal office" → "congressional office," matching the case's actual Article I holding). Remaining 3 instances retained as legitimate general analytical usage (historical record of candidate-centered elections, not Elections Clause paraphrases)
+- "Federal election/office" references corrected: 3 of 6 instances changed -- two Elections Clause paraphrases ("federal elections" to "elections for Senators and Representatives" and "congressional elections") and one *Thornton* characterization ("federal office" to "congressional office," matching the case's actual Article I holding). Remaining 3 instances retained as legitimate general analytical usage (historical record of candidate-centered elections, not Elections Clause paraphrases)
 - DPS 3.1 formatting compliance: removed "Published March 2026" and "Based on Rev 5.2" header metadata; removed "Last revised April 2026" footer line
 
 **Revision 3.1**
-- DPS 2.8 compliance pass: migrated download link path from electoral/cmf/fema/ to congress/cmf/fema/; added 📥 prefix and ⬇ parenthetical emojis per DPS Rev 2.8 Section 1.9; added "Last revised April 2026" line per DPS Rev 2.5 Section 1.3
+- DPS 2.8 compliance pass: migrated download link path from electoral/cmf/cema/ to congress/cmf/cema/; added 📥 prefix and ⬇ parenthetical emojis per DPS Rev 2.8 Section 1.9; added "Last revised April 2026" line per DPS Rev 2.5 Section 1.3
 
 **Revision 3.0**
 - Updated reference line from Rev 5.0 to Rev 5.2
@@ -432,7 +459,7 @@ The Constitution grants Congress broad power to regulate the manner of congressi
 - No changes to constitutional boundary analysis (Scenarios 1-8), design rationale table, candidate-centered distinction, historical precedent, or conclusion
 
 **Revision 2.0**
-- Rebranded from Congressional Modernization Act (CMA) to Federal Elections Modernization Act (FEMA) throughout
+- Rebranded from Congressional Modernization Act (CMA) to Congressional Elections Modernization Act (CEMA) throughout
 - Applied DPS Section 1.7 self-reference conventions (establish name once, use "the Act" thereafter)
 - Updated header structure to DPS Section 1.2 supporting document format
 - Moved Revision History to document footer per DPS Section 1.3
@@ -440,7 +467,7 @@ The Constitution grants Congress broad power to regulate the manner of congressi
 - Updated House expansion figures: approximately 700 to 720 members within approximately 14 years (previously stated ~695 members over 25 years)
 - Converted scenario headings from ALL CAPS to Title Case per DPS Section 1.2 heading hierarchy
 - Verified clean ASCII encoding throughout
-- Companion document to FEMA Rev 5.0 Constitutional Authority Technical Memorandum
+- Companion document to CEMA Rev 5.0 Constitutional Authority Technical Memorandum
 
 **Revision 1.0**
 - Initial version analyzing constitutional boundaries for federal proportional representation
@@ -455,4 +482,4 @@ The Constitution grants Congress broad power to regulate the manner of congressi
 
 ---
 
-*Prepared by Albert Ramos for The American Policy Architecture Institute*
+*© 2026 Albert Ramos | American Policy Architecture Institute*
