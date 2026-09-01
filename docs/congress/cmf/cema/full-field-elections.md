@@ -36,13 +36,13 @@ The move the Act makes is not to adjust the gate. It is to take the state out of
 
 ## How Full-Field Elections Work
 
-The core of the design is one standard and two rules that enforce it.
+The core of the design is one standard and one rule that enforces it.
 
 The standard: congressional elections present the full field of qualified candidates to the electorate on a single general-election ballot, with parties signaling preference through on-ballot endorsements rather than by filtering anyone out beforehand. Every candidate who meets the Act's uniform ballot-access requirements appears on that ballot. The voter sees the complete field and makes the decision.
 
-The two rules that guarantee it are independent of each other, and the difference matters. The first is about money: the state will not spend public funds to administer a primary election for a seat in Congress. No taxpayer dollars go toward a preliminary round that narrows the field before voters see it. The second is about legal effect: the state will not use the result of any primary or internal party process to keep a candidate off the general-election ballot. Even if a party holds its own selection process, its outcome cannot gate who appears in November. A candidate's place on the ballot is governed entirely by meeting the Act's qualification standards — nothing else. One rule addresses public money; the other addresses legal force. Together, they produce the open ballot.
+The rule that guarantees it is about legal effect: the state will not use the result of any primary or internal party process to keep a candidate off the general-election ballot. Even if a party holds its own selection process, its outcome cannot gate who appears in November. A candidate's place on the ballot is governed entirely by meeting the Act's qualification standards — nothing else. Whether a state chooses to hold or fund a primary remains the state's own business; whatever it holds is, in legal effect, advisory. The one thing no state may do is give a nomination result legal force over the federal ballot. That single rule produces the open ballot.
 
-Parties keep their autonomy completely. A party may still hold caucuses, conventions, straw polls, and endorse whomever it likes — at its own expense, on its own schedule. If a party wants professional administration for an internal nomination process, the Act lets it contract with the same county elections office that used to run the old primary — the same staff, the same equipment — as a paying customer. The party pays; the taxpayer does not. What the party cannot do is make the result of that process a gate on the general-election ballot. Its chosen candidate may become the party's endorsed candidate, and that endorsement appears on the ballot for voters to see — but every other qualified candidate appears alongside them. A candidate may display up to three party endorsements next to their name, so voters can see at a glance which coalitions back whom. It is information, not filtration.
+Parties keep their autonomy completely. A party may still hold caucuses, conventions, straw polls, and endorse whomever it likes — on its own schedule, by its own rules. What the party cannot do is make the result of that process a gate on the general-election ballot. Its chosen candidate may become the party's endorsed candidate, and that endorsement appears on the ballot for voters to see — but every other qualified candidate appears alongside them. A candidate may display up to three party endorsements next to their name, so voters can see at a glance which coalitions back whom. It is information, not filtration.
 
 This is where the ballot itself matters. Congressional elections under the Act appear on their own ballot sheet, physically separate from state and local contests, presenting the full field of congressional candidates as one complete set of choices. Voters see every name and every endorsement, and score each candidate rather than picking just one.
 
@@ -60,9 +60,9 @@ But the counting method changes the math entirely. Recall that voters score ever
 
 ### "Don't parties have a right to pick their own nominee?"
 
-Yes — and they keep it. Nothing in the Act tells a party whom to endorse or how to choose. A party can hold a convention, run a caucus, conduct an internal vote, or use any process its bylaws prescribe, and it can pay the county elections office to administer that process professionally. The party's internal life is untouched.
+Yes — and they keep it. Nothing in the Act tells a party whom to endorse or how to choose. A party can hold a convention, run a caucus, conduct an internal vote, or use any process its bylaws prescribe. The party's internal life is untouched.
 
-What changes is the state's role. The state no longer funds that internal process with public money, and it no longer enforces the result by barring the candidates who didn't win from the general ballot. A party's right of association — the right to decide who speaks for it, which candidates it backs, how it presents its identity to voters — is fully intact. What a party does not have is a right to make the state's election machinery enforce its selection as the price of appearing on the ballot. The party's chosen candidate becomes its endorsed candidate, visible as such, and every other qualified candidate appears alongside them. A party with real grassroots support will find its endorsement carries weight with voters — but that weight comes from the party's standing, not from the state's power to keep rivals off the ballot.
+What changes is the state's role. The state no longer enforces the result by barring the candidates who didn't win from the general ballot. A party's right of association — the right to decide who speaks for it, which candidates it backs, how it presents its identity to voters — is fully intact. What a party does not have is a right to make the state's election machinery enforce its selection as the price of appearing on the ballot. The party's chosen candidate becomes its endorsed candidate, visible as such, and every other qualified candidate appears alongside them. A party with real grassroots support will find its endorsement carries weight with voters — but that weight comes from the party's standing, not from the state's power to keep rivals off the ballot.
 
 ### "Won't this help fringe or extreme candidates, with no primary to filter them out?"
 
@@ -76,9 +76,9 @@ The more durable answer is in the method itself. The Act's scoring method is bui
 
 Full-Field Elections govern congressional races — House and Senate. The Act's authority comes from the Constitution's grant to Congress over the manner of holding congressional elections, and it reaches no further. Presidential primaries are untouched. State and local elections are unaffected.
 
-The Act does not bar parties from holding primaries. A party may run an internal nomination process at its own expense, by whatever method it chooses, and may even contract with state election authorities for the logistics. What the Act does is sever the connection between that process and the general-election ballot: the party's process informs the party's endorsement; it does not determine whom voters get to see. Nor does the Act dictate whom a party endorses — that remains the party's own business.
+The Act does not bar parties from holding primaries. A party may run an internal nomination process by whatever method it chooses. What the Act does is sever the connection between that process and the general-election ballot: the party's process informs the party's endorsement; it does not determine whom voters get to see. Nor does the Act dictate whom a party endorses — that remains the party's own business.
 
-One practical consequence is worth stating plainly. Because there is no state-funded congressional primary to lose, and no primary result that can lawfully keep a candidate off the November ballot, a candidate who sought a party's endorsement and didn't get it still reaches voters on the same general-election ballot as everyone else who qualified. The exclusion that used to follow from losing a primary — you lost, you're out — has no mechanism left to operate. The path to voters does not run through winning a preliminary round; it runs through meeting the ballot-access standards and making the case to the full electorate.
+One practical consequence is worth stating plainly. Because no primary or nomination result can lawfully keep a candidate off the November ballot, a candidate who sought a party's endorsement and didn't get it still reaches voters on the same general-election ballot as everyone else who qualified. The exclusion that used to follow from losing a primary — you lost, you're out — has no mechanism left to operate. The path to voters does not run through winning a preliminary round; it runs through meeting the ballot-access standards and making the case to the full electorate.
 
 And Full-Field Elections do not work alone. They do not determine how seats are filled once candidates are on the ballot — that is the work of [STAR Voting](/congress/cmf/cema/star-voting/). They do not determine how district lines are drawn — that is [Hands-Off Mapping](/congress/cmf/cema/hands-off-mapping/). They do not establish the elections body that keeps the system sound — that is [The Electoral Science Office](/congress/cmf/cema/the-electoral-science-office/). Each change covers a distinct function.
 
@@ -86,7 +86,7 @@ And Full-Field Elections do not work alone. They do not determine how seats are 
 
 ## Conclusion
 
-The case for Full-Field Elections is not that primaries are inherently bad. Parties have legitimate reasons to signal their preferences, and they keep every tool for doing so. The case is that the state's role in funding and enforcing that process — in deciding which candidates voters get to see before the voters themselves have a say — is the structural weak point, the place where a narrow electorate makes the decisive choice for everyone else.
+The case for Full-Field Elections is not that primaries are inherently bad. Parties have legitimate reasons to signal their preferences, and they keep every tool for doing so. The case is that the state's role in enforcing that process — in deciding which candidates voters get to see before the voters themselves have a say — is the structural weak point, the place where a narrow electorate makes the decisive choice for everyone else.
 
 Full-Field Elections close that gap, and the full design depends on what surrounds it: the scoring method in [STAR Voting](/congress/cmf/cema/star-voting/) that handles a large field without wasting votes, the formula-drawn boundaries of [Hands-Off Mapping](/congress/cmf/cema/hands-off-mapping/) that no one can manipulate, the seats [House Expansion](/congress/cmf/cema/house-expansion/) adds to make fair multi-seat districts possible, and [The Electoral Science Office](/congress/cmf/cema/the-electoral-science-office/) that keeps the methods sound and the results open to check. Together they make a single claim true by design rather than by hope: the election that decides who represents you should be decided by everyone who votes in it, not by the smaller group that voted before it.
 
@@ -113,11 +113,19 @@ FairVote. "Dubious Democracy 2024." 2025. https://fairvote.org/report/dubious-de
 
 
 <!--
-Series Alignment: The Congressional Elections Modernization Act (Rev 6.2)
+Series Alignment: The Congressional Elections Modernization Act (Rev 6.5)
 
 ## Revision History
 
-**Revision 1.0** (Current)
+**Revision 6.5** (Current)
+- Series Alignment advanced from Rev 6.4 to Rev 6.5 (money exposure audit). The design now rests on one rule, not two: the state-funding prohibition and Section 204 contracting were removed from the Act, and the enforcement prohibition (nomination results carry no legal effect on ballot access) stands alone. "Two rules" framing replaced throughout; party-expense and elections-office contracting language removed; "no state-funded primary to lose" argument restated on the enforcement rule alone; status-quo descriptions of today's primaries retained unchanged.
+
+**Revision 6.4**
+- Folded into the main CEMA document series and anchored to Rev 6.4 of the legislative text. Renamed from `CEMA-primer-1-0-full-field-elections.md` to `CEMA-6-4-primer-full-field-elections.md` under the main-series filename convention (`CEMA-6-4-primer-[title].md`); the standalone Primer Series `1-0` numbering and the per-document letter tag are retired. With the legislative text now the shared anchor for every CEMA document, this primer's revision number tracks the legislative revision, and internal edits between legislative bumps take a letter suffix that resets on each bump (DPS 1.1)
+- Rebaseline only -- no body content changed. Prior Primer Series revision history retained below as permanent record
+
+**Revision 1.0**
+- **6.4 alignment sweep:** Series Alignment advanced from Rev 6.2 to Rev 6.4. No content change required. No references to Title I ballot-access specifics, Title II party recognition, Title V compensation, or Section 704 effective-date tiers. No threshold-as-bar language, no "human timescale," no incumbent-incentive framing. Verified clean
 - Series baseline established under the new CEMA Primer Series filename convention: `CEMA-primer-[series]-[rev]-[title]-[letter].md`. File renamed from `CEMA-6-2-primer-full-field-elections-a.md` to `CEMA-primer-1-0-full-field-elections.md`; the legislative-source tag is removed from the filename and now carried by the Series Alignment line above. Doc-level letter dropped as part of a series-wide alignment sweep
 - STAR Voting title cascade applied: all in-text cross-references and the footer primer index entry changed from "Percentage-Based Voting" to "STAR Voting," and affected footer/in-text URL paths from `/congress/cmf/cema/percentage-based-voting/` to `/congress/cmf/cema/star-voting/`. Lowercase "percentage-based voting" concept usage in running prose left intact per the originating work order
 - Prior revision history renumbered into the pre-1.0 (0.x) band; entry prose preserved verbatim
